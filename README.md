@@ -1,59 +1,122 @@
-# BookTranslateApp
+# Book Translate - Bilingual Ebook Reader
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.17.
+A modern bilingual ebook reader built with Angular 19 (standalone) and Tailwind CSS. Read books with progressive translation overlay controlled by a slider.
 
-## Development server
+## Features
 
-To start a local development server, run:
+- 📖 **Single Page Display** - One page visible at a time for focused reading
+- 🔄 **Progressive Translation** - Slider (0-100%) gradually reveals native language translations
+- ⌨️ **Keyboard Navigation** - Arrow keys for quick navigation and slider adjustment
+- 💾 **Persistent State** - Slider position saved per book in localStorage
+- 🎨 **Modern UI** - Responsive design with Tailwind CSS
+- ✅ **Tested** - Comprehensive test suite with 12 passing tests
 
-```bash
-ng serve
-```
+## Demo Book
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Includes an excerpt from "The Little Prince" (English → Spanish) with 3 pages demonstrating the bilingual reading experience.
 
-## Code scaffolding
+## How It Works
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+1. **Target language** (e.g., English) is shown by default
+2. Adjust the **slider** from 0% to 100% to progressively replace sentences with **native language** (e.g., Spanish)
+3. **0% = All target language**, **100% = All native language**
+4. Slider position is **saved automatically** for each book
 
-```bash
-ng generate component component-name
-```
+## Keyboard Controls
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+| Key | Action |
+|-----|--------|
+| `←` | Previous page |
+| `→` | Next page |
+| `↑` | Increase translation by 5% |
+| `↓` | Decrease translation by 5% |
 
-```bash
-ng generate --help
-```
+## Getting Started
 
-## Building
+### Prerequisites
 
-To build the project run:
+- Node.js 20.x or later
+- npm 10.x or later
 
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+### Installation
 
 ```bash
-ng e2e
+npm install
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+### Development Server
+
+```bash
+npm start
+```
+
+Navigate to `http://localhost:4200/`. The application will automatically reload when you make changes.
+
+### Build
+
+```bash
+npm run build
+```
+
+Build artifacts will be stored in the `dist/` directory.
+
+### Running Tests
+
+```bash
+npm test -- --browsers=ChromeHeadlessCI --watch=false
+```
+
+## Project Structure
+
+```
+src/
+├── app/
+│   ├── models/
+│   │   └── book.model.ts          # TypeScript interfaces
+│   ├── services/
+│   │   ├── book.service.ts        # Book loading & state management
+│   │   └── book.service.spec.ts   # Service tests
+│   ├── app.component.ts           # Main component with keyboard handling
+│   ├── app.component.html         # Reader UI template
+│   ├── app.component.spec.ts      # Component tests
+│   └── app.config.ts              # App configuration
+├── assets/
+│   └── demo-book.json             # Demo book data
+└── styles.css                      # Global styles with Tailwind
+```
+
+## Book JSON Format
+
+Books are loaded from JSON files in the `assets/` directory:
+
+```json
+{
+  "id": "unique-book-id",
+  "title": "Book Title",
+  "targetLanguage": "English",
+  "nativeLanguage": "Spanish",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "sentences": [
+        {
+          "target": "English sentence.",
+          "native": "Spanish translation."
+        }
+      ]
+    }
+  ]
+}
+```
+
+## Technology Stack
+
+- **Framework**: Angular 19 (Standalone Components)
+- **Styling**: Tailwind CSS v3
+- **Language**: TypeScript
+- **Testing**: Karma + Jasmine
+- **Build Tool**: Angular CLI
 
 ## Additional Resources
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+For more information on using the Angular CLI, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
