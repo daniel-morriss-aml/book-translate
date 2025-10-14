@@ -1,75 +1,75 @@
 {
-  "id": "demo-book-001",
-  "title": "The Little Prince (Excerpt)",
-  "targetLanguage": "English",
-  "nativeLanguage": "Spanish",
-  "pages": [
-    {
-      "pageNumber": 1,
-      "sentences": [
+    "id": "demo-book-001",
+    "title": "The Little Prince (Excerpt)",
+    "targetLanguage": "English",
+    "nativeLanguage": "Spanish",
+    "pages": [
         {
-          "target": "Once when I was six years old I saw a magnificent picture in a book.",
-          "native": "Una vez, cuando tenía seis años, vi una imagen magnífica en un libro."
+            "pageNumber": 1,
+            "sentences": [
+                {
+                    "target": "Once when I was six years old I saw a magnificent picture in a book.",
+                    "native": "Una vez, cuando tenía seis años, vi una imagen magnífica en un libro."
+                },
+                {
+                    "target": "It was a picture of a boa constrictor swallowing an animal.",
+                    "native": "Era una imagen de una boa constrictor tragándose un animal."
+                },
+                {
+                    "target": "In the book it said: \"Boa constrictors swallow their prey whole.\"",
+                    "native": "En el libro decía: \"Las boas constrictoras se tragan a sus presas enteras.\""
+                },
+                {
+                    "target": "Then they are not able to move, and they sleep through the six months.",
+                    "native": "Luego no pueden moverse y duermen durante los seis meses."
+                }
+            ]
         },
         {
-          "target": "It was a picture of a boa constrictor swallowing an animal.",
-          "native": "Era una imagen de una boa constrictor tragándose un animal."
+            "pageNumber": 2,
+            "sentences": [
+                {
+                    "target": "I pondered deeply over the adventures of the jungle.",
+                    "native": "Reflexioné profundamente sobre las aventuras de la selva."
+                },
+                {
+                    "target": "And after some work with a colored pencil I succeeded in making my first drawing.",
+                    "native": "Y después de trabajar con un lápiz de color logré hacer mi primer dibujo."
+                },
+                {
+                    "target": "My Drawing Number One looked like this.",
+                    "native": "Mi Dibujo Número Uno se veía así."
+                },
+                {
+                    "target": "I showed my masterpiece to the grown-ups.",
+                    "native": "Mostré mi obra maestra a los adultos."
+                },
+                {
+                    "target": "I asked them whether the drawing frightened them.",
+                    "native": "Les pregunté si el dibujo les asustaba."
+                }
+            ]
         },
         {
-          "target": "In the book it said: \"Boa constrictors swallow their prey whole.\"",
-          "native": "En el libro decía: \"Las boas constrictoras se tragan a sus presas enteras.\""
-        },
-        {
-          "target": "Then they are not able to move, and they sleep through the six months.",
-          "native": "Luego no pueden moverse y duermen durante los seis meses."
+            "pageNumber": 3,
+            "sentences": [
+                {
+                    "target": "But they answered: \"Frighten? Why should anyone be frightened by a hat?\"",
+                    "native": "Pero respondieron: \"¿Asustar? ¿Por qué debería alguien asustarse de un sombrero?\""
+                },
+                {
+                    "target": "My drawing was not a picture of a hat.",
+                    "native": "Mi dibujo no era una imagen de un sombrero."
+                },
+                {
+                    "target": "It was a picture of a boa constrictor digesting an elephant.",
+                    "native": "Era una imagen de una boa constrictor digiriendo un elefante."
+                },
+                {
+                    "target": "But since the grown-ups were not able to understand it, I made another drawing.",
+                    "native": "Pero como los adultos no pudieron entenderlo, hice otro dibujo."
+                }
+            ]
         }
-      ]
-    },
-    {
-      "pageNumber": 2,
-      "sentences": [
-        {
-          "target": "I pondered deeply over the adventures of the jungle.",
-          "native": "Reflexioné profundamente sobre las aventuras de la selva."
-        },
-        {
-          "target": "And after some work with a colored pencil I succeeded in making my first drawing.",
-          "native": "Y después de trabajar con un lápiz de color logré hacer mi primer dibujo."
-        },
-        {
-          "target": "My Drawing Number One looked like this.",
-          "native": "Mi Dibujo Número Uno se veía así."
-        },
-        {
-          "target": "I showed my masterpiece to the grown-ups.",
-          "native": "Mostré mi obra maestra a los adultos."
-        },
-        {
-          "target": "I asked them whether the drawing frightened them.",
-          "native": "Les pregunté si el dibujo les asustaba."
-        }
-      ]
-    },
-    {
-      "pageNumber": 3,
-      "sentences": [
-        {
-          "target": "But they answered: \"Frighten? Why should anyone be frightened by a hat?\"",
-          "native": "Pero respondieron: \"¿Asustar? ¿Por qué debería alguien asustarse de un sombrero?\""
-        },
-        {
-          "target": "My drawing was not a picture of a hat.",
-          "native": "Mi dibujo no era una imagen de un sombrero."
-        },
-        {
-          "target": "It was a picture of a boa constrictor digesting an elephant.",
-          "native": "Era una imagen de una boa constrictor digiriendo un elefante."
-        },
-        {
-          "target": "But since the grown-ups were not able to understand it, I made another drawing.",
-          "native": "Pero como los adultos no pudieron entenderlo, hice otro dibujo."
-        }
-      ]
-    }
-  ]
+    ]
 }
