@@ -4,12 +4,12 @@ A modern bilingual ebook reader built with Angular 19 (standalone) and Tailwind 
 
 ## Features
 
-- 📖 **Single Page Display** - One page visible at a time for focused reading
-- 🔄 **Progressive Translation** - Slider (0-100%) gradually reveals native language translations
-- ⌨️ **Keyboard Navigation** - Arrow keys for quick navigation and slider adjustment
-- 💾 **Persistent State** - Slider position saved per book in localStorage
-- 🎨 **Modern UI** - Responsive design with Tailwind CSS
-- ✅ **Tested** - Comprehensive test suite with 12 passing tests
+-   📖 **Single Page Display** - One page visible at a time for focused reading
+-   🔄 **Progressive Translation** - Slider (0-100%) gradually reveals native language translations
+-   ⌨️ **Keyboard Navigation** - Arrow keys for quick navigation and slider adjustment
+-   💾 **Persistent State** - Slider position saved per book in localStorage
+-   🎨 **Modern UI** - Responsive design with Tailwind CSS
+-   ✅ **Tested** - Comprehensive test suite with 12 passing tests
 
 ## Demo Book
 
@@ -24,10 +24,10 @@ Includes an excerpt from "The Little Prince" (English → Spanish) with 3 pages 
 
 ## Keyboard Controls
 
-| Key | Action |
-|-----|--------|
-| `←` | Previous page |
-| `→` | Next page |
+| Key | Action                     |
+| --- | -------------------------- |
+| `←` | Previous page              |
+| `→` | Next page                  |
 | `↑` | Increase translation by 5% |
 | `↓` | Decrease translation by 5% |
 
@@ -35,8 +35,8 @@ Includes an excerpt from "The Little Prince" (English → Spanish) with 3 pages 
 
 ### Prerequisites
 
-- Node.js 20.x or later
-- npm 10.x or later
+-   Node.js 20.x or later
+-   npm 10.x or later
 
 ### Installation
 
@@ -91,31 +91,31 @@ Books are loaded from JSON files in the `assets/` directory:
 
 ```json
 {
-  "id": "unique-book-id",
-  "title": "Book Title",
-  "targetLanguage": "English",
-  "nativeLanguage": "Spanish",
-  "pages": [
-    {
-      "pageNumber": 1,
-      "sentences": [
+    "id": "unique-book-id",
+    "title": "Book Title",
+    "targetLanguage": "English",
+    "nativeLanguage": "Spanish",
+    "pages": [
         {
-          "target": "English sentence.",
-          "native": "Spanish translation."
+            "pageNumber": 1,
+            "sentences": [
+                {
+                    "target": "English sentence.",
+                    "native": "Spanish translation."
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
 ```
 
 ## Technology Stack
 
-- **Framework**: Angular 19 (Standalone Components)
-- **Styling**: Tailwind CSS v3
-- **Language**: TypeScript
-- **Testing**: Karma + Jasmine
-- **Build Tool**: Angular CLI
+-   **Framework**: Angular 19 (Standalone Components)
+-   **Styling**: Tailwind CSS v3
+-   **Language**: TypeScript
+-   **Testing**: Karma + Jasmine
+-   **Build Tool**: Angular CLI
 
 ## Additional Resources
 
