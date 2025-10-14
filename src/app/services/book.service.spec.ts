@@ -82,4 +82,25 @@ describe('BookService', () => {
         service.saveSliderValue('test-book', 75);
         expect(localStorage.getItem('slider-test-book')).toBe('75');
     });
+
+    it('should get maintainTranslationLevel from localStorage', () => {
+        localStorage.setItem('maintain-translation-test-book', 'true');
+        const value = service.getMaintainTranslationLevel('test-book');
+        expect(value).toBe(true);
+    });
+
+    it('should return false if no maintainTranslationLevel stored', () => {
+        const value = service.getMaintainTranslationLevel('non-existent-book');
+        expect(value).toBe(false);
+    });
+
+    it('should save maintainTranslationLevel to localStorage', () => {
+        service.saveMaintainTranslationLevel('test-book', true);
+        const stored = localStorage.getItem('maintain-translation-test-book');
+        expect(stored).toBe('true');
+
+        service.saveMaintainTranslationLevel('test-book', false);
+        const stored2 = localStorage.getItem('maintain-translation-test-book');
+        expect(stored2).toBe('false');
+    });
 });
