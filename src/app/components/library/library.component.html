@@ -1,0 +1,75 @@
+<div class="min-h-screen bg-gray-100">
+    <!-- Header -->
+    <header class="bg-white shadow-sm p-6">
+        <div class="max-w-6xl mx-auto">
+            <h1 class="text-3xl font-bold text-gray-800">📚 Book Library</h1>
+            <p class="text-sm text-gray-600 mt-2">
+                Select a book to start reading with progressive translation
+            </p>
+        </div>
+    </header>
+
+    <!-- Loading State -->
+    <div *ngIf="loading" class="flex items-center justify-center p-12">
+        <div class="text-xl text-gray-600">Loading library...</div>
+    </div>
+
+    <!-- Error State -->
+    <div
+        *ngIf="error && !loading"
+        class="flex items-center justify-center p-12"
+    >
+        <div class="text-xl text-red-600">{{ error }}</div>
+    </div>
+
+    <!-- Books Grid -->
+    <main *ngIf="!loading && !error" class="max-w-6xl mx-auto p-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div
+                *ngFor="let book of books"
+                (click)="openBook(book)"
+                class="bg-white rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition transform hover:-translate-y-1"
+            >
+                <div class="flex flex-col h-full">
+                    <!-- Book Icon -->
+                    <div
+                        class="text-6xl mb-4 text-center text-blue-600"
+                        [title]="book.title"
+                    >
+                        📖
+                    </div>
+
+                    <!-- Book Title -->
+                    <h2 class="text-xl font-bold text-gray-800 mb-2">
+                        {{ book.title }}
+                    </h2>
+
+                    <!-- Languages -->
+                    <p class="text-sm text-gray-600 mb-3">
+                        {{ book.targetLanguage }} → {{ book.nativeLanguage }}
+                    </p>
+
+                    <!-- Description -->
+                    <p class="text-sm text-gray-700 flex-1 mb-4">
+                        {{ book.description }}
+                    </p>
+
+                    <!-- Read Button -->
+                    <button
+                        class="w-full px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition"
+                    >
+                        Start Reading →
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Empty State -->
+        <div
+            *ngIf="books.length === 0"
+            class="text-center text-gray-500 py-12"
+        >
+            No books available in the library.
+        </div>
+    </main>
+</div>

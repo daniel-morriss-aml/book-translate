@@ -1,0 +1,20 @@
+[
+    {
+        "id": "demo-book-001",
+        "title": "The Little Prince (Excerpt)",
+        "targetLanguage": "English",
+        "nativeLanguage": "Spanish",
+        "path": "assets/demo-book.json",
+        "coverImage": "",
+        "description": "A classic tale by Antoine de Saint-Exupéry about a young prince who travels from planet to planet."
+    },
+    {
+        "id": "demo-book-002",
+        "title": "Alice in Wonderland (Excerpt)",
+        "targetLanguage": "English",
+        "nativeLanguage": "French",
+        "path": "assets/demo-book-2.json",
+        "coverImage": "",
+        "description": "Lewis Carroll's beloved story of a girl who falls down a rabbit hole into a fantastical world."
+    }
+]
