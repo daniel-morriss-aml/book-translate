@@ -21,4 +21,13 @@ export class BookService {
     saveSliderValue(bookId: string, value: number): void {
         localStorage.setItem(`slider-${bookId}`, value.toString());
     }
+
+    getMaintainTranslationLevel(bookId: string): boolean {
+        const stored = localStorage.getItem(`maintain-translation-${bookId}`);
+        return stored === 'true';
+    }
+
+    saveMaintainTranslationLevel(bookId: string, value: boolean): void {
+        localStorage.setItem(`maintain-translation-${bookId}`, value.toString());
+    }
 }

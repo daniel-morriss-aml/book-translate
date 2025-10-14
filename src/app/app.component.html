@@ -83,15 +83,32 @@
         <!-- Bottom Slider -->
         <footer class="bg-white border-t border-gray-200 p-4 shadow-lg">
             <div class="max-w-4xl mx-auto">
-                <label class="block mb-2">
-                    <span class="text-sm font-medium text-gray-700">
-                        Translation Level: {{ sliderValue }}%
-                        <span class="text-xs text-gray-500 ml-2">
-                            (Use ↑↓ arrow keys to adjust by 5, ←→ to change
-                            pages)
+                <div class="flex justify-between items-center mb-2">
+                    <label class="block">
+                        <span class="text-sm font-medium text-gray-700">
+                            Translation Level: {{ sliderValue }}%
+                            <span class="text-xs text-gray-500 ml-2">
+                                (Use ↑↓ arrow keys to adjust by 5, ←→ to change
+                                pages)
+                            </span>
                         </span>
-                    </span>
-                </label>
+                    </label>
+                    <button
+                        (click)="toggleMaintainTranslationLevel()"
+                        class="px-3 py-1 text-xs rounded-md border transition"
+                        [class.bg-blue-600]="maintainTranslationLevel"
+                        [class.text-white]="maintainTranslationLevel"
+                        [class.border-blue-600]="maintainTranslationLevel"
+                        [class.bg-white]="!maintainTranslationLevel"
+                        [class.text-gray-700]="!maintainTranslationLevel"
+                        [class.border-gray-300]="!maintainTranslationLevel"
+                        [class.hover:bg-blue-700]="maintainTranslationLevel"
+                        [class.hover:bg-gray-50]="!maintainTranslationLevel"
+                        title="When enabled, translation level persists across pages. When disabled, it resets to 0% on each page change."
+                    >
+                        {{ maintainTranslationLevel ? '✓' : '' }} Maintain Level
+                    </button>
+                </div>
                 <input
                     type="range"
                     min="0"

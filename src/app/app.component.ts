@@ -16,6 +16,7 @@ export class AppComponent implements OnInit {
     sliderValue: number = 0;
     loading: boolean = true;
     error: string | null = null;
+    maintainTranslationLevel: boolean = false;
 
     constructor(private bookService: BookService) {}
 
@@ -29,6 +30,7 @@ export class AppComponent implements OnInit {
             next: (book) => {
                 this.book = book;
                 this.sliderValue = this.bookService.getSliderValue(book.id);
+                this.maintainTranslationLevel = this.bookService.getMaintainTranslationLevel(book.id);
                 this.loading = false;
             },
             error: (err) => {
@@ -50,18 +52,33 @@ export class AppComponent implements OnInit {
     nextPage(): void {
         if (this.currentPageIndex < this.totalPages - 1) {
             this.currentPageIndex++;
+            if (!this.maintainTranslationLevel) {
+                this.sliderValue = 0;
+                this.onSliderChange();
+            }
         }
     }
 
     previousPage(): void {
         if (this.currentPageIndex > 0) {
             this.currentPageIndex--;
+            if (!this.maintainTranslationLevel) {
+                this.sliderValue = 0;
+                this.onSliderChange();
+            }
         }
     }
 
     onSliderChange(): void {
         if (this.book) {
             this.bookService.saveSliderValue(this.book.id, this.sliderValue);
+        }
+    }
+
+    toggleMaintainTranslationLevel(): void {
+        this.maintainTranslationLevel = !this.maintainTranslationLevel;
+        if (this.book) {
+            this.bookService.saveMaintainTranslationLevel(this.book.id, this.maintainTranslationLevel);
         }
     }
 
