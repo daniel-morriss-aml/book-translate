@@ -15,3 +15,13 @@ export interface Book {
     nativeLanguage: string;
     pages: Page[];
 }
+
+export interface BookMetadata {
+    id: string;
+    title: string;
+    targetLanguage: string;
+    nativeLanguage: string;
+    path: string;
+    coverImage: string;
+    description: string;
+}
