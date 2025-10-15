@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Book, Page, Sentence } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
+import { ThemeService } from '../../services/theme.service';
 
 @Component({
     selector: 'app-book-reader',
@@ -18,14 +19,21 @@ export class BookReaderComponent implements OnInit {
     loading: boolean = true;
     error: string | null = null;
     maintainTranslationLevel: boolean = false;
+    isDarkMode: boolean = false;
 
     constructor(
         private bookService: BookService,
         private route: ActivatedRoute,
-        private router: Router
+        private router: Router,
+        private themeService: ThemeService
     ) {}
 
     ngOnInit(): void {
+        // Subscribe to theme changes
+        this.themeService.isDarkMode().subscribe((isDark) => {
+            this.isDarkMode = isDark;
+        });
+
         this.route.params.subscribe((params) => {
             const bookId = params['id'];
             if (bookId) {
