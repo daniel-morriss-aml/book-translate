@@ -54,16 +54,24 @@
                     >
                         <!-- Target Language (always visible) -->
                         <p
-                            class="text-lg leading-relaxed text-gray-800 dark:text-gray-200"
+                            class="text-lg leading-relaxed"
+                            [class.text-gray-800]="!isDarkMode"
+                            [class.dark:text-gray-200]="isDarkMode"
                             [class.opacity-0]="shouldShowNative(i)"
                         >
                             {{ sentence.target }}
                         </p>
 
-                        <!-- Native Language (overlay) -->
+                        <!-- Native Language (overlay with inverted color mode) -->
                         <p
                             *ngIf="shouldShowNative(i)"
-                            class="absolute top-0 left-0 text-lg leading-relaxed text-blue-700 dark:text-blue-400 font-medium"
+                            class="absolute top-0 left-0 text-lg leading-relaxed font-medium"
+                            [class.text-gray-200]="!isDarkMode"
+                            [class.bg-gray-800]="!isDarkMode"
+                            [class.text-gray-800]="isDarkMode"
+                            [class.bg-gray-100]="isDarkMode"
+                            [class.px-1]="true"
+                            [class.rounded]="true"
                         >
                             {{ sentence.native }}
                         </p>
@@ -136,8 +144,8 @@
                     class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-600 dark:accent-blue-500"
                 />
                 <div class="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
-                    <span>Target ({{ book.targetLanguage }})</span>
                     <span>Native ({{ book.nativeLanguage }})</span>
+                    <span>Target ({{ book.targetLanguage }})</span>
                 </div>
             </div>
         </footer>
