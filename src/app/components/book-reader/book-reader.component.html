@@ -52,17 +52,25 @@
                 </div>
 
                 <!-- Sentences -->
-                <div class="space-y-6">
+                <div class="space-y-0">
                     <div
                         *ngFor="
                             let sentence of currentPage?.sentences;
                             let i = index
                         "
-                        class="relative"
+                        class="relative p-2 transition-colors duration-500 ease-in-out"
+                        [class.bg-gray-800]="shouldShowNative(i) && !isDarkMode"
+                        [class.bg-gray-100]="shouldShowNative(i) && isDarkMode"
+                        [class.rounded-t-lg]="i === 0 && shouldShowNative(i)"
+                        [class.rounded-b-lg]="
+                            currentPage &&
+                            i === currentPage.sentences.length - 1 &&
+                            shouldShowNative(i)
+                        "
                     >
                         <!-- Target Language (always visible) -->
                         <p
-                            class="text-lg leading-relaxed"
+                            class="text-lg leading-relaxed transition-opacity duration-300 ease-in-out"
                             [class.text-gray-800]="!isDarkMode"
                             [class.dark:text-gray-200]="isDarkMode"
                             [class.opacity-0]="shouldShowNative(i)"
@@ -73,13 +81,9 @@
                         <!-- Native Language (overlay with inverted color mode) -->
                         <p
                             *ngIf="shouldShowNative(i)"
-                            class="absolute top-0 left-0 text-lg leading-relaxed font-medium"
+                            class="absolute top-2 left-2 text-lg leading-relaxed font-medium transition-colors duration-500 ease-in-out"
                             [class.text-gray-200]="!isDarkMode"
-                            [class.bg-gray-800]="!isDarkMode"
                             [class.text-gray-800]="isDarkMode"
-                            [class.bg-gray-100]="isDarkMode"
-                            [class.px-1]="true"
-                            [class.rounded]="true"
                         >
                             {{ sentence.native }}
                         </p>
