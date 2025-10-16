@@ -1,7 +1,9 @@
 <div class="min-h-screen bg-gray-100 dark:bg-gray-900 flex flex-col">
     <!-- Loading State -->
     <div *ngIf="loading" class="flex-1 flex items-center justify-center">
-        <div class="text-xl text-gray-600 dark:text-gray-400">Loading book...</div>
+        <div class="text-xl text-gray-600 dark:text-gray-400">
+            Loading book...
+        </div>
     </div>
 
     <!-- Error State -->
@@ -24,7 +26,9 @@
                     ← Back to Library
                 </button>
                 <div class="flex-1 text-center">
-                    <h1 class="text-2xl font-bold text-gray-800 dark:text-gray-100">
+                    <h1
+                        class="text-2xl font-bold text-gray-800 dark:text-gray-100"
+                    >
                         {{ book.title }}
                     </h1>
                     <p class="text-sm text-gray-600 dark:text-gray-400">
@@ -38,8 +42,12 @@
 
         <!-- Page Content -->
         <main class="flex-1 overflow-y-auto p-8">
-            <div class="max-w-4xl mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-md p-8">
-                <div class="mb-6 text-center text-sm text-gray-500 dark:text-gray-400">
+            <div
+                class="max-w-4xl mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-md p-8"
+            >
+                <div
+                    class="mb-6 text-center text-sm text-gray-500 dark:text-gray-400"
+                >
                     Page {{ currentPageIndex + 1 }} of {{ totalPages }}
                 </div>
 
@@ -99,13 +107,19 @@
         </main>
 
         <!-- Bottom Slider -->
-        <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 p-4 shadow-lg">
+        <footer
+            class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 p-4 shadow-lg"
+        >
             <div class="max-w-4xl mx-auto">
                 <div class="flex justify-between items-center mb-2">
                     <label class="block">
-                        <span class="text-sm font-medium text-gray-700 dark:text-gray-300">
+                        <span
+                            class="text-sm font-medium text-gray-700 dark:text-gray-300"
+                        >
                             Translation Level: {{ sliderValue }}%
-                            <span class="text-xs text-gray-500 dark:text-gray-400 ml-2">
+                            <span
+                                class="text-xs text-gray-500 dark:text-gray-400 ml-2"
+                            >
                                 (Use ↑↓ arrow keys to adjust by 5, ←→ to change
                                 pages)
                             </span>
@@ -126,12 +140,16 @@
                         [class.border-gray-300]="!maintainTranslationLevel"
                         [class.dark:border-gray-600]="!maintainTranslationLevel"
                         [class.hover:bg-blue-700]="maintainTranslationLevel"
-                        [class.dark:hover:bg-blue-600]="maintainTranslationLevel"
+                        [class.dark:hover:bg-blue-600]="
+                            maintainTranslationLevel
+                        "
                         [class.hover:bg-gray-50]="!maintainTranslationLevel"
-                        [class.dark:hover:bg-gray-600]="!maintainTranslationLevel"
+                        [class.dark:hover:bg-gray-600]="
+                            !maintainTranslationLevel
+                        "
                         title="When enabled, translation level persists across pages. When disabled, it resets to 0% on each page change."
                     >
-                        {{ maintainTranslationLevel ? '✓' : '' }} Maintain Level
+                        {{ maintainTranslationLevel ? "✓" : "" }} Maintain Level
                     </button>
                 </div>
                 <input
@@ -143,9 +161,11 @@
                     (input)="onSliderChange()"
                     class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-600 dark:accent-blue-500"
                 />
-                <div class="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
-                    <span>Native ({{ book.nativeLanguage }})</span>
+                <div
+                    class="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1"
+                >
                     <span>Target ({{ book.targetLanguage }})</span>
+                    <span>Native ({{ book.nativeLanguage }})</span>
                 </div>
             </div>
         </footer>
