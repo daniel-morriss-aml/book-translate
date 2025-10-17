@@ -79,7 +79,6 @@ export class BookReaderComponent implements OnInit {
         }
 
         // Search through each book's chapters
-        let foundChapter = false;
         let searchIndex = 0;
 
         const searchNextBook = () => {
@@ -94,7 +93,6 @@ export class BookReaderComponent implements OnInit {
                 next: (chapters) => {
                     const chapter = chapters.find((c) => c.id === chapterId);
                     if (chapter) {
-                        foundChapter = true;
                         this.loadBook(chapter.path);
                     } else {
                         searchIndex++;
@@ -102,6 +100,7 @@ export class BookReaderComponent implements OnInit {
                     }
                 },
                 error: (err) => {
+                    console.error('Error loading chapters for book:', book.id, err);
                     searchIndex++;
                     searchNextBook();
                 },
