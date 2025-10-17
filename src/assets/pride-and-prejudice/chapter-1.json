@@ -1,0 +1,185 @@
+{
+    "id": "pap-001",
+    "title": "Pride and Prejudice / Stolz und Vorurteil - Chapter 1",
+    "targetLanguage": "German",
+    "nativeLanguage": "English",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "sentences": [
+                {
+                    "target": "Es ist eine allgemein anerkannte Wahrheit, daß ein alleinstehender Mann, der ein beträchtliches Vermögen besitzt, einer Frau bedarf.",
+                    "native": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+                },
+                {
+                    "target": "Wie wenig die Gefühle und Ansichten eines solchen Mannes bei seinem ersten Erscheinen in einer Gegend auch bekannt sein mögen, diese Wahrheit sitzt so fest in den Köpfen der Familien in der Nachbarschaft, daß er sogleich als das rechtmäßige Eigentum der einen oder anderen ihrer Töchter betrachtet wird.",
+                    "native": "However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters."
+                },
+                {
+                    "target": "Mein lieber Bennet, sagte dessen Gattin eines Tages zu ihm, hast du schon gehört, daß Netherfield Park endlich verpachtet worden ist?",
+                    "native": "\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\""
+                },
+                {
+                    "target": "Mr. Bennet erwiderte, das habe er nicht.",
+                    "native": "Mr. Bennet replied that he had not."
+                },
+                {
+                    "target": "Aber so ist es, entgegnete sie, Mrs. Long war nämlich gerade hier und hat mir alles erzählt.",
+                    "native": "\"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\""
+                },
+                {
+                    "target": "Mr. Bennet sagte nichts dazu.",
+                    "native": "Mr. Bennet made no answer."
+                },
+                {
+                    "target": "Willst du denn gar nicht wissen, wer es gepachtet hat? rief seine Frau ungeduldig.",
+                    "native": "\"Do you not want to know who has taken it?\" cried his wife impatiently."
+                },
+                {
+                    "target": "Du möchtest es mir doch erzählen, und ich habe nichts dagegen, es zu hören.",
+                    "native": "\"You want to tell me, and I have no objection to hearing it.\""
+                }
+            ]
+        },
+        {
+            "pageNumber": 2,
+            "sentences": [
+                {
+                    "target": "Das war Aufforderung genug.",
+                    "native": "This was invitation enough."
+                },
+                {
+                    "target": "Also, mein Lieber, Mrs. Long sagt, daß Netherfield von einem sehr vermögenden jungen Mann aus dem Norden Englands gepachtet worden ist; und daß er am Montag in einer vierspännigen Kalesche hierherkam, um sich den Besitz anzusehen; und er war so begeistert davon, daß er sofort mit Mr. Morris übereinkam, es noch vor Michaeli in Besitz zu nehmen, und einige seiner Diener sollen schon Ende nächster Woche dort sein.",
+                    "native": "\"Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it, that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.\""
+                },
+                {
+                    "target": "Wie ist denn sein Name?",
+                    "native": "\"What is his name?\""
+                },
+                {
+                    "target": "Bingley.",
+                    "native": "\"Bingley.\""
+                },
+                {
+                    "target": "Ist er verheiratet oder ledig?",
+                    "native": "\"Is he married or single?\""
+                },
+                {
+                    "target": "Oh, natürlich ledig, mein Lieber! Ein alleinstehender Mann mit einem großen Vermögen – vier-oder fünftausend im Jahr. Was für eine wunderbare Sache für unsere Mädchen!",
+                    "native": "\"Oh! Single, my dear, to be sure! A single man of large fortune; four or five thousand a year. What a fine thing for our girls!\""
+                },
+                {
+                    "target": "Wieso das, was haben sie damit zu tun?",
+                    "native": "\"How so? How can it affect them?\""
+                },
+                {
+                    "target": "Mein lieber Bennet, entgegnete seine Gattin, wie kannst du nur so schwer von Begriff sein! Du solltest wissen, daß ich daran denke, er könnte eine von ihnen heiraten.",
+                    "native": "\"My dear Mr. Bennet,\" replied his wife, \"how can you be so tiresome! You must know that I am thinking of his marrying one of them.\""
+                }
+            ]
+        },
+        {
+            "pageNumber": 3,
+            "sentences": [
+                {
+                    "target": "Will er sich deshalb hier niederlassen?",
+                    "native": "\"Is that his design in settling here?\""
+                },
+                {
+                    "target": "Deshalb! Unsinn, wie kannst du so etwas sagen! Aber es ist doch sehr wahrscheinlich, daß er sich in eine von ihnen verliebt! Und darum mußt du ihm deine Aufwartung machen, sobald er hier ist.",
+                    "native": "\"Design! Nonsense, how can you talk so! But it is very likely that he may fall in love with one of them, and therefore you must visit him as soon as he comes.\""
+                },
+                {
+                    "target": "Dafür sehe ich keine Veranlassung. Du kannst ja mit den Mädchen hingehen, oder du läßt sie allein gehen, was vielleicht noch besser wäre, denn da du ebenso hübsch bist wie sie alle, magst du Mr. Bingley vielleicht von allen am besten gefallen.",
+                    "native": "\"I see no occasion for that. You and the girls may go, or you may send them by themselves, which perhaps will be still better, for as you are as handsome as any of them, Mr. Bingley may like you the best of the party.\""
+                },
+                {
+                    "target": "Du schmeichelst mir, mein Lieber. Gewiß hatte auch ich mein Teil Schönheit, aber ich gebe nicht vor, jetzt noch etwas Besonderes zu sein. Wenn eine Frau fünf erwachsene Töchter hat, sollte sie aufhören, an ihre eigene Schönheit zu denken.",
+                    "native": "\"My dear, you flatter me. I certainly have had my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.\""
+                },
+                {
+                    "target": "In solchen Fällen hat eine Frau oft keine Schönheit mehr, an die sie denken könnte.",
+                    "native": "\"In such cases, a woman has not often much beauty to think of.\""
+                },
+                {
+                    "target": "Aber mein Lieber, du mußt Mr. Bingley unbedingt besuchen, wenn er hierherkommt.",
+                    "native": "\"But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.\""
+                },
+                {
+                    "target": "Das kann ich beim besten Willen nicht versprechen.",
+                    "native": "\"It is more than I engage for, I assure you.\""
+                },
+                {
+                    "target": "Aber denk doch an deine Töchter. Bedenke nur, was für eine Partie eine von ihnen machen würde. Sir William und Lady Lucas sind entschlossen hinzugehen, nur aus diesem Grund; du weißt, im allgemeinen besuchen sie keine Neuankömmlinge. Wirklich, du mußt hingehen, wir können ihm doch unmöglich selber unsere Aufwartung machen, wenn du es nicht tust.",
+                    "native": "\"But consider your daughters. Only think what an establishment it would be for one of them. Sir William and Lady Lucas are determined to go, merely on that account, for in general, you know, they visit no newcomers. Indeed you must go, for it will be impossible for us to visit him if you do not.\""
+                }
+            ]
+        },
+        {
+            "pageNumber": 4,
+            "sentences": [
+                {
+                    "target": "Du nimmst das bestimmt allzu genau. Ich wage zu behaupten, daß Mr. Bingley sehr erfreut sein wird, euch zu sehen; und ich werde ihm durch euch ein paar Zeilen zukommen lassen, um ihn meiner aufrichtigen Zustimmung zu versichern, eines der Mädchen, welches er auch wählen möge, zu heiraten; doch möchte ich ein gutes Wort für meine kleine Lizzy einlegen.",
+                    "native": "\"You are over-scrupulous, surely. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls; though I must throw in a good word for my little Lizzy.\""
+                },
+                {
+                    "target": "Ich ersuche dich, das nicht zu tun. Lizzy ist kein bißchen besser als die anderen; ganz gewiß ist sie nicht halb so hübsch wie Jane und auch nicht halb so fröhlich wie Lydia. Aber du gibst ihr ja immer den Vorzug.",
+                    "native": "\"I desire you will do no such thing. Lizzy is not a bit better than the others; and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving her the preference.\""
+                },
+                {
+                    "target": "Keine von ihnen hat viel Empfehlenswertes, erwiderte er, sie sind alle genauso töricht und unwissend wie andere Mädchen, aber Lizzy besitzt etwas mehr Intelligenz als ihre Schwestern.",
+                    "native": "\"They have none of them much to recommend them,\" replied he; \"they are all silly and ignorant like other girls; but Lizzy has something more of quickness than her sisters.\""
+                },
+                {
+                    "target": "Mr. Bennet, wie kannst du so schlecht über deine eigenen Kinder reden? Es macht dir Vergnügen, mich zu quälen. Du hast kein Erbarmen mit meinen schwachen Nerven.",
+                    "native": "\"Mr. Bennet, how can you abuse your own children in such a way? You take delight in vexing me. You have no compassion for my poor nerves.\""
+                },
+                {
+                    "target": "Du irrst dich, meine Liebe. Ich habe großen Respekt vor deinen Nerven. Sie sind meine alten Freunde. Ich habe dich voller Hochachtung seit mindestens zwanzig Jahren von ihnen reden hören.",
+                    "native": "\"You mistake me, my dear. I have a high respect for your nerves. They are my old friends. I have heard you mention them with consideration these last twenty years at least.\""
+                },
+                {
+                    "target": "Ach, du weißt ja nicht, was ich leide!",
+                    "native": "\"Ah, you do not know what I suffer.\""
+                },
+                {
+                    "target": "Aber ich hoffe, du wirst darüber hinwegkommen und noch viele junge Männer mit viertausend Pfund im Jahr in unsere Gegend kommen sehen.",
+                    "native": "\"But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood.\""
+                },
+                {
+                    "target": "Das wird uns gar nichts nützen, selbst wenn zwanzig davon hierherkämen, weil du ihnen ja keinen Besuch abstatten wirst.",
+                    "native": "\"It will be no use to us, if twenty such should come, since you will not visit them.\""
+                }
+            ]
+        },
+        {
+            "pageNumber": 5,
+            "sentences": [
+                {
+                    "target": "Wenn es zwanzig sind, meine Liebe, dann kannst du dich darauf verlassen, daß ich allen meine Aufwartung machen werde.",
+                    "native": "\"Depend upon it, my dear, that when there are twenty, I will visit them all.\""
+                },
+                {
+                    "target": "Mr. Bennet bestand aus einer so seltsamen Mischung aus gelegentlicher Heftigkeit, Schlagfertigkeit, sarkastischem Humor, Zurückhaltung und Kaprise, daß die Erfahrungen von dreiundzwanzig Ehejahren für seine Gattin nicht ausgereicht hatten, sein Wesen zu begreifen.",
+                    "native": "Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three-and-twenty years had been insufficient to make his wife understand his character."
+                },
+                {
+                    "target": "Das ihre war weniger schwer zu ergründen.",
+                    "native": "Her mind was less difficult to develop."
+                },
+                {
+                    "target": "Sie war eine Frau von geringer Einsicht, wenig Kenntnissen und launenhafter Gemütsart.",
+                    "native": "She was a woman of mean understanding, little information, and uncertain temper."
+                },
+                {
+                    "target": "Wenn sie unzufrieden war, bildete sie sich ein, sie sei nervös.",
+                    "native": "When she was discontented, she fancied herself nervous."
+                },
+                {
+                    "target": "Ihre Lebensaufgabe war es, die Töchter zu verheiraten – ihre Freude, Besuche zu machen und Neuigkeiten zu erfahren.",
+                    "native": "The business of her life was to get her daughters married; its solace was visiting and news."
+                }
+            ]
+        }
+    ]
+}
