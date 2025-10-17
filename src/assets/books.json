@@ -16,5 +16,16 @@
         "path": "assets/demo-book-2.json",
         "coverImage": "",
         "description": "Lewis Carroll's beloved story of a girl who falls down a rabbit hole into a fantastical world."
+    },
+    {
+        "id": "pride-and-prejudice",
+        "title": "Pride and Prejudice / Stolz und Vorurteil",
+        "targetLanguage": "German",
+        "nativeLanguage": "English",
+        "path": "",
+        "coverImage": "",
+        "description": "Jane Austen's timeless novel about love, class, and societal expectations in 19th century England.",
+        "hasChapters": true,
+        "chaptersPath": "assets/pride-and-prejudice-chapters.json"
     }
 ]

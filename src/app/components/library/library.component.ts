@@ -40,6 +40,10 @@ export class LibraryComponent implements OnInit {
     }
 
     openBook(book: BookMetadata): void {
-        this.router.navigate(['/reader', book.id]);
+        if (book.hasChapters) {
+            this.router.navigate(['/chapters', book.id]);
+        } else {
+            this.router.navigate(['/reader', book.id]);
+        }
     }
 }

@@ -54,8 +54,8 @@ export class BookReaderComponent implements OnInit {
                 if (bookMetadata) {
                     this.loadBook(bookMetadata.path);
                 } else {
-                    this.error = 'Book not found';
-                    this.loading = false;
+                    // If not found in books, try loading chapters from all books
+                    this.loadChapterById(bookId, books);
                 }
             },
             error: (err) => {
@@ -64,6 +64,50 @@ export class BookReaderComponent implements OnInit {
                 console.error('Error loading book:', err);
             },
         });
+    }
+
+    loadChapterById(chapterId: string, books: any[]): void {
+        // Find books with chapters and search through their chapters
+        const booksWithChapters = books.filter(
+            (b) => b.hasChapters && b.chaptersPath
+        );
+
+        if (booksWithChapters.length === 0) {
+            this.error = 'Book not found';
+            this.loading = false;
+            return;
+        }
+
+        // Search through each book's chapters
+        let searchIndex = 0;
+
+        const searchNextBook = () => {
+            if (searchIndex >= booksWithChapters.length) {
+                this.error = 'Book not found';
+                this.loading = false;
+                return;
+            }
+
+            const book = booksWithChapters[searchIndex];
+            this.bookService.loadChapters(book.chaptersPath).subscribe({
+                next: (chapters) => {
+                    const chapter = chapters.find((c) => c.id === chapterId);
+                    if (chapter) {
+                        this.loadBook(chapter.path);
+                    } else {
+                        searchIndex++;
+                        searchNextBook();
+                    }
+                },
+                error: (err) => {
+                    console.error('Error loading chapters for book:', book.id, err);
+                    searchIndex++;
+                    searchNextBook();
+                },
+            });
+        };
+
+        searchNextBook();
     }
 
     loadBook(bookPath: string): void {

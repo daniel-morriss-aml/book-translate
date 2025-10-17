@@ -1,0 +1,12 @@
+[
+    {
+        "id": "pap-001",
+        "title": "Chapter 1",
+        "path": "assets/pride-and-prejudice/chapter-1.json"
+    },
+    {
+        "id": "pap-002",
+        "title": "Chapter 2",
+        "path": "assets/pride-and-prejudice/chapter-2.json"
+    }
+]

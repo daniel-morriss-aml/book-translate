@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
-import { Book, BookMetadata } from '../models/book.model';
+import { Book, BookMetadata, ChapterMetadata } from '../models/book.model';
 
 @Injectable({
     providedIn: 'root',
@@ -11,6 +11,10 @@ export class BookService {
 
     loadBookList(): Observable<BookMetadata[]> {
         return this.http.get<BookMetadata[]>('assets/books.json');
+    }
+
+    loadChapters(chaptersPath: string): Observable<ChapterMetadata[]> {
+        return this.http.get<ChapterMetadata[]>(chaptersPath);
     }
 
     loadBook(bookPath: string): Observable<Book> {
