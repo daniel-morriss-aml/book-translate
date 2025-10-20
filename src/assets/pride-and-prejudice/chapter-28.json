@@ -32,12 +32,8 @@
                     "native": "The garden sloping to the road, the house standing in it, the green pales, and the laurel hedge, everything declared they were arriving."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Collins und Charlotte erschienen an der Tür; alle winkten und lächelten einander zu, und die Kutsche hielt an dem kleinen Gartentor, von dem ein kurzer Kiesweg zum Haus führte.",
-                    "native": "Collins and Charlotte appeared at the door, and the carriage stopped at the small gate which led by a short gravel walk to the house, amidst the nods and smiles of the whole party."
+                    "target": "Mr. Collins und Charlotte erschienen an der Tür; alle winkten und lächelten einander zu, und die Kutsche hielt an dem kleinen Gartentor, von dem ein kurzer Kiesweg zum Haus führte.",
+                    "native": "Mr. Collins and Charlotte appeared at the door, and the carriage stopped at the small gate which led by a short gravel walk to the house, amidst the nods and smiles of the whole party."
                 }
             ]
         },
@@ -49,12 +45,8 @@
                     "native": "In a moment they were all out of the chaise, rejoicing at the sight of each other."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Collins begrüßte ihre Freundin mit dem lebhaftesten Vergnügen, und Elizabeths Zufriedenheit darüber, daß sie gekommen war, steigerte sich noch, da sie sich so herzlich empfangen sah.",
-                    "native": "Collins welcomed her friend with the liveliest pleasure, and Elizabeth was more and more satisfied with coming when she found herself so affectionately received."
+                    "target": "Mrs. Collins begrüßte ihre Freundin mit dem lebhaftesten Vergnügen, und Elizabeths Zufriedenheit darüber, daß sie gekommen war, steigerte sich noch, da sie sich so herzlich empfangen sah.",
+                    "native": "Mrs. Collins welcomed her friend with the liveliest pleasure, and Elizabeth was more and more satisfied with coming when she found herself so affectionately received."
                 },
                 {
                     "target": "Sie erkannte sofort, daß sich das würdevolle Benehmen ihres Cousins durch seine Heirat nicht verändert hatte; seine steife Höflichkeit war immer noch die gleiche; er hielt sie für einige Minuten am Tor auf, um sich nach der ganzen Familie zu erkundigen.",
@@ -73,8 +65,8 @@
                     "native": "But though everything seemed neat and comfortable, she was not able to gratify him by any sigh of repentance, and rather looked with wonder at her friend that she could have so cheerful an air with such a companion."
                 },
                 {
-                    "target": "Doch obgleich alles hübsch und behaglich war, konnte sie ihm mit keinem reuevollen Seufzer gefällig sein; vielmehr blickte sie voller Verwunderung auf ihre Freundin, die bei einem solchen Gefährten so heiter sein konnte.",
-                    "native": "When Mr."
+                    "target": "Doch obgleich alles hübsch und behaglich war, konnte sie ihm mit keinem reuevollen Seufzer gefällig sein; vielmehr blickte sie voller Verwunderung auf ihre Freundin, die bei einem solchen Gefährten so heiter sein konnte. Wenn Mr. Collins etwas sagte, über das seine Gattin einigermaßen beschämt sein mußte – was ziemlich häufig geschah –, sah sie unwillkürlich zu Charlotte hinüber.",
+                    "native": "When Mr. Collins said anything of which his wife might reasonably be ashamed, which certainly was not unseldom, she involuntarily turned her eye on Charlotte. Once or twice she could discern a faint blush; but in general Charlotte wisely did not hear."
                 }
             ]
         },
@@ -82,24 +74,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Wenn Mr.",
-                    "native": "Collins said anything of which his wife might reasonably be ashamed, which certainly was not unseldom, she involuntarily turned her eye on Charlotte."
-                },
-                {
-                    "target": "Collins etwas sagte, über das seine Gattin einigermaßen beschämt sein mußte – was ziemlich häufig geschah –, sah sie unwillkürlich zu Charlotte hinüber.",
-                    "native": "Once or twice she could discern a faint blush; but in general Charlotte wisely did not hear."
-                },
-                {
-                    "target": "Ein paarmal konnte sie ein leichtes Erröten wahrnehmen, aber im allgemeinen hörte Charlotte klugerweise einfach nicht hin.",
-                    "native": "After sitting long enough to admire every article of furniture in the room, from the sideboard to the fender, to give an account of their journey, and of all that had happened in London, Mr."
-                },
-                {
-                    "target": "Nachdem sie lange genug beisammengesessen hatten, um jedes Möbelstück in dem Zimmer – vom Büfett bis zum Kamingitter – zu bewundern und über ihre Reise und all ihre Erlebnisse in London zu berichten, lud sie Mr.",
-                    "native": "Collins invited them to take a stroll in the garden, which was large and well laid out, and to the cultivation of which he attended himself."
-                },
-                {
-                    "target": "Collins ein, einen Gang durch den Garten zu machen, der sehr groß und schön angelegt war und mit dessen Bestellung er sich selbst befaßte.",
-                    "native": "To work in this garden was one of his most respectable pleasures; and Elizabeth admired the command of countenance with which Charlotte talked of the healthfulness of the exercise, and owned she encouraged it as much as possible."
+                    "target": "Ein paarmal konnte sie ein leichtes Erröten wahrnehmen, aber im allgemeinen hörte Charlotte klugerweise einfach nicht hin. Nachdem sie lange genug beisammengesessen hatten, um jedes Möbelstück in dem Zimmer – vom Büfett bis zum Kamingitter – zu bewundern und über ihre Reise und all ihre Erlebnisse in London zu berichten, lud sie Mr. Collins ein, einen Gang durch den Garten zu machen, der sehr groß und schön angelegt war und mit dessen Bestellung er sich selbst befaßte.",
+                    "native": "After sitting long enough to admire every article of furniture in the room, from the sideboard to the fender, to give an account of their journey, and of all that had happened in London, Mr. Collins invited them to take a stroll in the garden, which was large and well laid out, and to the cultivation of which he attended himself. To work in this garden was one of his most respectable pleasures; and Elizabeth admired the command of countenance with which Charlotte talked of the healthfulness of the exercise, and owned she encouraged it as much as possible."
                 },
                 {
                     "target": "In seinem Garten zu arbeiten war eines seiner achtbarsten Vergnügen; und Elizabeth bewunderte die beherrschte Miene, mit der Charlotte über die Heilsamkeit der körperlichen Arbeit sprach und gestand, daß sie ihn darin so weit wie möglich bestärkte.",
@@ -123,46 +99,22 @@
                     "native": "It was a handsome modern building, well situated on rising ground."
                 },
                 {
-                    "target": "Es war ein schönes, modernes Gebäude, hübsch gelegen auf ansteigendem Grund.",
-                    "native": "From his garden, Mr."
+                    "target": "Es war ein schönes, modernes Gebäude, hübsch gelegen auf ansteigendem Grund. Von seinem Garten aus wollte sie Mr. Collins noch um seine beiden Wiesen herumführen, aber die Damen kehrten um, da ihre Schuhe für den noch verbliebenen Rauhreif nicht geeignet waren; und während Sir William ihn begleitete, führte Charlotte ihre Schwester und ihre Freundin durch das Haus – vermutlich außerordentlich erfreut über die Gelegenheit, es ihnen ohne Hilfe ihres Gatten zeigen zu können.",
+                    "native": "From his garden, Mr. Collins would have led them round his two meadows; but the ladies, not having shoes to encounter the remains of a white frost, turned back; and while Sir William accompanied him, Charlotte took her sister and friend over the house, extremely well pleased, probably, to have the opportunity of showing it without her husband's help. It was rather small, but well built and convenient; and everything was fitted up and arranged with a neatness and consistency of which Elizabeth gave Charlotte all the credit."
                 },
                 {
-                    "target": "Von seinem Garten aus wollte sie Mr.",
-                    "native": "Collins would have led them round his two meadows; but the ladies, not having shoes to encounter the remains of a white frost, turned back; and while Sir William accompanied him, Charlotte took her sister and friend over the house, extremely well pleased, probably, to have the opportunity of showing it without her husband's help."
+                    "target": "Es war recht klein, doch zweckmäßig gebaut und bequem; und alles war mit viel Geschmack und Harmonie ausgestattet und angeordnet, die Elizabeth allein dem Verdienst Charlottes zuschrieb. Wenn man Mr. Collins vergessen konnte, herrschte wirklich überall eine Atmosphäre von Wohlergehen und Behaglichkeit, und bei Charlottes offensichtlicher Freude daran vermutete Elizabeth, daß er tatsächlich oft vergessen wurde.",
+                    "native": "When Mr. Collins could be forgotten, there was really an air of great comfort throughout, and by Charlotte's evident enjoyment of it, Elizabeth supposed he must be often forgotten. She had already learnt that Lady Catherine was still in the country."
                 },
                 {
-                    "target": "Collins noch um seine beiden Wiesen herumführen, aber die Damen kehrten um, da ihre Schuhe für den noch verbliebenen Rauhreif nicht geeignet waren; und während Sir William ihn begleitete, führte Charlotte ihre Schwester und ihre Freundin durch das Haus – vermutlich außerordentlich erfreut über die Gelegenheit, es ihnen ohne Hilfe ihres Gatten zeigen zu können.",
-                    "native": "It was rather small, but well built and convenient; and everything was fitted up and arranged with a neatness and consistency of which Elizabeth gave Charlotte all the credit."
-                },
-                {
-                    "target": "Es war recht klein, doch zweckmäßig gebaut und bequem; und alles war mit viel Geschmack und Harmonie ausgestattet und angeordnet, die Elizabeth allein dem Verdienst Charlottes zuschrieb.",
-                    "native": "When Mr."
-                },
-                {
-                    "target": "Wenn man Mr.",
-                    "native": "Collins could be forgotten, there was really an air of great comfort throughout, and by Charlotte's evident enjoyment of it, Elizabeth supposed he must be often forgotten."
-                },
-                {
-                    "target": "Collins vergessen konnte, herrschte wirklich überall eine Atmosphäre von Wohlergehen und Behaglichkeit, und bei Charlottes offensichtlicher Freude daran vermutete Elizabeth, daß er tatsächlich oft vergessen wurde.",
-                    "native": "She had already learnt that Lady Catherine was still in the country."
-                },
-                {
-                    "target": "Sie hatte bereits erfahren, daß Lady Catherine noch im Lande war.",
-                    "native": "It was spoken of again while they were at dinner, when Mr."
+                    "target": "Sie hatte bereits erfahren, daß Lady Catherine noch im Lande war. Beim Dinner sprach man erneut darüber, und Mr. Collins schloß sich dem Gespräch an und bemerkte: \"Ja, Miss Elizabeth, Sie werden die Ehre haben, Lady Catherine de Bourgh am folgenden Sonntag in der Kirche zu sehen, und ich brauche wohl nicht zu sagen, daß Sie entzückt von ihr sein werden.",
+                    "native": "It was spoken of again while they were at dinner, when Mr. Collins joining in, observed: \"Yes, Miss Elizabeth, you will have the honour of seeing Lady Catherine de Bourgh on the ensuing Sunday at church, and I need not say you will be delighted with her. She is all affability and condescension, and I doubt not but you will be honoured with some portion of her notice when service is over."
                 }
             ]
         },
         {
             "pageNumber": 5,
             "sentences": [
-                {
-                    "target": "Beim Dinner sprach man erneut darüber, und Mr.",
-                    "native": "Collins joining in, observed: \"Yes, Miss Elizabeth, you will have the honour of seeing Lady Catherine de Bourgh on the ensuing Sunday at church, and I need not say you will be delighted with her."
-                },
-                {
-                    "target": "Collins schloß sich dem Gespräch an und bemerkte: \"Ja, Miss Elizabeth, Sie werden die Ehre haben, Lady Catherine de Bourgh am folgenden Sonntag in der Kirche zu sehen, und ich brauche wohl nicht zu sagen, daß Sie entzückt von ihr sein werden.",
-                    "native": "She is all affability and condescension, and I doubt not but you will be honoured with some portion of her notice when service is over."
-                },
                 {
                     "target": "Sie ist voller Güte und Leutseligkeit, und ich zweifle nicht, daß sie Ihnen eine gewisse Beachtung zuteil werden läßt, wenn der Gottesdienst vorüber ist.",
                     "native": "I have scarcely any hesitation in saying she will include you and my sister Maria in every invitation with which she honours us during your stay here."
@@ -193,16 +145,8 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Sie ist eine Frau, vor der man nicht genug Hochachtung haben kann.\" Den Abend verbrachte man damit, die Neuigkeiten von Hertfordshire durchzusprechen und noch einmal zu erzählen, was man bereits geschrieben hatte; und später – in der Einsamkeit ihrer Kammer – mußte Elizabeth noch einmal nachsinnen über Charlottes große Zufriedenheit, über ihre Geschicklichkeit, alles zu lenken – und zu verstehen suchen, wie gelassen sie ihren Gatten ertrug – und schließlich einräumen, daß alles sehr gut ging.",
-                    "native": "She had also to anticipate how her visit would pass, the quiet tenor of their usual employments, the vexatious interruptions of Mr."
-                },
-                {
-                    "target": "Sie stellte sich auch schon vor, wie sich ihr Besuch voraussichtlich gestalten würde – der ruhige Verlauf ihrer gewohnten Beschäftigungen, die lästigen Störungen durch Mr.",
-                    "native": "Collins, and the gaieties of their intercourse with Rosings."
-                },
-                {
-                    "target": "Collins, die Vergnügungen in ihrem Verkehr mit Rosings.",
-                    "native": "A lively imagination soon settled it all."
+                    "target": "Sie ist eine Frau, vor der man nicht genug Hochachtung haben kann.\" Den Abend verbrachte man damit, die Neuigkeiten von Hertfordshire durchzusprechen und noch einmal zu erzählen, was man bereits geschrieben hatte; und später – in der Einsamkeit ihrer Kammer – mußte Elizabeth noch einmal nachsinnen über Charlottes große Zufriedenheit, über ihre Geschicklichkeit, alles zu lenken – und zu verstehen suchen, wie gelassen sie ihren Gatten ertrug – und schließlich einräumen, daß alles sehr gut ging. Sie stellte sich auch schon vor, wie sich ihr Besuch voraussichtlich gestalten würde – der ruhige Verlauf ihrer gewohnten Beschäftigungen, die lästigen Störungen durch Mr. Collins, die Vergnügungen in ihrem Verkehr mit Rosings.",
+                    "native": "She had also to anticipate how her visit would pass, the quiet tenor of their usual employments, the vexatious interruptions of Mr. Collins, and the gaieties of their intercourse with Rosings. A lively imagination soon settled it all."
                 },
                 {
                     "target": "Ihre lebhafte Phantasie klärte das bald alles.",
@@ -221,22 +165,14 @@
                     "native": "Make haste, and come down this moment.\" Elizabeth asked questions in vain; Maria would tell her nothing more, and down they ran into the dining-room, which fronted the lane, in quest of this wonder; It was two ladies stopping in a low phaeton at the garden gate. \"And is this all?\" cried Elizabeth. \"I expected at least that the pigs were got into the garden, and here is nothing but Lady Catherine and her daughter.\" \"La! my dear,\" said Maria, quite shocked at the mistake, \"it is not Lady Catherine."
                 },
                 {
-                    "target": "Beeil dich und komm sofort herunter.\" Elizabeth fragte vergeblich, was es sei, Maria wollte ihr nichts weiter sagen; und sie rannten hinunter ins Speisezimmer, das auf den Fahrweg hinausging, auf der Suche nach dem Wunder – es waren zwei Damen in einem niedrigen Phaeton, die am Gartentor angehalten hatten. \"Ist das alles?\" rief Elizabeth. \"Ich hatte zumindest erwartet, daß die Schweine in den Garten gekommen sind, und da sehe ich nichts weiter als Lady Catherine und ihre Tochter!\" \"Oh, meine Liebe\", sagte Maria, ganz entgeistert über diesen Irrtum, \"es ist nicht Lady Catherine.",
-                    "native": "The old lady is Mrs."
+                    "target": "Beeil dich und komm sofort herunter.\" Elizabeth fragte vergeblich, was es sei, Maria wollte ihr nichts weiter sagen; und sie rannten hinunter ins Speisezimmer, das auf den Fahrweg hinausging, auf der Suche nach dem Wunder – es waren zwei Damen in einem niedrigen Phaeton, die am Gartentor angehalten hatten. \"Ist das alles?\" rief Elizabeth. \"Ich hatte zumindest erwartet, daß die Schweine in den Garten gekommen sind, und da sehe ich nichts weiter als Lady Catherine und ihre Tochter!\" \"Oh, meine Liebe\", sagte Maria, ganz entgeistert über diesen Irrtum, \"es ist nicht Lady Catherine. Die alte Dame ist Mrs. Jenkinson, die bei ihr lebt.",
+                    "native": "The old lady is Mrs. Jenkinson, who lives with them; the other is Miss de Bourgh. Only look at her."
                 }
             ]
         },
         {
             "pageNumber": 7,
             "sentences": [
-                {
-                    "target": "Die alte Dame ist Mrs.",
-                    "native": "Jenkinson, who lives with them; the other is Miss de Bourgh."
-                },
-                {
-                    "target": "Jenkinson, die bei ihr lebt.",
-                    "native": "Only look at her."
-                },
                 {
                     "target": "Die andere ist Miss de Bourgh.",
                     "native": "She is quite a little creature."
@@ -258,8 +194,8 @@
                     "native": "Yes, she will do for him very well."
                 },
                 {
-                    "target": "Es ist eine ganz besondere Gunst, wenn Miss de Bourgh hereinkommt.\" \"Mir gefällt ihr Aussehen\", sagte Elizabeth, der plötzlich ein anderer Gedanke gekommen war. \"Sie sieht kränklich und mürrisch aus. – Ja, sie ist gerade recht für ihn.",
-                    "native": "She will make him a very proper wife.\" Mr."
+                    "target": "Es ist eine ganz besondere Gunst, wenn Miss de Bourgh hereinkommt.\" \"Mir gefällt ihr Aussehen\", sagte Elizabeth, der plötzlich ein anderer Gedanke gekommen war. \"Sie sieht kränklich und mürrisch aus. – Ja, sie ist gerade recht für ihn. Sie wird eine sehr tüchtige Frau für ihn werden.\" Mr. Collins und Charlotte standen beide am Tor und unterhielten sich mit den Damen; Sir William hatte sich an der Eingangstür des Hauses postiert und stand dort zu Elizabeths großem Ergötzen in ernsthafter Betrachtung der Erhabenheit vor seinen Augen; und er verbeugte sich beständig, wann immer Miss de Bourgh in seine Richtung blickte.",
+                    "native": "She will make him a very proper wife.\" Mr. Collins and Charlotte were both standing at the gate in conversation with the ladies; and Sir William, to Elizabeth's high diversion, was stationed in the doorway, in earnest contemplation of the greatness before him, and constantly bowing whenever Miss de Bourgh looked that way. At length there was nothing more to be said; the ladies drove on, and the others returned into the house."
                 }
             ]
         },
@@ -267,20 +203,8 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Sie wird eine sehr tüchtige Frau für ihn werden.\" Mr.",
-                    "native": "Collins and Charlotte were both standing at the gate in conversation with the ladies; and Sir William, to Elizabeth's high diversion, was stationed in the doorway, in earnest contemplation of the greatness before him, and constantly bowing whenever Miss de Bourgh looked that way."
-                },
-                {
-                    "target": "Collins und Charlotte standen beide am Tor und unterhielten sich mit den Damen; Sir William hatte sich an der Eingangstür des Hauses postiert und stand dort zu Elizabeths großem Ergötzen in ernsthafter Betrachtung der Erhabenheit vor seinen Augen; und er verbeugte sich beständig, wann immer Miss de Bourgh in seine Richtung blickte.",
-                    "native": "At length there was nothing more to be said; the ladies drove on, and the others returned into the house."
-                },
-                {
-                    "target": "Schließlich gab es nichts mehr zu sagen; die Damen fuhren weiter, und die beiden anderen gingen ins Haus zurück.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Kaum hatte Mr.",
-                    "native": "Collins no sooner saw the two girls than he began to congratulate them on their good fortune, which Charlotte explained by letting them know that the whole party was asked to dine at Rosings the next day."
+                    "target": "Schließlich gab es nichts mehr zu sagen; die Damen fuhren weiter, und die beiden anderen gingen ins Haus zurück. Kaum hatte Mr.",
+                    "native": "Mr. Collins no sooner saw the two girls than he began to congratulate them on their good fortune, which Charlotte explained by letting them know that the whole party was asked to dine at Rosings the next day."
                 }
             ]
         }

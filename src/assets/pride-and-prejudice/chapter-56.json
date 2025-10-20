@@ -32,12 +32,8 @@
                     "native": "It was Lady Catherine de Bourgh."
                 },
                 {
-                    "target": "Sie waren natürlich alle auf eine Überraschung gefaßt, ihr Erstaunen übertraf jedoch alle Erwartungen; und das Mrs.",
-                    "native": "They were of course all intending to be surprised; but their astonishment was beyond their expectation; and on the part of Mrs."
-                },
-                {
-                    "target": "Bennets und Kittys wurde, obgleich ihnen die Besucherin vollkommen unbekannt war, noch von dem übertroffen, was Elizabeth empfand.",
-                    "native": "Bennet and Kitty, though she was perfectly unknown to them, even inferior to what Elizabeth felt."
+                    "target": "Sie waren natürlich alle auf eine Überraschung gefaßt, ihr Erstaunen übertraf jedoch alle Erwartungen; und das Mrs. Bennets und Kittys wurde, obgleich ihnen die Besucherin vollkommen unbekannt war, noch von dem übertroffen, was Elizabeth empfand.",
+                    "native": "They were of course all intending to be surprised; but their astonishment was beyond their expectation; and on the part of Mrs. Bennet and Kitty, though she was perfectly unknown to them, even inferior to what Elizabeth felt."
                 }
             ]
         },
@@ -53,28 +49,20 @@
                     "native": "Elizabeth had mentioned her name to her mother on her ladyship's entrance, though no request of introduction had been made."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Bennet konnte sich nicht lassen vor Verwunderung, doch fühlte sie sich geschmeichelt, einen Gast von so hohem Rang zu haben, und empfing sie mit äußerster Höflichkeit.",
-                    "native": "Bennet, all amazement, though flattered by having a guest of such high importance, received her with the utmost politeness."
+                    "target": "Mrs. Bennet konnte sich nicht lassen vor Verwunderung, doch fühlte sie sich geschmeichelt, einen Gast von so hohem Rang zu haben, und empfing sie mit äußerster Höflichkeit.",
+                    "native": "Mrs. Bennet, all amazement, though flattered by having a guest of such high importance, received her with the utmost politeness."
                 },
                 {
                     "target": "Nachdem Lady Catherine einen Augenblick schweigend dagesessen hatte, sagte sie sehr steif zu Elizabeth: \"Ich hoffe, es geht Ihnen gut, Miss Bennet.",
                     "native": "After sitting for a moment in silence, she said very stiffly to Elizabeth, \"I hope you are well, Miss Bennet."
                 },
                 {
-                    "target": "Ich nehme an, diese Dame ist Ihre Mutter.\" Elizabeth erwiderte sehr kurz, daß es so sei. \"Und das ist wohl eine Ihrer Schwestern.\" \"Ja, Madam\", sagte Mrs.",
-                    "native": "That lady, I suppose, is your mother.\" Elizabeth replied very concisely that she was. \"And that I suppose is one of your sisters.\" \"Yes, madam,\" said Mrs."
+                    "target": "Ich nehme an, diese Dame ist Ihre Mutter.\" Elizabeth erwiderte sehr kurz, daß es so sei. \"Und das ist wohl eine Ihrer Schwestern.\" \"Ja, Madam\", sagte Mrs. Bennet, beglückt, mit einer Lady Catherine zu sprechen. \"Sie ist meine zweitjüngste Tochter.",
+                    "native": "That lady, I suppose, is your mother.\" Elizabeth replied very concisely that she was. \"And that I suppose is one of your sisters.\" \"Yes, madam,\" said Mrs. Bennet, delighted to speak to Lady Catherine. \"She is my youngest girl but one."
                 },
                 {
-                    "target": "Bennet, beglückt, mit einer Lady Catherine zu sprechen. \"Sie ist meine zweitjüngste Tochter.",
-                    "native": "Bennet, delighted to speak to Lady Catherine. \"She is my youngest girl but one."
-                },
-                {
-                    "target": "Die jüngste von allen hat kürzlich geheiratet, und meine älteste ist irgendwo in den Parkanlagen zu einem Spaziergang mit einem jungen Mann, der, denke ich, bald zur Familie gehören wird.\" \"Sie haben einen sehr kleinen Park hier\", entgegnete Lady Catherine nach einem kurzen Schweigen. \"Er ist allerdings nicht mit Rosings zu vergleichen, Mylady, aber ich versichere Ihnen, er ist viel größer als der von Sir William Lucas.\" \"Das muß ein höchst unbequemes Wohnzimmer für den Abend sein, die Fenster gehen ja genau nach Westen.\" Mrs.",
-                    "native": "My youngest of all is lately married, and my eldest is somewhere about the grounds, walking with a young man who, I believe, will soon become a part of the family.\" \"You have a very small park here,\" returned Lady Catherine after a short silence. \"It is nothing in comparison of Rosings, my lady, I dare say; but I assure you it is much larger than Sir William Lucas's.\" \"This must be a most inconvenient sitting room for the evening, in summer; the windows are full west.\" Mrs."
+                    "target": "Die jüngste von allen hat kürzlich geheiratet, und meine älteste ist irgendwo in den Parkanlagen zu einem Spaziergang mit einem jungen Mann, der, denke ich, bald zur Familie gehören wird.\" \"Sie haben einen sehr kleinen Park hier\", entgegnete Lady Catherine nach einem kurzen Schweigen. \"Er ist allerdings nicht mit Rosings zu vergleichen, Mylady, aber ich versichere Ihnen, er ist viel größer als der von Sir William Lucas.\" \"Das muß ein höchst unbequemes Wohnzimmer für den Abend sein, die Fenster gehen ja genau nach Westen.\" Mrs. Bennet versicherte ihr, daß sie niemals nach dem Dinner darin säßen, und fügte dann hinzu: \"Darf ich mir erlauben, Ihre Ladyschaft zu fragen, ob Mr. und Mrs. Collins wohlauf waren bei Ihrer Abreise?\" \"Ja, es geht ihnen sehr gut, ich habe sie am vorletzten Abend gesehen.\" Elizabeth erwartete nun, daß sie einen Brief von Charlotte hervorholen würde, da dies das einzig wahrscheinliche Motiv für ihr Kommen zu sein schien.",
+                    "native": "My youngest of all is lately married, and my eldest is somewhere about the grounds, walking with a young man who, I believe, will soon become a part of the family.\" \"You have a very small park here,\" returned Lady Catherine after a short silence. \"It is nothing in comparison of Rosings, my lady, I dare say; but I assure you it is much larger than Sir William Lucas's.\" \"This must be a most inconvenient sitting room for the evening, in summer; the windows are full west.\" Mrs. Bennet assured her that they never sat there after dinner, and then added: \"May I take the liberty of asking your ladyship whether you left Mr. and Mrs. Collins well.\" \"Yes, very well."
                 }
             ]
         },
@@ -82,28 +70,12 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Bennet versicherte ihr, daß sie niemals nach dem Dinner darin säßen, und fügte dann hinzu: \"Darf ich mir erlauben, Ihre Ladyschaft zu fragen, ob Mr. und Mrs.",
-                    "native": "Bennet assured her that they never sat there after dinner, and then added: \"May I take the liberty of asking your ladyship whether you left Mr. and Mrs."
-                },
-                {
-                    "target": "Collins wohlauf waren bei Ihrer Abreise?\" \"Ja, es geht ihnen sehr gut, ich habe sie am vorletzten Abend gesehen.\" Elizabeth erwartete nun, daß sie einen Brief von Charlotte hervorholen würde, da dies das einzig wahrscheinliche Motiv für ihr Kommen zu sein schien.",
-                    "native": "Collins well.\" \"Yes, very well."
-                },
-                {
                     "target": "Aber da war kein Brief – sie stand vor einem Rätsel.",
                     "native": "I saw them the night before last.\" Elizabeth now expected that she would produce a letter for her from Charlotte, as it seemed the only probable motive for her calling."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "But no letter appeared, and she was completely puzzled."
-                },
-                {
-                    "target": "Bennet bat Ihre Ladyschaft sehr höflich, doch eine Erfrischung zu sich zu nehmen, doch Lady Catherine lehnte es sehr entschieden und nicht sehr höflich ab, irgend etwas zu essen; dann erhob sie sich und sagte zu Elizabeth: \"Miss Bennet, es scheint da auf der einen Seite Ihres Rasenplatzes eine ganz hübsche kleine Wildnis zu geben; ich würde dort gern einen kleinen Spaziergang machen, wenn Sie die Güte haben würden, mich zu begleiten.\" \"Geh, mein Kind\", rief ihre Mutter, \"und führe Ihre Ladyschaft all die Wege entlang, die Klause wird ihr bestimmt gefallen.\" Elizabeth gehorchte, lief in ihr Zimmer nach ihrem Sonnenschirm und begleitete ihren erlauchten Gast nach unten.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Als sie durch die Halle gingen, öffnete Lady Catherine die Türen zum Speisezimmer und zum Salon, erklärte die Räume nach einer kurzen Begutachtung für ganz ordentlich und ging dann weiter.",
-                    "native": "Bennet, with great civility, begged her ladyship to take some refreshment; but Lady Catherine very resolutely, and not very politely, declined eating anything; and then, rising up, said to Elizabeth, \"Miss Bennet, there seemed to be a prettyish kind of a little wilderness on one side of your lawn."
+                    "target": "Mrs. Bennet bat Ihre Ladyschaft sehr höflich, doch eine Erfrischung zu sich zu nehmen, doch Lady Catherine lehnte es sehr entschieden und nicht sehr höflich ab, irgend etwas zu essen; dann erhob sie sich und sagte zu Elizabeth: \"Miss Bennet, es scheint da auf der einen Seite Ihres Rasenplatzes eine ganz hübsche kleine Wildnis zu geben; ich würde dort gern einen kleinen Spaziergang machen, wenn Sie die Güte haben würden, mich zu begleiten.\" \"Geh, mein Kind\", rief ihre Mutter, \"und führe Ihre Ladyschaft all die Wege entlang, die Klause wird ihr bestimmt gefallen.\" Elizabeth gehorchte, lief in ihr Zimmer nach ihrem Sonnenschirm und begleitete ihren erlauchten Gast nach unten. Als sie durch die Halle gingen, öffnete Lady Catherine die Türen zum Speisezimmer und zum Salon, erklärte die Räume nach einer kurzen Begutachtung für ganz ordentlich und ging dann weiter.",
+                    "native": "But no letter appeared, and she was completely puzzled. Mrs. Bennet, with great civility, begged her ladyship to take some refreshment; but Lady Catherine very resolutely, and not very politely, declined eating anything; and then, rising up, said to Elizabeth, \"Miss Bennet, there seemed to be a prettyish kind of a little wilderness on one side of your lawn."
                 },
                 {
                     "target": "Ihre Kutsche stand noch vor der Tür, und Elizabeth sah, daß ihr Kammermädchen darin saß.",
@@ -147,8 +119,8 @@
                     "native": "But however insincere you may choose to be, you shall not find me so."
                 },
                 {
-                    "target": "Mir wurde gesagt, daß nicht nur Ihre Schwester im Begriff sei, sich außerordentlich vorteilhaft zu verheiraten, sondern auch daß Sie, Miss Elizabeth Bennet, sehr wahrscheinlich bald danach mit meinem Neffen, meinem eigenen Neffen Mr.",
-                    "native": "My character has ever been celebrated for its sincerity and frankness, and in a cause of such moment as this, I shall certainly not depart from it."
+                    "target": "Mir wurde gesagt, daß nicht nur Ihre Schwester im Begriff sei, sich außerordentlich vorteilhaft zu verheiraten, sondern auch daß Sie, Miss Elizabeth Bennet, sehr wahrscheinlich bald danach mit meinem Neffen, meinem eigenen Neffen Mr. Darcy, die Ehe eingehen würden.",
+                    "native": "My character has ever been celebrated for its sincerity and frankness, and in a cause of such moment as this, I shall certainly not depart from it. A report of a most alarming nature reached me two days ago."
                 }
             ]
         },
@@ -156,16 +128,8 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Darcy, die Ehe eingehen würden.",
-                    "native": "A report of a most alarming nature reached me two days ago."
-                },
-                {
-                    "target": "Obgleich ich weiß, daß es eine schändliche Lüge sein muß, und obgleich ich ihn nicht so weit kränken möchte, daß ich so etwas für möglich halte, habe ich sofort beschlossen, mich hierher auf den Weg zu machen, um Sie meine Meinung dazu wissen zu lassen.\" \"Wenn Sie es für unmöglich halten, daß es stimmt\", sagte Elizabeth, vor Erstaunen und Verachtung rot werdend, \"dann frage ich mich, warum Sie die Mühe auf sich genommen haben, von so weit her zu mir zu kommen.",
-                    "native": "I was told that not only your sister was on the point of being most advantageously married, but that you, that Miss Elizabeth Bennet, would, in all likelihood, be soon afterwards united to my nephew, my own nephew, Mr."
-                },
-                {
-                    "target": "Was wollte Ihre Ladyschaft damit bezwecken?\" \"Sofort darauf zu bestehen, daß Sie ein solches Gerücht für unwahr erklären.\" \"Daß Sie nach Longbourn gekommen sind, um mich und meine Familie zu besuchen\", sagte Elizabeth kühl, \"muß eher eine Bestätigung dafür sein, falls es ein solches Gerücht tatsächlich gibt.\" \"Falls!",
-                    "native": "Darcy."
+                    "target": "Obgleich ich weiß, daß es eine schändliche Lüge sein muß, und obgleich ich ihn nicht so weit kränken möchte, daß ich so etwas für möglich halte, habe ich sofort beschlossen, mich hierher auf den Weg zu machen, um Sie meine Meinung dazu wissen zu lassen.\" \"Wenn Sie es für unmöglich halten, daß es stimmt\", sagte Elizabeth, vor Erstaunen und Verachtung rot werdend, \"dann frage ich mich, warum Sie die Mühe auf sich genommen haben, von so weit her zu mir zu kommen. Was wollte Ihre Ladyschaft damit bezwecken?\" \"Sofort darauf zu bestehen, daß Sie ein solches Gerücht für unwahr erklären.\" \"Daß Sie nach Longbourn gekommen sind, um mich und meine Familie zu besuchen\", sagte Elizabeth kühl, \"muß eher eine Bestätigung dafür sein, falls es ein solches Gerücht tatsächlich gibt.\" \"Falls!",
+                    "native": "I was told that not only your sister was on the point of being most advantageously married, but that you, that Miss Elizabeth Bennet, would, in all likelihood, be soon afterwards united to my nephew, my own nephew, Mr. Darcy."
                 },
                 {
                     "target": "Wollen Sie also vorgeben, daß Sie nichts davon wissen?",
@@ -217,12 +181,8 @@
                     "native": "I have not been accustomed to such language as this."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "I am almost the nearest relation he has in the world, and am entitled to know all his dearest concerns.\" \"But you are not entitled to know mine; nor will such behaviour as this, ever induce me to be explicit.\" \"Let me be rightly understood."
-                },
-                {
-                    "target": "Darcy ist mit meiner Tochter verlobt.",
-                    "native": "This match, to which you have the presumption to aspire, can never take place."
+                    "target": "Mr. Darcy ist mit meiner Tochter verlobt.",
+                    "native": "I am almost the nearest relation he has in the world, and am entitled to know all his dearest concerns.\" \"But you are not entitled to know mine; nor will such behaviour as this, ever induce me to be explicit.\" \"Let me be rightly understood. This match, to which you have the presumption to aspire, can never take place."
                 }
             ]
         },
@@ -234,12 +194,8 @@
                     "native": "No, never."
                 },
                 {
-                    "target": "Sie sind seit ihrer Kindheit füreinander bestimmt.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Es war der größte Wunsch seiner Mutter wie auch der meine.",
-                    "native": "Darcy is engaged to my daughter."
+                    "target": "Sie sind seit ihrer Kindheit füreinander bestimmt. Es war der größte Wunsch seiner Mutter wie auch der meine.",
+                    "native": "Mr. Darcy is engaged to my daughter."
                 },
                 {
                     "target": "Während sie noch in der Wiege lagen, planten wir ihre Ehe; und das soll nun in dem Augenblick, da die Wünsche beider Schwestern durch ihre Heirat erfüllt werden könnten, von einer jungen Frau von niederer Geburt, ohne jede Bedeutung in der Welt und ohne die geringste Verbindung zur Familie verhindert werden!",
@@ -283,20 +239,16 @@
                     "native": "But what is that to me?"
                 },
                 {
-                    "target": "Wenn Mr.",
-                    "native": "If there is no other objection to my marrying your nephew, I shall certainly not be kept from it by knowing that his mother and aunt wished him to marry Miss de Bourgh."
-                },
-                {
-                    "target": "Darcy weder moralisch noch durch Neigung an seine Cousine gebunden ist, warum soll er nicht eine andere Wahl treffen?",
-                    "native": "You both did as much as you could in planning the marriage."
+                    "target": "Wenn Mr. Darcy weder moralisch noch durch Neigung an seine Cousine gebunden ist, warum soll er nicht eine andere Wahl treffen?",
+                    "native": "If there is no other objection to my marrying your nephew, I shall certainly not be kept from it by knowing that his mother and aunt wished him to marry Miss de Bourgh. You both did as much as you could in planning the marriage."
                 },
                 {
                     "target": "Und wenn ich diese Wahl bin, warum kann ich seinen Antrag dann nicht annehmen?\" \"Weil Ehre, Anstand, Klugheit, ja sogar Ihr eigenes Interesse es verbieten.",
                     "native": "Its completion depended on others."
                 },
                 {
-                    "target": "Ja, Miss Bennet, Ihr eigenes Interesse, denn erwarten Sie nicht, daß Sie von seiner Familie und seinen Freunden anerkannt werden, wenn Sie vorsätzlich gegen die Wünsche aller handeln.",
-                    "native": "If Mr."
+                    "target": "Ja, Miss Bennet, Ihr eigenes Interesse, denn erwarten Sie nicht, daß Sie von seiner Familie und seinen Freunden anerkannt werden, wenn Sie vorsätzlich gegen die Wünsche aller handeln. Sie werden kritisiert, beleidigt und verachtet werden von allen, die mit ihm verwandt und befreundet sind.",
+                    "native": "If Mr. Darcy is neither by honour nor inclination confined to his cousin, why is not he to make another choice?"
                 }
             ]
         },
@@ -304,28 +256,16 @@
             "pageNumber": 9,
             "sentences": [
                 {
-                    "target": "Sie werden kritisiert, beleidigt und verachtet werden von allen, die mit ihm verwandt und befreundet sind.",
-                    "native": "Darcy is neither by honour nor inclination confined to his cousin, why is not he to make another choice?"
-                },
-                {
-                    "target": "Ihre Heirat wird eine Schande sein, Ihr Name wird von keinem von uns jemals erwähnt werden.\" \"Das wäre ein schweres Mißgeschick\", erwiderte Elizabeth. \"Aber die Gattin Mr.",
-                    "native": "And if I am that choice, why may not I accept him?\" \"Because honour, decorum, prudence, nay, interest, forbid it."
-                },
-                {
-                    "target": "Darcys muß so außerordentliche Quellen des Glücks haben, die zwangsläufig mit ihrer Stellung verbunden sind, daß sie, im ganzen gesehen, keinen Grund zum Klagen haben kann.\" \"Eigensinniges, halsstarriges Ding!",
-                    "native": "Yes, Miss Bennet, interest; for do not expect to be noticed by his family or friends, if you wilfully act against the inclinations of all."
+                    "target": "Ihre Heirat wird eine Schande sein, Ihr Name wird von keinem von uns jemals erwähnt werden.\" \"Das wäre ein schweres Mißgeschick\", erwiderte Elizabeth. \"Aber die Gattin Mr. Darcys muß so außerordentliche Quellen des Glücks haben, die zwangsläufig mit ihrer Stellung verbunden sind, daß sie, im ganzen gesehen, keinen Grund zum Klagen haben kann.\" \"Eigensinniges, halsstarriges Ding!",
+                    "native": "And if I am that choice, why may not I accept him?\" \"Because honour, decorum, prudence, nay, interest, forbid it. Yes, Miss Bennet, interest; for do not expect to be noticed by his family or friends, if you wilfully act against the inclinations of all."
                 },
                 {
                     "target": "Ich schäme mich für Sie!",
                     "native": "You will be censured, slighted, and despised, by everyone connected with him."
                 },
                 {
-                    "target": "Ist das Ihre Dankbarkeit für meine Aufmerksamkeiten für Sie im letzten Frühling?",
-                    "native": "Your alliance will be a disgrace; your name will never even be mentioned by any of us.\" \"These are heavy misfortunes,\" replied Elizabeth. \"But the wife of Mr."
-                },
-                {
-                    "target": "Sind Sie mir in dieser Hinsicht nichts schuldig? – Setzen wir uns. – Sie müssen begreifen, Miss Bennet, daß ich mit dem festen Entschluß hierher gekommen bin, mein Ziel zu erreichen, und ich werde mich davon auch nicht abbringen lassen.",
-                    "native": "Darcy must have such extraordinary sources of happiness necessarily attached to her situation, that she could, upon the whole, have no cause to repine.\" \"Obstinate, headstrong girl!"
+                    "target": "Ist das Ihre Dankbarkeit für meine Aufmerksamkeiten für Sie im letzten Frühling? Sind Sie mir in dieser Hinsicht nichts schuldig? – Setzen wir uns. – Sie müssen begreifen, Miss Bennet, daß ich mit dem festen Entschluß hierher gekommen bin, mein Ziel zu erreichen, und ich werde mich davon auch nicht abbringen lassen.",
+                    "native": "Your alliance will be a disgrace; your name will never even be mentioned by any of us.\" \"These are heavy misfortunes,\" replied Elizabeth. \"But the wife of Mr. Darcy must have such extraordinary sources of happiness necessarily attached to her situation, that she could, upon the whole, have no cause to repine.\" \"Obstinate, headstrong girl!"
                 },
                 {
                     "target": "Ich bin nicht gewohnt, den Launen anderer Personen nachzugeben.",
@@ -423,12 +363,8 @@
                     "native": "Who are your uncles and aunts?"
                 },
                 {
-                    "target": "Ihre Ladyschaft möchte, daß Mr.",
-                    "native": "Do not imagine me ignorant of their condition.\" \"Whatever my connections may be,\" said Elizabeth, \"if your nephew does not object to them, they can be nothing to you.\" \"Tell me once for all, are you engaged to him?\" Though Elizabeth would not, for the mere purpose of obliging Lady Catherine, have answered this question, she could not but say, after a moment's deliberation: \"I am not.\" Lady Catherine seemed pleased. \"And will you promise me, never to enter into such an engagement?\" \"I will make no promise of the kind.\" \"Miss Bennet I am shocked and astonished."
-                },
-                {
-                    "target": "Darcy Ihre Tochter heiratet; aber würde dann das gewünschte Versprechen, wenn ich es Ihnen gäbe, die Heirat der beiden überhaupt wahrscheinlicher machen?",
-                    "native": "I expected to find a more reasonable young woman."
+                    "target": "Ihre Ladyschaft möchte, daß Mr. Darcy Ihre Tochter heiratet; aber würde dann das gewünschte Versprechen, wenn ich es Ihnen gäbe, die Heirat der beiden überhaupt wahrscheinlicher machen?",
+                    "native": "Do not imagine me ignorant of their condition.\" \"Whatever my connections may be,\" said Elizabeth, \"if your nephew does not object to them, they can be nothing to you.\" \"Tell me once for all, are you engaged to him?\" Though Elizabeth would not, for the mere purpose of obliging Lady Catherine, have answered this question, she could not but say, after a moment's deliberation: \"I am not.\" Lady Catherine seemed pleased. \"And will you promise me, never to enter into such an engagement?\" \"I will make no promise of the kind.\" \"Miss Bennet I am shocked and astonished. I expected to find a more reasonable young woman."
                 },
                 {
                     "target": "Angenommen, er liebt mich – würde mein Zurückweisen seiner Hand ihn wünschen lassen, sie seiner Cousine anzutragen?",
@@ -443,18 +379,14 @@
                     "native": "I am not to be intimidated into anything so wholly unreasonable."
                 },
                 {
-                    "target": "Wie weit Ihr Neffe Ihre Einmischung in seine Angelegenheiten billigen mag, kann ich nicht sagen; aber ganz gewiß haben Sie kein Recht, sich mit meinen zu befassen.",
-                    "native": "Your ladyship wants Mr."
+                    "target": "Wie weit Ihr Neffe Ihre Einmischung in seine Angelegenheiten billigen mag, kann ich nicht sagen; aber ganz gewiß haben Sie kein Recht, sich mit meinen zu befassen. Ich muß Sie deshalb bitten, mich nicht weiter mit diesem Thema zu belästigen.\" \"Nicht so hastig, wenn ich bitten darf.",
+                    "native": "Your ladyship wants Mr. Darcy to marry your daughter; but would my giving you the wished-for promise make their marriage at all more probable?"
                 }
             ]
         },
         {
             "pageNumber": 13,
             "sentences": [
-                {
-                    "target": "Ich muß Sie deshalb bitten, mich nicht weiter mit diesem Thema zu belästigen.\" \"Nicht so hastig, wenn ich bitten darf.",
-                    "native": "Darcy to marry your daughter; but would my giving you the wished-for promise make their marriage at all more probable?"
-                },
                 {
                     "target": "Ich bin keineswegs fertig.",
                     "native": "Supposing him to be attached to me, would my refusing to accept his hand make him wish to bestow it on his cousin?"
@@ -534,12 +466,8 @@
                     "native": "Unfeeling, selfish girl!"
                 },
                 {
-                    "target": "Durch meine Heirat mit Mr.",
-                    "native": "Do you not consider that a connection with you must disgrace him in the eyes of everybody?\" \"Lady Catherine, I have nothing further to say."
-                },
-                {
-                    "target": "Darcy würde keiner dieser Grundsätze verletzt.",
-                    "native": "You know my sentiments.\" \"You are then resolved to have him?\" \"I have said no such thing."
+                    "target": "Durch meine Heirat mit Mr. Darcy würde keiner dieser Grundsätze verletzt.",
+                    "native": "Do you not consider that a connection with you must disgrace him in the eyes of everybody?\" \"Lady Catherine, I have nothing further to say. You know my sentiments.\" \"You are then resolved to have him?\" \"I have said no such thing."
                 },
                 {
                     "target": "Und was den Unwillen der Familie oder die Empörung der Welt angeht, so würde – falls sich die ersteren wirklich darüber erregten, daß er mich heiratet – mich das keinen Augenblick beunruhigen; und die Menschheit im allgemeinen hätte zu viel Verstand, um in die Verachtung mit einzustimmen.\" \"Das ist also Ihre wahre Meinung!",
@@ -563,12 +491,8 @@
             "pageNumber": 16,
             "sentences": [
                 {
-                    "target": "Ich bin gekommen, um Sie auf die Probe zu stellen.",
-                    "native": "No principle of either would be violated by my marriage with Mr."
-                },
-                {
-                    "target": "Ich hatte gehofft, Sie vernünftig zu finden; aber Sie können sich darauf verlassen, daß ich erreichen werde, was ich will.\" In der Weise redete Lady Catherine weiter, bis sie an der Kutsche angelangt waren, wo sie sich heftig zu Elizabeth umwandte und hinzufügte: \"Ich verabschiede mich nicht von Ihnen, ich bestelle keine Grüße an Ihre Mutter.",
-                    "native": "Darcy."
+                    "target": "Ich bin gekommen, um Sie auf die Probe zu stellen. Ich hatte gehofft, Sie vernünftig zu finden; aber Sie können sich darauf verlassen, daß ich erreichen werde, was ich will.\" In der Weise redete Lady Catherine weiter, bis sie an der Kutsche angelangt waren, wo sie sich heftig zu Elizabeth umwandte und hinzufügte: \"Ich verabschiede mich nicht von Ihnen, ich bestelle keine Grüße an Ihre Mutter.",
+                    "native": "No principle of either would be violated by my marriage with Mr. Darcy."
                 },
                 {
                     "target": "Sie verdienen keine solche Aufmerksamkeit.",

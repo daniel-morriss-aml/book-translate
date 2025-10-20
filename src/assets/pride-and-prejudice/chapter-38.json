@@ -8,16 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Am Samstagmorgen fanden sich Elizabeth und Mr.",
-                    "native": "On Saturday morning Elizabeth and Mr."
-                },
-                {
-                    "target": "Collins zum Frühstück ein paar Minuten eher ein als die anderen; und er nahm die Gelegenheit wahr, ihr die Abschiedsartigkeiten zu erweisen, die er für unerläßlich hielt. \"Ich weiß nicht, Miss Elizabeth\", sagte er, \"ob Mrs.",
-                    "native": "Collins met for breakfast a few minutes before the others appeared; and he took the opportunity of paying the parting civilities which he deemed indispensably necessary. \"I know not, Miss Elizabeth,\" said he, \"whether Mrs."
-                },
-                {
-                    "target": "Collins bereits ihre Dankbarkeit für Ihre Güte zum Ausdruck gebracht hat, daß Sie zu uns gekommen sind, aber ich bin ganz sicher, daß Sie das Haus nicht verlassen werden, ohne ihren Dank dafür zu empfangen.",
-                    "native": "Collins has yet expressed her sense of your kindness in coming to us; but I am very certain you will not leave the house without receiving her thanks for it."
+                    "target": "Am Samstagmorgen fanden sich Elizabeth und Mr. Collins zum Frühstück ein paar Minuten eher ein als die anderen; und er nahm die Gelegenheit wahr, ihr die Abschiedsartigkeiten zu erweisen, die er für unerläßlich hielt. \"Ich weiß nicht, Miss Elizabeth\", sagte er, \"ob Mrs. Collins bereits ihre Dankbarkeit für Ihre Güte zum Ausdruck gebracht hat, daß Sie zu uns gekommen sind, aber ich bin ganz sicher, daß Sie das Haus nicht verlassen werden, ohne ihren Dank dafür zu empfangen.",
+                    "native": "On Saturday morning Elizabeth and Mr. Collins met for breakfast a few minutes before the others appeared; and he took the opportunity of paying the parting civilities which he deemed indispensably necessary. \"I know not, Miss Elizabeth,\" said he, \"whether Mrs. Collins has yet expressed her sense of your kindness in coming to us; but I am very certain you will not leave the house without receiving her thanks for it."
                 },
                 {
                     "target": "Die Gunst Ihrer Gesellschaft haben wir sehr zu schätzen gewußt, das versichere ich Ihnen.",
@@ -36,18 +28,14 @@
                     "native": "She had spent six weeks with great enjoyment; and the pleasure of being with Charlotte, and the kind attentions she had received, must make her feel the obliged."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
+                    "target": "Mr. Collins war erfreut; und mit einer nunmehr huldvolleren Feierlichkeit erwiderte er: \"Es macht mir das größte Vergnügen zu hören, daß Sie Ihre Zeit nicht auf unangenehme Weise zugebracht haben.",
+                    "native": "Mr. Collins was gratified, and with a more smiling solemnity replied: \"It gives me great pleasure to hear that you have passed your time not disagreeably."
                 }
             ]
         },
         {
             "pageNumber": 2,
             "sentences": [
-                {
-                    "target": "Collins war erfreut; und mit einer nunmehr huldvolleren Feierlichkeit erwiderte er: \"Es macht mir das größte Vergnügen zu hören, daß Sie Ihre Zeit nicht auf unangenehme Weise zugebracht haben.",
-                    "native": "Collins was gratified, and with a more smiling solemnity replied: \"It gives me great pleasure to hear that you have passed your time not disagreeably."
-                },
                 {
                     "target": "Wir haben gewiß unser Bestes getan; und da es zu unserem großen Glück in unserer Macht gelegen hat, Sie in die ganz hohe Gesellschaft einzuführen und durch unsere Beziehungen zu Rosings häufig dafür sorgen konnten, Abwechslung in die bescheidene häusliche Szene zu bringen –, denke ich, können wir uns schmeicheln, daß Ihr Besuch in Hunsford nicht so ganz uninteressant gewesen sein konnte.",
                     "native": "We have certainly done our best; and most fortunately having it in our power to introduce you to very superior society, and, from our connection with Rosings, the frequent means of varying the humble home scene, I think we may flatter ourselves that your Hunsford visit cannot have been entirely irksome."
@@ -73,18 +61,14 @@
                     "native": "I flatter myself at least that you will be able to do so."
                 },
                 {
-                    "target": "Von Lady Catherines großer Aufmerksamkeit gegenüber Mrs.",
-                    "native": "Lady Catherine's great attentions to Mrs."
+                    "target": "Von Lady Catherines großer Aufmerksamkeit gegenüber Mrs. Collins sind Sie täglich Zeuge gewesen; und insgesamt macht es, glaube ich, nicht den Eindruck, als hätte Ihre Freundin ein unglückliches ..., aber über diesen Punkt will ich nicht weiter sprechen.",
+                    "native": "Lady Catherine's great attentions to Mrs. Collins you have been a daily witness of; and altogether I trust it does not appear that your friend has drawn an unfortunate—but on this point it will be as well to be silent."
                 }
             ]
         },
         {
             "pageNumber": 3,
             "sentences": [
-                {
-                    "target": "Collins sind Sie täglich Zeuge gewesen; und insgesamt macht es, glaube ich, nicht den Eindruck, als hätte Ihre Freundin ein unglückliches ..., aber über diesen Punkt will ich nicht weiter sprechen.",
-                    "native": "Collins you have been a daily witness of; and altogether I trust it does not appear that your friend has drawn an unfortunate—but on this point it will be as well to be silent."
-                },
                 {
                     "target": "Lassen Sie mich Ihnen nur versichern, meine liebe Miss Elizabeth, daß ich Ihnen von ganzem Herzen gleiches Glück in der Ehe wünsche.",
                     "native": "Only let me assure you, my dear Miss Elizabeth, that I can from my heart most cordially wish you equal felicity in marriage."
@@ -127,28 +111,12 @@
                     "native": "At length the chaise arrived, the trunks were fastened on, the parcels placed within, and it was pronounced to be ready."
                 },
                 {
-                    "target": "Schließlich kam die Kutsche, die Koffer wurden darauf befestigt, die Päckchen hineingestellt, und alles war bereit.",
-                    "native": "After an affectionate parting between the friends, Elizabeth was attended to the carriage by Mr."
+                    "target": "Schließlich kam die Kutsche, die Koffer wurden darauf befestigt, die Päckchen hineingestellt, und alles war bereit. Nach einem herzlichen Abschied von der Freundin wurde Elizabeth von Mr. Collins zur Kutsche begleitet; und als sie den Garten hinuntergingen, beauftragte er sie, der ganzen Familie seine besten Grüße auszurichten – und nicht seinen Dank zu vergessen für die Freundlichkeit, die er im Winter in Longbourn erfahren hatte – sowie auch seine Empfehlungen, unbekannterweise, an Mr. und Mrs. Gardiner zu übermitteln.",
+                    "native": "After an affectionate parting between the friends, Elizabeth was attended to the carriage by Mr. Collins, and as they walked down the garden he was commissioning her with his best respects to all her family, not forgetting his thanks for the kindness he had received at Longbourn in the winter, and his compliments to Mr. and Mrs. Gardiner, though unknown. He then handed her in, Maria followed, and the door was on the point of being closed, when he suddenly reminded them, with some consternation, that they had hitherto forgotten to leave any message for the ladies at Rosings. \"But,\" he added, \"you will of course wish to have your humble respects delivered to them, with your grateful thanks for their kindness to you while you have been here.\" Elizabeth made no objection; the door was then allowed to be shut, and the carriage drove off. \"Good gracious!\" cried Maria, after a few minutes' silence, \"it seems but a day or two since we first came! and yet how many things have happened!\" \"A great many indeed,\" said her companion with a sigh. \"We have dined nine times at Rosings, besides drinking tea there twice!"
                 },
                 {
-                    "target": "Nach einem herzlichen Abschied von der Freundin wurde Elizabeth von Mr.",
-                    "native": "Collins, and as they walked down the garden he was commissioning her with his best respects to all her family, not forgetting his thanks for the kindness he had received at Longbourn in the winter, and his compliments to Mr. and Mrs."
-                },
-                {
-                    "target": "Collins zur Kutsche begleitet; und als sie den Garten hinuntergingen, beauftragte er sie, der ganzen Familie seine besten Grüße auszurichten – und nicht seinen Dank zu vergessen für die Freundlichkeit, die er im Winter in Longbourn erfahren hatte – sowie auch seine Empfehlungen, unbekannterweise, an Mr. und Mrs.",
-                    "native": "Gardiner, though unknown."
-                },
-                {
-                    "target": "Gardiner zu übermitteln.",
-                    "native": "He then handed her in, Maria followed, and the door was on the point of being closed, when he suddenly reminded them, with some consternation, that they had hitherto forgotten to leave any message for the ladies at Rosings. \"But,\" he added, \"you will of course wish to have your humble respects delivered to them, with your grateful thanks for their kindness to you while you have been here.\" Elizabeth made no objection; the door was then allowed to be shut, and the carriage drove off. \"Good gracious!\" cried Maria, after a few minutes' silence, \"it seems but a day or two since we first came! and yet how many things have happened!\" \"A great many indeed,\" said her companion with a sigh. \"We have dined nine times at Rosings, besides drinking tea there twice!"
-                },
-                {
-                    "target": "Dann half er ihr hinein, Maria folgte, und die Tür sollte gerade geschlossen werden, als er sie plötzlich mit einiger Bestürzung daran erinnerte, daß sie bisher nicht daran gedacht hätten, irgendeine Nachricht für die Damen auf Rosings zu hinterlassen. \"Aber\", fügte er hinzu, \"Sie werden gewiß wünschen, daß ich den beiden Ihre ergebensten Grüße übermittle, verbunden mit Ihrem verbindlichsten Dank für die Güte, die sie Ihnen während Ihres Aufenthaltes hier erwiesen haben.\" Elizabeth hatte nichts dagegen; dann durfte die Tür geschlossen werden, und sie fuhren ab. \"Du lieber Himmel!\" rief Maria nach ein paar Minuten des Schweigens, \"es scheint erst ein paar Tage her zu sein, seit wir hier ankamen!",
-                    "native": "How much I shall have to tell!\" Elizabeth added privately, \"And how much I shall have to conceal!\" Their journey was performed without much conversation, or any alarm; and within four hours of their leaving Hunsford they reached Mr."
-                },
-                {
-                    "target": "Und doch, wieviel hat sich zugetragen!\" \"Sehr viel, in der Tat\", sagte ihre Begleiterin mit einem Seufzer. \"Wir waren neunmal auf Rosings zum Dinner, außerdem noch zweimal zum Tee!",
-                    "native": "Gardiner's house, where they were to remain a few days."
+                    "target": "Dann half er ihr hinein, Maria folgte, und die Tür sollte gerade geschlossen werden, als er sie plötzlich mit einiger Bestürzung daran erinnerte, daß sie bisher nicht daran gedacht hätten, irgendeine Nachricht für die Damen auf Rosings zu hinterlassen. \"Aber\", fügte er hinzu, \"Sie werden gewiß wünschen, daß ich den beiden Ihre ergebensten Grüße übermittle, verbunden mit Ihrem verbindlichsten Dank für die Güte, die sie Ihnen während Ihres Aufenthaltes hier erwiesen haben.\" Elizabeth hatte nichts dagegen; dann durfte die Tür geschlossen werden, und sie fuhren ab. \"Du lieber Himmel!\" rief Maria nach ein paar Minuten des Schweigens, \"es scheint erst ein paar Tage her zu sein, seit wir hier ankamen! Und doch, wieviel hat sich zugetragen!\" \"Sehr viel, in der Tat\", sagte ihre Begleiterin mit einem Seufzer. \"Wir waren neunmal auf Rosings zum Dinner, außerdem noch zweimal zum Tee!",
+                    "native": "How much I shall have to tell!\" Elizabeth added privately, \"And how much I shall have to conceal!\" Their journey was performed without much conversation, or any alarm; and within four hours of their leaving Hunsford they reached Mr. Gardiner's house, where they were to remain a few days."
                 }
             ]
         },
@@ -156,20 +124,12 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Wieviel ich zu erzählen habe!\" Elizabeth fügte für sich hinzu: \"Und wieviel ich zu verschweigen habe.\" Ihre Reise ging ohne viel Unterhaltung und ohne irgendwelche Aufregungen vonstatten; und vier Stunden, nachdem sie Hunsford verlassen hatten, erreichten sie Mr.",
-                    "native": "Jane looked well, and Elizabeth had little opportunity of studying her spirits, amidst the various engagements which the kindness of her aunt had reserved for them."
+                    "target": "Wieviel ich zu erzählen habe!\" Elizabeth fügte für sich hinzu: \"Und wieviel ich zu verschweigen habe.\" Ihre Reise ging ohne viel Unterhaltung und ohne irgendwelche Aufregungen vonstatten; und vier Stunden, nachdem sie Hunsford verlassen hatten, erreichten sie Mr. Gardiners Haus, wo sie ein paar Tage bleiben sollten.",
+                    "native": "Jane looked well, and Elizabeth had little opportunity of studying her spirits, amidst the various engagements which the kindness of her aunt had reserved for them. But Jane was to go home with her, and at Longbourn there would be leisure enough for observation."
                 },
                 {
-                    "target": "Gardiners Haus, wo sie ein paar Tage bleiben sollten.",
-                    "native": "But Jane was to go home with her, and at Longbourn there would be leisure enough for observation."
-                },
-                {
-                    "target": "Jane sah gut aus, doch hatte Elizabeth inmitten all der Unternehmungen, die ihre Tante für sie vorgesehen hatte, wenig Gelegenheit, ihre Stimmung zu erforschen.",
-                    "native": "It was not without an effort, meanwhile, that she could wait even for Longbourn, before she told her sister of Mr."
-                },
-                {
-                    "target": "Aber Jane würde mit ihr nach Hause fahren, und in Longbourn würde es genug Muße geben, sie zu beobachten.",
-                    "native": "Darcy's proposals."
+                    "target": "Jane sah gut aus, doch hatte Elizabeth inmitten all der Unternehmungen, die ihre Tante für sie vorgesehen hatte, wenig Gelegenheit, ihre Stimmung zu erforschen. Aber Jane würde mit ihr nach Hause fahren, und in Longbourn würde es genug Muße geben, sie zu beobachten.",
+                    "native": "It was not without an effort, meanwhile, that she could wait even for Longbourn, before she told her sister of Mr. Darcy's proposals."
                 },
                 {
                     "target": "Es machte ihr indessen nicht wenig Mühe, ebenfalls auf Longbourn zu warten, bis sie ihrer Schwester von Mr.",

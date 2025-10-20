@@ -8,12 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Nachdem Mr.",
-                    "native": "After a week spent in professions of love and schemes of felicity, Mr."
-                },
-                {
-                    "target": "Collins eine Woche mit Liebesbekenntnissen und glückseligem Pläneschmieden zugebracht hatte, wurde er durch das Herannahen des Samstags von der Seite seiner liebenswürdigen Charlotte abberufen.",
-                    "native": "Collins was called from his amiable Charlotte by the arrival of Saturday."
+                    "target": "Nachdem Mr. Collins eine Woche mit Liebesbekenntnissen und glückseligem Pläneschmieden zugebracht hatte, wurde er durch das Herannahen des Samstags von der Seite seiner liebenswürdigen Charlotte abberufen.",
+                    "native": "After a week spent in professions of love and schemes of felicity, Mr. Collins was called from his amiable Charlotte by the arrival of Saturday."
                 },
                 {
                     "target": "Doch ist anzunehmen, daß der Trennungsschmerz von seiner Seite durch Vorbereitungen für den Empfang seiner Braut gemildert wurde, denn er hatte Grund zu der Hoffnung, daß kurz nach seiner nächsten Rückkehr nach Hertfordshire der Tag festgelegt würde, der ihn zum glücklichsten aller Menschen machen sollte.",
@@ -24,20 +20,12 @@
                     "native": "He took leave of his relations at Longbourn with as much solemnity as before; wished his fair cousins health and happiness again, and promised their father another letter of thanks."
                 },
                 {
-                    "target": "Am folgenden Montag hatte Mrs.",
-                    "native": "On the following Monday, Mrs."
+                    "target": "Am folgenden Montag hatte Mrs. Bennet das Vergnügen, ihren Bruder und seine Gattin zu empfangen, die wie gewöhnlich kamen, um die Weihnachtszeit in Longbourn zu verbringen.",
+                    "native": "On the following Monday, Mrs. Bennet had the pleasure of receiving her brother and his wife, who came as usual to spend the Christmas at Longbourn."
                 },
                 {
-                    "target": "Bennet das Vergnügen, ihren Bruder und seine Gattin zu empfangen, die wie gewöhnlich kamen, um die Weihnachtszeit in Longbourn zu verbringen.",
-                    "native": "Bennet had the pleasure of receiving her brother and his wife, who came as usual to spend the Christmas at Longbourn."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Gardiner war ein verständiger, vornehmer Mann, an Charakter wie auch an Bildung seiner Schwester weit überlegen.",
-                    "native": "Gardiner was a sensible, gentlemanlike man, greatly superior to his sister, as well by nature as education."
+                    "target": "Mr. Gardiner war ein verständiger, vornehmer Mann, an Charakter wie auch an Bildung seiner Schwester weit überlegen.",
+                    "native": "Mr. Gardiner was a sensible, gentlemanlike man, greatly superior to his sister, as well by nature as education."
                 }
             ]
         },
@@ -49,20 +37,8 @@
                     "native": "The Netherfield ladies would have had difficulty in believing that a man who lived by trade, and within view of his own warehouses, could have been so well-bred and agreeable."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Gardiner, die mehrere Jahre jünger war als Mrs.",
-                    "native": "Gardiner, who was several years younger than Mrs."
-                },
-                {
-                    "target": "Bennet und Mrs.",
-                    "native": "Bennet and Mrs."
-                },
-                {
-                    "target": "Philips, war eine freundliche, kluge und elegante Frau und die absolute Lieblingstante all ihrer Nichten in Longbourn.",
-                    "native": "Phillips, was an amiable, intelligent, elegant woman, and a great favourite with all her Longbourn nieces."
+                    "target": "Mrs. Gardiner, die mehrere Jahre jünger war als Mrs. Bennet und Mrs. Philips, war eine freundliche, kluge und elegante Frau und die absolute Lieblingstante all ihrer Nichten in Longbourn.",
+                    "native": "Mrs. Gardiner, who was several years younger than Mrs. Bennet and Mrs. Phillips, was an amiable, intelligent, elegant woman, and a great favourite with all her Longbourn nieces."
                 },
                 {
                     "target": "Vor allem zwischen den beiden ältesten Mädchen und ihr bestand eine ganz besondere Freundschaft.",
@@ -73,18 +49,14 @@
                     "native": "They had frequently been staying with her in town."
                 },
                 {
-                    "target": "Die erste Aufgabe Mrs.",
-                    "native": "The first part of Mrs."
+                    "target": "Die erste Aufgabe Mrs. Gardiners bei ihrer Ankunft war es, Geschenke zu verteilen und die neueste Mode zu beschreiben.",
+                    "native": "The first part of Mrs. Gardiner's business on her arrival was to distribute her presents and describe the newest fashions."
                 }
             ]
         },
         {
             "pageNumber": 3,
             "sentences": [
-                {
-                    "target": "Gardiners bei ihrer Ankunft war es, Geschenke zu verteilen und die neueste Mode zu beschreiben.",
-                    "native": "Gardiner's business on her arrival was to distribute her presents and describe the newest fashions."
-                },
                 {
                     "target": "Als dies getan war, hatte sie eine weniger aktive Rolle zu spielen.",
                     "native": "When this was done she had a less active part to play."
@@ -94,24 +66,16 @@
                     "native": "It became her turn to listen."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Bennet hatte über viele Kümmernisse zu berichten und sich über vieles zu beklagen.",
-                    "native": "Bennet had many grievances to relate, and much to complain of."
+                    "target": "Mrs. Bennet hatte über viele Kümmernisse zu berichten und sich über vieles zu beklagen.",
+                    "native": "Mrs. Bennet had many grievances to relate, and much to complain of."
                 },
                 {
                     "target": "Es sei ihnen sehr übel mitgespielt worden, seit sie ihre Schwägerin zum letzten Mal gesehen habe.",
                     "native": "They had all been very ill-used since she last saw her sister."
                 },
                 {
-                    "target": "Zwei ihrer Töchter seien schon auf dem besten Wege gewesen, sich zu verheiraten, und schließlich sei nichts daraus geworden. \"Ich gebe Jane keine Schuld\", fuhr sie fort, \"denn Jane hätte Mr.",
-                    "native": "Two of her girls had been upon the point of marriage, and after all there was nothing in it. \"I do not blame Jane,\" she continued, \"for Jane would have got Mr."
-                },
-                {
-                    "target": "Bingley genommen, wenn sie gekonnt hätte.",
-                    "native": "Bingley if she could."
+                    "target": "Zwei ihrer Töchter seien schon auf dem besten Wege gewesen, sich zu verheiraten, und schließlich sei nichts daraus geworden. \"Ich gebe Jane keine Schuld\", fuhr sie fort, \"denn Jane hätte Mr. Bingley genommen, wenn sie gekonnt hätte.",
+                    "native": "Two of her girls had been upon the point of marriage, and after all there was nothing in it. \"I do not blame Jane,\" she continued, \"for Jane would have got Mr. Bingley if she could."
                 }
             ]
         },
@@ -123,16 +87,8 @@
                     "native": "But Lizzy!"
                 },
                 {
-                    "target": "Ach, Schwägerin, es ist sehr hart, daran zu denken, daß sie zu dieser Zeit bereits hätte Mr.",
-                    "native": "Oh, sister!"
-                },
-                {
-                    "target": "Collins’ Gattin sein können, wenn sie nicht so störrisch gewesen wäre.",
-                    "native": "It is very hard to think that she might have been Mr."
-                },
-                {
-                    "target": "Er hat ihr in diesem selben Zimmer einen Heiratsantrag gemacht, und sie hat ihn abgewiesen.",
-                    "native": "Collins's wife by this time, had it not been for her own perverseness."
+                    "target": "Ach, Schwägerin, es ist sehr hart, daran zu denken, daß sie zu dieser Zeit bereits hätte Mr. Collins’ Gattin sein können, wenn sie nicht so störrisch gewesen wäre. Er hat ihr in diesem selben Zimmer einen Heiratsantrag gemacht, und sie hat ihn abgewiesen.",
+                    "native": "Oh, sister! It is very hard to think that she might have been Mr. Collins's wife by this time, had it not been for her own perverseness."
                 },
                 {
                     "target": "Die Folge davon ist, daß Lady Lucas vor mir eine Tochter verheiratet haben wird und daß der Besitz von Longbourn genauso weitervererbt wird wie zuvor.",
@@ -160,16 +116,8 @@
                     "native": "I am sorry to say it of them, but so it is."
                 },
                 {
-                    "target": "Aber daß ihr gerade zu dieser Zeit gekommen seid, ist mein größter Trost, und es freut mich sehr, von dir zu hören, was du uns über lange Ärmel erzählt hast.\" Mrs.",
-                    "native": "It makes me very nervous and poorly, to be thwarted so in my own family, and to have neighbours who think of themselves before anybody else."
-                },
-                {
-                    "target": "Gardiner, die durch ihren Briefwechsel mit Jane und Elizabeth einen Großteil dieser Neuigkeiten schon vorher erfahren hatte, antwortete ihrer Schwägerin nur leichthin und wechselte aus Mitleid mit ihren Nichten das Thema.",
-                    "native": "However, your coming just at this time is the greatest of comforts, and I am very glad to hear what you tell us, of long sleeves.\" Mrs."
-                },
-                {
-                    "target": "Als sie danach mit Elizabeth allein war, sagte sie mehr dazu. \"Es scheint, daß es eine wünschenswerte Heirat für Jane gewesen wäre.",
-                    "native": "Gardiner, to whom the chief of this news had been given before, in the course of Jane and Elizabeth's correspondence with her, made her sister a slight answer, and, in compassion to her nieces, turned the conversation."
+                    "target": "Aber daß ihr gerade zu dieser Zeit gekommen seid, ist mein größter Trost, und es freut mich sehr, von dir zu hören, was du uns über lange Ärmel erzählt hast.\" Mrs. Gardiner, die durch ihren Briefwechsel mit Jane und Elizabeth einen Großteil dieser Neuigkeiten schon vorher erfahren hatte, antwortete ihrer Schwägerin nur leichthin und wechselte aus Mitleid mit ihren Nichten das Thema. Als sie danach mit Elizabeth allein war, sagte sie mehr dazu. \"Es scheint, daß es eine wünschenswerte Heirat für Jane gewesen wäre.",
+                    "native": "It makes me very nervous and poorly, to be thwarted so in my own family, and to have neighbours who think of themselves before anybody else. However, your coming just at this time is the greatest of comforts, and I am very glad to hear what you tell us, of long sleeves.\" Mrs. Gardiner, to whom the chief of this news had been given before, in the course of Jane and Elizabeth's correspondence with her, made her sister a slight answer, and, in compassion to her nieces, turned the conversation."
                 },
                 {
                     "target": "Es tut mir leid, daß nichts daraus wurde.",
@@ -180,12 +128,8 @@
                     "native": "But these things happen so often!"
                 },
                 {
-                    "target": "Ein junger Mann, wie du Mr.",
-                    "native": "A young man, such as you describe Mr."
-                },
-                {
-                    "target": "Bingley beschreibst, verliebt sich so leicht für ein paar Wochen in ein hübsches Mädchen, und wenn sie durch Zufall getrennt werden, vergißt er sie auch leicht wieder, so daß eine solche Unbeständigkeit sehr häufig anzutreffen ist.\" \"An und für sich ein ausgezeichneter Trost\", sagte Elizabeth, \"aber damit ist es bei uns nicht getan.",
-                    "native": "Bingley, so easily falls in love with a pretty girl for a few weeks, and when accident separates them, so easily forgets her, that these sort of inconsistencies are very frequent.\" \"An excellent consolation in its way,\" said Elizabeth, \"but it will not do for us."
+                    "target": "Ein junger Mann, wie du Mr. Bingley beschreibst, verliebt sich so leicht für ein paar Wochen in ein hübsches Mädchen, und wenn sie durch Zufall getrennt werden, vergißt er sie auch leicht wieder, so daß eine solche Unbeständigkeit sehr häufig anzutreffen ist.\" \"An und für sich ein ausgezeichneter Trost\", sagte Elizabeth, \"aber damit ist es bei uns nicht getan.",
+                    "native": "A young man, such as you describe Mr. Bingley, so easily falls in love with a pretty girl for a few weeks, and when accident separates them, so easily forgets her, that these sort of inconsistencies are very frequent.\" \"An excellent consolation in its way,\" said Elizabeth, \"but it will not do for us."
                 }
             ]
         },
@@ -205,12 +149,8 @@
                     "native": "It is as often applied to feelings which arise from a half-hour's acquaintance, as to a real, strong attachment."
                 },
                 {
-                    "target": "Sag mir bitte, wie ›leidenschaftlich‹ war Mr.",
-                    "native": "Pray, how violent was Mr."
-                },
-                {
-                    "target": "Bingleys Liebe?\" \"Ich habe nie eine hoffnungsvollere Zuneigung gesehen.",
-                    "native": "Bingley's love?\" \"I never saw a more promising inclination; he was growing quite inattentive to other people, and wholly engrossed by her."
+                    "target": "Sag mir bitte, wie ›leidenschaftlich‹ war Mr. Bingleys Liebe?\" \"Ich habe nie eine hoffnungsvollere Zuneigung gesehen.",
+                    "native": "Pray, how violent was Mr. Bingley's love?\" \"I never saw a more promising inclination; he was growing quite inattentive to other people, and wholly engrossed by her."
                 },
                 {
                     "target": "Er wurde recht unaufmerksam gegenüber anderen Leuten und war vollkommen gefangengenommen von ihr.",
@@ -250,16 +190,8 @@
                     "native": "But do you think she would be prevailed upon to go back with us?"
                 },
                 {
-                    "target": "Aber glaubst du, wir könnten sie dazu bewegen, mit uns zu kommen?",
-                    "native": "Change of scene might be of service—and perhaps a little relief from home may be as useful as anything.\" Elizabeth was exceedingly pleased with this proposal, and felt persuaded of her sister's ready acquiescence. \"I hope,\" added Mrs."
-                },
-                {
-                    "target": "Eine andere Umgebung könnte ihr guttun – und vielleicht mag auch ein wenig Erholung von zu Hause äußerst nützlich sein.\" Elizabeth war hocherfreut über diesen Vorschlag, und sie war überzeugt, daß ihre Schwester bereitwillig zustimmen würde. \"Ich hoffe\", fügte Mrs.",
-                    "native": "Gardiner, \"that no consideration with regard to this young man will influence her."
-                },
-                {
-                    "target": "Gardiner hinzu, \"daß der Gedanke an diesen jungen Mann sie nicht abhalten wird.",
-                    "native": "We live in so different a part of town, all our connections are so different, and, as you well know, we go out so little, that it is very improbable that they should meet at all, unless he really comes to see her.\" \"And that is quite impossible; for he is now in the custody of his friend, and Mr."
+                    "target": "Aber glaubst du, wir könnten sie dazu bewegen, mit uns zu kommen? Eine andere Umgebung könnte ihr guttun – und vielleicht mag auch ein wenig Erholung von zu Hause äußerst nützlich sein.\" Elizabeth war hocherfreut über diesen Vorschlag, und sie war überzeugt, daß ihre Schwester bereitwillig zustimmen würde. \"Ich hoffe\", fügte Mrs. Gardiner hinzu, \"daß der Gedanke an diesen jungen Mann sie nicht abhalten wird. Wir wohnen in einem ganz anderen Stadtteil, alle unsere Verbindungen sind so ganz anders; und wie du weißt, gehen wir so wenig aus, daß ein Zusammentreffen zwischen ihnen sehr unwahrscheinlich ist, es sei denn, er kommt tatsächlich, um sie zu sehen.\" \"Und das ist ganz unmöglich, denn er befindet sich jetzt unter der Aufsicht seines Freundes; Mr. Darcy würde ihn Jane niemals in einem solchen Stadtteil von London besuchen lassen!",
+                    "native": "Change of scene might be of service—and perhaps a little relief from home may be as useful as anything.\" Elizabeth was exceedingly pleased with this proposal, and felt persuaded of her sister's ready acquiescence. \"I hope,\" added Mrs. Gardiner, \"that no consideration with regard to this young man will influence her. We live in so different a part of town, all our connections are so different, and, as you well know, we go out so little, that it is very improbable that they should meet at all, unless he really comes to see her.\" \"And that is quite impossible; for he is now in the custody of his friend, and Mr. Darcy would no more suffer him to call on Jane in such a part of London! My dear aunt, how could you think of it?"
                 }
             ]
         },
@@ -267,28 +199,8 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Wir wohnen in einem ganz anderen Stadtteil, alle unsere Verbindungen sind so ganz anders; und wie du weißt, gehen wir so wenig aus, daß ein Zusammentreffen zwischen ihnen sehr unwahrscheinlich ist, es sei denn, er kommt tatsächlich, um sie zu sehen.\" \"Und das ist ganz unmöglich, denn er befindet sich jetzt unter der Aufsicht seines Freundes; Mr.",
-                    "native": "Darcy would no more suffer him to call on Jane in such a part of London!"
-                },
-                {
-                    "target": "Darcy würde ihn Jane niemals in einem solchen Stadtteil von London besuchen lassen!",
-                    "native": "My dear aunt, how could you think of it?"
-                },
-                {
-                    "target": "Meine liebe Tante, wie konntest du so etwas denken!",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Darcy may perhaps have heard of such a place as Gracechurch Street, but he would hardly think a month's ablution enough to cleanse him from its impurities, were he once to enter it; and depend upon it, Mr."
-                },
-                {
-                    "target": "Darcy mag vielleicht von einem solchen Ort wie Gracechurch Street gehört haben, doch müßte er ihn einmal betreten, so würde er eine einmonatige Waschung kaum für ausreichend halten, um sich von seiner Unreinheit zu befreien; und du kannst dich darauf verlassen, daß sich Mr.",
-                    "native": "Bingley never stirs without him.\" \"So much the better."
-                },
-                {
-                    "target": "Bingley niemals ohne ihn von der Stelle rührt.\" \"Um so besser.",
-                    "native": "I hope they will not meet at all."
+                    "target": "Meine liebe Tante, wie konntest du so etwas denken! Mr. Darcy mag vielleicht von einem solchen Ort wie Gracechurch Street gehört haben, doch müßte er ihn einmal betreten, so würde er eine einmonatige Waschung kaum für ausreichend halten, um sich von seiner Unreinheit zu befreien; und du kannst dich darauf verlassen, daß sich Mr. Bingley niemals ohne ihn von der Stelle rührt.\" \"Um so besser.",
+                    "native": "Mr. Darcy may perhaps have heard of such a place as Gracechurch Street, but he would hardly think a month's ablution enough to cleanse him from its impurities, were he once to enter it; and depend upon it, Mr. Bingley never stirs without him.\" \"So much the better. I hope they will not meet at all."
                 },
                 {
                     "target": "Ich hoffe, daß sie sich überhaupt nicht treffen werden.",
@@ -316,24 +228,12 @@
                     "native": "The Gardiners stayed a week at Longbourn; and what with the Phillipses, the Lucases, and the officers, there was not a day without its engagement."
                 },
                 {
-                    "target": "Die Gardiners blieben eine Woche in Longbourn; und dank der Familien Philips und Lucas und der Offiziere gab es nicht einen Tag ohne Unternehmungen.",
-                    "native": "Mrs."
+                    "target": "Die Gardiners blieben eine Woche in Longbourn; und dank der Familien Philips und Lucas und der Offiziere gab es nicht einen Tag ohne Unternehmungen. Mrs. Bennet hatte so gründlich für die Unterhaltung ihres Bruders und ihrer Schwägerin gesorgt, daß sie nicht ein einziges Mal zu einem richtigen Familiendinner beisammensaßen. Wenn man sich zu Hause verabredete, waren stets einige Offiziere dabei, zu denen dann mit Sicherheit auch Mr.",
+                    "native": "Mrs. Bennet had so carefully provided for the entertainment of her brother and sister, that they did not once sit down to a family dinner. When the engagement was for home, some of the officers always made part of it—of which officers Mr. Wickham was sure to be one; and on these occasions, Mrs."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Bennet had so carefully provided for the entertainment of her brother and sister, that they did not once sit down to a family dinner."
-                },
-                {
-                    "target": "Bennet hatte so gründlich für die Unterhaltung ihres Bruders und ihrer Schwägerin gesorgt, daß sie nicht ein einziges Mal zu einem richtigen Familiendinner beisammensaßen.",
-                    "native": "When the engagement was for home, some of the officers always made part of it—of which officers Mr."
-                },
-                {
-                    "target": "Wenn man sich zu Hause verabredete, waren stets einige Offiziere dabei, zu denen dann mit Sicherheit auch Mr.",
-                    "native": "Wickham was sure to be one; and on these occasions, Mrs."
-                },
-                {
-                    "target": "Wickham gehörte; und bei diesen Gelegenheiten beobachtete Mrs.",
-                    "native": "Gardiner, rendered suspicious by Elizabeth's warm commendation, narrowly observed them both."
+                    "target": "Wickham gehörte; und bei diesen Gelegenheiten beobachtete Mrs. Gardiner, mißtrauisch geworden durch Elizabeths lebhaftes Lob für ihn, die beiden sehr genau.",
+                    "native": "Gardiner, rendered suspicious by Elizabeth's warm commendation, narrowly observed them both. Without supposing them, from what she saw, to be very seriously in love, their preference of each other was plain enough to make her a little uneasy; and she resolved to speak to Elizabeth on the subject before she left Hertfordshire, and represent to her the imprudence of encouraging such an attachment."
                 }
             ]
         },
@@ -341,36 +241,16 @@
             "pageNumber": 10,
             "sentences": [
                 {
-                    "target": "Gardiner, mißtrauisch geworden durch Elizabeths lebhaftes Lob für ihn, die beiden sehr genau.",
-                    "native": "Without supposing them, from what she saw, to be very seriously in love, their preference of each other was plain enough to make her a little uneasy; and she resolved to speak to Elizabeth on the subject before she left Hertfordshire, and represent to her the imprudence of encouraging such an attachment."
-                },
-                {
-                    "target": "Ohne sie, nach dem, was sie sah, für ernsthaft verliebt zu halten, war ihre Vorliebe füreinander doch deutlich genug, um sie ein wenig besorgt zu machen; und sie beschloß, mit Elizabeth darüber zu sprechen, ehe sie Hertfordshire verließ, und ihr die Unklugheit vor Augen zu führen, eine solche Zuneigung zu fördern.",
-                    "native": "To Mrs."
-                },
-                {
-                    "target": "Für Mrs.",
-                    "native": "Gardiner, Wickham had one means of affording pleasure, unconnected with his general powers."
-                },
-                {
-                    "target": "Gardiner besaß Wickham einen Vorzug, der mit seinen sonstigen Talenten nichts zu tun hatte.",
-                    "native": "About ten or a dozen years ago, before her marriage, she had spent a considerable time in that very part of Derbyshire to which he belonged."
+                    "target": "Ohne sie, nach dem, was sie sah, für ernsthaft verliebt zu halten, war ihre Vorliebe füreinander doch deutlich genug, um sie ein wenig besorgt zu machen; und sie beschloß, mit Elizabeth darüber zu sprechen, ehe sie Hertfordshire verließ, und ihr die Unklugheit vor Augen zu führen, eine solche Zuneigung zu fördern. Für Mrs. Gardiner besaß Wickham einen Vorzug, der mit seinen sonstigen Talenten nichts zu tun hatte.",
+                    "native": "To Mrs. Gardiner, Wickham had one means of affording pleasure, unconnected with his general powers. About ten or a dozen years ago, before her marriage, she had spent a considerable time in that very part of Derbyshire to which he belonged."
                 },
                 {
                     "target": "Vor etwa zehn, zwölf Jahren, noch vor ihrer Verheiratung, hatte sie eine beträchtliche Zeit genau in jenem Teil von Derbyshire zugebracht, wo auch er herkam.",
                     "native": "They had, therefore, many acquaintances in common; and though Wickham had been little there since the death of Darcy's father, it was yet in his power to give her fresher intelligence of her former friends than she had been in the way of procuring."
                 },
                 {
-                    "target": "Sie hatten daher viele gemeinsame Bekannte; und obgleich Wickham seit dem Tod von Darcys Vater vor fünf Jahren wenig dort gewesen war, konnte er ihr doch neuere Informationen über ihre früheren Freunde liefern, als ihr selbst zugänglich waren.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Gardiner had seen Pemberley, and known the late Mr."
-                },
-                {
-                    "target": "Gardiner hatte Pemberley gesehen und war mit der Persönlichkeit des verstorbenen Mr.",
-                    "native": "Darcy by character perfectly well."
+                    "target": "Sie hatten daher viele gemeinsame Bekannte; und obgleich Wickham seit dem Tod von Darcys Vater vor fünf Jahren wenig dort gewesen war, konnte er ihr doch neuere Informationen über ihre früheren Freunde liefern, als ihr selbst zugänglich waren. Mrs. Gardiner hatte Pemberley gesehen und war mit der Persönlichkeit des verstorbenen Mr. Darcy sehr wohl vertraut.",
+                    "native": "Mrs. Gardiner had seen Pemberley, and known the late Mr. Darcy by character perfectly well. Here consequently was an inexhaustible subject of discourse."
                 }
             ]
         },
@@ -378,24 +258,12 @@
             "pageNumber": 11,
             "sentences": [
                 {
-                    "target": "Darcy sehr wohl vertraut.",
-                    "native": "Here consequently was an inexhaustible subject of discourse."
-                },
-                {
                     "target": "Folglich war dies ein unerschöpfliches Thema.",
                     "native": "In comparing her recollection of Pemberley with the minute description which Wickham could give, and in bestowing her tribute of praise on the character of its late possessor, she was delighting both him and herself."
                 },
                 {
-                    "target": "Indem sie ihre Erinnerungen an Pemberley mit der sehr genauen Beschreibung verglich, die Wickham geben konnte, und dem Charakter des früheren Besitzers das ihm gebührende Lob zollte, erfreute sie ihn wie auch sich selbst.",
-                    "native": "On being made acquainted with the present Mr."
-                },
-                {
-                    "target": "Da sie nun von seiner Behandlung durch den gegenwärtigen Mr.",
-                    "native": "Darcy's treatment of him, she tried to remember some of that gentleman's reputed disposition when quite a lad which might agree with it, and was confident at last that she recollected having heard Mr."
-                },
-                {
-                    "target": "Darcy erfuhr, versuchte sie sich auf etwas in der angeblichen Veranlagung dieses Herrn – als noch ziemlich junger Bursche – zu besinnen, was damit im Einklang stehen könnte; und sie meinte sich schließlich mit Sicherheit daran zu erinnern, daß sie von Mr.",
-                    "native": "Fitzwilliam Darcy formerly spoken of as a very proud, ill-natured boy."
+                    "target": "Indem sie ihre Erinnerungen an Pemberley mit der sehr genauen Beschreibung verglich, die Wickham geben konnte, und dem Charakter des früheren Besitzers das ihm gebührende Lob zollte, erfreute sie ihn wie auch sich selbst. Da sie nun von seiner Behandlung durch den gegenwärtigen Mr. Darcy erfuhr, versuchte sie sich auf etwas in der angeblichen Veranlagung dieses Herrn – als noch ziemlich junger Bursche – zu besinnen, was damit im Einklang stehen könnte; und sie meinte sich schließlich mit Sicherheit daran zu erinnern, daß sie von Mr.",
+                    "native": "On being made acquainted with the present Mr. Darcy's treatment of him, she tried to remember some of that gentleman's reputed disposition when quite a lad which might agree with it, and was confident at last that she recollected having heard Mr. Fitzwilliam Darcy formerly spoken of as a very proud, ill-natured boy."
                 }
             ]
         }

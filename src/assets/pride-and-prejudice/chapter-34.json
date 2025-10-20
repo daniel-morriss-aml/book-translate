@@ -8,12 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Als sie fort waren, suchte Elizabeth, als wollte sie sich so heftig wie möglich gegen Mr.",
-                    "native": "When they were gone, Elizabeth, as if intending to exasperate herself as much as possible against Mr."
-                },
-                {
-                    "target": "Darcy aufbringen, Beschäftigung in der Prüfung aller Briefe, die Jane ihr geschrieben hatte, seit sie in Kent war.",
-                    "native": "Darcy, chose for her employment the examination of all the letters which Jane had written to her since her being in Kent."
+                    "target": "Als sie fort waren, suchte Elizabeth, als wollte sie sich so heftig wie möglich gegen Mr. Darcy aufbringen, Beschäftigung in der Prüfung aller Briefe, die Jane ihr geschrieben hatte, seit sie in Kent war.",
+                    "native": "When they were gone, Elizabeth, as if intending to exasperate herself as much as possible against Mr. Darcy, chose for her employment the examination of all the letters which Jane had written to her since her being in Kent."
                 },
                 {
                     "target": "Sie enthielten keine wirklichen Klagen, auch kein Wiederaufgreifen früherer Ereignisse oder irgendwelche Bemerkungen darüber, daß sie litt.",
@@ -28,12 +24,8 @@
                     "native": "Elizabeth noticed every sentence conveying the idea of uneasiness, with an attention which it had hardly received on the first perusal."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Darcys schmachvolle Großtuerei über den Schmerz, den er hatte zufügen können, ließ sie die Leiden ihrer Schwester um so stärker fühlen.",
-                    "native": "Darcy's shameful boast of what misery he had been able to inflict, gave her a keener sense of her sister's sufferings."
+                    "target": "Mr. Darcys schmachvolle Großtuerei über den Schmerz, den er hatte zufügen können, ließ sie die Leiden ihrer Schwester um so stärker fühlen.",
+                    "native": "Mr. Darcy's shameful boast of what misery he had been able to inflict, gave her a keener sense of her sister's sufferings."
                 },
                 {
                     "target": "Es war ihr ein gewisser Trost, wenn sie daran dachte, daß sein Besuch auf Rosings am übernächsten Tag enden sollte, und ein noch größerer, daß sie in weniger als zwei Wochen selbst wieder bei Jane sein würde und ihr mit ihrer ganzen schwesterlichen Liebe helfen konnte, ihre Lebensgeister wieder aufzurichten.",
@@ -53,12 +45,8 @@
                     "native": "While settling this point, she was suddenly roused by the sound of the door-bell, and her spirits were a little fluttered by the idea of its being Colonel Fitzwilliam himself, who had once before called late in the evening, and might now come to inquire particularly after her."
                 },
                 {
-                    "target": "Doch dieser Gedanke war bald verbannt, und es bewegten sie ganz andere Gefühle, als sie zu ihrer höchsten Verwunderung Mr.",
-                    "native": "But this idea was soon banished, and her spirits were very differently affected, when, to her utter amazement, she saw Mr."
-                },
-                {
-                    "target": "Darcy hereinkommen sah.",
-                    "native": "Darcy walk into the room."
+                    "target": "Doch dieser Gedanke war bald verbannt, und es bewegten sie ganz andere Gefühle, als sie zu ihrer höchsten Verwunderung Mr. Darcy hereinkommen sah.",
+                    "native": "But this idea was soon banished, and her spirits were very differently affected, when, to her utter amazement, she saw Mr. Darcy walk into the room."
                 },
                 {
                     "target": "Hastig begann er sogleich, sich nach ihrem Befinden zu erkundigen, und erklärte seinen Besuch mit dem Wunsch zu erfahren, ob es ihr besser ginge.",
@@ -160,16 +148,8 @@
                     "native": "I am sorry to have occasioned pain to anyone."
                 },
                 {
-                    "target": "Die Gefühle, die, wie Sie mir sagen, lange das Geständnis Ihrer Liebe verhindert haben, können Ihnen nach dieser Erklärung sicher mit Leichtigkeit darüber hinweghelfen.\" Mr.",
-                    "native": "It has been most unconsciously done, however, and I hope will be of short duration."
-                },
-                {
-                    "target": "Darcy, der gegen den Kaminsims gelehnt stand, während seine Augen fest auf sie gerichtet waren, schien ihre Worte mit ebensoviel Erstaunen wie Unwillen aufzunehmen.",
-                    "native": "The feelings which, you tell me, have long prevented the acknowledgment of your regard, can have little difficulty in overcoming it after this explanation.\" Mr."
-                },
-                {
-                    "target": "Sein Gesicht wurde blaß vor Zorn, und sein erregtes Gemüt war in jedem seiner Züge sichtbar.",
-                    "native": "Darcy, who was leaning against the mantelpiece with his eyes fixed on her face, seemed to catch her words with no less resentment than surprise."
+                    "target": "Die Gefühle, die, wie Sie mir sagen, lange das Geständnis Ihrer Liebe verhindert haben, können Ihnen nach dieser Erklärung sicher mit Leichtigkeit darüber hinweghelfen.\" Mr. Darcy, der gegen den Kaminsims gelehnt stand, während seine Augen fest auf sie gerichtet waren, schien ihre Worte mit ebensoviel Erstaunen wie Unwillen aufzunehmen. Sein Gesicht wurde blaß vor Zorn, und sein erregtes Gemüt war in jedem seiner Züge sichtbar.",
+                    "native": "It has been most unconsciously done, however, and I hope will be of short duration. The feelings which, you tell me, have long prevented the acknowledgment of your regard, can have little difficulty in overcoming it after this explanation.\" Mr. Darcy, who was leaning against the mantelpiece with his eyes fixed on her face, seemed to catch her words with no less resentment than surprise."
                 },
                 {
                     "target": "Er rang um Fassung und wollte nichts sagen, ehe er nicht glaubte, sie wiedergewonnen zu haben.",
@@ -213,12 +193,8 @@
                     "native": "You know I have."
                 },
                 {
-                    "target": "Kein Motiv kann die ungerechte und unrühmliche Rolle entschuldigen, die Sie dabei gespielt haben.",
-                    "native": "Had not my feelings decided against you—had they been indifferent, or had they even been favourable, do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?\" As she pronounced these words, Mr."
-                },
-                {
-                    "target": "Sie wagen es nicht zu leugnen, und Sie können es auch nicht, daß Sie das hauptsächliche Werkzeug, wenn nicht gar das einzige waren, das die beiden voneinander trennte – das den einen der Kritik der Leute wegen seiner Launen und Unbeständigkeit aussetzte, die andere dem Gespött wegen enttäuschter Hoffnungen, und beide einem Unglück der bedenklichsten Art preisgegeben hat.\" Sie hielt inne und sah mit nicht geringer Entrüstung, daß er ihr mit einer Miene zuhörte, die bewies, daß er völlig unberührt war von jeglichem Gefühl der Reue.",
-                    "native": "Darcy changed colour; but the emotion was short, and he listened without attempting to interrupt her while she continued: \"I have every reason in the world to think ill of you."
+                    "target": "Kein Motiv kann die ungerechte und unrühmliche Rolle entschuldigen, die Sie dabei gespielt haben. Sie wagen es nicht zu leugnen, und Sie können es auch nicht, daß Sie das hauptsächliche Werkzeug, wenn nicht gar das einzige waren, das die beiden voneinander trennte – das den einen der Kritik der Leute wegen seiner Launen und Unbeständigkeit aussetzte, die andere dem Gespött wegen enttäuschter Hoffnungen, und beide einem Unglück der bedenklichsten Art preisgegeben hat.\" Sie hielt inne und sah mit nicht geringer Entrüstung, daß er ihr mit einer Miene zuhörte, die bewies, daß er völlig unberührt war von jeglichem Gefühl der Reue.",
+                    "native": "Had not my feelings decided against you—had they been indifferent, or had they even been favourable, do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?\" As she pronounced these words, Mr. Darcy changed colour; but the emotion was short, and he listened without attempting to interrupt her while she continued: \"I have every reason in the world to think ill of you."
                 },
                 {
                     "target": "Er sah sie sogar mit einem Lächeln gekünstelter Ungläubigkeit an. \"Können Sie es leugnen, daß Sie das getan haben?\" wiederholte sie.",
@@ -242,20 +218,12 @@
                     "native": "With assumed tranquillity he then replied: \"I have no wish of denying that I did everything in my power to separate my friend from your sister, or that I rejoice in my success."
                 },
                 {
-                    "target": "Ihr Charakter wurde mir in einer Schilderung enthüllt, die ich vor vielen Monaten von Mr.",
-                    "native": "Towards him I have been kinder than towards myself.\" Elizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her. \"But it is not merely this affair,\" she continued, \"on which my dislike is founded."
+                    "target": "Ihr Charakter wurde mir in einer Schilderung enthüllt, die ich vor vielen Monaten von Mr. Wickham erhielt.",
+                    "native": "Towards him I have been kinder than towards myself.\" Elizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her. \"But it is not merely this affair,\" she continued, \"on which my dislike is founded. Long before it had taken place my opinion of you was decided."
                 },
                 {
-                    "target": "Wickham erhielt.",
-                    "native": "Long before it had taken place my opinion of you was decided."
-                },
-                {
-                    "target": "Was können Sie dazu zu sagen haben?",
-                    "native": "Your character was unfolded in the recital which I received many months ago from Mr."
-                },
-                {
-                    "target": "Mit welchem eingebildeten Freundschaftsdienst können Sie sich hier verteidigen?",
-                    "native": "Wickham."
+                    "target": "Was können Sie dazu zu sagen haben? Mit welchem eingebildeten Freundschaftsdienst können Sie sich hier verteidigen?",
+                    "native": "Your character was unfolded in the recital which I received many months ago from Mr. Wickham."
                 },
                 {
                     "target": "Oder mit welcher falschen Darstellung können Sie hierbei andere täuschen?\" \"Sie nehmen ja regen Anteil an den Angelegenheiten dieses Herrn\", sagte Darcy in weniger ruhigem Ton, während ihm die Röte ins Gesicht stieg. \"Wie könnte jemand, der sein Mißgeschick kennt, nicht Anteil an ihm nehmen?\" \"Sein Mißgeschick!\" wiederholte Darcy verächtlich, \"ja, sein Mißgeschick ist in der Tat erheblich gewesen.\" \"Und von Ihnen zugefügt\", rief Elizabeth nachdrücklich. \"Sie haben für seinen gegenwärtigen Zustand der Armut – relativer Armut – gesorgt.",
@@ -320,12 +288,8 @@
                     "native": "They were natural and just."
                 },
                 {
-                    "target": "Konnten Sie erwarten, daß ich mich über den niedrigen Stand Ihrer Angehörigen freue, mich beglückwünsche zu der Hoffnung auf Verwandte, deren gesellschaftliche Stellung so entschieden unter der meinen liegt?\" Elizabeth fühlte, wie sie mit jedem Augenblick zorniger wurde; doch bemühte sie sich bis zum äußersten, Gelassenheit zu zeigen, als sie sagte: \"Sie irren sich, Mr.",
-                    "native": "Could you expect me to rejoice in the inferiority of your connections?—to congratulate myself on the hope of relations, whose condition in life is so decidedly beneath my own?\" Elizabeth felt herself growing more angry every moment; yet she tried to the utmost to speak with composure when she said: \"You are mistaken, Mr."
-                },
-                {
-                    "target": "Darcy, wenn Sie annehmen, daß die Art Ihrer Erklärung mich auf irgendeine andere Weise beeinflußt hat, als mir den Kummer zu ersparen, den ich, als ich Sie abwies, wohl empfunden hätte, wenn Sie sich mehr wie ein Gentleman verhalten hätten.\" Sie sah, wie er dabei zusammenzuckte, aber er sagte nichts, und sie fuhr fort: \"Sie hätten mir Ihre Hand in keiner denkbaren Weise antragen können, die mich verleitet hätte, sie anzunehmen.\" Wieder war seine Verwunderung offensichtlich, und er sah sie mit einem Ausdruck an, in dem sich Ungläubigkeit und Ärger mischten.",
-                    "native": "Darcy, if you suppose that the mode of your declaration affected me in any other way, than as it spared me the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner.\" She saw him start at this, but he said nothing, and she continued: \"You could not have made the offer of your hand in any possible way that would have tempted me to accept it.\" Again his astonishment was obvious; and he looked at her with an expression of mingled incredulity and mortification."
+                    "target": "Konnten Sie erwarten, daß ich mich über den niedrigen Stand Ihrer Angehörigen freue, mich beglückwünsche zu der Hoffnung auf Verwandte, deren gesellschaftliche Stellung so entschieden unter der meinen liegt?\" Elizabeth fühlte, wie sie mit jedem Augenblick zorniger wurde; doch bemühte sie sich bis zum äußersten, Gelassenheit zu zeigen, als sie sagte: \"Sie irren sich, Mr. Darcy, wenn Sie annehmen, daß die Art Ihrer Erklärung mich auf irgendeine andere Weise beeinflußt hat, als mir den Kummer zu ersparen, den ich, als ich Sie abwies, wohl empfunden hätte, wenn Sie sich mehr wie ein Gentleman verhalten hätten.\" Sie sah, wie er dabei zusammenzuckte, aber er sagte nichts, und sie fuhr fort: \"Sie hätten mir Ihre Hand in keiner denkbaren Weise antragen können, die mich verleitet hätte, sie anzunehmen.\" Wieder war seine Verwunderung offensichtlich, und er sah sie mit einem Ausdruck an, in dem sich Ungläubigkeit und Ärger mischten.",
+                    "native": "Could you expect me to rejoice in the inferiority of your connections?—to congratulate myself on the hope of relations, whose condition in life is so decidedly beneath my own?\" Elizabeth felt herself growing more angry every moment; yet she tried to the utmost to speak with composure when she said: \"You are mistaken, Mr. Darcy, if you suppose that the mode of your declaration affected me in any other way, than as it spared me the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner.\" She saw him start at this, but he said nothing, and she continued: \"You could not have made the offer of your hand in any possible way that would have tempted me to accept it.\" Again his astonishment was obvious; and he looked at her with an expression of mingled incredulity and mortification."
                 },
                 {
                     "target": "Sie sprach weiter. \"Von Anfang an, ich möchte fast sagen, schon vom ersten Augenblick an, als ich Sie kennenlernte, hat mich Ihr Verhalten vollkommen von Ihrer Arroganz und Ihrem Dünkel überzeugt; und Ihre selbstsüchtige Geringschätzung der Gefühle anderer war derart, daß sie die Grundlage für das Mißfallen bildete, auf die nachfolgende Ereignisse eine so unabänderliche Abneigung gründeten.",
@@ -357,16 +321,8 @@
                     "native": "Her astonishment, as she reflected on what had passed, was increased by every review of it."
                 },
                 {
-                    "target": "Ihr Erstaunen, als sie darüber nachdachte, was vorgefallen war, wurde mit jedem Rückblick darauf größer.",
-                    "native": "That she should receive an offer of marriage from Mr."
-                },
-                {
-                    "target": "Daß sie einen Heiratsantrag von Mr.",
-                    "native": "Darcy!"
-                },
-                {
-                    "target": "Darcy erhalten hatte, daß er sie schon so viele Monate lang liebte – so sehr, daß er sie heiraten wollte, trotz all der Einwände, die ihn veranlaßt hatten, die Heirat seines Freundes mit ihrer Schwester zu verhindern, und die in seinem Fall zumindest ebenso stark sein mußten –, war kaum glaubhaft!",
-                    "native": "That he should have been in love with her for so many months!"
+                    "target": "Ihr Erstaunen, als sie darüber nachdachte, was vorgefallen war, wurde mit jedem Rückblick darauf größer. Daß sie einen Heiratsantrag von Mr. Darcy erhalten hatte, daß er sie schon so viele Monate lang liebte – so sehr, daß er sie heiraten wollte, trotz all der Einwände, die ihn veranlaßt hatten, die Heirat seines Freundes mit ihrer Schwester zu verhindern, und die in seinem Fall zumindest ebenso stark sein mußten –, war kaum glaubhaft!",
+                    "native": "That she should receive an offer of marriage from Mr. Darcy! That he should have been in love with her for so many months!"
                 },
                 {
                     "target": "Es war erfreulich, unbewußt eine so starke Liebe geweckt zu haben.",
@@ -378,16 +334,8 @@
             "pageNumber": 11,
             "sentences": [
                 {
-                    "target": "Aber sein Stolz, sein abscheulicher Stolz, sein schamloses Bekenntnis dessen, was er im Hinblick auf Jane getan hatte, seine unverzeihliche Selbstsicherheit, mit der er dies zugab, obgleich er es nicht rechtfertigen konnte, die gefühllose Art, mit der er über Mr.",
-                    "native": "It was gratifying to have inspired unconsciously so strong an affection."
-                },
-                {
-                    "target": "Wickham gesprochen hatte, und seine Grausamkeit diesem gegenüber, die er nicht versucht hatte zu leugnen – all das besiegte bald das Mitleid, das der Gedanke an seine Liebe einen Augenblick lang hervorgerufen hatte.",
-                    "native": "But his pride, his abominable pride—his shameless avowal of what he had done with respect to Jane—his unpardonable assurance in acknowledging, though he could not justify it, and the unfeeling manner in which he had mentioned Mr."
-                },
-                {
-                    "target": "Sie blieb äußerst erregt in ihre Betrachtungen versunken, bis das Geräusch von Lady Catherines Kutsche ihr bewußt machte, wie wenig sie imstande war, Charlottes Beobachtungsvermögen zu begegnen, und sie eilte fort in ihr Zimmer.",
-                    "native": "Wickham, his cruelty towards whom he had not attempted to deny, soon overcame the pity which the consideration of his attachment had for a moment excited."
+                    "target": "Aber sein Stolz, sein abscheulicher Stolz, sein schamloses Bekenntnis dessen, was er im Hinblick auf Jane getan hatte, seine unverzeihliche Selbstsicherheit, mit der er dies zugab, obgleich er es nicht rechtfertigen konnte, die gefühllose Art, mit der er über Mr. Wickham gesprochen hatte, und seine Grausamkeit diesem gegenüber, die er nicht versucht hatte zu leugnen – all das besiegte bald das Mitleid, das der Gedanke an seine Liebe einen Augenblick lang hervorgerufen hatte. Sie blieb äußerst erregt in ihre Betrachtungen versunken, bis das Geräusch von Lady Catherines Kutsche ihr bewußt machte, wie wenig sie imstande war, Charlottes Beobachtungsvermögen zu begegnen, und sie eilte fort in ihr Zimmer.",
+                    "native": "It was gratifying to have inspired unconsciously so strong an affection. But his pride, his abominable pride—his shameless avowal of what he had done with respect to Jane—his unpardonable assurance in acknowledging, though he could not justify it, and the unfeeling manner in which he had mentioned Mr. Wickham, his cruelty towards whom he had not attempted to deny, soon overcame the pity which the consideration of his attachment had for a moment excited."
                 }
             ]
         }

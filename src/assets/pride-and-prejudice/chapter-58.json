@@ -8,32 +8,20 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Statt eines Entschuldigungsbriefes von seinem Freund, wie ihn Elizabeth halb erwartet hatte, konnte Mr.",
-                    "native": "Instead of receiving any such letter of excuse from his friend, as Elizabeth half expected Mr."
+                    "target": "Statt eines Entschuldigungsbriefes von seinem Freund, wie ihn Elizabeth halb erwartet hatte, konnte Mr. Bingley schon wenige Tage nach Lady Catherines Besuch Darcy selbst mit nach Longbourn bringen.",
+                    "native": "Instead of receiving any such letter of excuse from his friend, as Elizabeth half expected Mr. Bingley to do, he was able to bring Darcy with him to Longbourn before many days had passed after Lady Catherine's visit."
                 },
                 {
-                    "target": "Bingley schon wenige Tage nach Lady Catherines Besuch Darcy selbst mit nach Longbourn bringen.",
-                    "native": "Bingley to do, he was able to bring Darcy with him to Longbourn before many days had passed after Lady Catherine's visit."
-                },
-                {
-                    "target": "Die Herren erschienen zeitig; und ehe Mrs.",
-                    "native": "The gentlemen arrived early; and, before Mrs."
-                },
-                {
-                    "target": "Bennet noch Zeit hatte, Darcy zu erzählen, daß seine Tante bei ihnen gewesen war – was ihre Tochter augenblicklich fürchtete –, schlug Bingley, der mit Jane allein sein wollte, einen Spaziergang für alle vor.",
-                    "native": "Bennet had time to tell him of their having seen his aunt, of which her daughter sat in momentary dread, Bingley, who wanted to be alone with Jane, proposed their all walking out."
+                    "target": "Die Herren erschienen zeitig; und ehe Mrs. Bennet noch Zeit hatte, Darcy zu erzählen, daß seine Tante bei ihnen gewesen war – was ihre Tochter augenblicklich fürchtete –, schlug Bingley, der mit Jane allein sein wollte, einen Spaziergang für alle vor.",
+                    "native": "The gentlemen arrived early; and, before Mrs. Bennet had time to tell him of their having seen his aunt, of which her daughter sat in momentary dread, Bingley, who wanted to be alone with Jane, proposed their all walking out."
                 },
                 {
                     "target": "Man war einverstanden.",
                     "native": "It was agreed to."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Bennet war es nicht gewohnt spazierenzugehen, Mary hatte niemals Zeit, und so machten sich die übrigen fünf zusammen auf.",
-                    "native": "Bennet was not in the habit of walking; Mary could never spare time; but the remaining five set off together."
+                    "target": "Mrs. Bennet war es nicht gewohnt spazierenzugehen, Mary hatte niemals Zeit, und so machten sich die übrigen fünf zusammen auf.",
+                    "native": "Mrs. Bennet was not in the habit of walking; Mary could never spare time; but the remaining five set off together."
                 },
                 {
                     "target": "Bingley und Jane blieben jedoch bald hinter den anderen zurück, und so mußten sich Elizabeth, Kitty und Darcy allein miteinander unterhalten.",
@@ -73,22 +61,14 @@
                     "native": "Ever since I have known it, I have been most anxious to acknowledge to you how gratefully I feel it."
                 },
                 {
-                    "target": "Ich dachte nicht, daß Mrs.",
-                    "native": "Were it known to the rest of my family, I should not have merely my own gratitude to express.\" \"I am sorry, exceedingly sorry,\" replied Darcy, in a tone of surprise and emotion, \"that you have ever been informed of what may, in a mistaken light, have given you uneasiness."
+                    "target": "Ich dachte nicht, daß Mrs. Gardiner so wenig zu trauen war.\" \"Sie dürfen meine Tante nicht tadeln. Es war Lydia, die mir in ihrer Gedankenlosigkeit zuerst verriet, daß Sie an der Sache beteiligt waren; und natürlich hatte ich keine Ruhe, bis ich nicht die näheren Umstände kannte.",
+                    "native": "Were it known to the rest of my family, I should not have merely my own gratitude to express.\" \"I am sorry, exceedingly sorry,\" replied Darcy, in a tone of surprise and emotion, \"that you have ever been informed of what may, in a mistaken light, have given you uneasiness. I did not think Mrs. Gardiner was so little to be trusted.\" \"You must not blame my aunt."
                 }
             ]
         },
         {
             "pageNumber": 3,
             "sentences": [
-                {
-                    "target": "Gardiner so wenig zu trauen war.\" \"Sie dürfen meine Tante nicht tadeln.",
-                    "native": "I did not think Mrs."
-                },
-                {
-                    "target": "Es war Lydia, die mir in ihrer Gedankenlosigkeit zuerst verriet, daß Sie an der Sache beteiligt waren; und natürlich hatte ich keine Ruhe, bis ich nicht die näheren Umstände kannte.",
-                    "native": "Gardiner was so little to be trusted.\" \"You must not blame my aunt."
-                },
                 {
                     "target": "Lassen Sie mich Ihnen im Namen meiner ganzen Familie wieder und wieder danken für diese hochherzige Teilnahme, die Sie veranlaßte, so viel Mühe auf sich zu nehmen und so viele Demütigungen zu ertragen, um sie ausfindig zu machen.\" \"Wenn Sie mir danken wollen\", erwiderte er, \"tun Sie es allein für sich selbst.",
                     "native": "Lydia's thoughtlessness first betrayed to me that you had been concerned in the matter; and, of course, I could not rest till I knew the particulars."
@@ -357,16 +337,8 @@
                     "native": "She expressed her gratitude again, but it was too painful a subject to each, to be dwelt on farther."
                 },
                 {
-                    "target": "Sie gab erneut ihrer Dankbarkeit Ausdruck, doch war dies für beide ein zu peinliches Thema, um dabei noch weiter zu verweilen.",
-                    "native": "After walking several miles in a leisurely manner, and too busy to know anything about it, they found at last, on examining their watches, that it was time to be at home. \"What could become of Mr."
-                },
-                {
-                    "target": "Nachdem sie mehrere Meilen langsam dahingegangen waren, viel zu beschäftigt, um sich dessen bewußt zu sein, stellten sie schließlich bei einem Blick auf die Uhr fest, daß es eigentlich schon an der Zeit war, wieder zurück zu sein. \"Wo mögen Mr.",
-                    "native": "Bingley and Jane!\" was a wonder which introduced the discussion of their affairs."
-                },
-                {
-                    "target": "Bingley und Jane geblieben sein!\" Das war eine Frage, die das Gespräch auf deren Verhältnis brachte.",
-                    "native": "Darcy was delighted with their engagement; his friend had given him the earliest information of it. \"I must ask whether you were surprised?\" said Elizabeth. \"Not at all."
+                    "target": "Sie gab erneut ihrer Dankbarkeit Ausdruck, doch war dies für beide ein zu peinliches Thema, um dabei noch weiter zu verweilen. Nachdem sie mehrere Meilen langsam dahingegangen waren, viel zu beschäftigt, um sich dessen bewußt zu sein, stellten sie schließlich bei einem Blick auf die Uhr fest, daß es eigentlich schon an der Zeit war, wieder zurück zu sein. \"Wo mögen Mr. Bingley und Jane geblieben sein!\" Das war eine Frage, die das Gespräch auf deren Verhältnis brachte.",
+                    "native": "After walking several miles in a leisurely manner, and too busy to know anything about it, they found at last, on examining their watches, that it was time to be at home. \"What could become of Mr. Bingley and Jane!\" was a wonder which introduced the discussion of their affairs. Darcy was delighted with their engagement; his friend had given him the earliest information of it. \"I must ask whether you were surprised?\" said Elizabeth. \"Not at all."
                 },
                 {
                     "target": "Darcy war hocherfreut über ihre Verlobung; sein Freund hatte es ihm als erstem mitgeteilt. \"Und hat es Sie überrascht?\" fragte Elizabeth. \"Überhaupt nicht.",
@@ -431,16 +403,8 @@
                     "native": "But his anger, I am persuaded, lasted no longer than he remained in any doubt of your sister's sentiments."
                 },
                 {
-                    "target": "Aber ich bin überzeugt, daß sein Ärger nicht länger anhielt, als sein Zweifel über die Gefühle Ihrer Schwester dauerte.",
-                    "native": "He has heartily forgiven me now.\" Elizabeth longed to observe that Mr."
-                },
-                {
-                    "target": "Er hat mir jetzt von Herzen vergeben.\" Elizabeth hätte zu gern bemerkt, daß Mr.",
-                    "native": "Bingley had been a most delightful friend; so easily guided that his worth was invaluable; but she checked herself."
-                },
-                {
-                    "target": "Bingley ein ganz wundervoller Freund sei – so leicht zu lenken und somit von unschätzbarem Wert; doch sie zügelte sich.",
-                    "native": "She remembered that he had yet to learn to be laughed at, and it was rather too early to begin."
+                    "target": "Aber ich bin überzeugt, daß sein Ärger nicht länger anhielt, als sein Zweifel über die Gefühle Ihrer Schwester dauerte. Er hat mir jetzt von Herzen vergeben.\" Elizabeth hätte zu gern bemerkt, daß Mr. Bingley ein ganz wundervoller Freund sei – so leicht zu lenken und somit von unschätzbarem Wert; doch sie zügelte sich.",
+                    "native": "He has heartily forgiven me now.\" Elizabeth longed to observe that Mr. Bingley had been a most delightful friend; so easily guided that his worth was invaluable; but she checked herself. She remembered that he had yet to learn to be laughed at, and it was rather too early to begin."
                 },
                 {
                     "target": "Sie dachte daran, daß er noch lernen müsse, auch einmal ausgelacht zu werden; und damit zu beginnen, war es doch noch ein wenig früh.",

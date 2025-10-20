@@ -24,16 +24,8 @@
                     "native": "But when the gentlemen entered, Jane was no longer the first object; Miss Bingley's eyes were instantly turned toward Darcy, and she had something to say to him before he had advanced many steps."
                 },
                 {
-                    "target": "Miss Bingleys Blick ging augenblicklich zu Darcy hinüber, und sie hatte schon etwas zu ihm zu sagen, bevor er noch richtig herangekommen war.",
-                    "native": "He addressed himself to Miss Bennet, with a polite congratulation; Mr."
-                },
-                {
-                    "target": "Darcy wandte sich sogleich mit einem höflichen Glückwunsch Miss Bennet zu; Mr.",
-                    "native": "Hurst also made her a slight bow, and said he was \"very glad;\" but diffuseness and warmth remained for Bingley's salutation."
-                },
-                {
-                    "target": "Hurst verbeugte sich ebenfalls leicht und sagte, daß er \"sehr froh\" sei; doch eine wortreiche und herzliche Begrüßung blieb Bingley vorbehalten.",
-                    "native": "He was full of joy and attention."
+                    "target": "Miss Bingleys Blick ging augenblicklich zu Darcy hinüber, und sie hatte schon etwas zu ihm zu sagen, bevor er noch richtig herangekommen war. Darcy wandte sich sogleich mit einem höflichen Glückwunsch Miss Bennet zu; Mr. Hurst verbeugte sich ebenfalls leicht und sagte, daß er \"sehr froh\" sei; doch eine wortreiche und herzliche Begrüßung blieb Bingley vorbehalten.",
+                    "native": "He addressed himself to Miss Bennet, with a polite congratulation; Mr. Hurst also made her a slight bow, and said he was \"very glad;\" but diffuseness and warmth remained for Bingley's salutation. He was full of joy and attention."
                 },
                 {
                     "target": "Er war voller Freude und Aufmerksamkeit.",
@@ -53,28 +45,12 @@
                     "native": "Elizabeth, at work in the opposite corner, saw it all with great delight."
                 },
                 {
-                    "target": "Elizabeth, die mit einer Handarbeit in der entgegengesetzten Ecke saß, sah das alles mit großem Vergnügen.",
-                    "native": "When tea was over, Mr."
+                    "target": "Elizabeth, die mit einer Handarbeit in der entgegengesetzten Ecke saß, sah das alles mit großem Vergnügen. Nach dem Tee erinnerte Mr. Hurst seine Schwägerin an den Kartentisch – doch vergeblich. Sie hatte geheime Information erhalten, daß Mr.",
+                    "native": "When tea was over, Mr. Hurst reminded his sister-in-law of the card-table—but in vain. She had obtained private intelligence that Mr. Darcy did not wish for cards; and Mr."
                 },
                 {
-                    "target": "Nach dem Tee erinnerte Mr.",
-                    "native": "Hurst reminded his sister-in-law of the card-table—but in vain."
-                },
-                {
-                    "target": "Hurst seine Schwägerin an den Kartentisch – doch vergeblich.",
-                    "native": "She had obtained private intelligence that Mr."
-                },
-                {
-                    "target": "Sie hatte geheime Information erhalten, daß Mr.",
-                    "native": "Darcy did not wish for cards; and Mr."
-                },
-                {
-                    "target": "Darcy kein Kartenspiel wünschte, und Mr.",
-                    "native": "Hurst soon found even his open petition rejected."
-                },
-                {
-                    "target": "Hurst mußte bald feststellen, daß selbst seine offen ausgesprochene Bitte abgewiesen wurde.",
-                    "native": "She assured him that no one intended to play, and the silence of the whole party on the subject seemed to justify her."
+                    "target": "Darcy kein Kartenspiel wünschte, und Mr. Hurst mußte bald feststellen, daß selbst seine offen ausgesprochene Bitte abgewiesen wurde.",
+                    "native": "Hurst soon found even his open petition rejected. She assured him that no one intended to play, and the silence of the whole party on the subject seemed to justify her."
                 }
             ]
         },
@@ -82,32 +58,12 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Sie versicherte ihm, daß niemand spielen wolle, und das Schweigen der anderen schien ihr recht zu geben.",
-                    "native": "Mr."
+                    "target": "Sie versicherte ihm, daß niemand spielen wolle, und das Schweigen der anderen schien ihr recht zu geben. Mr. Hurst fand somit nichts anderes zu tun, als sich auf einem der Sofas auszustrecken und zu schlafen. Darcy nahm sich ein Buch, Miss Bingley tat das gleiche, und Mrs.",
+                    "native": "Mr. Hurst had therefore nothing to do, but to stretch himself on one of the sofas and go to sleep. Darcy took up a book; Miss Bingley did the same; and Mrs. Hurst, principally occupied in playing with her bracelets and rings, joined now and then in her brother's conversation with Miss Bennet."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Hurst had therefore nothing to do, but to stretch himself on one of the sofas and go to sleep."
-                },
-                {
-                    "target": "Hurst fand somit nichts anderes zu tun, als sich auf einem der Sofas auszustrecken und zu schlafen.",
-                    "native": "Darcy took up a book; Miss Bingley did the same; and Mrs."
-                },
-                {
-                    "target": "Darcy nahm sich ein Buch, Miss Bingley tat das gleiche, und Mrs.",
-                    "native": "Hurst, principally occupied in playing with her bracelets and rings, joined now and then in her brother's conversation with Miss Bennet."
-                },
-                {
-                    "target": "Hurst, die hauptsächlich damit beschäftigt war, mit ihren Armreifen und Ringen zu spielen, beteiligte sich von Zeit zu Zeit an der Unterhaltung ihres Bruders mit Miss Bennet.",
-                    "native": "Miss Bingley's attention was quite as much engaged in watching Mr."
-                },
-                {
-                    "target": "Miss Bingley war ebenso davon in Anspruch genommen, Mr.",
-                    "native": "Darcy's progress through his book, as in reading her own; and she was perpetually either making some inquiry, or looking at his page."
-                },
-                {
-                    "target": "Darcy bei seiner Lektüre zu beobachten, wie vom Lesen ihres eigenen Buches; und ständig erkundigte sie sich nach etwas oder blickte ihm über die Schulter.",
-                    "native": "She could not win him, however, to any conversation; he merely answered her question, and read on."
+                    "target": "Hurst, die hauptsächlich damit beschäftigt war, mit ihren Armreifen und Ringen zu spielen, beteiligte sich von Zeit zu Zeit an der Unterhaltung ihres Bruders mit Miss Bennet. Miss Bingley war ebenso davon in Anspruch genommen, Mr. Darcy bei seiner Lektüre zu beobachten, wie vom Lesen ihres eigenen Buches; und ständig erkundigte sie sich nach etwas oder blickte ihm über die Schulter.",
+                    "native": "Miss Bingley's attention was quite as much engaged in watching Mr. Darcy's progress through his book, as in reading her own; and she was perpetually either making some inquiry, or looking at his page. She could not win him, however, to any conversation; he merely answered her question, and read on."
                 },
                 {
                     "target": "Sie konnte ihn jedoch nicht dazu bringen, sich mit ihr zu unterhalten, er beantwortete lediglich ihre Fragen und las weiter.",
@@ -156,32 +112,16 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "In ihrer Verzweiflung beschloß sie, noch einen weiteren Versuch zu machen; sie wandte sich an Elizabeth und sagte: \"Miss Eliza Bennet, ich möchte Sie überreden, meinem Beispiel zu folgen und einen Gang durch den Salon zu machen – ich versichere Ihnen, das ist sehr erfrischend nach dem langen Sitzen in ein und derselben Haltung.\" Elizabeth war überrascht, willigte jedoch sofort ein, und Miss Bingley hatte mit dem eigentlichen Ziel ihrer Zuvorkommenheit nicht weniger Erfolg – Mr.",
-                    "native": "I assure you it is very refreshing after sitting so long in one attitude.\" Elizabeth was surprised, but agreed to it immediately."
+                    "target": "In ihrer Verzweiflung beschloß sie, noch einen weiteren Versuch zu machen; sie wandte sich an Elizabeth und sagte: \"Miss Eliza Bennet, ich möchte Sie überreden, meinem Beispiel zu folgen und einen Gang durch den Salon zu machen – ich versichere Ihnen, das ist sehr erfrischend nach dem langen Sitzen in ein und derselben Haltung.\" Elizabeth war überrascht, willigte jedoch sofort ein, und Miss Bingley hatte mit dem eigentlichen Ziel ihrer Zuvorkommenheit nicht weniger Erfolg – Mr. Darcy blickte auf. Ihm war die Neuheit dieser Art Aufmerksamkeit ebensosehr bewußt wie Elizabeth selbst, und er klappte unwillkürlich sein Buch zu.",
+                    "native": "I assure you it is very refreshing after sitting so long in one attitude.\" Elizabeth was surprised, but agreed to it immediately. Miss Bingley succeeded no less in the real object of her civility; Mr. Darcy looked up."
                 },
                 {
-                    "target": "Darcy blickte auf.",
-                    "native": "Miss Bingley succeeded no less in the real object of her civility; Mr."
+                    "target": "Er wurde sogleich aufgefordert, sich anzuschließen; doch er lehnte es ab und bemerkte, er könne sich nur zwei Beweggründe vorstellen, warum sie zusammen im Salon auf und ab zu gehen beliebten, und bei beiden würde seine Begleitung nur stören. – Was konnte er meinen? – Miss Bingley brannte darauf, es zu erfahren, und sie fragte Elizabeth, ob sie eine Ahnung habe. \"Überhaupt keine\", lautete die Antwort, \"aber Sie können sich darauf verlassen, daß er uns kritisieren will, und der sicherste Weg, ihn zu enttäuschen, ist, wenn wir gar nicht danach fragen.\" Miss Bingley war jedoch unfähig, Mr. Darcy in irgend etwas zu enttäuschen, und beharrte deshalb darauf, eine Erklärung für die beiden Beweggründe zu verlangen. \"Ich habe nicht im geringsten etwas dagegen, sie darzulegen\", sagte er, sobald sie ihn zu Worte kommen ließ. \"Entweder wählen Sie diese Art, den Abend zu verbringen, weil Sie Geheimnisse miteinander haben und vertrauliche Dinge besprechen wollen, oder weil Sie sehr wohl wissen, daß Ihre Figuren beim Gehen am allerbesten zur Geltung kommen.",
+                    "native": "He was as much awake to the novelty of attention in that quarter as Elizabeth herself could be, and unconsciously closed his book. He was directly invited to join their party, but he declined it, observing that he could imagine but two motives for their choosing to walk up and down the room together, with either of which motives his joining them would interfere. \"What could he mean?"
                 },
                 {
-                    "target": "Ihm war die Neuheit dieser Art Aufmerksamkeit ebensosehr bewußt wie Elizabeth selbst, und er klappte unwillkürlich sein Buch zu.",
-                    "native": "Darcy looked up."
-                },
-                {
-                    "target": "Er wurde sogleich aufgefordert, sich anzuschließen; doch er lehnte es ab und bemerkte, er könne sich nur zwei Beweggründe vorstellen, warum sie zusammen im Salon auf und ab zu gehen beliebten, und bei beiden würde seine Begleitung nur stören. – Was konnte er meinen? – Miss Bingley brannte darauf, es zu erfahren, und sie fragte Elizabeth, ob sie eine Ahnung habe. \"Überhaupt keine\", lautete die Antwort, \"aber Sie können sich darauf verlassen, daß er uns kritisieren will, und der sicherste Weg, ihn zu enttäuschen, ist, wenn wir gar nicht danach fragen.\" Miss Bingley war jedoch unfähig, Mr.",
-                    "native": "He was as much awake to the novelty of attention in that quarter as Elizabeth herself could be, and unconsciously closed his book."
-                },
-                {
-                    "target": "Darcy in irgend etwas zu enttäuschen, und beharrte deshalb darauf, eine Erklärung für die beiden Beweggründe zu verlangen. \"Ich habe nicht im geringsten etwas dagegen, sie darzulegen\", sagte er, sobald sie ihn zu Worte kommen ließ. \"Entweder wählen Sie diese Art, den Abend zu verbringen, weil Sie Geheimnisse miteinander haben und vertrauliche Dinge besprechen wollen, oder weil Sie sehr wohl wissen, daß Ihre Figuren beim Gehen am allerbesten zur Geltung kommen.",
-                    "native": "He was directly invited to join their party, but he declined it, observing that he could imagine but two motives for their choosing to walk up and down the room together, with either of which motives his joining them would interfere. \"What could he mean?"
-                },
-                {
-                    "target": "Im ersten Falle würde ich Ihnen absolut im Wege sein, und im zweiten kann ich Sie viel besser bewundern, wenn ich beim Kaminfeuer sitze.\" \"Oh, ist das nicht schockierend?\" rief Miss Bingley. \"Ich habe noch nie etwas so Abscheuliches gehört.",
-                    "native": "She was dying to know what could be his meaning?\"—and asked Elizabeth whether she could at all understand him? \"Not at all,\" was her answer; \"but depend upon it, he means to be severe on us, and our surest way of disappointing him will be to ask nothing about it.\" Miss Bingley, however, was incapable of disappointing Mr."
-                },
-                {
-                    "target": "Auf welche Weise sollen wir ihn bestrafen für eine solche Rede?\" \"Nichts ist leichter, wenn Sie nur wollen\", sagte Elizabeth. \"Wir alle können einander quälen und bestrafen.",
-                    "native": "Darcy in anything, and persevered therefore in requiring an explanation of his two motives. \"I have not the smallest objection to explaining them,\" said he, as soon as she allowed him to speak. \"You either choose this method of passing the evening because you are in each other's confidence, and have secret affairs to discuss, or because you are conscious that your figures appear to the greatest advantage in walking; if the first, I would be completely in your way, and if the second, I can admire you much better as I sit by the fire.\" \"Oh! shocking!\" cried Miss Bingley. \"I never heard anything so abominable."
+                    "target": "Im ersten Falle würde ich Ihnen absolut im Wege sein, und im zweiten kann ich Sie viel besser bewundern, wenn ich beim Kaminfeuer sitze.\" \"Oh, ist das nicht schockierend?\" rief Miss Bingley. \"Ich habe noch nie etwas so Abscheuliches gehört. Auf welche Weise sollen wir ihn bestrafen für eine solche Rede?\" \"Nichts ist leichter, wenn Sie nur wollen\", sagte Elizabeth. \"Wir alle können einander quälen und bestrafen.",
+                    "native": "She was dying to know what could be his meaning?\"—and asked Elizabeth whether she could at all understand him? \"Not at all,\" was her answer; \"but depend upon it, he means to be severe on us, and our surest way of disappointing him will be to ask nothing about it.\" Miss Bingley, however, was incapable of disappointing Mr. Darcy in anything, and persevered therefore in requiring an explanation of his two motives. \"I have not the smallest objection to explaining them,\" said he, as soon as she allowed him to speak. \"You either choose this method of passing the evening because you are in each other's confidence, and have secret affairs to discuss, or because you are conscious that your figures appear to the greatest advantage in walking; if the first, I would be completely in your way, and if the second, I can admire you much better as I sit by the fire.\" \"Oh! shocking!\" cried Miss Bingley. \"I never heard anything so abominable."
                 },
                 {
                     "target": "Necken Sie ihn – lachen Sie ihn aus.",
@@ -213,16 +153,8 @@
                     "native": "No, no; I feel he may defy us there."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "And as to laughter, we will not expose ourselves, if you please, by attempting to laugh without a subject."
-                },
-                {
-                    "target": "Darcy könnte sich beglückwünschen.\" \"Man kann Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Darcy nicht auslachen!\" rief Elizabeth. \"Das ist ein seltener Vorzug, und ich hoffe sehr, er wird auch selten bleiben; es wäre ein großer Verlust für mich, viele solcher Bekannten zu haben, ich lache nämlich herzlich gern.\" \"Miss Bingley\", sagte Darcy, \"traut mir mehr zu, als möglich ist.",
-                    "native": "Darcy may hug himself.\" \"Mr."
+                    "target": "Mr. Darcy könnte sich beglückwünschen.\" \"Man kann Mr. Darcy nicht auslachen!\" rief Elizabeth. \"Das ist ein seltener Vorzug, und ich hoffe sehr, er wird auch selten bleiben; es wäre ein großer Verlust für mich, viele solcher Bekannten zu haben, ich lache nämlich herzlich gern.\" \"Miss Bingley\", sagte Darcy, \"traut mir mehr zu, als möglich ist.",
+                    "native": "And as to laughter, we will not expose ourselves, if you please, by attempting to laugh without a subject. Mr. Darcy may hug himself.\" \"Mr."
                 }
             ]
         },
@@ -250,30 +182,14 @@
                     "native": "Follies and nonsense, whims and inconsistencies, do divert me, I own, and I laugh at them whenever I can."
                 },
                 {
-                    "target": "Aber Stolz – wo eine wirkliche geistige Überlegenheit vorhanden ist, wird der Stolz stets unter guter Kontrolle sein.\" Elizabeth wandte sich ab, um ein Lächeln zu verbergen. \"Ich nehme an, Sie sind nun fertig damit, Mr.",
-                    "native": "But these, I suppose, are precisely what you are without.\" \"Perhaps that is not possible for anyone."
-                },
-                {
-                    "target": "Darcy zu examinieren\", sagte Miss Bingley –\"und was ist, bitte, das Ergebnis?\" \"Ich bin nun vollkommen überzeugt, daß Mr.",
-                    "native": "But it has been the study of my life to avoid those weaknesses which often expose a strong understanding to ridicule.\" \"Such as vanity and pride.\" \"Yes, vanity is a weakness indeed."
-                },
-                {
-                    "target": "Darcy keine Fehler hat.",
-                    "native": "But pride—where there is a real superiority of mind, pride will be always under good regulation.\" Elizabeth turned away to hide a smile. \"Your examination of Mr."
+                    "target": "Aber Stolz – wo eine wirkliche geistige Überlegenheit vorhanden ist, wird der Stolz stets unter guter Kontrolle sein.\" Elizabeth wandte sich ab, um ein Lächeln zu verbergen. \"Ich nehme an, Sie sind nun fertig damit, Mr. Darcy zu examinieren\", sagte Miss Bingley –\"und was ist, bitte, das Ergebnis?\" \"Ich bin nun vollkommen überzeugt, daß Mr. Darcy keine Fehler hat. Er gibt es selbst unverhohlen zu.\" \"Nein\", sagte Darcy, \"einen solchen Anspruch habe ich nicht erhoben. Ich habe genug Fehler, doch betreffen sie, wie ich hoffe, nicht meine verstandesmäßigen Einsichten.",
+                    "native": "But these, I suppose, are precisely what you are without.\" \"Perhaps that is not possible for anyone. But it has been the study of my life to avoid those weaknesses which often expose a strong understanding to ridicule.\" \"Such as vanity and pride.\" \"Yes, vanity is a weakness indeed. But pride—where there is a real superiority of mind, pride will be always under good regulation.\" Elizabeth turned away to hide a smile. \"Your examination of Mr. Darcy is over, I presume,\" said Miss Bingley; \"and pray what is the result?\" \"I am perfectly convinced by it that Mr. Darcy has no defect."
                 }
             ]
         },
         {
             "pageNumber": 8,
             "sentences": [
-                {
-                    "target": "Er gibt es selbst unverhohlen zu.\" \"Nein\", sagte Darcy, \"einen solchen Anspruch habe ich nicht erhoben.",
-                    "native": "Darcy is over, I presume,\" said Miss Bingley; \"and pray what is the result?\" \"I am perfectly convinced by it that Mr."
-                },
-                {
-                    "target": "Ich habe genug Fehler, doch betreffen sie, wie ich hoffe, nicht meine verstandesmäßigen Einsichten.",
-                    "native": "Darcy has no defect."
-                },
                 {
                     "target": "Für mein Temperament wage ich nicht einzustehen.",
                     "native": "He owns it himself without disguise.\" \"No,\" said Darcy, \"I have made no such pretension."
@@ -304,12 +220,8 @@
             "pageNumber": 9,
             "sentences": [
                 {
-                    "target": "Vor mir sind Sie sicher.\" \"Ich glaube, in jedem Charakterbild gibt es eine Neigung zu irgend etwas Schlechtem – einer angeborenen Schwäche, die selbst die beste Erziehung nicht besiegen kann.\" \"Und Ihr Fehler ist ein Hang, jedermann zu verabscheuen.\" \"Und der Ihre\", erwiderte er lächelnd, \"ist es, jedermann absichtlich mißzuverstehen.\" \"Laßt uns doch ein wenig Musik machen\", rief Miss Bingley, einer Unterhaltung überdrüssig, an der sie keinen Anteil hatte. –\"Louisa, du hast doch nichts dagegen, wenn ich Mr.",
-                    "native": "My temper would perhaps be called resentful."
-                },
-                {
-                    "target": "Hurst wecke.\" Ihre Schwester hatte nicht das geringste einzuwenden; das Klavier wurde geöffnet, und Darcy war, nach einigen Augenblicken der Besinnung, nicht böse darum.",
-                    "native": "My good opinion once lost, is lost forever.\" \"That is a failing indeed!\" cried Elizabeth. \"Implacable resentment is a shade in a character."
+                    "target": "Vor mir sind Sie sicher.\" \"Ich glaube, in jedem Charakterbild gibt es eine Neigung zu irgend etwas Schlechtem – einer angeborenen Schwäche, die selbst die beste Erziehung nicht besiegen kann.\" \"Und Ihr Fehler ist ein Hang, jedermann zu verabscheuen.\" \"Und der Ihre\", erwiderte er lächelnd, \"ist es, jedermann absichtlich mißzuverstehen.\" \"Laßt uns doch ein wenig Musik machen\", rief Miss Bingley, einer Unterhaltung überdrüssig, an der sie keinen Anteil hatte. –\"Louisa, du hast doch nichts dagegen, wenn ich Mr. Hurst wecke.\" Ihre Schwester hatte nicht das geringste einzuwenden; das Klavier wurde geöffnet, und Darcy war, nach einigen Augenblicken der Besinnung, nicht böse darum.",
+                    "native": "My temper would perhaps be called resentful. My good opinion once lost, is lost forever.\" \"That is a failing indeed!\" cried Elizabeth. \"Implacable resentment is a shade in a character."
                 },
                 {
                     "target": "Er fühlte, daß er Gefahr lief, Elizabeth zu viel Aufmerksamkeit zu schenken.",

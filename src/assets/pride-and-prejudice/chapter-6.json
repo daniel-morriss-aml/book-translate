@@ -16,12 +16,8 @@
                     "native": "The visit was soon returned in due form."
                 },
                 {
-                    "target": "Miss Bennets angenehme Art gewann das Wohlwollen Mrs.",
-                    "native": "Miss Bennet's pleasing manners grew on the goodwill of Mrs."
-                },
-                {
-                    "target": "Hursts und Miss Bingleys, und obgleich sie die Mutter unerträglich fanden und die jüngeren Schwestern nicht wert, daß man mit ihnen sprach, wurde den beiden älteren gegenüber der Wunsch geäußert, sie näher kennenzulernen.",
-                    "native": "Hurst and Miss Bingley; and though the mother was found to be intolerable, and the younger sisters not worth speaking to, a wish of being better acquainted with them was expressed towards the two eldest."
+                    "target": "Miss Bennets angenehme Art gewann das Wohlwollen Mrs. Hursts und Miss Bingleys, und obgleich sie die Mutter unerträglich fanden und die jüngeren Schwestern nicht wert, daß man mit ihnen sprach, wurde den beiden älteren gegenüber der Wunsch geäußert, sie näher kennenzulernen.",
+                    "native": "Miss Bennet's pleasing manners grew on the goodwill of Mrs. Hurst and Miss Bingley; and though the mother was found to be intolerable, and the younger sisters not worth speaking to, a wish of being better acquainted with them was expressed towards the two eldest."
                 },
                 {
                     "target": "Jane nahm diese Aufmerksamkeit mit dem größten Vergnügen an, aber Elizabeth sah in der Art und Weise, wie die Damen jedermann behandelten – ihre Schwester kaum ausgenommen – eine Herablassung, und sie konnte sie nicht leiden; dennoch hatte deren Freundlichkeit Jane gegenüber als solche ihren Wert darin, daß sie sich aller Wahrscheinlichkeit nach aus der Bewunderung ihres Bruders für sie ergab.",
@@ -123,20 +119,12 @@
                     "native": "They always continue to grow sufficiently unlike afterwards to have their share of vexation; and it is better to know as little as possible of the defects of the person with whom you are to pass your life.\" \"You make me laugh, Charlotte; but it is not sound."
                 },
                 {
-                    "target": "Und du weißt, daß es nicht vernünftig ist und daß du selbst niemals so handeln würdest.\" Während Elizabeth davon in Anspruch genommen war, Mr.",
-                    "native": "You know it is not sound, and that you would never act in this way yourself.\" Occupied in observing Mr."
+                    "target": "Und du weißt, daß es nicht vernünftig ist und daß du selbst niemals so handeln würdest.\" Während Elizabeth davon in Anspruch genommen war, Mr. Bingleys Aufmerksamkeiten gegenüber ihrer Schwester zu beobachten, ahnte sie nicht im geringsten, daß sie in den Augen seines Freundes selbst ein Gegenstand von einigem Interesse wurde.",
+                    "native": "You know it is not sound, and that you would never act in this way yourself.\" Occupied in observing Mr. Bingley's attentions to her sister, Elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend."
                 },
                 {
-                    "target": "Bingleys Aufmerksamkeiten gegenüber ihrer Schwester zu beobachten, ahnte sie nicht im geringsten, daß sie in den Augen seines Freundes selbst ein Gegenstand von einigem Interesse wurde.",
-                    "native": "Bingley's attentions to her sister, Elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Darcy hatte ihr anfangs kaum zugestanden, hübsch zu sein; er hatte sie bei dem Ball ohne jede Bewunderung angesehen, und als sie das nächste Mal zusammentrafen, betrachtete er sie nur, um sie zu kritisieren.",
-                    "native": "Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise."
+                    "target": "Mr. Darcy hatte ihr anfangs kaum zugestanden, hübsch zu sein; er hatte sie bei dem Ball ohne jede Bewunderung angesehen, und als sie das nächste Mal zusammentrafen, betrachtete er sie nur, um sie zu kritisieren.",
+                    "native": "Mr. Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise."
                 },
                 {
                     "target": "Aber gerade hatte er sich und seinen Freunden klargemacht, daß beinahe kein erfreulicher Zug in ihrem Gesicht zu finden sei, da stellte er auch schon fest, daß der schöne Ausdruck ihrer dunklen Augen ihr Antlitz ungewöhnlich intelligent erscheinen ließ.",
@@ -168,42 +156,18 @@
                     "native": "His doing so drew her notice."
                 },
                 {
-                    "target": "Es geschah bei Sir William Lucas, wo eine große Gesellschaft versammelt war. \"Was bezweckt Mr.",
-                    "native": "It was at Sir William Lucas's, where a large party were assembled. \"What does Mr."
+                    "target": "Es geschah bei Sir William Lucas, wo eine große Gesellschaft versammelt war. \"Was bezweckt Mr. Darcy wohl damit\", sagte sie zu Charlotte, \"wenn er bei meiner Unterhaltung mit Colonel Forster zuhört?\" \"Das ist eine Frage, die Mr. Darcy nur selbst beantworten kann.\" \"Wenn er das aber noch einmal tut, werde ich ihm ganz bestimmt zu verstehen geben, daß ich weiß, was er im Sinn hat.",
+                    "native": "It was at Sir William Lucas's, where a large party were assembled. \"What does Mr. Darcy mean,\" said she to Charlotte, \"by listening to my conversation with Colonel Forster?\" \"That is a question which Mr. Darcy only can answer.\" \"But if he does it any more I shall certainly let him know that I see what he is about."
                 },
                 {
-                    "target": "Darcy wohl damit\", sagte sie zu Charlotte, \"wenn er bei meiner Unterhaltung mit Colonel Forster zuhört?\" \"Das ist eine Frage, die Mr.",
-                    "native": "Darcy mean,\" said she to Charlotte, \"by listening to my conversation with Colonel Forster?\" \"That is a question which Mr."
-                },
-                {
-                    "target": "Darcy nur selbst beantworten kann.\" \"Wenn er das aber noch einmal tut, werde ich ihm ganz bestimmt zu verstehen geben, daß ich weiß, was er im Sinn hat.",
-                    "native": "Darcy only can answer.\" \"But if he does it any more I shall certainly let him know that I see what he is about."
-                },
-                {
-                    "target": "Er hat einen derart spöttischen Blick, und wenn ich jetzt nicht bald selbst unverschämt werde, wird es nicht lange dauern, und ich habe Angst vor ihm.\" Als er sich ihnen bald darauf näherte, doch offenbar ohne die Absicht, etwas zu sagen, beschwor Miss Lucas ihre Freundin, so etwas nicht zu ihm zu sagen, was Elizabeth augenblicklich provozierte, es doch zu tun.",
-                    "native": "He has a very satirical eye, and if I do not begin by being impertinent myself, I shall soon grow afraid of him.\" On his approaching them soon afterwards, though without seeming to have any intention of speaking, Miss Lucas defied her friend to mention such a subject to him; which immediately provoking Elizabeth to do it, she turned to him and said: \"Did you not think, Mr."
-                },
-                {
-                    "target": "Sie wandte sich zu ihm um und sagte: \"Glauben Sie nicht, Mr.",
-                    "native": "Darcy, that I expressed myself uncommonly well just now, when I was teasing Colonel Forster to give us a ball at Meryton?\" \"With great energy; but it is always a subject which makes a lady energetic.\" \"You are severe on us.\" \"It will be her turn soon to be teased,\" said Miss Lucas. \"I am going to open the instrument, Eliza, and you know what follows.\" \"You are a very strange creature by way of a friend!—always wanting me to play and sing before anybody and everybody!"
+                    "target": "Er hat einen derart spöttischen Blick, und wenn ich jetzt nicht bald selbst unverschämt werde, wird es nicht lange dauern, und ich habe Angst vor ihm.\" Als er sich ihnen bald darauf näherte, doch offenbar ohne die Absicht, etwas zu sagen, beschwor Miss Lucas ihre Freundin, so etwas nicht zu ihm zu sagen, was Elizabeth augenblicklich provozierte, es doch zu tun. Sie wandte sich zu ihm um und sagte: \"Glauben Sie nicht, Mr. Darcy, daß ich mich eben ganz ungewöhnlich gut ausgedrückt habe, als ich Colonel Forster bedrängte, uns in Meryton einen Ball zu geben?\" \"Sie taten es mit großem Nachdruck – aber das ist ein Thema, das Damen stets energisch macht.\" \"Sie sind streng mit uns.\" \"Jetzt ist sie bald an der Reihe, bedrängt zu werden\", sagte Miss Lucas. \"Ich werde das Instrument öffnen, Eliza, du weißt, was dann kommt.\" \"Du bist eine sehr seltsame Freundin – immer willst du, daß ich vor aller Welt singen und spielen soll! Wäre meine Eitelkeit auf die Musik gerichtet, würdest du unschätzbar für mich sein, aber wie die Sache liegt, möchte ich mich wirklich lieber nicht vor diesen Leuten hier ans Klavier setzen, die gewohnt sein müssen, die allerbesten Künstler zu hören.\" Da Miss Lucas jedoch darauf beharrte, fügte sie hinzu: \"Also gut, wenn es sein muß!\" Und mit einem ernsten Blick auf Mr. Darcy: \"Es gibt ein schönes altes Sprichwort, das jedem hier natürlich bekannt ist: ›Keep your breath to cool your porridge‹ * –, und ich werde meine Lunge also schonen, um meinen Gesang anschwellen zu lassen.\" Ihr Vortrag war gefällig, wenngleich keinesfalls großartig.",
+                    "native": "He has a very satirical eye, and if I do not begin by being impertinent myself, I shall soon grow afraid of him.\" On his approaching them soon afterwards, though without seeming to have any intention of speaking, Miss Lucas defied her friend to mention such a subject to him; which immediately provoking Elizabeth to do it, she turned to him and said: \"Did you not think, Mr. Darcy, that I expressed myself uncommonly well just now, when I was teasing Colonel Forster to give us a ball at Meryton?\" \"With great energy; but it is always a subject which makes a lady energetic.\" \"You are severe on us.\" \"It will be her turn soon to be teased,\" said Miss Lucas. \"I am going to open the instrument, Eliza, and you know what follows.\" \"You are a very strange creature by way of a friend!—always wanting me to play and sing before anybody and everybody! If my vanity had taken a musical turn, you would have been invaluable; but as it is, I would really rather not sit down before those who must be in the habit of hearing the very best performers.\" On Miss Lucas's persevering, however, she added, \"Very well, if it must be so, it must.\" And gravely glancing at Mr. Darcy, \"There is a fine old saying, which everybody here is of course familiar with: 'Keep your breath to cool your porridge'; and I shall keep mine to swell my song.\" Her performance was pleasing, though by no means capital. After a song or two, and before she could reply to the entreaties of several that she would sing again, she was eagerly succeeded at the instrument by her sister Mary, who having, in consequence of being the only plain one in the family, worked hard for knowledge and accomplishments, was always impatient for display."
                 }
             ]
         },
         {
             "pageNumber": 6,
             "sentences": [
-                {
-                    "target": "Darcy, daß ich mich eben ganz ungewöhnlich gut ausgedrückt habe, als ich Colonel Forster bedrängte, uns in Meryton einen Ball zu geben?\" \"Sie taten es mit großem Nachdruck – aber das ist ein Thema, das Damen stets energisch macht.\" \"Sie sind streng mit uns.\" \"Jetzt ist sie bald an der Reihe, bedrängt zu werden\", sagte Miss Lucas. \"Ich werde das Instrument öffnen, Eliza, du weißt, was dann kommt.\" \"Du bist eine sehr seltsame Freundin – immer willst du, daß ich vor aller Welt singen und spielen soll!",
-                    "native": "If my vanity had taken a musical turn, you would have been invaluable; but as it is, I would really rather not sit down before those who must be in the habit of hearing the very best performers.\" On Miss Lucas's persevering, however, she added, \"Very well, if it must be so, it must.\" And gravely glancing at Mr."
-                },
-                {
-                    "target": "Wäre meine Eitelkeit auf die Musik gerichtet, würdest du unschätzbar für mich sein, aber wie die Sache liegt, möchte ich mich wirklich lieber nicht vor diesen Leuten hier ans Klavier setzen, die gewohnt sein müssen, die allerbesten Künstler zu hören.\" Da Miss Lucas jedoch darauf beharrte, fügte sie hinzu: \"Also gut, wenn es sein muß!\" Und mit einem ernsten Blick auf Mr.",
-                    "native": "Darcy, \"There is a fine old saying, which everybody here is of course familiar with: 'Keep your breath to cool your porridge'; and I shall keep mine to swell my song.\" Her performance was pleasing, though by no means capital."
-                },
-                {
-                    "target": "Darcy: \"Es gibt ein schönes altes Sprichwort, das jedem hier natürlich bekannt ist: ›Keep your breath to cool your porridge‹ * –, und ich werde meine Lunge also schonen, um meinen Gesang anschwellen zu lassen.\" Ihr Vortrag war gefällig, wenngleich keinesfalls großartig.",
-                    "native": "After a song or two, and before she could reply to the entreaties of several that she would sing again, she was eagerly succeeded at the instrument by her sister Mary, who having, in consequence of being the only plain one in the family, worked hard for knowledge and accomplishments, was always impatient for display."
-                },
                 {
                     "target": "Nach ein paar Liedern, und ehe sie noch auf die dringenden Bitten mehrerer Gäste antworten konnte, daß sie doch noch einmal singen möge, folgte ihr ihre Schwester Mary eifrig ans Klavier; denn da sie die einzig Reizlose in der Familie war und sich deshalb hart um Kenntnisse und Fertigkeiten bemühte, brannte sie stets darauf, sich zu produzieren.",
                     "native": "Mary had neither genius nor taste; and though vanity had given her application, it had given her likewise a pedantic air and conceited manner, which would have injured a higher degree of excellence than she had reached."
@@ -213,16 +177,8 @@
                     "native": "Elizabeth, easy and unaffected, had been listened to with much more pleasure, though not playing half so well; and Mary, at the end of a long concerto, was glad to purchase praise and gratitude by Scotch and Irish airs, at the request of her younger sisters, who, with some of the Lucases, and two or three officers, joined eagerly in dancing at one end of the room."
                 },
                 {
-                    "target": "Elizabeth, in ihrer natürlichen, ungezwungenen Art, hatte man mit weit mehr Vergnügen zugehört, obgleich sie nicht halb so gut spielte; und Mary war am Ende eines langen Vortrages schließlich froh, Lob und Anerkennung durch schottische und irische Lieder zu erringen; um diese hatten sie ihre jüngeren Schwestern gebeten, die sich mit einigen anderen Mitgliedern der Lucas-Familie und ein paar Offizieren eifrig dem Tanz an einem Ende des Saales anschlossen.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Darcy stood near them in silent indignation at such a mode of passing the evening, to the exclusion of all conversation, and was too much engrossed by his thoughts to perceive that Sir William Lucas was his neighbour, till Sir William thus began: \"What a charming amusement for young people this is, Mr."
-                },
-                {
-                    "target": "Darcy stand in ihrer Nähe, in schweigender Empörung über eine solche Art, den Abend zu verbringen, die jegliche Unterhaltung ausschloß, und er war zu sehr in seine eigenen Gedanken vertieft, um zu bemerken, daß sich Sir William Lucas neben ihm befand, bis dieser ihn ansprach. \"Was für ein reizendes Vergnügen das ist für junge Leute, Mr.",
-                    "native": "Darcy!"
+                    "target": "Elizabeth, in ihrer natürlichen, ungezwungenen Art, hatte man mit weit mehr Vergnügen zugehört, obgleich sie nicht halb so gut spielte; und Mary war am Ende eines langen Vortrages schließlich froh, Lob und Anerkennung durch schottische und irische Lieder zu erringen; um diese hatten sie ihre jüngeren Schwestern gebeten, die sich mit einigen anderen Mitgliedern der Lucas-Familie und ein paar Offizieren eifrig dem Tanz an einem Ende des Saales anschlossen. Mr. Darcy stand in ihrer Nähe, in schweigender Empörung über eine solche Art, den Abend zu verbringen, die jegliche Unterhaltung ausschloß, und er war zu sehr in seine eigenen Gedanken vertieft, um zu bemerken, daß sich Sir William Lucas neben ihm befand, bis dieser ihn ansprach. \"Was für ein reizendes Vergnügen das ist für junge Leute, Mr. Darcy!",
+                    "native": "Mr. Darcy stood near them in silent indignation at such a mode of passing the evening, to the exclusion of all conversation, and was too much engrossed by his thoughts to perceive that Sir William Lucas was his neighbour, till Sir William thus began: \"What a charming amusement for young people this is, Mr. Darcy! There is nothing like dancing after all."
                 }
             ]
         },
@@ -230,36 +186,16 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Darcy!",
-                    "native": "There is nothing like dancing after all."
-                },
-                {
                     "target": "Es gibt schließlich nichts, das dem Tanzen gleichkommt.",
                     "native": "I consider it as one of the first refinements of polished society.\" \"Certainly, sir; and it has the advantage also of being in vogue amongst the less polished societies of the world."
                 },
                 {
-                    "target": "Ich betrachte es als eine der wunderbarsten Errungenschaften einer gebildeten Gesellschaft.\" \"Gewiß, Sir, und es hat auch den Vorteil, in den weniger gebildeten Gesellschaften der Welt beliebt zu sein.",
-                    "native": "Every savage can dance.\" Sir William only smiled. \"Your friend performs delightfully,\" he continued after a pause, on seeing Bingley join the group; \"and I doubt not that you are an adept in the science yourself, Mr."
+                    "target": "Ich betrachte es als eine der wunderbarsten Errungenschaften einer gebildeten Gesellschaft.\" \"Gewiß, Sir, und es hat auch den Vorteil, in den weniger gebildeten Gesellschaften der Welt beliebt zu sein. Jeder Wilde kann tanzen.\" Sir William lächelte nur. \"Ihr Freund tanzt wunderbar\", fuhr er nach einer Pause fort, als er sah, wie sich Bingley der Gruppe anschloß, \"und ich zweifle nicht, daß Sie selbst in dieser Kunst ein Meister sind, Mr. Darcy.\" \"Sie haben mich vermutlich in Meryton tanzen sehen, Sir.\" \"Ja, in der Tat, der Anblick hat mir großes Vergnügen bereitet.",
+                    "native": "Every savage can dance.\" Sir William only smiled. \"Your friend performs delightfully,\" he continued after a pause, on seeing Bingley join the group; \"and I doubt not that you are an adept in the science yourself, Mr. Darcy.\" \"You saw me dance at Meryton, I believe, sir.\" \"Yes, indeed, and received no inconsiderable pleasure from the sight. Do you often dance at St."
                 },
                 {
-                    "target": "Jeder Wilde kann tanzen.\" Sir William lächelte nur. \"Ihr Freund tanzt wunderbar\", fuhr er nach einer Pause fort, als er sah, wie sich Bingley der Gruppe anschloß, \"und ich zweifle nicht, daß Sie selbst in dieser Kunst ein Meister sind, Mr.",
-                    "native": "Darcy.\" \"You saw me dance at Meryton, I believe, sir.\" \"Yes, indeed, and received no inconsiderable pleasure from the sight."
-                },
-                {
-                    "target": "Darcy.\" \"Sie haben mich vermutlich in Meryton tanzen sehen, Sir.\" \"Ja, in der Tat, der Anblick hat mir großes Vergnügen bereitet.",
-                    "native": "Do you often dance at St."
-                },
-                {
-                    "target": "Tanzen Sie oft in St.",
-                    "native": "James's?\" \"Never, sir.\" \"Do you not think it would be a proper compliment to the place?\" \"It is a compliment which I never pay to any place if I can avoid it.\" \"You have a house in town, I conclude?\" Mr."
-                },
-                {
-                    "target": "James?\" \"Niemals, Sir.\" \"Glauben Sie nicht, daß dies eine angemessene Reverenz wäre für diesen Ort?\" \"Das ist eine Reverenz, die ich niemals irgendeinem Ort erweise, wenn ich es vermeiden kann.\" \"Sie haben ein Haus in der Stadt, nehme ich an?\" Darcy verbeugte sich bejahend. \"Ich hatte selbst einmal den Gedanken, mich in der Stadt niederzulassen – ich liebe nämlich eine erlesene Gesellschaft, aber ich war nicht recht sicher, ob Lady Lucas die Londoner Luft vertragen würde.\" Er hielt inne in der Hoffnung, eine Antwort zu bekommen, doch Darcy war nicht geneigt, eine zu geben; und als Elizabeth in diesem Augenblick in ihre Richtung ging, kam ihm plötzlich die Idee, etwas sehr Galantes zu tun, und er rief ihr zu: \"Meine liebe Miss Eliza, warum tanzen Sie nicht? – Mr.",
-                    "native": "Darcy bowed. \"I had once had some thought of fixing in town myself—for I am fond of superior society; but I did not feel quite certain that the air of London would agree with Lady Lucas.\" He paused in hopes of an answer; but his companion was not disposed to make any; and Elizabeth at that instant moving towards them, he was struck with the action of doing a very gallant thing, and called out to her: \"My dear Miss Eliza, why are you not dancing?"
-                },
-                {
-                    "target": "Darcy, Sie müssen mir gestatten, Ihnen diese junge Dame als eine sehr reizvolle Partnerin vorzustellen.",
-                    "native": "Mr."
+                    "target": "Tanzen Sie oft in St. James?\" \"Niemals, Sir.\" \"Glauben Sie nicht, daß dies eine angemessene Reverenz wäre für diesen Ort?\" \"Das ist eine Reverenz, die ich niemals irgendeinem Ort erweise, wenn ich es vermeiden kann.\" \"Sie haben ein Haus in der Stadt, nehme ich an?\" Darcy verbeugte sich bejahend. \"Ich hatte selbst einmal den Gedanken, mich in der Stadt niederzulassen – ich liebe nämlich eine erlesene Gesellschaft, aber ich war nicht recht sicher, ob Lady Lucas die Londoner Luft vertragen würde.\" Er hielt inne in der Hoffnung, eine Antwort zu bekommen, doch Darcy war nicht geneigt, eine zu geben; und als Elizabeth in diesem Augenblick in ihre Richtung ging, kam ihm plötzlich die Idee, etwas sehr Galantes zu tun, und er rief ihr zu: \"Meine liebe Miss Eliza, warum tanzen Sie nicht? – Mr. Darcy, Sie müssen mir gestatten, Ihnen diese junge Dame als eine sehr reizvolle Partnerin vorzustellen. Sie können sich doch gewiß nicht weigern zu tanzen, wenn Sie so viel Schönheit vor sich sehen.\" Und er nahm ihre Hand und hätte sie Mr. Darcy gereicht – der, wenngleich höchst überrascht, nicht abgeneigt war, sie zu nehmen –, als Elizabeth augenblicklich zurückwich und in einiger Verwirrung zu Sir William sagte: \"Aber, mein Herr, ich habe nicht die geringste Absicht zu tanzen. – Ich bitte Sie inständig, nicht anzunehmen, ich wäre hier entlanggekommen, um einen Partner zu finden.\" Mr. Darcy ersuchte sie mit ernstem Anstand um die Ehre, ihm die Hand zum Tanz zu reichen, doch vergeblich.",
+                    "native": "James's?\" \"Never, sir.\" \"Do you not think it would be a proper compliment to the place?\" \"It is a compliment which I never pay to any place if I can avoid it.\" \"You have a house in town, I conclude?\" Mr. Darcy bowed. \"I had once had some thought of fixing in town myself—for I am fond of superior society; but I did not feel quite certain that the air of London would agree with Lady Lucas.\" He paused in hopes of an answer; but his companion was not disposed to make any; and Elizabeth at that instant moving towards them, he was struck with the action of doing a very gallant thing, and called out to her: \"My dear Miss Eliza, why are you not dancing? Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner. You cannot refuse to dance, I am sure when so much beauty is before you.\" And, taking her hand, he would have given it to Mr. Darcy who, though extremely surprised, was not unwilling to receive it, when she instantly drew back, and said with some discomposure to Sir William: \"Indeed, sir, I have not the least intention of dancing."
                 }
             ]
         },
@@ -267,24 +203,8 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Sie können sich doch gewiß nicht weigern zu tanzen, wenn Sie so viel Schönheit vor sich sehen.\" Und er nahm ihre Hand und hätte sie Mr.",
-                    "native": "Darcy, you must allow me to present this young lady to you as a very desirable partner."
-                },
-                {
-                    "target": "Darcy gereicht – der, wenngleich höchst überrascht, nicht abgeneigt war, sie zu nehmen –, als Elizabeth augenblicklich zurückwich und in einiger Verwirrung zu Sir William sagte: \"Aber, mein Herr, ich habe nicht die geringste Absicht zu tanzen. – Ich bitte Sie inständig, nicht anzunehmen, ich wäre hier entlanggekommen, um einen Partner zu finden.\" Mr.",
-                    "native": "You cannot refuse to dance, I am sure when so much beauty is before you.\" And, taking her hand, he would have given it to Mr."
-                },
-                {
-                    "target": "Darcy ersuchte sie mit ernstem Anstand um die Ehre, ihm die Hand zum Tanz zu reichen, doch vergeblich.",
-                    "native": "Darcy who, though extremely surprised, was not unwilling to receive it, when she instantly drew back, and said with some discomposure to Sir William: \"Indeed, sir, I have not the least intention of dancing."
-                },
-                {
-                    "target": "Elizabeth blieb fest; und auch Sir William konnte ihren Entschluß durch seine Überredungsversuche nicht erschüttern. \"Sie tanzen so unübertrefflich, Miss Eliza, daß es grausam wäre, mir das Glück zu verweigern, Ihnen zuzusehen; und obgleich der Herr dieses Vergnügen im allgemeinen nicht liebt, kann er doch gewiß nichts dagegen haben, uns eine halbe Stunde lang damit zu erfreuen.\" \"Mr.",
-                    "native": "I entreat you not to suppose that I moved this way in order to beg for a partner.\" Mr."
-                },
-                {
-                    "target": "Darcy ist die Höflichkeit selbst\", sagte Elizabeth lächelnd. \"Das ist er in der Tat – doch wenn man die Veranlassung bedenkt, meine liebe Miss Eliza, können wir uns nicht wundern über seine Gefälligkeit; denn wer würde gegen eine solche Partnerin etwas einzuwenden haben?\" Elizabeth sah sie schalkhaft an und ging fort.",
-                    "native": "Darcy, with grave propriety, requested to be allowed the honour of her hand, but in vain."
+                    "target": "Elizabeth blieb fest; und auch Sir William konnte ihren Entschluß durch seine Überredungsversuche nicht erschüttern. \"Sie tanzen so unübertrefflich, Miss Eliza, daß es grausam wäre, mir das Glück zu verweigern, Ihnen zuzusehen; und obgleich der Herr dieses Vergnügen im allgemeinen nicht liebt, kann er doch gewiß nichts dagegen haben, uns eine halbe Stunde lang damit zu erfreuen.\" \"Mr. Darcy ist die Höflichkeit selbst\", sagte Elizabeth lächelnd. \"Das ist er in der Tat – doch wenn man die Veranlassung bedenkt, meine liebe Miss Eliza, können wir uns nicht wundern über seine Gefälligkeit; denn wer würde gegen eine solche Partnerin etwas einzuwenden haben?\" Elizabeth sah sie schalkhaft an und ging fort.",
+                    "native": "I entreat you not to suppose that I moved this way in order to beg for a partner.\" Mr. Darcy, with grave propriety, requested to be allowed the honour of her hand, but in vain."
                 },
                 {
                     "target": "Ihr Widerstand hatte ihr bei dem jungen Herrn nicht geschadet, und er dachte mit einigem Wohlgefallen an sie, als Miss Bingley ihn ansprach. \"Ich kann den Gegenstand Ihrer Nachdenklichkeit erraten.\" \"Das kann ich mir nicht vorstellen.\" \"Sie überlegen, wie unerträglich es wäre, viele Abende auf diese Weise zu verbringen – in einer solchen Gesellschaft; und ich bin ganz Ihrer Meinung.",
@@ -312,24 +232,16 @@
                     "native": "The insipidity, and yet the noise—the nothingness, and yet the self-importance of all those people!"
                 },
                 {
-                    "target": "Mr.",
-                    "native": "What would I give to hear your strictures on them!\" \"Your conjecture is totally wrong, I assure you."
-                },
-                {
-                    "target": "Darcy entgegnete völlig unerschrocken: \"Miss Elizabeth Bennet.\" \"Miss Elizabeth Bennet!\" wiederholte Miss Bingley. \"Ich bin völlig überrascht.",
-                    "native": "My mind was more agreeably engaged."
+                    "target": "Mr. Darcy entgegnete völlig unerschrocken: \"Miss Elizabeth Bennet.\" \"Miss Elizabeth Bennet!\" wiederholte Miss Bingley. \"Ich bin völlig überrascht.",
+                    "native": "What would I give to hear your strictures on them!\" \"Your conjecture is totally wrong, I assure you. My mind was more agreeably engaged."
                 },
                 {
                     "target": "Wie lange steht sie denn schon so in Ihrer Gunst? – Und bitte, wann soll ich Ihnen Glück wünschen?\" \"Das ist genau die Frage, die ich von Ihnen erwartet habe.",
                     "native": "I have been meditating on the very great pleasure which a pair of fine eyes in the face of a pretty woman can bestow.\" Miss Bingley immediately fixed her eyes on his face, and desired he would tell her what lady had the credit of inspiring such reflections."
                 },
                 {
-                    "target": "Die Phantasie einer Frau ist sehr flink; sie springt in einem Augenblick von der Bewunderung zur Liebe und von der Liebe zur Ehe.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Ich wußte, Sie würden mir Glück wünschen.\" \"Nein, wenn es Ihnen ernst ist, werde ich die Sache vielmehr als absolut feststehend betrachten.",
-                    "native": "Darcy replied with great intrepidity: \"Miss Elizabeth Bennet.\" \"Miss Elizabeth Bennet!\" repeated Miss Bingley. \"I am all astonishment."
+                    "target": "Die Phantasie einer Frau ist sehr flink; sie springt in einem Augenblick von der Bewunderung zur Liebe und von der Liebe zur Ehe. Ich wußte, Sie würden mir Glück wünschen.\" \"Nein, wenn es Ihnen ernst ist, werde ich die Sache vielmehr als absolut feststehend betrachten.",
+                    "native": "Mr. Darcy replied with great intrepidity: \"Miss Elizabeth Bennet.\" \"Miss Elizabeth Bennet!\" repeated Miss Bingley. \"I am all astonishment."
                 },
                 {
                     "target": "Sie werden wirklich eine reizende Schwiegermutter haben, und natürlich wird sie immer bei Ihnen in Pemberley sein.\" Er hörte ihr mit vollkommener Gleichgültigkeit zu, während es ihr beliebte, sich selbst auf diese Weise zu unterhalten; und da seine Gelassenheit sie überzeugte, daß von daher keinerlei Gefahr bestand, ließ sie ihren geistreichen Bemerkungen freien Lauf.",

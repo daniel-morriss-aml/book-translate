@@ -8,24 +8,16 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Die Bennets waren bei den Lucas’ zum Dinner eingeladen, und wieder war Miss Lucas während des größten Teils des Tages so liebenswürdig, Mr.",
-                    "native": "The Bennets were engaged to dine with the Lucases and again during the chief of the day was Miss Lucas so kind as to listen to Mr."
-                },
-                {
-                    "target": "Collins zuzuhören.",
-                    "native": "Collins."
+                    "target": "Die Bennets waren bei den Lucas’ zum Dinner eingeladen, und wieder war Miss Lucas während des größten Teils des Tages so liebenswürdig, Mr. Collins zuzuhören.",
+                    "native": "The Bennets were engaged to dine with the Lucases and again during the chief of the day was Miss Lucas so kind as to listen to Mr. Collins."
                 },
                 {
                     "target": "Elizabeth ergriff die sich bietende Gelegenheit, ihr zu danken: \"Es hält ihn bei guter Laune\", sagte sie, \"ich kann dir gar nicht sagen, wie dankbar ich dir bin.\" Charlotte versicherte ihrer Freundin, daß es ihr eine Genugtuung sei, nützlich zu sein, und daß sie das reichlich belohne für das kleine Opfer an Zeit.",
                     "native": "Elizabeth took an opportunity of thanking her. \"It keeps him in good humour,\" said she, \"and I am more obliged to you than I can express.\" Charlotte assured her friend of her satisfaction in being useful, and that it amply repaid her for the little sacrifice of her time."
                 },
                 {
-                    "target": "Das war sehr freundlich, doch Charlottes Liebenswürdigkeit ging weiter, als sich Elizabeth überhaupt vorstellen konnte; ihr Ziel war nichts Geringeres, als Elizabeth vor jeglichem erneutem Werben von seiten Mr.",
-                    "native": "This was very amiable, but Charlotte's kindness extended farther than Elizabeth had any conception of; its object was nothing else than to secure her from any return of Mr."
-                },
-                {
-                    "target": "Collins’ zu bewahren, indem sie es auf sich selbst lenkte.",
-                    "native": "Collins's addresses, by engaging them towards herself."
+                    "target": "Das war sehr freundlich, doch Charlottes Liebenswürdigkeit ging weiter, als sich Elizabeth überhaupt vorstellen konnte; ihr Ziel war nichts Geringeres, als Elizabeth vor jeglichem erneutem Werben von seiten Mr. Collins’ zu bewahren, indem sie es auf sich selbst lenkte.",
+                    "native": "This was very amiable, but Charlotte's kindness extended farther than Elizabeth had any conception of; its object was nothing else than to secure her from any return of Mr. Collins's addresses, by engaging them towards herself."
                 },
                 {
                     "target": "Dies war Miss Lucas’ Plan; und es sah schließlich so günstig aus, daß sie sich, als sie sich am Abend trennten, beinahe ihres Erfolges sicher gewesen wäre, hätte er Hertfordshire nicht so sehr bald verlassen müssen.",
@@ -57,12 +49,8 @@
                     "native": "But little had she dared to hope that so much love and eloquence awaited her there."
                 },
                 {
-                    "target": "In so kurzer Zeit, wie es Mr.",
-                    "native": "In as short a time as Mr."
-                },
-                {
-                    "target": "Collins’ lange Ansprachen zuließen, war zur Zufriedenheit beider alles zwischen ihnen entschieden; und als sie das Haus betraten, bat er sie dringend, den Tag zu bestimmen, der ihn zum glücklichsten aller Menschen machen sollte; und obgleich eine so dringende Bitte für den Augenblick unbeantwortet bleiben mußte, spürte Charlotte keine Neigung, mit seinem Glück zu spielen.",
-                    "native": "Collins's long speeches would allow, everything was settled between them to the satisfaction of both; and as they entered the house he earnestly entreated her to name the day that was to make him the happiest of men; and though such a solicitation must be waived for the present, the lady felt no inclination to trifle with his happiness."
+                    "target": "In so kurzer Zeit, wie es Mr. Collins’ lange Ansprachen zuließen, war zur Zufriedenheit beider alles zwischen ihnen entschieden; und als sie das Haus betraten, bat er sie dringend, den Tag zu bestimmen, der ihn zum glücklichsten aller Menschen machen sollte; und obgleich eine so dringende Bitte für den Augenblick unbeantwortet bleiben mußte, spürte Charlotte keine Neigung, mit seinem Glück zu spielen.",
+                    "native": "In as short a time as Mr. Collins's long speeches would allow, everything was settled between them to the satisfaction of both; and as they entered the house he earnestly entreated her to name the day that was to make him the happiest of men; and though such a solicitation must be waived for the present, the lady felt no inclination to trifle with his happiness."
                 },
                 {
                     "target": "Die Beschränktheit, mit der ihn die Natur bedacht hatte, mußte seinem Freien jeglichen Charme versagen, der in einer Frau sonst den Wunsch nach Fortsetzung wecken konnte; und Miss Lucas, die ihn allein aus dem reinen, emotionslosen Wunsch nach einem Heim akzeptierte, war es gleichgültig, wie bald sie dieses Heim bekommen würde.",
@@ -73,8 +61,8 @@
                     "native": "Sir William and Lady Lucas were speedily applied to for their consent; and it was bestowed with a most joyful alacrity."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
+                    "target": "Mr. Collins’ gegenwärtige Verhältnisse machten ihn zu einer höchst annehmbaren Partie für ihre Tochter, der sie wenig Vermögen zu bieten hatten, und seine Aussichten auf zukünftigen Reichtum waren außerordentlich günstig.",
+                    "native": "Mr. Collins's present circumstances made it a most eligible match for their daughter, to whom they could give little fortune; and his prospects of future wealth were exceedingly fair."
                 }
             ]
         },
@@ -82,20 +70,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Collins’ gegenwärtige Verhältnisse machten ihn zu einer höchst annehmbaren Partie für ihre Tochter, der sie wenig Vermögen zu bieten hatten, und seine Aussichten auf zukünftigen Reichtum waren außerordentlich günstig.",
-                    "native": "Collins's present circumstances made it a most eligible match for their daughter, to whom they could give little fortune; and his prospects of future wealth were exceedingly fair."
-                },
-                {
-                    "target": "Lady Lucas begann sogleich mit größerem Interesse als je zuvor nachzurechnen, wie viele Jahre Mr.",
-                    "native": "Lady Lucas began directly to calculate, with more interest than the matter had ever excited before, how many years longer Mr."
-                },
-                {
-                    "target": "Bennet wahrscheinlich noch leben würde; und Sir William ließ als seine entschiedene Meinung verlauten, daß es, wann immer Mr.",
-                    "native": "Bennet was likely to live; and Sir William gave it as his decided opinion, that whenever Mr."
-                },
-                {
-                    "target": "Collins im Besitz von Longbourn sein sollte, höchst dienlich wäre, wenn er und seine Gattin sich in St.",
-                    "native": "Collins should be in possession of the Longbourn estate, it would be highly expedient that both he and his wife should make their appearance at St."
+                    "target": "Lady Lucas begann sogleich mit größerem Interesse als je zuvor nachzurechnen, wie viele Jahre Mr. Bennet wahrscheinlich noch leben würde; und Sir William ließ als seine entschiedene Meinung verlauten, daß es, wann immer Mr. Collins im Besitz von Longbourn sein sollte, höchst dienlich wäre, wenn er und seine Gattin sich in St.",
+                    "native": "Lady Lucas began directly to calculate, with more interest than the matter had ever excited before, how many years longer Mr. Bennet was likely to live; and Sir William gave it as his decided opinion, that whenever Mr. Collins should be in possession of the Longbourn estate, it would be highly expedient that both he and his wife should make their appearance at St."
                 },
                 {
                     "target": "James zeigen würden.",
@@ -127,12 +103,8 @@
                     "native": "Her reflections were in general satisfactory."
                 },
                 {
-                    "target": "Gewiß war Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Collins weder gescheit noch liebenswürdig, seine Gesellschaft war ermüdend, und seine Liebe zu ihr konnte nur in seiner Einbildung bestehen.",
-                    "native": "Collins, to be sure, was neither sensible nor agreeable; his society was irksome, and his attachment to her must be imaginary."
+                    "target": "Gewiß war Mr. Collins weder gescheit noch liebenswürdig, seine Gesellschaft war ermüdend, und seine Liebe zu ihr konnte nur in seiner Einbildung bestehen.",
+                    "native": "Mr. Collins, to be sure, was neither sensible nor agreeable; his society was irksome, and his attachment to her must be imaginary."
                 },
                 {
                     "target": "Und doch würde er ihr Gatte sein. – Ohne daß sie viel von Männern oder Ehe gehalten hatte, war es stets ihr Ziel gewesen zu heiraten; es war die einzig ehrenhafte Art der Versorgung für eine gebildete junge Frau mit geringem Vermögen; und wie ungewiß es auch sein mochte, daß man dadurch glücklich würde, so mußte es doch das angenehmste Mittel gegen Armut sein.",
@@ -156,36 +128,16 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Sie beschloß, ihr diese Neuigkeit selbst mitzuteilen, und schärfte Mr.",
-                    "native": "Elizabeth would wonder, and probably would blame her; and though her resolution was not to be shaken, her feelings must be hurt by such a disapprobation."
+                    "target": "Sie beschloß, ihr diese Neuigkeit selbst mitzuteilen, und schärfte Mr. Collins deshalb ein, wenn er nach Longbourn zurückkam, kein Wort darüber zu verlieren, was vorgefallen war. Das Versprechen der Geheimhaltung wurde natürlich pflichtgemäß gegeben, doch konnte es nicht ohne Schwierigkeiten eingehalten werden, denn die Neugierde, die seine lange Abwesenheit hervorgerufen hatte, brach bei seiner Rückkehr mit so direkten Fragen hervor, daß es schon einiger Findigkeit bedurfte, um ihnen auszuweichen; und so übte er zur gleichen Zeit starke Selbstverleugnung, denn es verlangte ihn sehr danach, seine erfolgreiche Liebe zu verkünden.",
+                    "native": "Elizabeth would wonder, and probably would blame her; and though her resolution was not to be shaken, her feelings must be hurt by such a disapprobation. She resolved to give her the information herself, and therefore charged Mr. Collins, when he returned to Longbourn to dinner, to drop no hint of what had passed before any of the family."
                 },
                 {
-                    "target": "Collins deshalb ein, wenn er nach Longbourn zurückkam, kein Wort darüber zu verlieren, was vorgefallen war.",
-                    "native": "She resolved to give her the information herself, and therefore charged Mr."
+                    "target": "Da er am nächsten Tag zu früh am Morgen zu seiner Heimreise aufbrechen mußte, um noch jemand aus der Familie zu sehen, wurde die förmliche Verabschiedung vorgenommen, bevor sich die Damen zur Nacht zurückzogen; und Mrs. Bennet erklärte mit großer Höflichkeit und Herzlichkeit, wie sehr sie sich freuen würden, ihn wieder in Longbourn zu sehen, wann immer es ihm seine sonstigen Verpflichtungen erlaubten, sie zu besuchen. \"Meine liebe Madam\", erwiderte er, \"diese Einladung ist für mich besonders erfreulich, da ich in der Tat darauf gehofft hatte; und Sie können ganz gewiß sein, daß ich so bald wie möglich davon Gebrauch machen werde.\" Alle waren verblüfft, und Mr. Bennet, der auf keinen Fall eine so rasche Rückkehr wünschen konnte, sagte sofort: \"Aber besteht da nicht die Gefahr, daß Lady Catherine das mißbilligen würde, mein guter Herr? Sie sollten lieber Ihre Verwandten vernachlässigen, statt Gefahr zu laufen, Ihre Gönnerin zu verärgern.\" \"Mein lieber Sir\", erwiderte Collins, \"ich bin Ihnen ganz besonders verbunden für diese freundliche Warnung, und Sie können sich darauf verlassen, daß ich keinen so wichtigen Schritt tue ohne das Einverständnis Ihrer Ladyschaft.\" \"Sie können gar nicht genug auf der Hut sein.",
+                    "native": "A promise of secrecy was of course very dutifully given, but it could not be kept without difficulty; for the curiosity excited by his long absence burst forth in such very direct questions on his return as required some ingenuity to evade, and he was at the same time exercising great self-denial, for he was longing to publish his prosperous love. As he was to begin his journey too early on the morrow to see any of the family, the ceremony of leave-taking was performed when the ladies moved for the night; and Mrs. Bennet, with great politeness and cordiality, said how happy they should be to see him at Longbourn again, whenever his engagements might allow him to visit them. \"My dear madam,\" he replied, \"this invitation is particularly gratifying, because it is what I have been hoping to receive; and you may be very certain that I shall avail myself of it as soon as possible.\" They were all astonished; and Mr. Bennet, who could by no means wish for so speedy a return, immediately said: \"But is there not danger of Lady Catherine's disapprobation here, my good sir?"
                 },
                 {
-                    "target": "Das Versprechen der Geheimhaltung wurde natürlich pflichtgemäß gegeben, doch konnte es nicht ohne Schwierigkeiten eingehalten werden, denn die Neugierde, die seine lange Abwesenheit hervorgerufen hatte, brach bei seiner Rückkehr mit so direkten Fragen hervor, daß es schon einiger Findigkeit bedurfte, um ihnen auszuweichen; und so übte er zur gleichen Zeit starke Selbstverleugnung, denn es verlangte ihn sehr danach, seine erfolgreiche Liebe zu verkünden.",
-                    "native": "Collins, when he returned to Longbourn to dinner, to drop no hint of what had passed before any of the family."
-                },
-                {
-                    "target": "Da er am nächsten Tag zu früh am Morgen zu seiner Heimreise aufbrechen mußte, um noch jemand aus der Familie zu sehen, wurde die förmliche Verabschiedung vorgenommen, bevor sich die Damen zur Nacht zurückzogen; und Mrs.",
-                    "native": "A promise of secrecy was of course very dutifully given, but it could not be kept without difficulty; for the curiosity excited by his long absence burst forth in such very direct questions on his return as required some ingenuity to evade, and he was at the same time exercising great self-denial, for he was longing to publish his prosperous love."
-                },
-                {
-                    "target": "Bennet erklärte mit großer Höflichkeit und Herzlichkeit, wie sehr sie sich freuen würden, ihn wieder in Longbourn zu sehen, wann immer es ihm seine sonstigen Verpflichtungen erlaubten, sie zu besuchen. \"Meine liebe Madam\", erwiderte er, \"diese Einladung ist für mich besonders erfreulich, da ich in der Tat darauf gehofft hatte; und Sie können ganz gewiß sein, daß ich so bald wie möglich davon Gebrauch machen werde.\" Alle waren verblüfft, und Mr.",
-                    "native": "As he was to begin his journey too early on the morrow to see any of the family, the ceremony of leave-taking was performed when the ladies moved for the night; and Mrs."
-                },
-                {
-                    "target": "Bennet, der auf keinen Fall eine so rasche Rückkehr wünschen konnte, sagte sofort: \"Aber besteht da nicht die Gefahr, daß Lady Catherine das mißbilligen würde, mein guter Herr?",
-                    "native": "Bennet, with great politeness and cordiality, said how happy they should be to see him at Longbourn again, whenever his engagements might allow him to visit them. \"My dear madam,\" he replied, \"this invitation is particularly gratifying, because it is what I have been hoping to receive; and you may be very certain that I shall avail myself of it as soon as possible.\" They were all astonished; and Mr."
-                },
-                {
-                    "target": "Sie sollten lieber Ihre Verwandten vernachlässigen, statt Gefahr zu laufen, Ihre Gönnerin zu verärgern.\" \"Mein lieber Sir\", erwiderte Collins, \"ich bin Ihnen ganz besonders verbunden für diese freundliche Warnung, und Sie können sich darauf verlassen, daß ich keinen so wichtigen Schritt tue ohne das Einverständnis Ihrer Ladyschaft.\" \"Sie können gar nicht genug auf der Hut sein.",
-                    "native": "Bennet, who could by no means wish for so speedy a return, immediately said: \"But is there not danger of Lady Catherine's disapprobation here, my good sir?"
-                },
-                {
-                    "target": "Riskieren Sie eher alles andere, als ihr Mißvergnügen zu erregen; und wenn Sie merken, daß dies durch einen erneuten Besuch bei uns vermutlich der Fall wäre, was ich für sehr wahrscheinlich halte, dann bleiben Sie ruhig zu Hause, und seien Sie versichert, daß wir es nicht übelnehmen.\" \"Glauben Sie mir, mein lieber Sir, ich bin Ihnen herzlich dankbar für Ihre so gütige Aufmerksamkeit; Sie dürfen sich darauf verlassen, daß Sie sehr bald einen Brief von mir erhalten werden mit meinem Dank dafür wie auch für alle anderen Zeichen Ihrer Freundschaft während meines Aufenthaltes in Hertfordshire.",
-                    "native": "You had better neglect your relations than run the risk of offending your patroness.\" \"My dear sir,\" replied Mr."
+                    "target": "Riskieren Sie eher alles andere, als ihr Mißvergnügen zu erregen; und wenn Sie merken, daß dies durch einen erneuten Besuch bei uns vermutlich der Fall wäre, was ich für sehr wahrscheinlich halte, dann bleiben Sie ruhig zu Hause, und seien Sie versichert, daß wir es nicht übelnehmen.\" \"Glauben Sie mir, mein lieber Sir, ich bin Ihnen herzlich dankbar für Ihre so gütige Aufmerksamkeit; Sie dürfen sich darauf verlassen, daß Sie sehr bald einen Brief von mir erhalten werden mit meinem Dank dafür wie auch für alle anderen Zeichen Ihrer Freundschaft während meines Aufenthaltes in Hertfordshire. Was meine schönen Cousinen angeht, nehme ich mir, obgleich meine Abwesenheit nicht lang genug sein wird, um dies notwendig zu machen, die Freiheit, ihnen allen – meine Cousine Elizabeth nicht ausgenommen – Gesundheit und Glück zu wünschen.\" Mit den geziemenden Höflichkeitsbezeigungen zogen sich die Damen dann zurück, alle gleichermaßen verwundert, daß er eine so rasche Rückkehr erwog.",
+                    "native": "You had better neglect your relations than run the risk of offending your patroness.\" \"My dear sir,\" replied Mr. Collins, \"I am particularly obliged to you for this friendly caution, and you may depend upon my not taking so material a step without her ladyship's concurrence.\" \"You cannot be too much upon your guard."
                 }
             ]
         },
@@ -193,66 +145,26 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Was meine schönen Cousinen angeht, nehme ich mir, obgleich meine Abwesenheit nicht lang genug sein wird, um dies notwendig zu machen, die Freiheit, ihnen allen – meine Cousine Elizabeth nicht ausgenommen – Gesundheit und Glück zu wünschen.\" Mit den geziemenden Höflichkeitsbezeigungen zogen sich die Damen dann zurück, alle gleichermaßen verwundert, daß er eine so rasche Rückkehr erwog.",
-                    "native": "Collins, \"I am particularly obliged to you for this friendly caution, and you may depend upon my not taking so material a step without her ladyship's concurrence.\" \"You cannot be too much upon your guard."
+                    "target": "Mrs. Bennet wollte darunter gern verstehen, daß er daran dachte, einer der jüngeren Mädchen den Hof zu machen; Mary könnte vielleicht dazu bewogen werden, ihn zu akzeptieren.",
+                    "native": "Risk anything rather than her displeasure; and if you find it likely to be raised by your coming to us again, which I should think exceedingly probable, stay quietly at home, and be satisfied that we shall take no offence.\" \"Believe me, my dear sir, my gratitude is warmly excited by such affectionate attention; and depend upon it, you will speedily receive from me a letter of thanks for this, and for every other mark of your regard during my stay in Hertfordshire. As for my fair cousins, though my absence may not be long enough to render it necessary, I shall now take the liberty of wishing them health and happiness, not excepting my cousin Elizabeth.\" With proper civilities the ladies then withdrew; all of them equally surprised that he meditated a quick return."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Risk anything rather than her displeasure; and if you find it likely to be raised by your coming to us again, which I should think exceedingly probable, stay quietly at home, and be satisfied that we shall take no offence.\" \"Believe me, my dear sir, my gratitude is warmly excited by such affectionate attention; and depend upon it, you will speedily receive from me a letter of thanks for this, and for every other mark of your regard during my stay in Hertfordshire."
-                },
-                {
-                    "target": "Bennet wollte darunter gern verstehen, daß er daran dachte, einer der jüngeren Mädchen den Hof zu machen; Mary könnte vielleicht dazu bewogen werden, ihn zu akzeptieren.",
-                    "native": "As for my fair cousins, though my absence may not be long enough to render it necessary, I shall now take the liberty of wishing them health and happiness, not excepting my cousin Elizabeth.\" With proper civilities the ladies then withdrew; all of them equally surprised that he meditated a quick return."
-                },
-                {
-                    "target": "Sie schätzte seine Fähigkeiten viel höher als alle anderen; in seinen Betrachtungen lag eine Gültigkeit, die sie oft beeindruckte, und obgleich er keinesfalls so klug war wie sie selbst, meinte sie, wenn er durch ihr eigenes Beispiel ermuntert würde, zu lesen und sich zu bilden, mochte er ein sehr angenehmer Gefährte werden.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Doch am folgenden Morgen wurde jegliche Hoffnung dieser Art zunichte gemacht.",
-                    "native": "Bennet wished to understand by it that he thought of paying his addresses to one of her younger girls, and Mary might have been prevailed on to accept him."
+                    "target": "Sie schätzte seine Fähigkeiten viel höher als alle anderen; in seinen Betrachtungen lag eine Gültigkeit, die sie oft beeindruckte, und obgleich er keinesfalls so klug war wie sie selbst, meinte sie, wenn er durch ihr eigenes Beispiel ermuntert würde, zu lesen und sich zu bilden, mochte er ein sehr angenehmer Gefährte werden. Doch am folgenden Morgen wurde jegliche Hoffnung dieser Art zunichte gemacht.",
+                    "native": "Mrs. Bennet wished to understand by it that he thought of paying his addresses to one of her younger girls, and Mary might have been prevailed on to accept him."
                 },
                 {
                     "target": "Miss Lucas kam bald nach dem Frühstück zu ihnen, und in einer Unterredung mit Elizabeth unter vier Augen berichtete sie ihr, was am Tag zuvor geschehen war.",
                     "native": "She rated his abilities much higher than any of the others; there was a solidity in his reflections which often struck her, and though by no means so clever as herself, she thought that if encouraged to read and improve himself by such an example as hers, he might become a very agreeable companion."
                 },
                 {
-                    "target": "Der Gedanke, daß Mr.",
-                    "native": "But on the following morning, every hope of this kind was done away."
-                },
-                {
-                    "target": "Collins sich einbilden könnte, in ihre Freundin verliebt zu sein, war Elizabeth während der letzten Tage schon einmal gekommen, doch daß Charlotte ihn ermutigen könnte, schien ihr beinahe ebenso unmöglich, als würde sie selbst es tun; ihre Überraschung war folglich so groß, daß sie zuerst über die Grenzen der Schicklichkeit hinausschoß und sich nicht enthalten konnte auszurufen: \"Verlobt mit Mr.",
-                    "native": "Miss Lucas called soon after breakfast, and in a private conference with Elizabeth related the event of the day before."
+                    "target": "Der Gedanke, daß Mr. Collins sich einbilden könnte, in ihre Freundin verliebt zu sein, war Elizabeth während der letzten Tage schon einmal gekommen, doch daß Charlotte ihn ermutigen könnte, schien ihr beinahe ebenso unmöglich, als würde sie selbst es tun; ihre Überraschung war folglich so groß, daß sie zuerst über die Grenzen der Schicklichkeit hinausschoß und sich nicht enthalten konnte auszurufen: \"Verlobt mit Mr. Collins! Meine liebe Charlotte – niemals!\" Die beherrschte Haltung, die Miss Lucas bewahrt hatte, während sie ihr alles erzählte, machte bei einem so direkten Vorwurf einer flüchtigen Verwirrung Platz; doch da sie dies letzten Endes erwartet hatte, gewann sie bald ihre Fassung wieder und entgegnete ruhig: \"Warum bist du so überrascht, meine liebe Eliza? Hältst du es für undenkbar, daß Mr. Collins imstande sein könnte, die gute Meinung einer Frau zu erlangen, weil er nicht das Glück hatte, bei dir Erfolg zu haben?\" Aber Elizabeth hatte sich nun wieder gefaßt und war unter großer Anstrengung in der Lage, ihr mit leidlicher Festigkeit zu versichern, daß die Aussicht auf ihre zukünftige Verwandtschaft höchst angenehm für sie sei und daß sie ihr alles erdenkliche Glück wünsche. \"Ich verstehe, was du fühlst\", erwiderte Charlotte, \"du mußt ja überrascht sein, sehr sogar, wo Mr. Collins doch so kurz zuvor dich zu heiraten wünschte. Aber wenn du erst Zeit hast, über alles nachzudenken, dann hoffe ich, daß du es billigst, was ich getan habe.",
+                    "native": "But on the following morning, every hope of this kind was done away. Miss Lucas called soon after breakfast, and in a private conference with Elizabeth related the event of the day before. The possibility of Mr. Collins's fancying himself in love with her friend had once occurred to Elizabeth within the last day or two; but that Charlotte could encourage him seemed almost as far from possibility as she could encourage him herself, and her astonishment was consequently so great as to overcome at first the bounds of decorum, and she could not help crying out: \"Engaged to Mr. Collins! My dear Charlotte—impossible!\" The steady countenance which Miss Lucas had commanded in telling her story, gave way to a momentary confusion here on receiving so direct a reproach; though, as it was no more than she expected, she soon regained her composure, and calmly replied: \"Why should you be surprised, my dear Eliza? Do you think it incredible that Mr. Collins should be able to procure any woman's good opinion, because he was not so happy as to succeed with you?\" But Elizabeth had now recollected herself, and making a strong effort for it, was able to assure with tolerable firmness that the prospect of their relationship was highly grateful to her, and that she wished her all imaginable happiness. \"I see what you are feeling,\" replied Charlotte. \"You must be surprised, very much surprised—so lately as Mr."
                 }
             ]
         },
         {
             "pageNumber": 7,
             "sentences": [
-                {
-                    "target": "Collins!",
-                    "native": "The possibility of Mr."
-                },
-                {
-                    "target": "Meine liebe Charlotte – niemals!\" Die beherrschte Haltung, die Miss Lucas bewahrt hatte, während sie ihr alles erzählte, machte bei einem so direkten Vorwurf einer flüchtigen Verwirrung Platz; doch da sie dies letzten Endes erwartet hatte, gewann sie bald ihre Fassung wieder und entgegnete ruhig: \"Warum bist du so überrascht, meine liebe Eliza?",
-                    "native": "Collins's fancying himself in love with her friend had once occurred to Elizabeth within the last day or two; but that Charlotte could encourage him seemed almost as far from possibility as she could encourage him herself, and her astonishment was consequently so great as to overcome at first the bounds of decorum, and she could not help crying out: \"Engaged to Mr."
-                },
-                {
-                    "target": "Hältst du es für undenkbar, daß Mr.",
-                    "native": "Collins!"
-                },
-                {
-                    "target": "Collins imstande sein könnte, die gute Meinung einer Frau zu erlangen, weil er nicht das Glück hatte, bei dir Erfolg zu haben?\" Aber Elizabeth hatte sich nun wieder gefaßt und war unter großer Anstrengung in der Lage, ihr mit leidlicher Festigkeit zu versichern, daß die Aussicht auf ihre zukünftige Verwandtschaft höchst angenehm für sie sei und daß sie ihr alles erdenkliche Glück wünsche. \"Ich verstehe, was du fühlst\", erwiderte Charlotte, \"du mußt ja überrascht sein, sehr sogar, wo Mr.",
-                    "native": "My dear Charlotte—impossible!\" The steady countenance which Miss Lucas had commanded in telling her story, gave way to a momentary confusion here on receiving so direct a reproach; though, as it was no more than she expected, she soon regained her composure, and calmly replied: \"Why should you be surprised, my dear Eliza?"
-                },
-                {
-                    "target": "Collins doch so kurz zuvor dich zu heiraten wünschte.",
-                    "native": "Do you think it incredible that Mr."
-                },
-                {
-                    "target": "Aber wenn du erst Zeit hast, über alles nachzudenken, dann hoffe ich, daß du es billigst, was ich getan habe.",
-                    "native": "Collins should be able to procure any woman's good opinion, because he was not so happy as to succeed with you?\" But Elizabeth had now recollected herself, and making a strong effort for it, was able to assure with tolerable firmness that the prospect of their relationship was highly grateful to her, and that she wished her all imaginable happiness. \"I see what you are feeling,\" replied Charlotte. \"You must be surprised, very much surprised—so lately as Mr."
-                },
                 {
                     "target": "Du weißt, ich bin nicht romantisch veranlagt.",
                     "native": "Collins was wishing to marry you."
@@ -267,51 +179,26 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Ich wünsche mir nur ein behagliches Heim; und wenn man Mr.",
-                    "native": "I am not romantic, you know; I never was."
-                },
-                {
-                    "target": "Collins’ Charakter, seine Beziehungen und seine Stellung im Leben bedenkt, dann bin ich überzeugt, daß ich eine ebenso große Chance habe, mit ihm glücklich zu werden, wie sich die meisten Leute rühmen können, wenn sie in den Ehestand treten.\" Elizabeth entgegnete ruhig: \"Zweifellos\"; und nach einer verlegenen Pause gingen sie zum Rest der Familie zurück.",
-                    "native": "I ask only a comfortable home; and considering Mr."
-                },
-                {
-                    "target": "Charlotte blieb nicht mehr lange, und Elizabeth konnte nun darüber nachdenken, was sie gehört hatte.",
-                    "native": "Collins's character, connection, and situation in life, I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.\" Elizabeth quietly answered \"Undoubtedly;\" and after an awkward pause, they returned to the rest of the family."
+                    "target": "Ich wünsche mir nur ein behagliches Heim; und wenn man Mr. Collins’ Charakter, seine Beziehungen und seine Stellung im Leben bedenkt, dann bin ich überzeugt, daß ich eine ebenso große Chance habe, mit ihm glücklich zu werden, wie sich die meisten Leute rühmen können, wenn sie in den Ehestand treten.\" Elizabeth entgegnete ruhig: \"Zweifellos\"; und nach einer verlegenen Pause gingen sie zum Rest der Familie zurück. Charlotte blieb nicht mehr lange, und Elizabeth konnte nun darüber nachdenken, was sie gehört hatte.",
+                    "native": "I am not romantic, you know; I never was. I ask only a comfortable home; and considering Mr. Collins's character, connection, and situation in life, I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.\" Elizabeth quietly answered \"Undoubtedly;\" and after an awkward pause, they returned to the rest of the family."
                 },
                 {
                     "target": "Es dauerte eine ganze Zeit, bis sie sich überhaupt mit dem Gedanken an eine so unpassende Verbindung versöhnen konnte.",
                     "native": "Charlotte did not stay much longer, and Elizabeth was then left to reflect on what she had heard."
                 },
                 {
-                    "target": "Die merkwürdige Tatsache, daß Mr.",
-                    "native": "It was a long time before she became at all reconciled to the idea of so unsuitable a match."
+                    "target": "Die merkwürdige Tatsache, daß Mr. Collins innerhalb von drei Tagen zwei Heiratsanträge gemacht hatte, war nichts im Vergleich dazu, daß er nun akzeptiert worden war. Sie hatte immer schon das Gefühl gehabt, daß Charlottes Meinung über die Ehe etwas anders war als die ihre, aber sie hätte es nicht für möglich gehalten, daß sie, wenn es darauf ankam, alle besseren Gefühle materiellem Vorteil opfern würde.",
+                    "native": "It was a long time before she became at all reconciled to the idea of so unsuitable a match. The strangeness of Mr. Collins's making two offers of marriage within three days was nothing in comparison of his being now accepted."
                 },
                 {
-                    "target": "Collins innerhalb von drei Tagen zwei Heiratsanträge gemacht hatte, war nichts im Vergleich dazu, daß er nun akzeptiert worden war.",
-                    "native": "The strangeness of Mr."
-                },
-                {
-                    "target": "Sie hatte immer schon das Gefühl gehabt, daß Charlottes Meinung über die Ehe etwas anders war als die ihre, aber sie hätte es nicht für möglich gehalten, daß sie, wenn es darauf ankam, alle besseren Gefühle materiellem Vorteil opfern würde.",
-                    "native": "Collins's making two offers of marriage within three days was nothing in comparison of his being now accepted."
-                },
-                {
-                    "target": "Charlotte die Gattin von Mr.",
-                    "native": "She had always felt that Charlotte's opinion of matrimony was not exactly like her own, but she had not supposed it to be possible that, when called into action, she would have sacrificed every better feeling to worldly advantage."
+                    "target": "Charlotte die Gattin von Mr. Collins, das war ein äußerst demütigendes Bild! Und zu dem Stich, den ihr ihre Freundin damit versetzte, die sich erniedrigte und in ihrer Achtung gesunken war, kam noch die bedrückende Überzeugung, daß es für diese Freundin unmöglich war, mit dem Los, das sie sich gewählt hatte, leidlich glücklich zu werden.",
+                    "native": "She had always felt that Charlotte's opinion of matrimony was not exactly like her own, but she had not supposed it to be possible that, when called into action, she would have sacrificed every better feeling to worldly advantage. Charlotte the wife of Mr. Collins was a most humiliating picture!"
                 }
             ]
         },
         {
             "pageNumber": 9,
-            "sentences": [
-                {
-                    "target": "Collins, das war ein äußerst demütigendes Bild!",
-                    "native": "Charlotte the wife of Mr."
-                },
-                {
-                    "target": "Und zu dem Stich, den ihr ihre Freundin damit versetzte, die sich erniedrigte und in ihrer Achtung gesunken war, kam noch die bedrückende Überzeugung, daß es für diese Freundin unmöglich war, mit dem Los, das sie sich gewählt hatte, leidlich glücklich zu werden.",
-                    "native": "Collins was a most humiliating picture!"
-                }
-            ]
+            "sentences": []
         }
     ]
 }

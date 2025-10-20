@@ -28,12 +28,8 @@
                     "native": "The family were assembled in the breakfast room to receive them."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Smiles decked the face of Mrs."
-                },
-                {
-                    "target": "Bennet strahlte, als die Kutsche an der Tür vorfuhr; ihr Gatte machte ein undurchdringlich ernstes Gesicht, die Töchter erschienen beunruhigt und beklommen.",
-                    "native": "Bennet as the carriage drove up to the door; her husband looked impenetrably grave; her daughters, alarmed, anxious, uneasy."
+                    "target": "Mrs. Bennet strahlte, als die Kutsche an der Tür vorfuhr; ihr Gatte machte ein undurchdringlich ernstes Gesicht, die Töchter erschienen beunruhigt und beklommen.",
+                    "native": "Smiles decked the face of Mrs. Bennet as the carriage drove up to the door; her husband looked impenetrably grave; her daughters, alarmed, anxious, uneasy."
                 },
                 {
                     "target": "Man hörte Lydias Stimme in der Halle, die Tür wurde aufgerissen, und sie kam ins Zimmer gestürmt.",
@@ -49,12 +45,8 @@
                     "native": "Her mother stepped forwards, embraced her, and welcomed her with rapture; gave her hand, with an affectionate smile, to Wickham, who followed his lady; and wished them both joy with an alacrity which shewed no doubt of their happiness."
                 },
                 {
-                    "target": "Ihr Empfang durch Mr.",
-                    "native": "Their reception from Mr."
-                },
-                {
-                    "target": "Bennet, dem sie sich nun zuwandten, war nicht ganz so herzlich.",
-                    "native": "Bennet, to whom they then turned, was not quite so cordial."
+                    "target": "Ihr Empfang durch Mr. Bennet, dem sie sich nun zuwandten, war nicht ganz so herzlich.",
+                    "native": "Their reception from Mr. Bennet, to whom they then turned, was not quite so cordial."
                 },
                 {
                     "target": "Sein Gesicht wurde eher strenger, und er tat kaum den Mund auf.",
@@ -143,30 +135,14 @@
                     "native": "Jane, I take your place now, and you must go lower, because I am a married woman.\" It was not to be supposed that time would give Lydia that embarrassment from which she had been so wholly free at first."
                 },
                 {
-                    "target": "Sie wollte unbedingt Mrs.",
-                    "native": "Her ease and good spirits increased."
-                },
-                {
-                    "target": "Philips, die Lucas’ und all die anderen Nachbarn sehen und sich von allen \"Mrs.",
-                    "native": "She longed to see Mrs."
+                    "target": "Sie wollte unbedingt Mrs. Philips, die Lucas’ und all die anderen Nachbarn sehen und sich von allen \"Mrs. Wickham\" nennen hören; doch erst einmal ging sie nach dem Dinner zu Mrs. Hill und den beiden Hausmädchen, um ihnen ihren Ring zu zeigen und sich ihrer Verheiratung zu rühmen. \"Nun, Mama\", sagte sie, als sie alle ins Frühstückszimmer zurückgekehrt waren, \"was hältst du von meinem Gatten? Ist er nicht ein bezaubernder Mann?",
+                    "native": "Her ease and good spirits increased. She longed to see Mrs. Phillips, the Lucases, and all their other neighbours, and to hear herself called \"Mrs. Wickham\" by each of them; and in the mean time, she went after dinner to show her ring, and boast of being married, to Mrs. Hill and the two housemaids. \"Well, mamma,\" said she, when they were all returned to the breakfast room, \"and what do you think of my husband?"
                 }
             ]
         },
         {
             "pageNumber": 5,
             "sentences": [
-                {
-                    "target": "Wickham\" nennen hören; doch erst einmal ging sie nach dem Dinner zu Mrs.",
-                    "native": "Phillips, the Lucases, and all their other neighbours, and to hear herself called \"Mrs."
-                },
-                {
-                    "target": "Hill und den beiden Hausmädchen, um ihnen ihren Ring zu zeigen und sich ihrer Verheiratung zu rühmen. \"Nun, Mama\", sagte sie, als sie alle ins Frühstückszimmer zurückgekehrt waren, \"was hältst du von meinem Gatten?",
-                    "native": "Wickham\" by each of them; and in the mean time, she went after dinner to show her ring, and boast of being married, to Mrs."
-                },
-                {
-                    "target": "Ist er nicht ein bezaubernder Mann?",
-                    "native": "Hill and the two housemaids. \"Well, mamma,\" said she, when they were all returned to the breakfast room, \"and what do you think of my husband?"
-                },
                 {
                     "target": "Bestimmt beneiden mich alle meine Schwestern.",
                     "native": "Is not he a charming man?"
@@ -213,30 +189,14 @@
                     "native": "You and papa, and my sisters, must come down and see us."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "We shall be at Newcastle all the winter, and I dare say there will be some balls, and I will take care to get good partners for them all.\" \"I should like it beyond anything!\" said her mother. \"And then when you go away, you may leave one or two of my sisters behind you; and I dare say I shall get husbands for them before the winter is over.\" \"I thank you for my share of the favour,\" said Elizabeth; \"but I do not particularly like your way of getting husbands.\" Their visitors were not to remain above ten days with them."
-                },
-                {
-                    "target": "Wickham hatte seine Offiziersstelle erhalten, bevor er London verließ, und er mußte zwei Wochen danach bei seinem Regiment sein.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Niemand außer Mrs.",
-                    "native": "Wickham had received his commission before he left London, and he was to join his regiment at the end of a fortnight."
+                    "target": "Mr. Wickham hatte seine Offiziersstelle erhalten, bevor er London verließ, und er mußte zwei Wochen danach bei seinem Regiment sein. Niemand außer Mrs. Bennet bedauerte, daß ihr Aufenthalt so kurz sein würde; sie nutzte deshalb die Zeit so gut wie möglich, indem sie mit ihrer Tochter überall Besuche machte und sehr häufig Geselligkeiten zu Hause veranstaltete. Diese waren für alle annehmbar; dem engsten Familienkreis zu entgehen war für diejenigen, die nachdachten, sogar noch wünschenswerter als für die, die es nicht taten.",
+                    "native": "We shall be at Newcastle all the winter, and I dare say there will be some balls, and I will take care to get good partners for them all.\" \"I should like it beyond anything!\" said her mother. \"And then when you go away, you may leave one or two of my sisters behind you; and I dare say I shall get husbands for them before the winter is over.\" \"I thank you for my share of the favour,\" said Elizabeth; \"but I do not particularly like your way of getting husbands.\" Their visitors were not to remain above ten days with them. Mr. Wickham had received his commission before he left London, and he was to join his regiment at the end of a fortnight. No one but Mrs. Bennet regretted that their stay would be so short; and she made the most of the time by visiting about with her daughter, and having very frequent parties at home."
                 }
             ]
         },
         {
             "pageNumber": 7,
             "sentences": [
-                {
-                    "target": "Bennet bedauerte, daß ihr Aufenthalt so kurz sein würde; sie nutzte deshalb die Zeit so gut wie möglich, indem sie mit ihrer Tochter überall Besuche machte und sehr häufig Geselligkeiten zu Hause veranstaltete.",
-                    "native": "No one but Mrs."
-                },
-                {
-                    "target": "Diese waren für alle annehmbar; dem engsten Familienkreis zu entgehen war für diejenigen, die nachdachten, sogar noch wünschenswerter als für die, die es nicht taten.",
-                    "native": "Bennet regretted that their stay would be so short; and she made the most of the time by visiting about with her daughter, and having very frequent parties at home."
-                },
                 {
                     "target": "Wickhams Liebe für Lydia war geradeso, wie Elizabeth es erwartet hatte – sie kam der Lydias für ihn nicht gleich.",
                     "native": "These parties were acceptable to all; to avoid a family circle was even more desirable to such as did think, than such as did not."
@@ -345,16 +305,8 @@
                     "native": "To be sure London was rather thin, but, however, the Little Theatre was open."
                 },
                 {
-                    "target": "In London war zwar gar nichts los, aber immerhin war doch das kleine Theater offen.",
-                    "native": "Well, and so just as the carriage came to the door, my uncle was called away upon business to that horrid man Mr."
-                },
-                {
-                    "target": "Na, und grade, als dann die Kutsche vorgefahren kam, wurde der Onkel wegen was Geschäftlichem zu diesem gräßlichen Mr.",
-                    "native": "Stone."
-                },
-                {
-                    "target": "Stone weggerufen.",
-                    "native": "And then, you know, when once they get together, there is no end of it."
+                    "target": "In London war zwar gar nichts los, aber immerhin war doch das kleine Theater offen. Na, und grade, als dann die Kutsche vorgefahren kam, wurde der Onkel wegen was Geschäftlichem zu diesem gräßlichen Mr. Stone weggerufen.",
+                    "native": "Well, and so just as the carriage came to the door, my uncle was called away upon business to that horrid man Mr. Stone. And then, you know, when once they get together, there is no end of it."
                 },
                 {
                     "target": "Wenn die nämlich einmal zusammenkommen, finden sie kein Ende.",
@@ -365,22 +317,14 @@
                     "native": "But, luckily, he came back again in ten minutes' time, and then we all set out."
                 },
                 {
-                    "target": "Aber zum Glück kam er nach zehn Minuten zurück, und dann sind wir alle losgefahren.",
-                    "native": "However, I recollected afterwards that if he had been prevented going, the wedding need not be put off, for Mr."
-                },
-                {
-                    "target": "Aber hinterher fiel mir ein, daß die Trauung doch nicht hätte aufgeschoben werden müssen, wenn er verhindert gewesen wäre, denn Mr.",
-                    "native": "Darcy might have done as well.\" \"Mr."
+                    "target": "Aber zum Glück kam er nach zehn Minuten zurück, und dann sind wir alle losgefahren. Aber hinterher fiel mir ein, daß die Trauung doch nicht hätte aufgeschoben werden müssen, wenn er verhindert gewesen wäre, denn Mr. Darcy hätte das ebenso tun können.\" \"Mr.",
+                    "native": "However, I recollected afterwards that if he had been prevented going, the wedding need not be put off, for Mr. Darcy might have done as well.\" \"Mr. Darcy!\" repeated Elizabeth, in utter amazement. \"Oh, yes!—he was to come there with Wickham, you know."
                 }
             ]
         },
         {
             "pageNumber": 11,
             "sentences": [
-                {
-                    "target": "Darcy hätte das ebenso tun können.\" \"Mr.",
-                    "native": "Darcy!\" repeated Elizabeth, in utter amazement. \"Oh, yes!—he was to come there with Wickham, you know."
-                },
                 {
                     "target": "Darcy!\" wiederholte Elizabeth völlig entgeistert. \"Aber ja, er sollte nämlich mit Wickham zusammen hinkommen.",
                     "native": "But gracious me!"
@@ -419,12 +363,8 @@
                     "native": "But to live in ignorance on such a point was impossible; or at least it was impossible not to try for information."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Darcy war bei der Trauung ihrer Schwester gewesen.",
-                    "native": "Darcy had been at her sister's wedding."
+                    "target": "Mr. Darcy war bei der Trauung ihrer Schwester gewesen.",
+                    "native": "Mr. Darcy had been at her sister's wedding."
                 },
                 {
                     "target": "Das war nun genau die Szene, mit genau den Leuten, wo er offensichtlich am wenigsten hingehörte und an der teilzunehmen er am wenigsten versucht sein mußte.",

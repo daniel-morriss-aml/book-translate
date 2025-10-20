@@ -8,12 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Collins war nicht besonders intelligent, und den Unzulänglichkeiten seiner Veranlagung war durch Ausbildung und gesellschaftlichen Umgang nur wenig abgeholfen worden, da er den größten Teil seines Lebens unter der Leitung eines ungebildeten und geizigen Vaters zugebracht hatte; und obgleich er einer der Universitäten angehörte, hatte er lediglich die notwendigen Semester absolviert, ohne dort irgendwelche nützlichen Bekanntschaften zu machen.",
-                    "native": "Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; the greatest part of his life having been spent under the guidance of an illiterate and miserly father; and though he belonged to one of the universities, he had merely kept the necessary terms, without forming at it any useful acquaintance."
+                    "target": "Mr. Collins war nicht besonders intelligent, und den Unzulänglichkeiten seiner Veranlagung war durch Ausbildung und gesellschaftlichen Umgang nur wenig abgeholfen worden, da er den größten Teil seines Lebens unter der Leitung eines ungebildeten und geizigen Vaters zugebracht hatte; und obgleich er einer der Universitäten angehörte, hatte er lediglich die notwendigen Semester absolviert, ohne dort irgendwelche nützlichen Bekanntschaften zu machen.",
+                    "native": "Mr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; the greatest part of his life having been spent under the guidance of an illiterate and miserly father; and though he belonged to one of the universities, he had merely kept the necessary terms, without forming at it any useful acquaintance."
                 },
                 {
                     "target": "Die völlige Abhängigkeit, in der er von seinem Vater erzogen wurde, hatte ihm ursprünglich ein sehr unterwürfiges Benehmen eingebracht, doch wurde dies nun ein gut Teil kompensiert durch den Eigendünkel eines schwachen Verstandes, ein Leben in Abgeschiedenheit und durch das Gefühl seiner Wichtigkeit aufgrund eines frühen und unerwarteten Wohlstands.",
@@ -45,36 +41,16 @@
             "pageNumber": 2,
             "sentences": [
                 {
-                    "target": "Jedoch am nächsten Morgen änderte sich das, denn während eines viertelstündigen Gesprächs unter vier Augen mit Mrs.",
-                    "native": "The next morning, however, made an alteration; for in a quarter of an hour's tete-a-tete with Mrs."
+                    "target": "Jedoch am nächsten Morgen änderte sich das, denn während eines viertelstündigen Gesprächs unter vier Augen mit Mrs. Bennet vor dem Frühstück – das mit der Erwähnung seines Pfarrhauses begann und natürlich zu dem Bekenntnis seiner Hoffnungen führte, in Longbourn eine Herrin dafür zu finden – brachte sie, mit einem sehr entgegenkommenden Lächeln und allgemeiner Ermutigung, Bedenken gegen eben diese Jane vor, auf die er sein Auge geworfen hatte. Was die jüngeren Töchter betraf, so könne sie nichts weiter dazu sagen – könne sie sich nicht mit Sicherheit äußern –, aber sie wisse nichts von irgendwelchen früheren Vorrechten. Doch zu ihrer ältesten Tochter müsse sie bemerken – und sie sah es als ihre Pflicht an, ihn darauf hinzuweisen –, daß sie sich wahrscheinlich sehr bald verloben würde.",
+                    "native": "The next morning, however, made an alteration; for in a quarter of an hour's tete-a-tete with Mrs. Bennet before breakfast, a conversation beginning with his parsonage-house, and leading naturally to the avowal of his hopes, that a mistress might be found for it at Longbourn, produced from her, amid very complaisant smiles and general encouragement, a caution against the very Jane he had fixed on. \"As to her younger daughters, she could not take upon her to say—she could not positively answer—but she did not know of any prepossession; her eldest daughter, she must just mention—she felt it incumbent on her to hint, was likely to be very soon engaged.\" Mr. Collins had only to change from Jane to Elizabeth—and it was soon done—done while Mrs. Bennet was stirring the fire."
                 },
                 {
-                    "target": "Bennet vor dem Frühstück – das mit der Erwähnung seines Pfarrhauses begann und natürlich zu dem Bekenntnis seiner Hoffnungen führte, in Longbourn eine Herrin dafür zu finden – brachte sie, mit einem sehr entgegenkommenden Lächeln und allgemeiner Ermutigung, Bedenken gegen eben diese Jane vor, auf die er sein Auge geworfen hatte.",
-                    "native": "Bennet before breakfast, a conversation beginning with his parsonage-house, and leading naturally to the avowal of his hopes, that a mistress might be found for it at Longbourn, produced from her, amid very complaisant smiles and general encouragement, a caution against the very Jane he had fixed on. \"As to her younger daughters, she could not take upon her to say—she could not positively answer—but she did not know of any prepossession; her eldest daughter, she must just mention—she felt it incumbent on her to hint, was likely to be very soon engaged.\" Mr."
+                    "target": "Mr. Collins mußte nur von Jane zu Elizabeth wechseln – und das war bald getan – und zwar noch während Mrs. Bennet das Feuer schürte.",
+                    "native": "Elizabeth, equally next to Jane in birth and beauty, succeeded her of course. Mrs. Bennet treasured up the hint, and trusted that she might soon have two daughters married; and the man whom she could not bear to speak of the day before was now high in her good graces."
                 },
                 {
-                    "target": "Was die jüngeren Töchter betraf, so könne sie nichts weiter dazu sagen – könne sie sich nicht mit Sicherheit äußern –, aber sie wisse nichts von irgendwelchen früheren Vorrechten.",
-                    "native": "Collins had only to change from Jane to Elizabeth—and it was soon done—done while Mrs."
-                },
-                {
-                    "target": "Doch zu ihrer ältesten Tochter müsse sie bemerken – und sie sah es als ihre Pflicht an, ihn darauf hinzuweisen –, daß sie sich wahrscheinlich sehr bald verloben würde.",
-                    "native": "Bennet was stirring the fire."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Elizabeth, equally next to Jane in birth and beauty, succeeded her of course."
-                },
-                {
-                    "target": "Collins mußte nur von Jane zu Elizabeth wechseln – und das war bald getan – und zwar noch während Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Bennet das Feuer schürte.",
-                    "native": "Bennet treasured up the hint, and trusted that she might soon have two daughters married; and the man whom she could not bear to speak of the day before was now high in her good graces."
-                },
-                {
-                    "target": "Elizabeth, die Jane an Jahren wie an Schönheit unmittelbar folgte, war natürlich die nächste Wahl.",
-                    "native": "Lydia's intention of walking to Meryton was not forgotten; every sister except Mary agreed to go with her; and Mr."
+                    "target": "Elizabeth, die Jane an Jahren wie an Schönheit unmittelbar folgte, war natürlich die nächste Wahl. Mrs. Bennet, die diesen Hinweis im Gedächtnis bewahrte, war zuversichtlich, daß sie vielleicht bald zwei Töchter verheiratet haben würde; und der Mann, von dem zu sprechen sie noch einen Tag zuvor nicht ertrug, stand nun hoch in ihrer Gunst. Lydias Absicht, nach Meryton zu gehen, war nicht vergessen; alle ihre Schwestern außer Mary willigten ein, mit ihr zu gehen; und Mr. Collins sollte sie begleiten – auf Ersuchen Mr. Bennets, der sehr bestrebt war, ihn loszuwerden und seine Bibliothek für sich zu haben; denn dahin war ihm Mr. Collins nach dem Frühstück gefolgt, und dort würde er sonst bleiben, wo er sich der Form halber mit einem der größten Folianten seiner Sammlung beschäftigte, in Wirklichkeit jedoch fast ununterbrochen von seinem Haus und Garten in Hunsford sprach.",
+                    "native": "Lydia's intention of walking to Meryton was not forgotten; every sister except Mary agreed to go with her; and Mr. Collins was to attend them, at the request of Mr. Bennet, who was most anxious to get rid of him, and have his library to himself; for thither Mr. Collins had followed him after breakfast; and there he would continue, nominally engaged with one of the largest folios in the collection, but really talking to Mr. Bennet, with little cessation, of his house and garden at Hunsford. Such doings discomposed Mr. Bennet exceedingly."
                 }
             ]
         },
@@ -82,54 +58,14 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Mrs.",
-                    "native": "Collins was to attend them, at the request of Mr."
-                },
-                {
-                    "target": "Bennet, die diesen Hinweis im Gedächtnis bewahrte, war zuversichtlich, daß sie vielleicht bald zwei Töchter verheiratet haben würde; und der Mann, von dem zu sprechen sie noch einen Tag zuvor nicht ertrug, stand nun hoch in ihrer Gunst.",
-                    "native": "Bennet, who was most anxious to get rid of him, and have his library to himself; for thither Mr."
-                },
-                {
-                    "target": "Lydias Absicht, nach Meryton zu gehen, war nicht vergessen; alle ihre Schwestern außer Mary willigten ein, mit ihr zu gehen; und Mr.",
-                    "native": "Collins had followed him after breakfast; and there he would continue, nominally engaged with one of the largest folios in the collection, but really talking to Mr."
-                },
-                {
-                    "target": "Collins sollte sie begleiten – auf Ersuchen Mr.",
-                    "native": "Bennet, with little cessation, of his house and garden at Hunsford."
-                },
-                {
-                    "target": "Bennets, der sehr bestrebt war, ihn loszuwerden und seine Bibliothek für sich zu haben; denn dahin war ihm Mr.",
-                    "native": "Such doings discomposed Mr."
-                },
-                {
-                    "target": "Collins nach dem Frühstück gefolgt, und dort würde er sonst bleiben, wo er sich der Form halber mit einem der größten Folianten seiner Sammlung beschäftigte, in Wirklichkeit jedoch fast ununterbrochen von seinem Haus und Garten in Hunsford sprach.",
-                    "native": "Bennet exceedingly."
-                },
-                {
-                    "target": "Ein solches Betragen brachte Mr.",
-                    "native": "In his library he had been always sure of leisure and tranquillity; and though prepared, as he told Elizabeth, to meet with folly and conceit in every other room of the house, he was used to be free from them there; his civility, therefore, was most prompt in inviting Mr."
-                },
-                {
-                    "target": "Bennet völlig aus der Fassung.",
-                    "native": "Collins to join his daughters in their walk; and Mr."
+                    "target": "Ein solches Betragen brachte Mr. Bennet völlig aus der Fassung. In seiner Bibliothek konnte er stets sicher sein, Ruhe und Muße zu finden; und obgleich er, wie er zu Elizabeth sagte, in jedem anderen Raum des Hauses bereit war, Torheit und Selbstgefälligkeit in Kauf zu nehmen, war er daran gewöhnt, dort seine Ruhe davor zu haben; seine höfliche Aufforderung, Mr. Collins möge doch seine Töchter auf ihrem Gang begleiten, erfolgte deshalb sehr prompt; und da Mr. Collins genaugenommen besser zum Laufen befähigt war als zum Lesen, war er höchst erfreut, sein großes Buch schließen und mitgehen zu können.",
+                    "native": "In his library he had been always sure of leisure and tranquillity; and though prepared, as he told Elizabeth, to meet with folly and conceit in every other room of the house, he was used to be free from them there; his civility, therefore, was most prompt in inviting Mr. Collins to join his daughters in their walk; and Mr. Collins, being in fact much better fitted for a walker than a reader, was extremely pleased to close his large book, and go. In pompous nothings on his side, and civil assents on that of his cousins, their time passed till they entered Meryton. The attention of the younger ones was then no longer to be gained by him."
                 }
             ]
         },
         {
             "pageNumber": 4,
             "sentences": [
-                {
-                    "target": "In seiner Bibliothek konnte er stets sicher sein, Ruhe und Muße zu finden; und obgleich er, wie er zu Elizabeth sagte, in jedem anderen Raum des Hauses bereit war, Torheit und Selbstgefälligkeit in Kauf zu nehmen, war er daran gewöhnt, dort seine Ruhe davor zu haben; seine höfliche Aufforderung, Mr.",
-                    "native": "Collins, being in fact much better fitted for a walker than a reader, was extremely pleased to close his large book, and go."
-                },
-                {
-                    "target": "Collins möge doch seine Töchter auf ihrem Gang begleiten, erfolgte deshalb sehr prompt; und da Mr.",
-                    "native": "In pompous nothings on his side, and civil assents on that of his cousins, their time passed till they entered Meryton."
-                },
-                {
-                    "target": "Collins genaugenommen besser zum Laufen befähigt war als zum Lesen, war er höchst erfreut, sein großes Buch schließen und mitgehen zu können.",
-                    "native": "The attention of the younger ones was then no longer to be gained by him."
-                },
                 {
                     "target": "Mit wichtigtuerischen Nichtigkeiten von seiner Seite und höflicher Zustimmung von der Seite seiner Cousinen verging die Zeit, bis sie Meryton erreichten.",
                     "native": "Their eyes were immediately wandering up in the street in quest of the officers, and nothing less than a very smart bonnet indeed, or a really new muslin in a shop window, could recall them."
@@ -139,16 +75,12 @@
                     "native": "But the attention of every lady was soon caught by a young man, whom they had never seen before, of most gentlemanlike appearance, walking with another officer on the other side of the way."
                 },
                 {
-                    "target": "Ihre Augen wanderten sofort die Straße entlang auf der Suche nach den Offizieren, und nichts Geringeres als ein in der Tat auffallend modischer Hut oder ein ganz neuer Musselin in einem Schaufenster konnte sie davon ablenken.",
-                    "native": "The officer was the very Mr."
+                    "target": "Ihre Augen wanderten sofort die Straße entlang auf der Suche nach den Offizieren, und nichts Geringeres als ein in der Tat auffallend modischer Hut oder ein ganz neuer Musselin in einem Schaufenster konnte sie davon ablenken. Doch die Aufmerksamkeit aller jungen Damen wurde bald von einem jungen Mann von außerordentlich vornehmer Erscheinung gefangengenommen, den sie noch nie zuvor gesehen hatten und der zusammen mit einem Offizier auf der anderen Seite der Straße entlangging.",
+                    "native": "The officer was the very Mr. Denny concerning whose return from London Lydia came to inquire, and he bowed as they passed."
                 },
                 {
-                    "target": "Doch die Aufmerksamkeit aller jungen Damen wurde bald von einem jungen Mann von außerordentlich vornehmer Erscheinung gefangengenommen, den sie noch nie zuvor gesehen hatten und der zusammen mit einem Offizier auf der anderen Seite der Straße entlangging.",
-                    "native": "Denny concerning whose return from London Lydia came to inquire, and he bowed as they passed."
-                },
-                {
-                    "target": "Der Offizier war derselbe Mr.",
-                    "native": "All were struck with the stranger's air, all wondered who he could be; and Kitty and Lydia, determined if possible to find out, led the way across the street, under pretense of wanting something in an opposite shop, and fortunately had just gained the pavement when the two gentlemen, turning back, had reached the same spot."
+                    "target": "Der Offizier war derselbe Mr. Denny, nach dessen Rückkehr von London Lydia sich erkundigen wollte; er verbeugte sich, als sie vorübergingen. Alle waren beeindruckt von der Erscheinung des Fremden, alle fragten sich, wer das sein könnte; und Kitty und Lydia, die entschlossen waren, das wenn irgend möglich herauszubekommen, gingen voran über die Straße unter dem Vorwand, etwas aus dem gegenüberliegenden Laden zu benötigen. Glücklicherweise erreichten sie gerade den Bürgersteig, als die beiden Herren, die umgekehrt waren, ebenfalls dort ankamen.",
+                    "native": "All were struck with the stranger's air, all wondered who he could be; and Kitty and Lydia, determined if possible to find out, led the way across the street, under pretense of wanting something in an opposite shop, and fortunately had just gained the pavement when the two gentlemen, turning back, had reached the same spot. Mr. Denny addressed them directly, and entreated permission to introduce his friend, Mr. Wickham, who had returned with him the day before from town, and he was happy to say had accepted a commission in their corps."
                 }
             ]
         },
@@ -156,28 +88,8 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Denny, nach dessen Rückkehr von London Lydia sich erkundigen wollte; er verbeugte sich, als sie vorübergingen.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Alle waren beeindruckt von der Erscheinung des Fremden, alle fragten sich, wer das sein könnte; und Kitty und Lydia, die entschlossen waren, das wenn irgend möglich herauszubekommen, gingen voran über die Straße unter dem Vorwand, etwas aus dem gegenüberliegenden Laden zu benötigen.",
-                    "native": "Denny addressed them directly, and entreated permission to introduce his friend, Mr."
-                },
-                {
-                    "target": "Glücklicherweise erreichten sie gerade den Bürgersteig, als die beiden Herren, die umgekehrt waren, ebenfalls dort ankamen.",
-                    "native": "Wickham, who had returned with him the day before from town, and he was happy to say had accepted a commission in their corps."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "This was exactly as it should be; for the young man wanted only regimentals to make him completely charming."
-                },
-                {
-                    "target": "Denny sprach sie sogleich an und bat um die Erlaubnis, seinen Freund, Mr.",
-                    "native": "His appearance was greatly in his favour; he had all the best part of beauty, a fine countenance, a good figure, and very pleasing address."
-                },
-                {
-                    "target": "Wickham, vorzustellen, der am Tag zuvor zusammen mit ihm aus der Stadt zurückgekommen war; und er freue sich, ihnen sagen zu können, daß Mr.",
-                    "native": "The introduction was followed up on his side by a happy readiness of conversation—a readiness at the same time perfectly correct and unassuming; and the whole party were still standing and talking together very agreeably, when the sound of horses drew their notice, and Darcy and Bingley were seen riding down the street."
+                    "target": "Mr. Denny sprach sie sogleich an und bat um die Erlaubnis, seinen Freund, Mr. Wickham, vorzustellen, der am Tag zuvor zusammen mit ihm aus der Stadt zurückgekommen war; und er freue sich, ihnen sagen zu können, daß Mr.",
+                    "native": "This was exactly as it should be; for the young man wanted only regimentals to make him completely charming. His appearance was greatly in his favour; he had all the best part of beauty, a fine countenance, a good figure, and very pleasing address. The introduction was followed up on his side by a happy readiness of conversation—a readiness at the same time perfectly correct and unassuming; and the whole party were still standing and talking together very agreeably, when the sound of horses drew their notice, and Darcy and Bingley were seen riding down the street."
                 },
                 {
                     "target": "Wickham eine Offiziersstelle in ihrem Korps angenommen habe.",
@@ -197,28 +109,16 @@
                     "native": "He was then, he said, on his way to Longbourn on purpose to inquire after her."
                 },
                 {
-                    "target": "Der Vorstellung folgte seinerseits eine erfreuliche Bereitschaft zur Unterhaltung – eine Bereitschaft, die vollkommen korrekt und zugleich bescheiden war; und alle standen noch immer in sehr angenehmer Unterhaltung beieinander, als Pferdegetrappel sie aufhorchen ließ und sie Darcy und Bingley die Straße entlangreiten sahen.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Als die beiden Herren die Damen unter ihnen erkannten, kamen sie sogleich heran und tauschten die üblichen Höflichkeiten aus.",
-                    "native": "Darcy corroborated it with a bow, and was beginning to determine not to fix his eyes on Elizabeth, when they were suddenly arrested by the sight of the stranger, and Elizabeth happening to see the countenance of both as they looked at each other, was all astonishment at the effect of the meeting."
+                    "target": "Der Vorstellung folgte seinerseits eine erfreuliche Bereitschaft zur Unterhaltung – eine Bereitschaft, die vollkommen korrekt und zugleich bescheiden war; und alle standen noch immer in sehr angenehmer Unterhaltung beieinander, als Pferdegetrappel sie aufhorchen ließ und sie Darcy und Bingley die Straße entlangreiten sahen. Als die beiden Herren die Damen unter ihnen erkannten, kamen sie sogleich heran und tauschten die üblichen Höflichkeiten aus.",
+                    "native": "Mr. Darcy corroborated it with a bow, and was beginning to determine not to fix his eyes on Elizabeth, when they were suddenly arrested by the sight of the stranger, and Elizabeth happening to see the countenance of both as they looked at each other, was all astonishment at the effect of the meeting."
                 },
                 {
                     "target": "Bingley war es, der hauptsächlich sprach, und das tat er vor allem mit Miss Bennet.",
                     "native": "Both changed colour, one looked white, the other red."
                 },
                 {
-                    "target": "Er war gerade, wie er sagte, auf dem Weg nach Longbourn, in der Absicht, sich nach ihr zu erkundigen.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Wickham, after a few moments, touched his hat—a salutation which Mr."
-                },
-                {
-                    "target": "Darcy bestätigte es mit einer Verbeugung und beschloß gerade, seine Augen nicht auf Elizabeth zu richten, als er plötzlich vom Anblick des Fremden gefesselt wurde; und Elizabeth, die zufällig die Gesichter der beiden wahrnahm, während sie einander ansahen, war ganz verblüfft über die Wirkung des Zusammentreffens.",
-                    "native": "Darcy just deigned to return."
+                    "target": "Er war gerade, wie er sagte, auf dem Weg nach Longbourn, in der Absicht, sich nach ihr zu erkundigen. Mr. Darcy bestätigte es mit einer Verbeugung und beschloß gerade, seine Augen nicht auf Elizabeth zu richten, als er plötzlich vom Anblick des Fremden gefesselt wurde; und Elizabeth, die zufällig die Gesichter der beiden wahrnahm, während sie einander ansahen, war ganz verblüfft über die Wirkung des Zusammentreffens.",
+                    "native": "Mr. Wickham, after a few moments, touched his hat—a salutation which Mr. Darcy just deigned to return."
                 },
                 {
                     "target": "Beide wechselten die Farbe, der eine wurde weiß, der andere rot.",
@@ -230,36 +130,16 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Mr.",
-                    "native": "It was impossible to imagine; it was impossible not to long to know."
+                    "target": "Mr. Wickham tippte nach einigen Augenblicken an seinen Hut – eine Begrüßung, die Darcy gerade eben zu erwidern geruhte. Was konnte das bedeuten?",
+                    "native": "It was impossible to imagine; it was impossible not to long to know. In another minute, Mr. Bingley, but without seeming to have noticed what passed, took leave and rode on with his friend."
                 },
                 {
-                    "target": "Wickham tippte nach einigen Augenblicken an seinen Hut – eine Begrüßung, die Darcy gerade eben zu erwidern geruhte.",
-                    "native": "In another minute, Mr."
+                    "target": "Es war unmöglich, darauf zu kommen; und es war unmöglich, es nicht unbedingt wissen zu wollen. Gleich danach verabschiedete sich Bingley, doch offenbar ohne zu bemerken, was vorgefallen war, und ritt mit seinem Freund weiter. Mr. Denny und Mr.",
+                    "native": "Mr. Denny and Mr. Wickham walked with the young ladies to the door of Mr. Phillip's house, and then made their bows, in spite of Miss Lydia's pressing entreaties that they should come in, and even in spite of Mrs."
                 },
                 {
-                    "target": "Was konnte das bedeuten?",
-                    "native": "Bingley, but without seeming to have noticed what passed, took leave and rode on with his friend."
-                },
-                {
-                    "target": "Es war unmöglich, darauf zu kommen; und es war unmöglich, es nicht unbedingt wissen zu wollen.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Gleich danach verabschiedete sich Bingley, doch offenbar ohne zu bemerken, was vorgefallen war, und ritt mit seinem Freund weiter.",
-                    "native": "Denny and Mr."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Wickham walked with the young ladies to the door of Mr."
-                },
-                {
-                    "target": "Denny und Mr.",
-                    "native": "Phillip's house, and then made their bows, in spite of Miss Lydia's pressing entreaties that they should come in, and even in spite of Mrs."
-                },
-                {
-                    "target": "Wickham begleiteten die jungen Damen bis zur Tür von Mr.",
-                    "native": "Phillips's throwing up the parlour window and loudly seconding the invitation."
+                    "target": "Wickham begleiteten die jungen Damen bis zur Tür von Mr. Philips Haus; dann verbeugten sie sich trotz Miss Lydias dringender Bitten, doch mit hereinzukommen, und obgleich Mrs. Philips das Salonfenster aufstieß und laut die Einladung bekräftigte. Mrs. Philips freute sich stets, ihre Nichten zu sehen, und die beiden ältesten waren wegen ihrer kürzlichen Abwesenheit besonders willkommen.",
+                    "native": "Phillips's throwing up the parlour window and loudly seconding the invitation. Mrs. Phillips was always glad to see her nieces; and the two eldest, from their recent absence, were particularly welcome, and she was eagerly expressing her surprise at their sudden return home, which, as their own carriage had not fetched them, she should have known nothing about, if she had not happened to see Mr. Jones's shop-boy in the street, who had told her that they were not to send any more draughts to Netherfield because the Miss Bennets were come away, when her civility was claimed towards Mr. Collins by Jane's introduction of him."
                 }
             ]
         },
@@ -267,36 +147,8 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Philips Haus; dann verbeugten sie sich trotz Miss Lydias dringender Bitten, doch mit hereinzukommen, und obgleich Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Philips das Salonfenster aufstieß und laut die Einladung bekräftigte.",
-                    "native": "Phillips was always glad to see her nieces; and the two eldest, from their recent absence, were particularly welcome, and she was eagerly expressing her surprise at their sudden return home, which, as their own carriage had not fetched them, she should have known nothing about, if she had not happened to see Mr."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Jones's shop-boy in the street, who had told her that they were not to send any more draughts to Netherfield because the Miss Bennets were come away, when her civility was claimed towards Mr."
-                },
-                {
-                    "target": "Philips freute sich stets, ihre Nichten zu sehen, und die beiden ältesten waren wegen ihrer kürzlichen Abwesenheit besonders willkommen.",
-                    "native": "Collins by Jane's introduction of him."
-                },
-                {
-                    "target": "Sie äußerte lebhaft ihre Überraschung über die plötzliche Rückkehr der beiden nach Hause, wovon sie, da die Mädchen nicht mit ihrer eigenen Kutsche geholt worden waren, nichts gewußt hätte, wenn sie nicht zufällig Mr.",
-                    "native": "She received him with her very best politeness, which he returned with as much more, apologising for his intrusion, without any previous acquaintance with her, which he could not help flattering himself, however, might be justified by his relationship to the young ladies who introduced him to her notice."
-                },
-                {
-                    "target": "Jones’ Ladenjungen auf der Straße getroffen hätte; der habe ihr nämlich erzählt, daß keine Arzneien mehr nach Netherfield geschickt werden sollten, weil die Miss Bennets fort waren.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Doch schließlich erforderte es die Höflichkeit, sich Mr.",
-                    "native": "Phillips was quite awed by such an excess of good breeding; but her contemplation of one stranger was soon put to an end by exclamations and inquiries about the other; of whom, however, she could only tell her nieces what they already knew, that Mr."
-                },
-                {
-                    "target": "Collins zuzuwenden, da Jane ihn ihr vorstellte.",
-                    "native": "Denny had brought him from London, and that he was to have a lieutenant's commission in the ——shire."
+                    "target": "Sie äußerte lebhaft ihre Überraschung über die plötzliche Rückkehr der beiden nach Hause, wovon sie, da die Mädchen nicht mit ihrer eigenen Kutsche geholt worden waren, nichts gewußt hätte, wenn sie nicht zufällig Mr. Jones’ Ladenjungen auf der Straße getroffen hätte; der habe ihr nämlich erzählt, daß keine Arzneien mehr nach Netherfield geschickt werden sollten, weil die Miss Bennets fort waren. Doch schließlich erforderte es die Höflichkeit, sich Mr. Collins zuzuwenden, da Jane ihn ihr vorstellte.",
+                    "native": "She received him with her very best politeness, which he returned with as much more, apologising for his intrusion, without any previous acquaintance with her, which he could not help flattering himself, however, might be justified by his relationship to the young ladies who introduced him to her notice. Mrs. Phillips was quite awed by such an excess of good breeding; but her contemplation of one stranger was soon put to an end by exclamations and inquiries about the other; of whom, however, she could only tell her nieces what they already knew, that Mr. Denny had brought him from London, and that he was to have a lieutenant's commission in the ——shire."
                 }
             ]
         },
@@ -304,36 +156,16 @@
             "pageNumber": 9,
             "sentences": [
                 {
-                    "target": "Sie empfing ihn mit der allergrößten Artigkeit, die er mit einer noch einmal so großen erwiderte; er entschuldigte sich dafür, daß er sich ihr aufdrängte, ohne vorher überhaupt ihre Bekanntschaft gemacht zu haben – doch mochte das, wie er nicht umhin konnte, sich zu schmeicheln, gerechtfertigt sein durch die Verwandtschaft mit den jungen Damen, durch die er ihr vorgestellt wurde.",
-                    "native": "She had been watching him the last hour, she said, as he walked up and down the street, and had Mr."
+                    "target": "Sie empfing ihn mit der allergrößten Artigkeit, die er mit einer noch einmal so großen erwiderte; er entschuldigte sich dafür, daß er sich ihr aufdrängte, ohne vorher überhaupt ihre Bekanntschaft gemacht zu haben – doch mochte das, wie er nicht umhin konnte, sich zu schmeicheln, gerechtfertigt sein durch die Verwandtschaft mit den jungen Damen, durch die er ihr vorgestellt wurde. Mrs. Philips war voller Ehrfurcht bei einem solchen Übermaß an guter Erziehung.",
+                    "native": "She had been watching him the last hour, she said, as he walked up and down the street, and had Mr. Wickham appeared, Kitty and Lydia would certainly have continued the occupation, but unluckily no one passed windows now except a few of the officers, who, in comparison with the stranger, were become \"stupid, disagreeable fellows.\" Some of them were to dine with the Phillipses the next day, and their aunt promised to make her husband call on Mr. Wickham, and give him an invitation also, if the family from Longbourn would come in the evening."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Wickham appeared, Kitty and Lydia would certainly have continued the occupation, but unluckily no one passed windows now except a few of the officers, who, in comparison with the stranger, were become \"stupid, disagreeable fellows.\" Some of them were to dine with the Phillipses the next day, and their aunt promised to make her husband call on Mr."
+                    "target": "Ihren Betrachtungen über den einen Fremden wurde jedoch bald ein Ende gesetzt durch aufgeregte Erkundigungen nach dem anderen, über den sie ihren Nichten nicht mehr erzählen konnte, als sie bereits wußten – daß Mr. Denny ihn von London mitgebracht habe und daß er eine Leutnantsstelle im ... shire Korps bekommen solle.",
+                    "native": "This was agreed to, and Mrs. Phillips protested that they would have a nice comfortable noisy game of lottery tickets, and a little bit of hot supper afterwards."
                 },
                 {
-                    "target": "Philips war voller Ehrfurcht bei einem solchen Übermaß an guter Erziehung.",
-                    "native": "Wickham, and give him an invitation also, if the family from Longbourn would come in the evening."
-                },
-                {
-                    "target": "Ihren Betrachtungen über den einen Fremden wurde jedoch bald ein Ende gesetzt durch aufgeregte Erkundigungen nach dem anderen, über den sie ihren Nichten nicht mehr erzählen konnte, als sie bereits wußten – daß Mr.",
-                    "native": "This was agreed to, and Mrs."
-                },
-                {
-                    "target": "Denny ihn von London mitgebracht habe und daß er eine Leutnantsstelle im ... shire Korps bekommen solle.",
-                    "native": "Phillips protested that they would have a nice comfortable noisy game of lottery tickets, and a little bit of hot supper afterwards."
-                },
-                {
-                    "target": "Sie habe ihn die ganze letzte Stunde beobachtet, während er auf der Straße auf und ab ging; und wäre Mr.",
-                    "native": "The prospect of such delights was very cheering, and they parted in mutual good spirits."
-                },
-                {
-                    "target": "Wickham jetzt erschienen, hätten Kitty und Lydia diese Beschäftigung mit Sicherheit fortgeführt, doch unglücklicherweise kam nun niemand an den Fenstern vorbei, außer ein paar Offizieren, die im Vergleich mit dem Fremden zu \"faden, unliebenswürdigen Burschen\" wurden.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Einige von ihnen waren für den nächsten Tag bei den Philips zum Dinner eingeladen, und die Tante versprach, ihren Gatten bei Mr.",
-                    "native": "Collins repeated his apologies in quitting the room, and was assured with unwearying civility that they were perfectly needless."
+                    "target": "Sie habe ihn die ganze letzte Stunde beobachtet, während er auf der Straße auf und ab ging; und wäre Mr. Wickham jetzt erschienen, hätten Kitty und Lydia diese Beschäftigung mit Sicherheit fortgeführt, doch unglücklicherweise kam nun niemand an den Fenstern vorbei, außer ein paar Offizieren, die im Vergleich mit dem Fremden zu \"faden, unliebenswürdigen Burschen\" wurden. Einige von ihnen waren für den nächsten Tag bei den Philips zum Dinner eingeladen, und die Tante versprach, ihren Gatten bei Mr. Wickham vorbeizuschicken, um ihm ebenfalls eine Einladung zu bringen, falls die Familie von Longbourn am Abend herüberkommen wolle.",
+                    "native": "The prospect of such delights was very cheering, and they parted in mutual good spirits. Mr. Collins repeated his apologies in quitting the room, and was assured with unwearying civility that they were perfectly needless. As they walked home, Elizabeth related to Jane what she had seen pass between the two gentlemen; but though Jane would have defended either or both, had they appeared to be in the wrong, she could no more explain such behaviour than her sister."
                 }
             ]
         },
@@ -341,24 +173,8 @@
             "pageNumber": 10,
             "sentences": [
                 {
-                    "target": "Wickham vorbeizuschicken, um ihm ebenfalls eine Einladung zu bringen, falls die Familie von Longbourn am Abend herüberkommen wolle.",
-                    "native": "As they walked home, Elizabeth related to Jane what she had seen pass between the two gentlemen; but though Jane would have defended either or both, had they appeared to be in the wrong, she could no more explain such behaviour than her sister."
-                },
-                {
-                    "target": "Dem wurde zugestimmt, und Mrs.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Philips beteuerte, daß sie ein nettes, gemütliches und geräuschvolles Spiel mit Lotterielosen veranstalten und danach ein kleines warmes Abendessen geben würde.",
-                    "native": "Collins on his return highly gratified Mrs."
-                },
-                {
-                    "target": "Die Aussicht auf solche Freuden war sehr ermunternd, und man trennte sich in bester Stimmung.",
-                    "native": "Bennet by admiring Mrs."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Phillips's manners and politeness."
+                    "target": "Dem wurde zugestimmt, und Mrs. Philips beteuerte, daß sie ein nettes, gemütliches und geräuschvolles Spiel mit Lotterielosen veranstalten und danach ein kleines warmes Abendessen geben würde. Die Aussicht auf solche Freuden war sehr ermunternd, und man trennte sich in bester Stimmung. Mr.",
+                    "native": "Mr. Collins on his return highly gratified Mrs. Bennet by admiring Mrs. Phillips's manners and politeness."
                 },
                 {
                     "target": "Collins wiederholte im Hinausgehen seine Entschuldigungen, und es wurde ihm mit unermüdlicher Höflichkeit versichert, daß sie vollkommen unnötig seien.",

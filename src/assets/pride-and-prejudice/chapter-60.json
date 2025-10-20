@@ -8,12 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Elizabeths Lebensgeister erwachten bald wieder zu ihrer gewohnten spielerischen Munterkeit; Mr.",
-                    "native": "Elizabeth's spirits soon rising to playfulness again, she wanted Mr."
-                },
-                {
-                    "target": "Darcy sollte ihr erklären, wie es kam, daß er sich überhaupt in sie verliebt hatte. \"Wie mag es wohl begonnen haben?\" fragte sie. \"Ich kann verstehen, wie es dann so wunderschön weiterging, nachdem der Anfang gemacht war; aber was konnte Sie zuerst darauf gebracht haben?\" \"Ich kann die Stunde, den Ort, den Blick oder die Worte nicht bestimmen, die den Grundstein dazu gelegt haben.",
-                    "native": "Darcy to account for his having ever fallen in love with her. \"How could you begin?\" said she. \"I can comprehend your going on charmingly, when you had once made a beginning; but what could set you off in the first place?\" \"I cannot fix on the hour, or the spot, or the look, or the words, which laid the foundation."
+                    "target": "Elizabeths Lebensgeister erwachten bald wieder zu ihrer gewohnten spielerischen Munterkeit; Mr. Darcy sollte ihr erklären, wie es kam, daß er sich überhaupt in sie verliebt hatte. \"Wie mag es wohl begonnen haben?\" fragte sie. \"Ich kann verstehen, wie es dann so wunderschön weiterging, nachdem der Anfang gemacht war; aber was konnte Sie zuerst darauf gebracht haben?\" \"Ich kann die Stunde, den Ort, den Blick oder die Worte nicht bestimmen, die den Grundstein dazu gelegt haben.",
+                    "native": "Elizabeth's spirits soon rising to playfulness again, she wanted Mr. Darcy to account for his having ever fallen in love with her. \"How could you begin?\" said she. \"I can comprehend your going on charmingly, when you had once made a beginning; but what could set you off in the first place?\" \"I cannot fix on the hour, or the spot, or the look, or the words, which laid the foundation."
                 },
                 {
                     "target": "Es ist zu lange her.",
@@ -143,22 +139,14 @@
                     "native": "But it ought to be done, and if you will give me a sheet of paper, it shall be done directly.\" \"And if I had not a letter to write myself, I might sit by you and admire the evenness of your writing, as another young lady once did."
                 },
                 {
-                    "target": "Aber ich habe auch eine Tante, die nicht länger vernachlässigt werden darf.\" Da Elizabeth ihrer Tante nicht gern offenbaren wollte, wie sehr ihre Vertrautheit mit Mr.",
-                    "native": "But I have an aunt, too, who must not be longer neglected.\" From an unwillingness to confess how much her intimacy with Mr."
-                },
-                {
-                    "target": "Darcy überschätzt worden war, hatte sie ihren langen Brief noch immer nicht beantwortet; aber nun hatte sie etwas mitzuteilen, das, wie sie wußte, höchst willkommen war, und es beschämte sie fast, als sie bedachte, daß ihr Onkel und ihre Tante schon drei Tage der Freude verloren hatten.",
-                    "native": "Darcy had been overrated, Elizabeth had never yet answered Mrs."
+                    "target": "Aber ich habe auch eine Tante, die nicht länger vernachlässigt werden darf.\" Da Elizabeth ihrer Tante nicht gern offenbaren wollte, wie sehr ihre Vertrautheit mit Mr. Darcy überschätzt worden war, hatte sie ihren langen Brief noch immer nicht beantwortet; aber nun hatte sie etwas mitzuteilen, das, wie sie wußte, höchst willkommen war, und es beschämte sie fast, als sie bedachte, daß ihr Onkel und ihre Tante schon drei Tage der Freude verloren hatten. Sie begann unverzüglich zu schreiben. \"Ich hätte Dir, liebe Tante, wie es richtig gewesen wäre, schon eher für Deinen lieben, langen, befriedigenden Bericht all jener Umstände danken sollen; aber, um die Wahrheit zu sagen, ich war zu ärgerlich, um zu schreiben.",
+                    "native": "But I have an aunt, too, who must not be longer neglected.\" From an unwillingness to confess how much her intimacy with Mr. Darcy had been overrated, Elizabeth had never yet answered Mrs. Gardiner's long letter; but now, having that to communicate which she knew would be most welcome, she was almost ashamed to find that her uncle and aunt had already lost three days of happiness, and immediately wrote as follows: \"I would have thanked you before, my dear aunt, as I ought to have done, for your long, kind, satisfactory, detail of particulars; but to say the truth, I was too cross to write."
                 }
             ]
         },
         {
             "pageNumber": 5,
             "sentences": [
-                {
-                    "target": "Sie begann unverzüglich zu schreiben. \"Ich hätte Dir, liebe Tante, wie es richtig gewesen wäre, schon eher für Deinen lieben, langen, befriedigenden Bericht all jener Umstände danken sollen; aber, um die Wahrheit zu sagen, ich war zu ärgerlich, um zu schreiben.",
-                    "native": "Gardiner's long letter; but now, having that to communicate which she knew would be most welcome, she was almost ashamed to find that her uncle and aunt had already lost three days of happiness, and immediately wrote as follows: \"I would have thanked you before, my dear aunt, as I ought to have done, for your long, kind, satisfactory, detail of particulars; but to say the truth, I was too cross to write."
-                },
                 {
                     "target": "Du hattest mehr vermutet, als den Tatsachen entsprach.",
                     "native": "You supposed more than really existed."
@@ -205,24 +193,16 @@
                     "native": "I am happier even than Jane; she only smiles, I laugh."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Darcy sendet Euch alle Liebe, die er von mir noch erübrigen kann.",
-                    "native": "Darcy sends you all the love in the world that he can spare from me."
+                    "target": "Mr. Darcy sendet Euch alle Liebe, die er von mir noch erübrigen kann.",
+                    "native": "Mr. Darcy sends you all the love in the world that he can spare from me."
                 },
                 {
                     "target": "Ihr müßt zu Weihnachten alle nach Pemberley kommen.",
                     "native": "You are all to come to Pemberley at Christmas."
                 },
                 {
-                    "target": "Deine, usw.\" Mr.",
-                    "native": "Yours, etc.\" Mr."
-                },
-                {
-                    "target": "Darcys Brief an Lady Catherine war in einem ganz anderen Stil verfaßt; und noch anders als diese beiden war das, was Mr.",
-                    "native": "Darcy's letter to Lady Catherine was in a different style; and still different from either was what Mr."
+                    "target": "Deine, usw.\" Mr. Darcys Brief an Lady Catherine war in einem ganz anderen Stil verfaßt; und noch anders als diese beiden war das, was Mr. Bennet an Mr. Collins als Antwort auf dessen letzten Brief schrieb. \"Sehr geehrter Herr, ich muß Sie noch einmal um eine Gratulation bemühen.",
+                    "native": "Yours, etc.\" Mr. Darcy's letter to Lady Catherine was in a different style; and still different from either was what Mr. Bennet sent to Mr. Collins, in reply to his last. \"DEAR SIR, \"I must trouble you once more for congratulations."
                 }
             ]
         },
@@ -230,20 +210,8 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Bennet an Mr.",
-                    "native": "Bennet sent to Mr."
-                },
-                {
-                    "target": "Collins als Antwort auf dessen letzten Brief schrieb. \"Sehr geehrter Herr, ich muß Sie noch einmal um eine Gratulation bemühen.",
-                    "native": "Collins, in reply to his last. \"DEAR SIR, \"I must trouble you once more for congratulations."
-                },
-                {
-                    "target": "Elizabeth wird bald die Gattin Mr.",
-                    "native": "Elizabeth will soon be the wife of Mr."
-                },
-                {
-                    "target": "Darcys sein.",
-                    "native": "Darcy."
+                    "target": "Elizabeth wird bald die Gattin Mr. Darcys sein.",
+                    "native": "Elizabeth will soon be the wife of Mr. Darcy."
                 },
                 {
                     "target": "Trösten Sie Lady Catherine, so gut Sie können.",
@@ -279,38 +247,22 @@
                     "native": "Four sides of paper were insufficient to contain all her delight, and all her earnest desire of being loved by her sister."
                 },
                 {
-                    "target": "Vier Blätter reichten nicht aus, um ihr ganzes Entzücken und ihren dringenden Wunsch, von ihrer Schwägerin geliebt zu werden, darin auszudrücken.",
-                    "native": "Before any answer could arrive from Mr."
-                },
-                {
-                    "target": "Ehe eine Antwort von Mr.",
-                    "native": "Collins, or any congratulations to Elizabeth from his wife, the Longbourn family heard that the Collinses were come themselves to Lucas Lodge."
-                },
-                {
-                    "target": "Collins oder Glückwünsche von seiner Gattin für Elizabeth eintreffen konnten, hörte die Familie in Longbourn, daß die Collins’ selbst nach Lucas Lodge gekommen waren.",
-                    "native": "The reason of this sudden removal was soon evident."
+                    "target": "Vier Blätter reichten nicht aus, um ihr ganzes Entzücken und ihren dringenden Wunsch, von ihrer Schwägerin geliebt zu werden, darin auszudrücken. Ehe eine Antwort von Mr. Collins oder Glückwünsche von seiner Gattin für Elizabeth eintreffen konnten, hörte die Familie in Longbourn, daß die Collins’ selbst nach Lucas Lodge gekommen waren.",
+                    "native": "Before any answer could arrive from Mr. Collins, or any congratulations to Elizabeth from his wife, the Longbourn family heard that the Collinses were come themselves to Lucas Lodge. The reason of this sudden removal was soon evident."
                 },
                 {
                     "target": "Der Grund für diese plötzliche Abreise war bald offenkundig.",
                     "native": "Lady Catherine had been rendered so exceedingly angry by the contents of her nephew's letter, that Charlotte, really rejoicing in the match, was anxious to get away till the storm was blown over."
                 },
                 {
-                    "target": "Lady Catherine war über den Inhalt des Briefes ihres Neffen so erbost gewesen, daß Charlotte – die sich wirklich sehr über die Verbindung freute – bestrebt war fortzukommen, bis sich der Sturm gelegt hatte.",
-                    "native": "At such a moment, the arrival of her friend was a sincere pleasure to Elizabeth, though in the course of their meetings she must sometimes think the pleasure dearly bought, when she saw Mr."
+                    "target": "Lady Catherine war über den Inhalt des Briefes ihres Neffen so erbost gewesen, daß Charlotte – die sich wirklich sehr über die Verbindung freute – bestrebt war fortzukommen, bis sich der Sturm gelegt hatte. In einem solchen Augenblick war die Ankunft ihrer Freundin für Elizabeth eine echte Freude, obgleich sie das Vergnügen im Verlaufe ihres Beisammenseins manchmal für teuer erkauft hielt, wenn sie Mr. Darcy dieser ganzen Prahlerei und kriecherischen Höflichkeit ihres Gatten ausgesetzt sah.",
+                    "native": "At such a moment, the arrival of her friend was a sincere pleasure to Elizabeth, though in the course of their meetings she must sometimes think the pleasure dearly bought, when she saw Mr. Darcy exposed to all the parading and obsequious civility of her husband. He bore it, however, with admirable calmness."
                 }
             ]
         },
         {
             "pageNumber": 9,
             "sentences": [
-                {
-                    "target": "In einem solchen Augenblick war die Ankunft ihrer Freundin für Elizabeth eine echte Freude, obgleich sie das Vergnügen im Verlaufe ihres Beisammenseins manchmal für teuer erkauft hielt, wenn sie Mr.",
-                    "native": "Darcy exposed to all the parading and obsequious civility of her husband."
-                },
-                {
-                    "target": "Darcy dieser ganzen Prahlerei und kriecherischen Höflichkeit ihres Gatten ausgesetzt sah.",
-                    "native": "He bore it, however, with admirable calmness."
-                },
                 {
                     "target": "Er trug es jedoch mit bewundernswürdiger Ruhe.",
                     "native": "He could even listen to Sir William Lucas, when he complimented him on carrying away the brightest jewel of the country, and expressed his hopes of their all meeting frequently at St."
@@ -324,16 +276,8 @@
                     "native": "If he did shrug his shoulders, it was not till Sir William was out of sight."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Philips’ Gewöhnlichkeit stellte seine Geduld auf eine weitere und vielleicht noch härtere Probe; und obgleich Mrs.",
-                    "native": "Phillips's vulgarity was another, and perhaps a greater, tax on his forbearance; and though Mrs."
-                },
-                {
-                    "target": "Philips, ebenso wie ihre Schwester, einen zu großen Respekt vor ihm hatte, um ihm mit der Ungezwungenheit zu begegnen, zu der Bingleys gute Stimmung ermutigte, war doch, was immer sie sagte, nun einmal gewöhnlich.",
-                    "native": "Phillips, as well as her sister, stood in too much awe of him to speak with the familiarity which Bingley's good humour encouraged, yet, whenever she did speak, she must be vulgar."
+                    "target": "Mrs. Philips’ Gewöhnlichkeit stellte seine Geduld auf eine weitere und vielleicht noch härtere Probe; und obgleich Mrs. Philips, ebenso wie ihre Schwester, einen zu großen Respekt vor ihm hatte, um ihm mit der Ungezwungenheit zu begegnen, zu der Bingleys gute Stimmung ermutigte, war doch, was immer sie sagte, nun einmal gewöhnlich.",
+                    "native": "Mrs. Phillips's vulgarity was another, and perhaps a greater, tax on his forbearance; and though Mrs. Phillips, as well as her sister, stood in too much awe of him to speak with the familiarity which Bingley's good humour encouraged, yet, whenever she did speak, she must be vulgar."
                 }
             ]
         },

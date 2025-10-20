@@ -20,12 +20,8 @@
                     "native": "Respect, esteem, and confidence had vanished for ever; and all his views of domestic happiness were overthrown."
                 },
                 {
-                    "target": "Doch Mr.",
-                    "native": "But Mr."
-                },
-                {
-                    "target": "Bennet neigte nicht dazu, Trost für die Enttäuschung, die ihm seine eigene Unklugheit eingebracht hatte, in jenen Vergnügungen zu suchen, die allzu oft die Unglücklichen für ihre Torheit oder ihre Lasterhaftigkeit entschädigen.",
-                    "native": "Bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on, in any of those pleasures which too often console the unfortunate for their folly or their vice."
+                    "target": "Doch Mr. Bennet neigte nicht dazu, Trost für die Enttäuschung, die ihm seine eigene Unklugheit eingebracht hatte, in jenen Vergnügungen zu suchen, die allzu oft die Unglücklichen für ihre Torheit oder ihre Lasterhaftigkeit entschädigen.",
+                    "native": "But Mr. Bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on, in any of those pleasures which too often console the unfortunate for their folly or their vice."
                 },
                 {
                     "target": "Er liebte das Land und Bücher; und aus diesen Vorlieben waren seine vornehmlichen Freuden erwachsen.",
@@ -94,20 +90,12 @@
                     "native": "A scheme of which every part promises delight can never be successful; and general disappointment is only warded off by the defence of some little peculiar vexation.\" When Lydia went away she promised to write very often and very minutely to her mother and Kitty; but her letters were always long expected, and always very short."
                 },
                 {
-                    "target": "Ein Plan, bei dem jeder Teil Freude verspricht, kann niemals erfolgreich sein, und eine allgemeine Enttäuschung kann nur abgewehrt werden, wenn man sich mit einem kleinen speziellen Kummer davor schützt.",
-                    "native": "Those to her mother contained little else than that they were just returned from the library, where such and such officers had attended them, and where she had seen such beautiful ornaments as made her quite wild; that she had a new gown, or a new parasol, which she would have described more fully, but was obliged to leave off in a violent hurry, as Mrs."
+                    "target": "Ein Plan, bei dem jeder Teil Freude verspricht, kann niemals erfolgreich sein, und eine allgemeine Enttäuschung kann nur abgewehrt werden, wenn man sich mit einem kleinen speziellen Kummer davor schützt. Als Lydia abreiste, hatte sie versprochen, sehr oft an ihre Mutter und Kitty zu schreiben und alles genauestens zu berichten, doch ihre Briefe wurden stets lange erwartet und waren stets sehr kurz.",
+                    "native": "Those to her mother contained little else than that they were just returned from the library, where such and such officers had attended them, and where she had seen such beautiful ornaments as made her quite wild; that she had a new gown, or a new parasol, which she would have described more fully, but was obliged to leave off in a violent hurry, as Mrs. Forster called her, and they were going off to the camp; and from her correspondence with her sister, there was still less to be learnt—for her letters to Kitty, though rather longer, were much too full of lines under the words to be made public."
                 },
                 {
-                    "target": "Als Lydia abreiste, hatte sie versprochen, sehr oft an ihre Mutter und Kitty zu schreiben und alles genauestens zu berichten, doch ihre Briefe wurden stets lange erwartet und waren stets sehr kurz.",
-                    "native": "Forster called her, and they were going off to the camp; and from her correspondence with her sister, there was still less to be learnt—for her letters to Kitty, though rather longer, were much too full of lines under the words to be made public."
-                },
-                {
-                    "target": "Die an ihre Mutter enthielten wenig anderes, als daß sie gerade von der Bibliothek zurückgekommen seien, daß sie die und die Offiziere begleitet hätten, und sie hätte so viel Hübsches gesehen, daß sie ganz aus dem Häuschen sei; daß sie ein neues Kleid habe oder einen neuen Sonnenschirm, die sie gern genauer beschrieben hätte, aber genötigt sei, auf der Stelle abzubrechen, weil Mrs.",
-                    "native": "After the first fortnight or three weeks of her absence, health, good humour, and cheerfulness began to reappear at Longbourn."
-                },
-                {
-                    "target": "Forster sie rief und sie zum Lager gehen wollten.",
-                    "native": "Everything wore a happier aspect."
+                    "target": "Die an ihre Mutter enthielten wenig anderes, als daß sie gerade von der Bibliothek zurückgekommen seien, daß sie die und die Offiziere begleitet hätten, und sie hätte so viel Hübsches gesehen, daß sie ganz aus dem Häuschen sei; daß sie ein neues Kleid habe oder einen neuen Sonnenschirm, die sie gern genauer beschrieben hätte, aber genötigt sei, auf der Stelle abzubrechen, weil Mrs. Forster sie rief und sie zum Lager gehen wollten.",
+                    "native": "After the first fortnight or three weeks of her absence, health, good humour, and cheerfulness began to reappear at Longbourn. Everything wore a happier aspect."
                 },
                 {
                     "target": "Und aus der Korrespondenz mit ihrer Schwester war noch weniger zu erfahren, denn in den, wenn auch längeren, Briefen an Kitty, waren viel zu viele Worte besonders unterstrichen, um sie vorzeigen zu können.",
@@ -119,36 +107,16 @@
             "pageNumber": 4,
             "sentences": [
                 {
-                    "target": "Nach den ersten zwei bis drei Wochen ihrer Abwesenheit kehrten Gesundheit, Munterkeit und gute Laune in Longbourn allmählich wieder zurück.",
-                    "native": "Mrs."
+                    "target": "Nach den ersten zwei bis drei Wochen ihrer Abwesenheit kehrten Gesundheit, Munterkeit und gute Laune in Longbourn allmählich wieder zurück. Alles erschien wieder in einem glücklicheren Licht.",
+                    "native": "Mrs. Bennet was restored to her usual querulous serenity; and, by the middle of June, Kitty was so much recovered as to be able to enter Meryton without tears; an event of such happy promise as to make Elizabeth hope that by the following Christmas she might be so tolerably reasonable as not to mention an officer above once a day, unless, by some cruel and malicious arrangement at the War Office, another regiment should be quartered in Meryton."
                 },
                 {
-                    "target": "Alles erschien wieder in einem glücklicheren Licht.",
-                    "native": "Bennet was restored to her usual querulous serenity; and, by the middle of June, Kitty was so much recovered as to be able to enter Meryton without tears; an event of such happy promise as to make Elizabeth hope that by the following Christmas she might be so tolerably reasonable as not to mention an officer above once a day, unless, by some cruel and malicious arrangement at the War Office, another regiment should be quartered in Meryton."
+                    "target": "Die Familien, die während des Winters in der Stadt gewesen waren, kamen nun zurück, und es gab wieder Sommerputz und Sommereinladungen. Mrs. Bennet hatte zu ihrer gewöhnlichen nörgligen Gelassenheit zurückgefunden, und Mitte Juni hatte Kitty ihre Fassung soweit wiedererlangt, daß sie imstande war, Meryton ohne Tränen zu betreten – ein Ereignis, das Elizabeth hoffen ließ, daß sie bis zum kommenden Weihnachtsfest wenigstens so vernünftig sein würde, nicht mehr als einmal am Tag einen Offizier zu erwähnen – es sei denn, durch eine böswillige Anordnung des Kriegsministeriums würde erneut ein Regiment in Meryton Quartier nehmen. Die Zeit für den Beginn ihrer Reise in den Norden kam nun rasch heran, und es waren nur noch zwei Wochen bis dahin, als ein Brief von Mrs.",
+                    "native": "The time fixed for the beginning of their northern tour was now fast approaching, and a fortnight only was wanting of it, when a letter arrived from Mrs. Gardiner, which at once delayed its commencement and curtailed its extent. Mr. Gardiner would be prevented by business from setting out till a fortnight later in July, and must be in London again within a month, and as that left too short a period for them to go so far, and see so much as they had proposed, or at least to see it with the leisure and comfort they had built on, they were obliged to give up the Lakes, and substitute a more contracted tour, and, according to the present plan, were to go no farther northwards than Derbyshire."
                 },
                 {
-                    "target": "Die Familien, die während des Winters in der Stadt gewesen waren, kamen nun zurück, und es gab wieder Sommerputz und Sommereinladungen.",
-                    "native": "The time fixed for the beginning of their northern tour was now fast approaching, and a fortnight only was wanting of it, when a letter arrived from Mrs."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Gardiner, which at once delayed its commencement and curtailed its extent."
-                },
-                {
-                    "target": "Bennet hatte zu ihrer gewöhnlichen nörgligen Gelassenheit zurückgefunden, und Mitte Juni hatte Kitty ihre Fassung soweit wiedererlangt, daß sie imstande war, Meryton ohne Tränen zu betreten – ein Ereignis, das Elizabeth hoffen ließ, daß sie bis zum kommenden Weihnachtsfest wenigstens so vernünftig sein würde, nicht mehr als einmal am Tag einen Offizier zu erwähnen – es sei denn, durch eine böswillige Anordnung des Kriegsministeriums würde erneut ein Regiment in Meryton Quartier nehmen.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Die Zeit für den Beginn ihrer Reise in den Norden kam nun rasch heran, und es waren nur noch zwei Wochen bis dahin, als ein Brief von Mrs.",
-                    "native": "Gardiner would be prevented by business from setting out till a fortnight later in July, and must be in London again within a month, and as that left too short a period for them to go so far, and see so much as they had proposed, or at least to see it with the leisure and comfort they had built on, they were obliged to give up the Lakes, and substitute a more contracted tour, and, according to the present plan, were to go no farther northwards than Derbyshire."
-                },
-                {
-                    "target": "Gardiner eintraf, der ankündigte, daß sowohl der Beginn der Reise verschoben als auch ihre Länge beschnitten werden mußte.",
-                    "native": "In that county there was enough to be seen to occupy the chief of their three weeks; and to Mrs."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Gardiner it had a peculiarly strong attraction."
+                    "target": "Gardiner eintraf, der ankündigte, daß sowohl der Beginn der Reise verschoben als auch ihre Länge beschnitten werden mußte. Mr. Gardiner sei durch Geschäfte verhindert, könne erst zwei Wochen später im Juli die Reise antreten und müsse einen Monat darauf wieder in London sein; und da dies eine zu kurze Zeit für sie sei, so weit zu reisen und so viel zu sehen, wie sie vorgeschlagen hatten – oder zumindest alles mit der Muße und Bequemlichkeit zu tun, auf die sie gebaut hatten – seien sie genötigt, die Lakes aufzugeben und statt dessen eine kürzere Reise zu machen; sie würden nach dem jetzigen Plan nicht weiter in den Norden reisen als bis Derbyshire.",
+                    "native": "In that county there was enough to be seen to occupy the chief of their three weeks; and to Mrs. Gardiner it had a peculiarly strong attraction. The town where she had formerly passed some years of her life, and where they were now to spend a few days, was probably as great an object of her curiosity as all the celebrated beauties of Matlock, Chatsworth, Dovedale, or the Peak."
                 }
             ]
         },
@@ -156,16 +124,8 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Gardiner sei durch Geschäfte verhindert, könne erst zwei Wochen später im Juli die Reise antreten und müsse einen Monat darauf wieder in London sein; und da dies eine zu kurze Zeit für sie sei, so weit zu reisen und so viel zu sehen, wie sie vorgeschlagen hatten – oder zumindest alles mit der Muße und Bequemlichkeit zu tun, auf die sie gebaut hatten – seien sie genötigt, die Lakes aufzugeben und statt dessen eine kürzere Reise zu machen; sie würden nach dem jetzigen Plan nicht weiter in den Norden reisen als bis Derbyshire.",
-                    "native": "The town where she had formerly passed some years of her life, and where they were now to spend a few days, was probably as great an object of her curiosity as all the celebrated beauties of Matlock, Chatsworth, Dovedale, or the Peak."
-                },
-                {
-                    "target": "In dieser Grafschaft gäbe es genug zu sehen, um die Hauptzeit ihrer drei Wochen damit auszufüllen; und für Mrs.",
-                    "native": "Elizabeth was excessively disappointed; she had set her heart on seeing the Lakes, and still thought there might have been time enough."
-                },
-                {
-                    "target": "Gardiner habe sie eine besonders starke Anziehungskraft.",
-                    "native": "But it was her business to be satisfied— and certainly her temper to be happy; and all was soon right again."
+                    "target": "In dieser Grafschaft gäbe es genug zu sehen, um die Hauptzeit ihrer drei Wochen damit auszufüllen; und für Mrs. Gardiner habe sie eine besonders starke Anziehungskraft.",
+                    "native": "Elizabeth was excessively disappointed; she had set her heart on seeing the Lakes, and still thought there might have been time enough. But it was her business to be satisfied— and certainly her temper to be happy; and all was soon right again."
                 },
                 {
                     "target": "Die Stadt, in der sie früher einige Jahre ihres Lebens verbracht hatte und wo sie nun ein paar Tage zubringen wollten, würde vermutlich ebensosehr ihre Neugierde befriedigen wie alle die berühmten Schönheiten von Matlock, Chatsworth, Dovedale oder dem Peak.",
@@ -180,12 +140,8 @@
                     "native": "Four weeks were to pass away before her uncle and aunt's arrival."
                 },
                 {
-                    "target": "Die Erwähnung Derbyshires rief in Elizabeth vieles wach.",
-                    "native": "But they did pass away, and Mr. and Mrs."
-                },
-                {
-                    "target": "Es war unmöglich für sie, das Wort geschrieben zu sehen, ohne an Pemberley und seinen Besitzer zu denken. \"Aber bestimmt\", sagte sie, \"kann ich seine Grafschaft ungestraft betreten und sie einiger fossiler Reste berauben, ohne daß er mich bemerkt.\" Die Zeit der Erwartung war nun doppelt so lang.",
-                    "native": "Gardiner, with their four children, did at length appear at Longbourn."
+                    "target": "Die Erwähnung Derbyshires rief in Elizabeth vieles wach. Es war unmöglich für sie, das Wort geschrieben zu sehen, ohne an Pemberley und seinen Besitzer zu denken. \"Aber bestimmt\", sagte sie, \"kann ich seine Grafschaft ungestraft betreten und sie einiger fossiler Reste berauben, ohne daß er mich bemerkt.\" Die Zeit der Erwartung war nun doppelt so lang.",
+                    "native": "But they did pass away, and Mr. and Mrs. Gardiner, with their four children, did at length appear at Longbourn."
                 }
             ]
         },
@@ -197,12 +153,8 @@
                     "native": "The children, two girls of six and eight years old, and two younger boys, were to be left under the particular care of their cousin Jane, who was the general favourite, and whose steady sense and sweetness of temper exactly adapted her for attending to them in every way—teaching them, playing with them, and loving them."
                 },
                 {
-                    "target": "Aber auch sie vergingen, und Mr. und Mrs.",
-                    "native": "The Gardiners stayed only one night at Longbourn, and set off the next morning with Elizabeth in pursuit of novelty and amusement."
-                },
-                {
-                    "target": "Gardiner mit ihren vier Kindern erschienen schließlich in Longbourn.",
-                    "native": "One enjoyment was certain—that of suitableness of companions; a suitableness which comprehended health and temper to bear inconveniences—cheerfulness to enhance every pleasure—and affection and intelligence, which might supply it among themselves if there were disappointments abroad."
+                    "target": "Aber auch sie vergingen, und Mr. und Mrs. Gardiner mit ihren vier Kindern erschienen schließlich in Longbourn.",
+                    "native": "The Gardiners stayed only one night at Longbourn, and set off the next morning with Elizabeth in pursuit of novelty and amusement. One enjoyment was certain—that of suitableness of companions; a suitableness which comprehended health and temper to bear inconveniences—cheerfulness to enhance every pleasure—and affection and intelligence, which might supply it among themselves if there were disappointments abroad."
                 },
                 {
                     "target": "Die Kinder, zwei Mädchen von sechs und acht Jahren und zwei kleinere Jungen, sollten unter der besonderen Obhut ihrer Cousine Jane bleiben, die bei ihnen allen die beliebteste war und die sich mit ihrem ausgeglichenen Wesen und freundlichem, sanftem Naturell sehr dazu eignete, sich ihrer in jeder Weise anzunehmen – sie zu unterrichten, mit ihnen zu spielen und sie liebzuhaben.",
@@ -213,12 +165,8 @@
                     "native": "A small part of Derbyshire is all the present concern."
                 },
                 {
-                    "target": "Eine Freude war ihnen gewiß – daß sie als Reisegefährten gut miteinander harmonierten, und dazu gehörten Gesundheit und die rechte Gemütsart, um Unbequemlichkeiten zu ertragen; Heiterkeit, um jedes Vergnügen noch zu steigern – und gegenseitige Zuneigung und Klugheit, die auch untereinander für Wohlergehen sorgen konnten, falls es Enttäuschungen auf der Reise gab.",
-                    "native": "To the little town of Lambton, the scene of Mrs."
-                },
-                {
-                    "target": "Es ist nicht das Ziel dieses Werkes, eine Beschreibung von Derbyshire oder irgendwelcher bemerkenswerter Orte zu geben, die auf dem Wege dorthin liegen; Oxford, Blenheim, Warwick, Kenelworth, Birmingham und so weiter sind hinreichend bekannt.",
-                    "native": "Gardiner's former residence, and where she had lately learned some acquaintance still remained, they bent their steps, after having seen all the principal wonders of the country; and within five miles of Lambton, Elizabeth found from her aunt that Pemberley was situated."
+                    "target": "Eine Freude war ihnen gewiß – daß sie als Reisegefährten gut miteinander harmonierten, und dazu gehörten Gesundheit und die rechte Gemütsart, um Unbequemlichkeiten zu ertragen; Heiterkeit, um jedes Vergnügen noch zu steigern – und gegenseitige Zuneigung und Klugheit, die auch untereinander für Wohlergehen sorgen konnten, falls es Enttäuschungen auf der Reise gab. Es ist nicht das Ziel dieses Werkes, eine Beschreibung von Derbyshire oder irgendwelcher bemerkenswerter Orte zu geben, die auf dem Wege dorthin liegen; Oxford, Blenheim, Warwick, Kenelworth, Birmingham und so weiter sind hinreichend bekannt.",
+                    "native": "To the little town of Lambton, the scene of Mrs. Gardiner's former residence, and where she had lately learned some acquaintance still remained, they bent their steps, after having seen all the principal wonders of the country; and within five miles of Lambton, Elizabeth found from her aunt that Pemberley was situated."
                 },
                 {
                     "target": "Es geht uns hier allein um einen kleinen Teil von Derbyshire.",
@@ -230,36 +178,20 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Nachdem die Reisenden alle bedeutenden Wunder dieses Landstrichs gesehen hatten, machten sie sich zu der kleinen Stadt Lambton auf, Mrs.",
-                    "native": "In talking over their route the evening before, Mrs."
+                    "target": "Nachdem die Reisenden alle bedeutenden Wunder dieses Landstrichs gesehen hatten, machten sie sich zu der kleinen Stadt Lambton auf, Mrs. Gardiners früherem Wohnort, wo, wie sie kürzlich erfahren hatte, noch immer eine Bekannte lebte; und Elizabeth erfuhr von ihrer Tante, daß nur fünf Meilen von Lambton entfernt Pemberley gelegen war.",
+                    "native": "In talking over their route the evening before, Mrs. Gardiner expressed an inclination to see the place again."
                 },
                 {
-                    "target": "Gardiners früherem Wohnort, wo, wie sie kürzlich erfahren hatte, noch immer eine Bekannte lebte; und Elizabeth erfuhr von ihrer Tante, daß nur fünf Meilen von Lambton entfernt Pemberley gelegen war.",
-                    "native": "Gardiner expressed an inclination to see the place again."
+                    "target": "Es lag nicht direkt auf ihrem Wege, aber auch nicht mehr als ein bis zwei Meilen abseits davon. Als sie am Abend davor ihre Reiseroute besprachen, äußerte Mrs. Gardiner den Wunsch, Pemberley einmal wiederzusehen.",
+                    "native": "Mr. Gardiner declared his willingness, and Elizabeth was applied to for her approbation. \"My love, should not you like to see a place of which you have heard so much?\" said her aunt; \"a place, too, with which so many of your acquaintances are connected. Wickham passed all his youth there, you know.\" Elizabeth was distressed."
                 },
                 {
-                    "target": "Es lag nicht direkt auf ihrem Wege, aber auch nicht mehr als ein bis zwei Meilen abseits davon.",
-                    "native": "Mr."
+                    "target": "Mr. Gardiner erklärte sich dazu bereit, und sie wandten sich an Elizabeth um ihre Zustimmung. \"Meine Liebe, würdest du nicht gern einmal den Ort sehen, von dem du schon so viel gehört hast?\" fragte ihre Tante. \"Und dazu einen, zu dem ein großer Teil deiner Bekannten eine Beziehung hat.",
+                    "native": "She felt that she had no business at Pemberley, and was obliged to assume a disinclination for seeing it. She must own that she was tired of seeing great houses; after going over so many, she really had no pleasure in fine carpets or satin curtains."
                 },
                 {
-                    "target": "Als sie am Abend davor ihre Reiseroute besprachen, äußerte Mrs.",
-                    "native": "Gardiner declared his willingness, and Elizabeth was applied to for her approbation. \"My love, should not you like to see a place of which you have heard so much?\" said her aunt; \"a place, too, with which so many of your acquaintances are connected."
-                },
-                {
-                    "target": "Gardiner den Wunsch, Pemberley einmal wiederzusehen.",
-                    "native": "Wickham passed all his youth there, you know.\" Elizabeth was distressed."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "She felt that she had no business at Pemberley, and was obliged to assume a disinclination for seeing it."
-                },
-                {
-                    "target": "Gardiner erklärte sich dazu bereit, und sie wandten sich an Elizabeth um ihre Zustimmung. \"Meine Liebe, würdest du nicht gern einmal den Ort sehen, von dem du schon so viel gehört hast?\" fragte ihre Tante. \"Und dazu einen, zu dem ein großer Teil deiner Bekannten eine Beziehung hat.",
-                    "native": "She must own that she was tired of seeing great houses; after going over so many, she really had no pleasure in fine carpets or satin curtains."
-                },
-                {
-                    "target": "Wie du weißt, hat Wickham seine ganze Jugend dort verbracht.\" Elizabeth war beunruhigt.",
-                    "native": "Mrs."
+                    "target": "Wie du weißt, hat Wickham seine ganze Jugend dort verbracht.\" Elizabeth war beunruhigt. Sie fühlte, daß sie in Pemberley nichts verloren hatte, und war genötigt vorzugeben, daß sie keine rechte Lust habe, es zu sehen.",
+                    "native": "Mrs. Gardiner abused her stupidity. \"If it were merely a fine house richly furnished,\" said she, \"I should not care about it myself; but the grounds are delightful."
                 }
             ]
         },
@@ -267,32 +199,20 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Sie fühlte, daß sie in Pemberley nichts verloren hatte, und war genötigt vorzugeben, daß sie keine rechte Lust habe, es zu sehen.",
-                    "native": "Gardiner abused her stupidity. \"If it were merely a fine house richly furnished,\" said she, \"I should not care about it myself; but the grounds are delightful."
-                },
-                {
                     "target": "Sie müsse gestehen, daß sie großer Gebäude überdrüssig sei, nachdem sie schon so viele besucht hätten, und daß sie wirklich kein Vergnügen an schönen Teppichen und Satinvorhängen habe.",
                     "native": "They have some of the finest woods in the country.\" Elizabeth said no more—but her mind could not acquiesce."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "The possibility of meeting Mr."
-                },
-                {
-                    "target": "Gardiner schalt sie wegen ihrer Torheit. \"Wenn es lediglich ein schönes Gebäude wäre mit einer reichen Ausstattung\", sagte sie, \"würde ich mir selbst auch nicht viel daraus machen, aber die Parkanlagen sind wunderbar.",
-                    "native": "Darcy, while viewing the place, instantly occurred."
+                    "target": "Mrs. Gardiner schalt sie wegen ihrer Torheit. \"Wenn es lediglich ein schönes Gebäude wäre mit einer reichen Ausstattung\", sagte sie, \"würde ich mir selbst auch nicht viel daraus machen, aber die Parkanlagen sind wunderbar.",
+                    "native": "The possibility of meeting Mr. Darcy, while viewing the place, instantly occurred."
                 },
                 {
                     "target": "Sie haben dort eines der schönsten Waldgebiete der ganzen Gegend.\" Elizabeth sagte nichts mehr – doch ihre Gedanken konnten nicht zur Ruhe kommen.",
                     "native": "It would be dreadful!"
                 },
                 {
-                    "target": "Die Möglichkeit, Mr.",
-                    "native": "She blushed at the very idea, and thought it would be better to speak openly to her aunt than to run such a risk."
-                },
-                {
-                    "target": "Darcy zu treffen, während sie sich Pemberley ansahen, kam ihr sofort in den Sinn.",
-                    "native": "But against this there were objections; and she finally resolved that it could be the last resource, if her private inquiries to the absence of the family were unfavourably answered."
+                    "target": "Die Möglichkeit, Mr. Darcy zu treffen, während sie sich Pemberley ansahen, kam ihr sofort in den Sinn.",
+                    "native": "She blushed at the very idea, and thought it would be better to speak openly to her aunt than to run such a risk. But against this there were objections; and she finally resolved that it could be the last resource, if her private inquiries to the absence of the family were unfavourably answered."
                 },
                 {
                     "target": "Es wäre schrecklich!",

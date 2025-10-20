@@ -8,36 +8,20 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Glücklich war der Tag für Mrs.",
-                    "native": "Happy for all her maternal feelings was the day on which Mrs."
+                    "target": "Glücklich war der Tag für Mrs. Bennets mütterliche Gefühle, an dem sie ihre beiden würdigsten Töchter loswurde.",
+                    "native": "Happy for all her maternal feelings was the day on which Mrs. Bennet got rid of her two most deserving daughters."
                 },
                 {
-                    "target": "Bennets mütterliche Gefühle, an dem sie ihre beiden würdigsten Töchter loswurde.",
-                    "native": "Bennet got rid of her two most deserving daughters."
-                },
-                {
-                    "target": "Mit welch freudigem Stolz sie danach Mrs.",
-                    "native": "With what delighted pride she afterwards visited Mrs."
-                },
-                {
-                    "target": "Bingley besuchte und von Mrs.",
-                    "native": "Bingley, and talked of Mrs."
-                },
-                {
-                    "target": "Darcy sprach, läßt sich vermuten.",
-                    "native": "Darcy, may be guessed."
+                    "target": "Mit welch freudigem Stolz sie danach Mrs. Bingley besuchte und von Mrs. Darcy sprach, läßt sich vermuten.",
+                    "native": "With what delighted pride she afterwards visited Mrs. Bingley, and talked of Mrs. Darcy, may be guessed."
                 },
                 {
                     "target": "Könnte ich doch um der Familie willen sagen, daß die Erfüllung ihrer dringendsten Wünsche, die Verheiratung so vieler ihrer Kinder, eine so glückliche Wirkung erzeugt hätte, daß sie für den Rest ihres Lebens zu einer vernünftigen, liebenswürdigen, gebildeten Frau wurde; doch zum Glück für ihren Gatten, der an so ungewohnter häuslicher Harmonie vielleicht keinen Gefallen gefunden hätte, bekam sie noch immer gelegentlich nervöse Zustände und war unverändert töricht.",
                     "native": "I wish I could say, for the sake of her family, that the accomplishment of her earnest desire in the establishment of so many of her children produced so happy an effect as to make her a sensible, amiable, well-informed woman for the rest of her life; though perhaps it was lucky for her husband, who might not have relished domestic felicity in so unusual a form, that she still was occasionally nervous and invariably silly."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Bennet vermißte seine zweite Tochter außerordentlich; seine Liebe zu ihr zog ihn öfter von zu Hause fort, als es irgend etwas anderes tun konnte.",
-                    "native": "Bennet missed his second daughter exceedingly; his affection for her drew him oftener from home than anything else could do."
+                    "target": "Mr. Bennet vermißte seine zweite Tochter außerordentlich; seine Liebe zu ihr zog ihn öfter von zu Hause fort, als es irgend etwas anderes tun konnte.",
+                    "native": "Mr. Bennet missed his second daughter exceedingly; his affection for her drew him oftener from home than anything else could do."
                 }
             ]
         },
@@ -49,12 +33,8 @@
                     "native": "He delighted in going to Pemberley, especially when he was least expected."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Bingley und Jane blieben nur ein Jahr in Netherfield.",
-                    "native": "Bingley and Jane remained at Netherfield only a twelvemonth."
+                    "target": "Mr. Bingley und Jane blieben nur ein Jahr in Netherfield.",
+                    "native": "Mr. Bingley and Jane remained at Netherfield only a twelvemonth."
                 },
                 {
                     "target": "In so unmittelbarer Nähe ihrer Mutter und der Verwandten in Meryton zu leben, war selbst für Bingleys nachgiebiges Wesen und Janes liebevolles Herz nicht annehmbar.",
@@ -82,20 +62,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Sie hatte keinen so ungebärdigen Charakter wie Lydia, und fern von deren Einfluß wurde sie durch eine angemessene Aufmerksamkeit und Lenkung nun zu einem weniger reizbaren, weniger unwissenden und weniger geistlosen Menschen.",
-                    "native": "From the further disadvantage of Lydia's society she was of course carefully kept, and though Mrs."
-                },
-                {
-                    "target": "Vor weiterem Schaden durch Lydias Gesellschaft wurde sie natürlich sorgsam bewahrt; und obgleich Mrs.",
-                    "native": "Wickham frequently invited her to come and stay with her, with the promise of balls and young men, her father would never consent to her going."
-                },
-                {
-                    "target": "Wickham sie häufig einlud, zu ihr zu kommen und bei ihr zu bleiben – mit dem Versprechen, für Bälle und junge Männer zu sorgen –, gab ihr Vater niemals seine Zustimmung dazu.",
-                    "native": "Mary was the only daughter who remained at home; and she was necessarily drawn from the pursuit of accomplishments by Mrs."
-                },
-                {
-                    "target": "Mary war die einzige Tochter, die zu Hause blieb; und sie wurde zwangsläufig von ihrem Streben nach Bildung abgelenkt, weil Mrs.",
-                    "native": "Bennet's being quite unable to sit alone."
+                    "target": "Sie hatte keinen so ungebärdigen Charakter wie Lydia, und fern von deren Einfluß wurde sie durch eine angemessene Aufmerksamkeit und Lenkung nun zu einem weniger reizbaren, weniger unwissenden und weniger geistlosen Menschen. Vor weiterem Schaden durch Lydias Gesellschaft wurde sie natürlich sorgsam bewahrt; und obgleich Mrs. Wickham sie häufig einlud, zu ihr zu kommen und bei ihr zu bleiben – mit dem Versprechen, für Bälle und junge Männer zu sorgen –, gab ihr Vater niemals seine Zustimmung dazu. Mary war die einzige Tochter, die zu Hause blieb; und sie wurde zwangsläufig von ihrem Streben nach Bildung abgelenkt, weil Mrs.",
+                    "native": "From the further disadvantage of Lydia's society she was of course carefully kept, and though Mrs. Wickham frequently invited her to come and stay with her, with the promise of balls and young men, her father would never consent to her going. Mary was the only daughter who remained at home; and she was necessarily drawn from the pursuit of accomplishments by Mrs. Bennet's being quite unable to sit alone."
                 },
                 {
                     "target": "Bennet nicht im mindesten allein sein konnte.",
@@ -123,42 +91,26 @@
                     "native": "The letter was to this effect: \"MY DEAR LIZZY, \"I wish you joy."
                 },
                 {
-                    "target": "Der Gratulationsbrief, den Elizabeth zu ihrer Hochzeit von Lydia erhielt, zeigte ihr, daß, wenn nicht er selbst, so doch zumindest seine Gattin eine solche Hoffnung hegte.",
-                    "native": "If you love Mr."
+                    "target": "Der Gratulationsbrief, den Elizabeth zu ihrer Hochzeit von Lydia erhielt, zeigte ihr, daß, wenn nicht er selbst, so doch zumindest seine Gattin eine solche Hoffnung hegte. Der Brief lautete folgendermaßen: \"Meine liebe Lizzy, ich wünsche Dir Glück.",
+                    "native": "If you love Mr. Darcy half as well as I do my dear Wickham, you must be very happy."
                 },
                 {
-                    "target": "Der Brief lautete folgendermaßen: \"Meine liebe Lizzy, ich wünsche Dir Glück.",
-                    "native": "Darcy half as well as I do my dear Wickham, you must be very happy."
+                    "target": "Wenn Du Mr. Darcy nur halb so gern hast wie ich meinen lieben Wickham, mußt Du sehr glücklich sein.",
+                    "native": "It is a great comfort to have you so rich, and when you have nothing else to do, I hope you will think of us. I am sure Wickham would like a place at court very much, and I do not think we shall have quite money enough to live upon without some help."
                 },
                 {
-                    "target": "Wenn Du Mr.",
-                    "native": "It is a great comfort to have you so rich, and when you have nothing else to do, I hope you will think of us."
+                    "target": "Es ist eine große Wohltat, Dich so reich zu wissen, und wenn Du nichts anderes zu tun hast, hoffe ich, daß Du an uns denkst. Wickham würde bestimmt sehr gern eine Stelle bei Hofe haben; ich glaube nicht, daß wir genug Geld haben, um ohne Hilfe zu leben.",
+                    "native": "Any place would do, of about three or four hundred a year; but however, do not speak to Mr. Darcy about it, if you had rather not. \"Yours, etc.\" As it happened that Elizabeth had much rather not, she endeavoured in her answer to put an end to every entreaty and expectation of the kind."
                 },
                 {
-                    "target": "Darcy nur halb so gern hast wie ich meinen lieben Wickham, mußt Du sehr glücklich sein.",
-                    "native": "I am sure Wickham would like a place at court very much, and I do not think we shall have quite money enough to live upon without some help."
-                },
-                {
-                    "target": "Es ist eine große Wohltat, Dich so reich zu wissen, und wenn Du nichts anderes zu tun hast, hoffe ich, daß Du an uns denkst.",
-                    "native": "Any place would do, of about three or four hundred a year; but however, do not speak to Mr."
-                },
-                {
-                    "target": "Wickham würde bestimmt sehr gern eine Stelle bei Hofe haben; ich glaube nicht, daß wir genug Geld haben, um ohne Hilfe zu leben.",
-                    "native": "Darcy about it, if you had rather not. \"Yours, etc.\" As it happened that Elizabeth had much rather not, she endeavoured in her answer to put an end to every entreaty and expectation of the kind."
-                },
-                {
-                    "target": "Jede Stellung mit etwa drei-oder vierhundert Pfund im Jahr wäre recht; aber sprich nicht mit Mr.",
-                    "native": "Such relief, however, as it was in her power to afford, by the practice of what might be called economy in her own private expences, she frequently sent them."
+                    "target": "Jede Stellung mit etwa drei-oder vierhundert Pfund im Jahr wäre recht; aber sprich nicht mit Mr. Darcy darüber, wenn Du es nicht möchtest.",
+                    "native": "Such relief, however, as it was in her power to afford, by the practice of what might be called economy in her own private expences, she frequently sent them. It had always been evident to her that such an income as theirs, under the direction of two persons so extravagant in their wants, and heedless of the future, must be very insufficient to their support; and whenever they changed their quarters, either Jane or herself were sure of being applied to for some little assistance towards discharging their bills."
                 }
             ]
         },
         {
             "pageNumber": 5,
             "sentences": [
-                {
-                    "target": "Darcy darüber, wenn Du es nicht möchtest.",
-                    "native": "It had always been evident to her that such an income as theirs, under the direction of two persons so extravagant in their wants, and heedless of the future, must be very insufficient to their support; and whenever they changed their quarters, either Jane or herself were sure of being applied to for some little assistance towards discharging their bills."
-                },
                 {
                     "target": "Deine, usw.\" Da es Elizabeth nun einmal sehr viel lieber nicht wollte, bemühte sie sich in ihrer Antwort, jedem Ansuchen und allen Erwartungen dieser Art ein Ende zu setzen.",
                     "native": "Their manner of living, even when the restoration of peace dismissed them to a home, was unsettled in the extreme."
