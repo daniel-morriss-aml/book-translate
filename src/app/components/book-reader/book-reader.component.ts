@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Book, Page, Sentence } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
+import { ProgressService } from '../../services/progress.service';
 import { ThemeService } from '../../services/theme.service';
 
 @Component({
@@ -20,9 +21,13 @@ export class BookReaderComponent implements OnInit {
     error: string | null = null;
     maintainTranslationLevel: boolean = false;
     isDarkMode: boolean = false;
+    showSetProgressModal: boolean = false;
+    isChapterContext: boolean = false;
+    nextChapterId: string | null = null;
 
     constructor(
         private bookService: BookService,
+        private progressService: ProgressService,
         private route: ActivatedRoute,
         private router: Router,
         private themeService: ThemeService
@@ -117,12 +122,66 @@ export class BookReaderComponent implements OnInit {
                 this.sliderValue = this.bookService.getSliderValue(book.id);
                 this.maintainTranslationLevel =
                     this.bookService.getMaintainTranslationLevel(book.id);
+                
+                // Load furthest read page
+                const furthestPage = this.progressService.getFurthestPage(book.id);
+                this.currentPageIndex = furthestPage;
+                
+                // Check if this is a chapter context (to determine if we should show "Next Chapter" button)
+                this.checkChapterContext(book.id);
+                
                 this.loading = false;
             },
             error: (err) => {
                 this.error = 'Failed to load book';
                 this.loading = false;
                 console.error('Error loading book:', err);
+            },
+        });
+    }
+
+    checkChapterContext(bookId: string): void {
+        // Load book list to check if this is a chapter
+        this.bookService.loadBookList().subscribe({
+            next: (books) => {
+                const booksWithChapters = books.filter(
+                    (b) => b.hasChapters && b.chaptersPath
+                );
+
+                let searchIndex = 0;
+
+                const searchNextBook = () => {
+                    if (searchIndex >= booksWithChapters.length) {
+                        return;
+                    }
+
+                    const bookMetadata = booksWithChapters[searchIndex];
+                    this.bookService.loadChapters(bookMetadata.chaptersPath!).subscribe({
+                        next: (chapters) => {
+                            const chapterIndex = chapters.findIndex((c) => c.id === bookId);
+                            if (chapterIndex !== -1) {
+                                this.isChapterContext = true;
+                                // Find next chapter if it exists
+                                if (chapterIndex < chapters.length - 1) {
+                                    this.nextChapterId = chapters[chapterIndex + 1].id;
+                                }
+                            } else {
+                                searchIndex++;
+                                searchNextBook();
+                            }
+                        },
+                        error: (err) => {
+                            console.error('Error loading chapters for book:', bookMetadata.id, err);
+                            searchIndex++;
+                            searchNextBook();
+                        },
+                    });
+                };
+
+                searchNextBook();
+            },
+            error: (err) => {
+                console.error('Error checking chapter context:', err);
             },
         });
     }
@@ -141,6 +200,22 @@ export class BookReaderComponent implements OnInit {
             if (!this.maintainTranslationLevel) {
                 this.sliderValue = 0;
                 this.onSliderChange();
+            }
+            // Update progress when navigating
+            this.updateProgress();
+        }
+    }
+
+    updateProgress(): void {
+        if (this.book) {
+            const currentProgress = this.progressService.getProgress(this.book.id);
+            // Only update if this is further than the previous progress
+            if (!currentProgress || this.currentPageIndex > currentProgress.currentPage) {
+                this.progressService.setProgressPoint(
+                    this.book.id,
+                    this.currentPageIndex,
+                    this.totalPages
+                );
             }
         }
     }
@@ -190,6 +265,38 @@ export class BookReaderComponent implements OnInit {
 
     backToLibrary(): void {
         this.router.navigate(['/']);
+    }
+
+    isLastPage(): boolean {
+        return this.currentPageIndex === this.totalPages - 1;
+    }
+
+    openSetProgressModal(): void {
+        this.showSetProgressModal = true;
+    }
+
+    closeSetProgressModal(): void {
+        this.showSetProgressModal = false;
+    }
+
+    confirmSetProgress(): void {
+        if (this.book) {
+            this.progressService.setProgressPoint(
+                this.book.id,
+                this.currentPageIndex,
+                this.totalPages
+            );
+        }
+        this.closeSetProgressModal();
+    }
+
+    goToNextChapter(): void {
+        if (this.book && this.nextChapterId) {
+            // Mark current chapter as complete
+            this.progressService.completeChapter(this.book.id, this.totalPages);
+            // Navigate to next chapter
+            this.router.navigate(['/reader', this.nextChapterId]);
+        }
     }
 
     @HostListener('window:keydown', ['$event'])

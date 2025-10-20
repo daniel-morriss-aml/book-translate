@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { BookMetadata } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
+import { ProgressService } from '../../services/progress.service';
 
 @Component({
     selector: 'app-library',
@@ -17,6 +18,7 @@ export class LibraryComponent implements OnInit {
 
     constructor(
         private bookService: BookService,
+        private progressService: ProgressService,
         private router: Router
     ) {}
 
@@ -44,6 +46,18 @@ export class LibraryComponent implements OnInit {
             this.router.navigate(['/chapters', book.id]);
         } else {
             this.router.navigate(['/reader', book.id]);
+        }
+    }
+
+    isBookComplete(book: BookMetadata): boolean {
+        if (book.hasChapters && book.chaptersPath) {
+            // For books with chapters, we need to check all chapters
+            // This is a simplified check - in a real app, we'd load chapters first
+            // For now, we'll just check if there's any progress stored
+            return false; // Will be properly implemented when chapters are loaded
+        } else {
+            // For books without chapters, check the book itself
+            return this.progressService.isBookComplete(book.id);
         }
     }
 }
