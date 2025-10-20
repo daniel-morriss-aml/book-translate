@@ -8,12 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Ein paar Tage nach diesem Besuch kam Bingley wieder, und zwar allein.",
-                    "native": "A few days after this visit, Mr."
-                },
-                {
-                    "target": "Sein Freund war an diesem Morgen nach London gefahren, würde aber nach zehn Tagen wieder zurückkommen.",
-                    "native": "Bingley called again, and alone."
+                    "target": "Ein paar Tage nach diesem Besuch kam Bingley wieder, und zwar allein. Sein Freund war an diesem Morgen nach London gefahren, würde aber nach zehn Tagen wieder zurückkommen.",
+                    "native": "A few days after this visit, Mr. Bingley called again, and alone."
                 },
                 {
                     "target": "Er saß über eine Stunde bei ihnen und war in außerordentlich guter Stimmung.",
@@ -24,34 +20,22 @@
                     "native": "He sat with them above an hour, and was in remarkably good spirits."
                 },
                 {
-                    "target": "Bennet lud ihn ein, mit ihnen zu speisen, doch mit vielen Worten des Bedauerns bekannte er, daß er noch eine andere Verpflichtung habe. \"Wenn Sie das nächste Mal kommen\", sagte sie, \"hoffe ich, daß wir mehr Glück haben.\" Es würde ihn jederzeit ganz besonders freuen usw. usw., und mit ihrer Erlaubnis würde er recht bald die Gelegenheit ergreifen, ihnen wieder seine Aufwartung zu machen. \"Können Sie morgen kommen?\" Ja, er habe für morgen keinerlei Verpflichtungen; und ihre Einladung wurde bereitwillig angenommen.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Er kam, und so zeitig, daß noch keine der Damen angekleidet war.",
-                    "native": "Bennet invited him to dine with them; but, with many expressions of concern, he confessed himself engaged elsewhere. \"Next time you call,\" said she, \"I hope we shall be more lucky.\" He should be particularly happy at any time, etc. etc.; and if she would give him leave, would take an early opportunity of waiting on them. \"Can you come to-morrow?\" Yes, he had no engagement at all for to-morrow; and her invitation was accepted with alacrity."
+                    "target": "Bennet lud ihn ein, mit ihnen zu speisen, doch mit vielen Worten des Bedauerns bekannte er, daß er noch eine andere Verpflichtung habe. \"Wenn Sie das nächste Mal kommen\", sagte sie, \"hoffe ich, daß wir mehr Glück haben.\" Es würde ihn jederzeit ganz besonders freuen usw. usw., und mit ihrer Erlaubnis würde er recht bald die Gelegenheit ergreifen, ihnen wieder seine Aufwartung zu machen. \"Können Sie morgen kommen?\" Ja, er habe für morgen keinerlei Verpflichtungen; und ihre Einladung wurde bereitwillig angenommen. Er kam, und so zeitig, daß noch keine der Damen angekleidet war.",
+                    "native": "Mrs. Bennet invited him to dine with them; but, with many expressions of concern, he confessed himself engaged elsewhere. \"Next time you call,\" said she, \"I hope we shall be more lucky.\" He should be particularly happy at any time, etc. etc.; and if she would give him leave, would take an early opportunity of waiting on them. \"Can you come to-morrow?\" Yes, he had no engagement at all for to-morrow; and her invitation was accepted with alacrity."
                 },
                 {
                     "target": "Mrs.",
                     "native": "He came, and in such very good time that the ladies were none of them dressed."
                 },
                 {
-                    "target": "Bennet rannte im Morgenmantel und mit halbfertiger Frisur in das Zimmer ihrer Tochter und rief: \"Meine liebe Jane, beeil dich und komm rasch herunter.",
-                    "native": "In ran Mrs."
+                    "target": "Bennet rannte im Morgenmantel und mit halbfertiger Frisur in das Zimmer ihrer Tochter und rief: \"Meine liebe Jane, beeil dich und komm rasch herunter. Er ist gekommen – Mr. Bingley ist gekommen – wirklich.",
+                    "native": "In ran Mrs. Bennet to her daughter's room, in her dressing gown, and with her hair half finished, crying out: \"My dear Jane, make haste and hurry down. He is come—Mr."
                 }
             ]
         },
         {
             "pageNumber": 2,
             "sentences": [
-                {
-                    "target": "Er ist gekommen – Mr.",
-                    "native": "Bennet to her daughter's room, in her dressing gown, and with her hair half finished, crying out: \"My dear Jane, make haste and hurry down."
-                },
-                {
-                    "target": "Bingley ist gekommen – wirklich.",
-                    "native": "He is come—Mr."
-                },
                 {
                     "target": "Beeil dich, rasch, rasch.",
                     "native": "Bingley is come."
@@ -86,20 +70,12 @@
                     "native": "Where is your sash, my dear?\" But when her mother was gone, Jane would not be prevailed on to go down without one of her sisters."
                 },
                 {
-                    "target": "Nach dem Tee zog sich Mr.",
-                    "native": "The same anxiety to get them by themselves was visible again in the evening."
+                    "target": "Nach dem Tee zog sich Mr. Bennet in die Bibliothek zurück, wie es seine Gewohnheit war, und Mary ging nach oben zu ihrem Klavier.",
+                    "native": "The same anxiety to get them by themselves was visible again in the evening. After tea, Mr."
                 },
                 {
-                    "target": "Bennet in die Bibliothek zurück, wie es seine Gewohnheit war, und Mary ging nach oben zu ihrem Klavier.",
-                    "native": "After tea, Mr."
-                },
-                {
-                    "target": "Da somit zwei Hindernisse von den fünfen aus dem Weg waren, sah Mrs.",
-                    "native": "Bennet retired to the library, as was his custom, and Mary went up stairs to her instrument."
-                },
-                {
-                    "target": "Bennet eine ganze Zeitlang zu Elizabeth und Catherine hinüber und zwinkerte ihnen zu, ohne einen Eindruck auf sie zu machen.",
-                    "native": "Two obstacles of the five being thus removed, Mrs."
+                    "target": "Da somit zwei Hindernisse von den fünfen aus dem Weg waren, sah Mrs. Bennet eine ganze Zeitlang zu Elizabeth und Catherine hinüber und zwinkerte ihnen zu, ohne einen Eindruck auf sie zu machen.",
+                    "native": "Bennet retired to the library, as was his custom, and Mary went up stairs to her instrument. Two obstacles of the five being thus removed, Mrs."
                 },
                 {
                     "target": "Elizabeth wollte es nicht bemerken, und als Kitty es schließlich tat, fragte sie ganz unschuldig: \"Was hast du denn, Mama?",
@@ -127,24 +103,16 @@
                     "native": "I did not wink at you.\" She then sat still five minutes longer; but unable to waste such a precious occasion, she suddenly got up, and saying to Kitty, \"Come here, my love, I want to speak to you,\" took her out of the room."
                 },
                 {
-                    "target": "Nach einigen Minuten öffnete Mrs.",
-                    "native": "Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her entreaty that she would not give in to it."
-                },
-                {
-                    "target": "Bennet ein wenig die Tür und rief: \"Lizzy, mein Kind, ich möchte mit dir sprechen.\" Elizabeth war gezwungen zu gehen. \"Wir können sie ebensogut allein lassen, nicht wahr\", sagte ihre Mutter, sobald sie in der Halle waren. \"Kitty und ich gehen nach oben in mein Ankleidezimmer.\" Elizabeth machte keinen Versuch, mit ihrer Mutter zu argumentieren, sondern blieb ruhig in der Halle, bis sie und Kitty außer Sichtweite waren; dann kehrte sie ins Wohnzimmer zurück.",
-                    "native": "In a few minutes, Mrs."
+                    "target": "Nach einigen Minuten öffnete Mrs. Bennet ein wenig die Tür und rief: \"Lizzy, mein Kind, ich möchte mit dir sprechen.\" Elizabeth war gezwungen zu gehen. \"Wir können sie ebensogut allein lassen, nicht wahr\", sagte ihre Mutter, sobald sie in der Halle waren. \"Kitty und ich gehen nach oben in mein Ankleidezimmer.\" Elizabeth machte keinen Versuch, mit ihrer Mutter zu argumentieren, sondern blieb ruhig in der Halle, bis sie und Kitty außer Sichtweite waren; dann kehrte sie ins Wohnzimmer zurück.",
+                    "native": "Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her entreaty that she would not give in to it. In a few minutes, Mrs."
                 },
                 {
                     "target": "Mrs.",
                     "native": "Bennet half-opened the door and called out: \"Lizzy, my dear, I want to speak with you.\" Elizabeth was forced to go. \"We may as well leave them by themselves you know;\" said her mother, as soon as she was in the hall. \"Kitty and I are going up stairs to sit in my dressing-room.\" Elizabeth made no attempt to reason with her mother, but remained quietly in the hall, till she and Kitty were out of sight, then returned into the drawing-room."
                 },
                 {
-                    "target": "Bennets Intrigen waren für diesen Tag fruchtlos geblieben.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Bingley war der charmanteste Mensch, nur nicht der erklärte Liebhaber ihrer Tochter.",
-                    "native": "Bennet's schemes for this day were ineffectual."
+                    "target": "Bennets Intrigen waren für diesen Tag fruchtlos geblieben. Bingley war der charmanteste Mensch, nur nicht der erklärte Liebhaber ihrer Tochter.",
+                    "native": "Mrs. Bennet's schemes for this day were ineffectual."
                 },
                 {
                     "target": "Mit seiner Ungezwungenheit und Heiterkeit vervollständigte er den abendlichen Familienkreis auf höchst angenehme Weise; und er ertrug den unklugen, übertriebenen Eifer der Mutter und hörte sich all ihre törichten Bemerkungen mit einer Geduld und beherrschten Miene an, für die die Tochter besonders dankbar war.",
@@ -156,36 +124,24 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Es bedurfte kaum einer Einladung an ihn, zum Abendessen zu bleiben; und ehe er fortging, wurde, hauptsächlich durch sein eigenes und Mrs.",
-                    "native": "His ease and cheerfulness rendered him a most agreeable addition to their evening party; and he bore with the ill-judged officiousness of the mother, and heard all her silly remarks with a forbearance and command of countenance particularly grateful to the daughter."
-                },
-                {
-                    "target": "Bennets Betreiben, vereinbart, daß er am nächsten Morgen mit ihrem Gatten auf die Jagd gehen sollte.",
-                    "native": "He scarcely needed an invitation to stay supper; and before he went away, an engagement was formed, chiefly through his own and Mrs."
+                    "target": "Es bedurfte kaum einer Einladung an ihn, zum Abendessen zu bleiben; und ehe er fortging, wurde, hauptsächlich durch sein eigenes und Mrs. Bennets Betreiben, vereinbart, daß er am nächsten Morgen mit ihrem Gatten auf die Jagd gehen sollte.",
+                    "native": "His ease and cheerfulness rendered him a most agreeable addition to their evening party; and he bore with the ill-judged officiousness of the mother, and heard all her silly remarks with a forbearance and command of countenance particularly grateful to the daughter. He scarcely needed an invitation to stay supper; and before he went away, an engagement was formed, chiefly through his own and Mrs."
                 },
                 {
                     "target": "Nach diesem Tag sagte Jane nichts mehr von Gleichgültigkeit.",
                     "native": "Bennet's means, for his coming next morning to shoot with her husband."
                 },
                 {
-                    "target": "Zwischen den Schwestern wurde Bingley mit keinem Wort mehr erwähnt; doch Elizabeth ging in dem glücklichen Glauben zu Bett, daß alles zu einem raschen Ende kommen mußte, es sei denn, Mr.",
-                    "native": "After this day, Jane said no more of her indifference."
-                },
-                {
-                    "target": "Darcy kam vor der angegebenen Zeit zurück.",
-                    "native": "Not a word passed between the sisters concerning Bingley; but Elizabeth went to bed in the happy belief that all must speedily be concluded, unless Mr."
+                    "target": "Zwischen den Schwestern wurde Bingley mit keinem Wort mehr erwähnt; doch Elizabeth ging in dem glücklichen Glauben zu Bett, daß alles zu einem raschen Ende kommen mußte, es sei denn, Mr. Darcy kam vor der angegebenen Zeit zurück.",
+                    "native": "After this day, Jane said no more of her indifference. Not a word passed between the sisters concerning Bingley; but Elizabeth went to bed in the happy belief that all must speedily be concluded, unless Mr."
                 },
                 {
                     "target": "Im Grunde war sie jedoch ziemlich überzeugt, daß all das mit dem Einverständnis jenes Herrn vor sich gegangen sein mußte.",
                     "native": "Darcy returned within the stated time."
                 },
                 {
-                    "target": "Bingley kam pünktlich zu seiner Verabredung, und er verbrachte, wie vereinbart, den Vormittag zusammen mit Mr.",
-                    "native": "Seriously, however, she felt tolerably persuaded that all this must have taken place with that gentleman's concurrence."
-                },
-                {
-                    "target": "Bennet.",
-                    "native": "Bingley was punctual to his appointment; and he and Mr."
+                    "target": "Bingley kam pünktlich zu seiner Verabredung, und er verbrachte, wie vereinbart, den Vormittag zusammen mit Mr. Bennet. Er war viel sympathischer, als Mr. Bennet vermutet hatte.",
+                    "native": "Seriously, however, she felt tolerably persuaded that all this must have taken place with that gentleman's concurrence. Bingley was punctual to his appointment; and he and Mr. Bennet spent the morning together, as had been agreed on. The latter was much more agreeable than his companion expected."
                 }
             ]
         },
@@ -193,24 +149,12 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Er war viel sympathischer, als Mr.",
-                    "native": "Bennet spent the morning together, as had been agreed on."
-                },
-                {
-                    "target": "Bennet vermutet hatte.",
-                    "native": "The latter was much more agreeable than his companion expected."
-                },
-                {
                     "target": "Da gab es keinerlei Dünkel oder Torheit an Bingley, die seinen Spott herausfordern oder ihn aus Widerwillen zum Schweigen bringen konnten; er selbst war wiederum gesprächiger und weniger exzentrisch, als der andere ihn jemals erlebt hatte.",
                     "native": "There was nothing of presumption or folly in Bingley that could provoke his ridicule, or disgust him into silence; and he was more communicative, and less eccentric, than the other had ever seen him."
                 },
                 {
-                    "target": "Bingley kehrte natürlich mit ihm zurück zum Dinner; und am Abend war Mrs.",
-                    "native": "Bingley of course returned with him to dinner; and in the evening Mrs."
-                },
-                {
-                    "target": "Bennet mit ihrer Einladung erneut am Werk, alle von ihm und ihrer Tochter fortzulocken.",
-                    "native": "Bennet's invention was again at work to get every body away from him and her daughter."
+                    "target": "Bingley kehrte natürlich mit ihm zurück zum Dinner; und am Abend war Mrs. Bennet mit ihrer Einladung erneut am Werk, alle von ihm und ihrer Tochter fortzulocken.",
+                    "native": "Bingley of course returned with him to dinner; and in the evening Mrs. Bennet's invention was again at work to get every body away from him and her daughter."
                 },
                 {
                     "target": "Elizabeth, die einen Brief zu schreiben hatte, ging zu diesem Zweck bald nach dem Tee ins Frühstückszimmer; denn da sich die anderen alle an den Kartentisch begaben, war ihre Anwesenheit nicht nötig, um die Pläne ihrer Mutter zu durchkreuzen.",
@@ -304,24 +248,16 @@
             "pageNumber": 9,
             "sentences": [
                 {
-                    "target": "Es war für alle ein ungewöhnlich freudiger Abend; die glückliche Gewißheit belebte Miss Bennets Gesicht mit einer so lieblichen Röte, daß sie schöner erschien denn je.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Kitty lächelte geziert und hoffte, daß auch sie nun bald an die Reihe käme.",
-                    "native": "Bennet could not give her consent or speak her approbation in terms warm enough to satisfy her feelings, though she talked to Bingley of nothing else for half an hour; and when Mr."
+                    "target": "Es war für alle ein ungewöhnlich freudiger Abend; die glückliche Gewißheit belebte Miss Bennets Gesicht mit einer so lieblichen Röte, daß sie schöner erschien denn je. Kitty lächelte geziert und hoffte, daß auch sie nun bald an die Reihe käme.",
+                    "native": "Mrs. Bennet could not give her consent or speak her approbation in terms warm enough to satisfy her feelings, though she talked to Bingley of nothing else for half an hour; and when Mr."
                 },
                 {
                     "target": "Mrs.",
                     "native": "Bennet joined them at supper, his voice and manner plainly showed how really happy he was."
                 },
                 {
-                    "target": "Bennet konnte nicht warm genug ihre Zustimmung geben und ihren Beifall äußern, um ihren Gefühlen Genüge zu tun, obgleich sie zu Bingley eine halbe Stunde lang von nichts anderem sprach; und als sich ihnen Mr.",
-                    "native": "Not a word, however, passed his lips in allusion to it, till their visitor took his leave for the night; but as soon as he was gone, he turned to his daughter, and said: \"Jane, I congratulate you."
-                },
-                {
-                    "target": "Bennet zum Abendessen zugesellte, zeigten seine Stimme und sein Verhalten deutlich, wie aufrichtig glücklich er war.",
-                    "native": "You will be a very happy woman.\" Jane went to him instantly, kissed him, and thanked him for his goodness. \"You are a good girl;\" he replied, \"and I have great pleasure in thinking you will be so happily settled."
+                    "target": "Bennet konnte nicht warm genug ihre Zustimmung geben und ihren Beifall äußern, um ihren Gefühlen Genüge zu tun, obgleich sie zu Bingley eine halbe Stunde lang von nichts anderem sprach; und als sich ihnen Mr. Bennet zum Abendessen zugesellte, zeigten seine Stimme und sein Verhalten deutlich, wie aufrichtig glücklich er war.",
+                    "native": "Not a word, however, passed his lips in allusion to it, till their visitor took his leave for the night; but as soon as he was gone, he turned to his daughter, and said: \"Jane, I congratulate you. You will be a very happy woman.\" Jane went to him instantly, kissed him, and thanked him for his goodness. \"You are a good girl;\" he replied, \"and I have great pleasure in thinking you will be so happily settled."
                 },
                 {
                     "target": "Doch ehe sich ihr Besucher nicht für den Abend verabschiedet hatte, spielte er mit keinem Wort darauf an; sobald er aber fort war, wandte er sich seiner Tochter zu und sagte: \"Jane, ich gratuliere dir, du wirst eine sehr glückliche Frau werden.\" Jane ging sofort zu ihm hin, gab ihm einen Kuß und dankte ihm für seine Güte. \"Du bist ein gutes Mädchen\", erwiderte er, \"und der Gedanke, daß du so glücklich verheiratet sein wirst, macht mir große Freude.",
@@ -345,12 +281,8 @@
                     "native": "Imprudence or thoughtlessness in money matters would be unpardonable in me.\" \"Exceed their income!"
                 },
                 {
-                    "target": "Unklugheit und Gedankenlosigkeit in Geldangelegenheiten wären für mich unverzeihlich.\" \"Ihr Einkommen überschreiten!",
-                    "native": "My dear Mr."
-                },
-                {
-                    "target": "Mein lieber Mr.",
-                    "native": "Bennet,\" cried his wife, \"what are you talking of?"
+                    "target": "Unklugheit und Gedankenlosigkeit in Geldangelegenheiten wären für mich unverzeihlich.\" \"Ihr Einkommen überschreiten! Mein lieber Mr.",
+                    "native": "My dear Mr. Bennet,\" cried his wife, \"what are you talking of?"
                 },
                 {
                     "target": "Bennet\", rief seine Gattin, \"was redest du da?",
@@ -464,20 +396,12 @@
                     "native": "Till I have your disposition, your goodness, I never can have your happiness."
                 },
                 {
-                    "target": "Nein, nein, laß mich nur auf mich selbst gestellt sein; und vielleicht, wenn ich ganz großes Glück habe, begegnet mir zur rechten Zeit ein anderer Mr.",
-                    "native": "No, no, let me shift for myself; and, perhaps, if I have very good luck, I may meet with another Mr."
+                    "target": "Nein, nein, laß mich nur auf mich selbst gestellt sein; und vielleicht, wenn ich ganz großes Glück habe, begegnet mir zur rechten Zeit ein anderer Mr. Collins.\" Die neue Lage in der Longbourner Familie konnte nicht lange geheim bleiben.",
+                    "native": "No, no, let me shift for myself; and, perhaps, if I have very good luck, I may meet with another Mr. Collins in time.\" The situation of affairs in the Longbourn family could not be long a secret."
                 },
                 {
-                    "target": "Collins.\" Die neue Lage in der Longbourner Familie konnte nicht lange geheim bleiben.",
-                    "native": "Collins in time.\" The situation of affairs in the Longbourn family could not be long a secret."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Bennet war bevorrechtigt, es Mrs.",
-                    "native": "Bennet was privileged to whisper it to Mrs."
+                    "target": "Mrs. Bennet war bevorrechtigt, es Mrs.",
+                    "native": "Mrs. Bennet was privileged to whisper it to Mrs."
                 },
                 {
                     "target": "Philips zuzuflüstern, und diese wagte es, ohne Erlaubnis das gleiche bei allen ihren Nachbarn in Meryton zu tun.",

@@ -8,12 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Die beiden Herren verließen Rosings am nächsten Morgen; und Mr.",
-                    "native": "The two gentlemen left Rosings the next morning, and Mr."
-                },
-                {
-                    "target": "Collins, der in der Nähe des Pförtnerhauses gewartet hatte, um ihnen seine Abschiedsverbeugung zu machen, konnte nun die erfreuliche Nachricht nach Hause bringen, daß sie offensichtlich bei guter Gesundheit und in so erträglicher Stimmung waren, wie man es nach der betrüblichen Abschiedsszene erwarten konnte, die sie auf Rosings gerade durchgemacht hatten.",
-                    "native": "Collins having been in waiting near the lodges, to make them his parting obeisance, was able to bring home the pleasing intelligence, of their appearing in very good health, and in as tolerable spirits as could be expected, after the melancholy scene so lately gone through at Rosings."
+                    "target": "Die beiden Herren verließen Rosings am nächsten Morgen; und Mr. Collins, der in der Nähe des Pförtnerhauses gewartet hatte, um ihnen seine Abschiedsverbeugung zu machen, konnte nun die erfreuliche Nachricht nach Hause bringen, daß sie offensichtlich bei guter Gesundheit und in so erträglicher Stimmung waren, wie man es nach der betrüblichen Abschiedsszene erwarten konnte, die sie auf Rosings gerade durchgemacht hatten.",
+                    "native": "The two gentlemen left Rosings the next morning, and Mr. Collins having been in waiting near the lodges, to make them his parting obeisance, was able to bring home the pleasing intelligence, of their appearing in very good health, and in as tolerable spirits as could be expected, after the melancholy scene so lately gone through at Rosings."
                 },
                 {
                     "target": "Dann eilte er nach Rosings, um Lady Catherine und ihre Tochter zu trösten; und bei seiner Rückkehr brachte er mit großer Genugtuung eine Botschaft von Ihrer Ladyschaft mit, die besagte, sie fühle sich so niedergeschlagen, daß sie sich sehr wünsche, sie alle zum Dinner bei sich zu haben.",
@@ -49,24 +45,16 @@
                     "native": "The dear Colonel rallied his spirits tolerably till just at last; but Darcy seemed to feel it most acutely, more, I think, than last year."
                 },
                 {
-                    "target": "Der liebe Colonel konnte bis zuletzt ganz leidlich bei Stimmung bleiben; aber Darcy schien es äußerst heftig zu bedauern, ich glaube, mehr als im letzten Jahr.",
-                    "native": "His attachment to Rosings certainly increases.\" Mr."
-                },
-                {
-                    "target": "Seine Anhänglichkeit an Rosings wird gewiß immer größer.\" Hier hatte Mr.",
-                    "native": "Collins had a compliment, and an allusion to throw in here, which were kindly smiled on by the mother and daughter."
+                    "target": "Der liebe Colonel konnte bis zuletzt ganz leidlich bei Stimmung bleiben; aber Darcy schien es äußerst heftig zu bedauern, ich glaube, mehr als im letzten Jahr. Seine Anhänglichkeit an Rosings wird gewiß immer größer.\" Hier hatte Mr.",
+                    "native": "His attachment to Rosings certainly increases.\" Mr. Collins had a compliment, and an allusion to throw in here, which were kindly smiled on by the mother and daughter."
                 },
                 {
                     "target": "Collins ein Kompliment und eine Anspielung einzuwerfen, die von Mutter und Tochter mit einem freundlichen Lächeln belohnt wurden.",
                     "native": "Lady Catherine observed, after dinner, that Miss Bennet seemed out of spirits, and immediately accounting for it by herself, by supposing that she did not like to go home again so soon, she added: \"But if that is the case, you must write to your mother and beg that you may stay a little longer."
                 },
                 {
-                    "target": "Lady Catherine bemerkte nach dem Dinner, daß Miss Bennet nicht in Stimmung schien, und da sie es sich sogleich selbst erklärte mit der Vermutung, daß Elizabeth nicht gern so bald nach Hause wollte, fügte sie hinzu: \"Aber wenn das so ist, dann müssen Sie an Ihre Mutter schreiben und sie bitten, ein bißchen länger bleiben zu dürfen.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Ich bin sicher, Mrs.",
-                    "native": "Collins will be very glad of your company, I am sure.\" \"I am much obliged to your ladyship for your kind invitation,\" replied Elizabeth, \"but it is not in my power to accept it."
+                    "target": "Lady Catherine bemerkte nach dem Dinner, daß Miss Bennet nicht in Stimmung schien, und da sie es sich sogleich selbst erklärte mit der Vermutung, daß Elizabeth nicht gern so bald nach Hause wollte, fügte sie hinzu: \"Aber wenn das so ist, dann müssen Sie an Ihre Mutter schreiben und sie bitten, ein bißchen länger bleiben zu dürfen. Ich bin sicher, Mrs.",
+                    "native": "Mrs. Collins will be very glad of your company, I am sure.\" \"I am much obliged to your ladyship for your kind invitation,\" replied Elizabeth, \"but it is not in my power to accept it."
                 },
                 {
                     "target": "Collins wird sehr froh sein über Ihre Gesellschaft.\" \"Ich bin Ihrer Ladyschaft sehr verbunden für die freundliche Einladung\", erwiderte Elizabeth, \"aber es liegt nicht in meiner Macht, sie anzunehmen.",
@@ -82,24 +70,16 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Ich habe erwartet, daß Sie zwei Monate bleiben würden.",
-                    "native": "I told Mrs."
-                },
-                {
-                    "target": "Das habe ich auch zu Mrs.",
-                    "native": "Collins so before you came."
+                    "target": "Ich habe erwartet, daß Sie zwei Monate bleiben würden. Das habe ich auch zu Mrs.",
+                    "native": "I told Mrs. Collins so before you came."
                 },
                 {
                     "target": "Collins gesagt, bevor Sie kamen.",
                     "native": "There can be no occasion for your going so soon."
                 },
                 {
-                    "target": "Es kann keinen Grund dafür geben, daß Sie schon so bald abreisen wollen.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Bennet could certainly spare you for another fortnight.\" \"But my father cannot."
+                    "target": "Es kann keinen Grund dafür geben, daß Sie schon so bald abreisen wollen. Mrs.",
+                    "native": "Mrs. Bennet could certainly spare you for another fortnight.\" \"But my father cannot."
                 },
                 {
                     "target": "Bennet kann Sie sicher noch zwei Wochen entbehren.\" \"Aber mein Vater kann es nicht.",
@@ -147,8 +127,8 @@
                     "native": "When my niece Georgiana went to Ramsgate last summer, I made a point of her having two men-servants go with her."
                 },
                 {
-                    "target": "Junge Frauen sollten entsprechend ihrer Stellung im Leben stets gehörig beschützt und begleitet werden.",
-                    "native": "Miss Darcy, the daughter of Mr."
+                    "target": "Junge Frauen sollten entsprechend ihrer Stellung im Leben stets gehörig beschützt und begleitet werden. Als meine Nichte Georgiana letzten Sommer nach Ramsgate ging, habe ich darauf bestanden, daß man ihr zwei Diener mitgab.",
+                    "native": "Miss Darcy, the daughter of Mr. Darcy, of Pemberley, and Lady Anne, could not have appeared with propriety in a different manner."
                 }
             ]
         },
@@ -156,28 +136,16 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Als meine Nichte Georgiana letzten Sommer nach Ramsgate ging, habe ich darauf bestanden, daß man ihr zwei Diener mitgab.",
-                    "native": "Darcy, of Pemberley, and Lady Anne, could not have appeared with propriety in a different manner."
-                },
-                {
-                    "target": "Anders hätte sich Miss Darcy, die Tochter von Mr.",
-                    "native": "I am excessively attentive to all those things."
-                },
-                {
-                    "target": "Darcy von Pemberley und Lady Anne, nicht auf schickliche Weise zeigen können.",
-                    "native": "You must send John with the young ladies, Mrs."
+                    "target": "Anders hätte sich Miss Darcy, die Tochter von Mr. Darcy von Pemberley und Lady Anne, nicht auf schickliche Weise zeigen können.",
+                    "native": "I am excessively attentive to all those things. You must send John with the young ladies, Mrs."
                 },
                 {
                     "target": "Ich achte ganz ungemein auf all diese Dinge.",
                     "native": "Collins."
                 },
                 {
-                    "target": "Sie müssen den jungen Damen John mitschicken, Mrs.",
-                    "native": "I am glad it occurred to me to mention it; for it would really be discreditable to you to let them go alone.\" \"My uncle is to send a servant for us.\" \"Oh!"
-                },
-                {
-                    "target": "Collins.",
-                    "native": "Your uncle!"
+                    "target": "Sie müssen den jungen Damen John mitschicken, Mrs. Collins.",
+                    "native": "I am glad it occurred to me to mention it; for it would really be discreditable to you to let them go alone.\" \"My uncle is to send a servant for us.\" \"Oh! Your uncle!"
                 },
                 {
                     "target": "Ich bin froh, daß mir das noch einfiel; es würde Ihnen wirklich keine Ehre machen, wenn Sie die beiden allein fahren ließen.\" \"Mein Onkel schickt uns einen Diener.\" \"Ach, Ihr Onkel! – Er hält sich also einen Diener?– Ich bin sehr froh, daß Sie jemand haben, der an solche Dinge denkt.",
@@ -201,24 +169,16 @@
                     "native": "Oh!"
                 },
                 {
-                    "target": "Sie war auf dem besten Wege, Mr.",
-                    "native": "Bromley, of course."
-                },
-                {
-                    "target": "Darcys Brief auswendig zu kennen.",
-                    "native": "If you mention my name at the Bell, you will be attended to.\" Lady Catherine had many other questions to ask respecting their journey, and as she did not answer them all herself, attention was necessary, which Elizabeth believed to be lucky for her; or, with a mind so occupied, she might have forgotten where she was."
+                    "target": "Sie war auf dem besten Wege, Mr. Darcys Brief auswendig zu kennen.",
+                    "native": "Bromley, of course. If you mention my name at the Bell, you will be attended to.\" Lady Catherine had many other questions to ask respecting their journey, and as she did not answer them all herself, attention was necessary, which Elizabeth believed to be lucky for her; or, with a mind so occupied, she might have forgotten where she was."
                 },
                 {
                     "target": "Sie prüfte jeden Satz; und ihre Gefühle ihm gegenüber waren zuweilen sehr unterschiedlich.",
                     "native": "Reflection must be reserved for solitary hours; whenever she was alone, she gave way to it as the greatest relief; and not a day went by without a solitary walk, in which she might indulge in all the delight of unpleasant recollections."
                 },
                 {
-                    "target": "Wenn sie daran dachte, in welcher Weise er um ihre Hand angehalten hatte, war sie noch immer voller Empörung; doch wenn sie bedachte, wie ungerechtfertigt sie ihn verurteilt und ihm Vorwürfe gemacht hatte, richtete sich ihr Ärger gegen sich selbst; und für seine enttäuschten Gefühle empfand sie Mitleid.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Seine Liebe löste Dankbarkeit aus, sein allgemeiner Charakter Respekt; doch sie konnte ihn für sein Verhalten nicht loben, auch konnte sie keinen Augenblick ihre Ablehnung bedauern oder die geringste Neigung empfinden, ihn jemals wiederzusehen.",
-                    "native": "Darcy's letter she was in a fair way of soon knowing by heart."
+                    "target": "Wenn sie daran dachte, in welcher Weise er um ihre Hand angehalten hatte, war sie noch immer voller Empörung; doch wenn sie bedachte, wie ungerechtfertigt sie ihn verurteilt und ihm Vorwürfe gemacht hatte, richtete sich ihr Ärger gegen sich selbst; und für seine enttäuschten Gefühle empfand sie Mitleid. Seine Liebe löste Dankbarkeit aus, sein allgemeiner Charakter Respekt; doch sie konnte ihn für sein Verhalten nicht loben, auch konnte sie keinen Augenblick ihre Ablehnung bedauern oder die geringste Neigung empfinden, ihn jemals wiederzusehen.",
+                    "native": "Mr. Darcy's letter she was in a fair way of soon knowing by heart."
                 },
                 {
                     "target": "In ihrem früheren Betragen ihm gegenüber fand sie eine ständige Quelle der Beunruhigung und des Bedauerns und in den unglückseligen Fehlern ihrer Familie Grund zu noch bedrückenderem Kummer.",
@@ -254,12 +214,8 @@
                     "native": "Elizabeth had frequently united with Jane in an endeavour to check the imprudence of Catherine and Lydia; but while they were supported by their mother's indulgence, what chance could there be of improvement?"
                 },
                 {
-                    "target": "Des weiteren machte sie sich vor allem Janes wegen Gedanken, und Mr.",
-                    "native": "Catherine, weak-spirited, irritable, and completely under Lydia's guidance, had been always affronted by their advice; and Lydia, self-willed and careless, would scarcely give them a hearing."
-                },
-                {
-                    "target": "Darcys Erklärung, die ihr ihre gute Meinung von Bingley gänzlich wiedergegeben hatte, ließ sie um so stärker empfinden, was Jane verloren hatte.",
-                    "native": "They were ignorant, idle, and vain."
+                    "target": "Des weiteren machte sie sich vor allem Janes wegen Gedanken, und Mr. Darcys Erklärung, die ihr ihre gute Meinung von Bingley gänzlich wiedergegeben hatte, ließ sie um so stärker empfinden, was Jane verloren hatte.",
+                    "native": "Catherine, weak-spirited, irritable, and completely under Lydia's guidance, had been always affronted by their advice; and Lydia, self-willed and careless, would scarcely give them a hearing. They were ignorant, idle, and vain."
                 }
             ]
         },
@@ -271,12 +227,8 @@
                     "native": "While there was an officer in Meryton, they would flirt with him; and while Meryton was within a walk of Longbourn, they would be going there forever."
                 },
                 {
-                    "target": "Wie bedrückend war da der Gedanke, daß Jane einer Lage, die in jeder Hinsicht so wünschenswert, so voller Vorteile, so vielversprechend für ihr Glück gewesen wäre, durch die Torheit und das unziemliche Verhalten ihrer eigenen Familie beraubt wurde!",
-                    "native": "Anxiety on Jane's behalf was another prevailing concern; and Mr."
-                },
-                {
-                    "target": "Wenn hierzu noch der Gedanke an die Enthüllung von Wickhams Charakter kam, kann man sich leicht vorstellen, daß es ihrem frohen Gemüt, das selten vorher bedrückt gewesen war, beinahe unmöglich wurde, einigermaßen heiter zu erscheinen.",
-                    "native": "Darcy's explanation, by restoring Bingley to all her former good opinion, heightened the sense of what Jane had lost."
+                    "target": "Wie bedrückend war da der Gedanke, daß Jane einer Lage, die in jeder Hinsicht so wünschenswert, so voller Vorteile, so vielversprechend für ihr Glück gewesen wäre, durch die Torheit und das unziemliche Verhalten ihrer eigenen Familie beraubt wurde! Wenn hierzu noch der Gedanke an die Enthüllung von Wickhams Charakter kam, kann man sich leicht vorstellen, daß es ihrem frohen Gemüt, das selten vorher bedrückt gewesen war, beinahe unmöglich wurde, einigermaßen heiter zu erscheinen.",
+                    "native": "Anxiety on Jane's behalf was another prevailing concern; and Mr. Darcy's explanation, by restoring Bingley to all her former good opinion, heightened the sense of what Jane had lost."
                 },
                 {
                     "target": "Während der letzten Woche ihres Aufenthaltes wurden sie ebenso häufig nach Rosings eingeladen wie in der ersten.",

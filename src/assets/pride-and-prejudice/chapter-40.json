@@ -8,24 +8,16 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Elizabeth konnte ihre Ungeduld, Jane in die Geschehnisse einzuweihen, nicht länger zügeln, und so beschloß sie, alle Einzelheiten, in denen es um ihre Schwester ging, dabei zu verschweigen; sie bereitete sie auf eine Überraschung vor und erzählte ihr dann am nächsten Morgen das Wichtigste von dem, was sich zwischen ihr und Mr.",
-                    "native": "Elizabeth's impatience to acquaint Jane with what had happened could no longer be overcome; and at length, resolving to suppress every particular in which her sister was concerned, and preparing her to be surprised, she related to her the next morning the chief of the scene between Mr."
-                },
-                {
-                    "target": "Darcy abgespielt hatte.",
-                    "native": "Darcy and herself."
+                    "target": "Elizabeth konnte ihre Ungeduld, Jane in die Geschehnisse einzuweihen, nicht länger zügeln, und so beschloß sie, alle Einzelheiten, in denen es um ihre Schwester ging, dabei zu verschweigen; sie bereitete sie auf eine Überraschung vor und erzählte ihr dann am nächsten Morgen das Wichtigste von dem, was sich zwischen ihr und Mr. Darcy abgespielt hatte.",
+                    "native": "Elizabeth's impatience to acquaint Jane with what had happened could no longer be overcome; and at length, resolving to suppress every particular in which her sister was concerned, and preparing her to be surprised, she related to her the next morning the chief of the scene between Mr. Darcy and herself."
                 },
                 {
                     "target": "Miss Bennets Erstaunen legte sich bald, denn ihre große schwesterliche Liebe ließ ihr jede Bewunderung, die Elizabeth zuteil wurde, vollkommen natürlich erscheinen; und die ganze Überraschung ging gleich darauf in anderen Empfindungen unter.",
                     "native": "Miss Bennet's astonishment was soon lessened by the strong sisterly partiality which made any admiration of Elizabeth appear perfectly natural; and all surprise was shortly lost in other feelings."
                 },
                 {
-                    "target": "Es tat ihr leid, daß Mr.",
-                    "native": "She was sorry that Mr."
-                },
-                {
-                    "target": "Darcy seine Gefühle in einer Weise dargebracht hatte, die so wenig geeignet war, sie annehmbar zu machen; doch noch mehr bekümmerte sie es, wie unglücklich ihn die Ablehnung ihrer Schwester gemacht haben mußte. \"Daß er sich seines Erfolges so sicher fühlte, war unrecht\", sagte sie, \"und hätte gewiß nicht sein sollen, aber überleg mal, wie sehr dies seine Enttäuschung noch steigern mußte.\" \"Wirklich\", erwiderte Elizabeth, \"es tut mir aufrichtig leid für ihn, aber es gibt andere Gefühle bei ihm, die seine Zuneigung zu mir wahrscheinlich bald vertreiben werden.",
-                    "native": "Darcy should have delivered his sentiments in a manner so little suited to recommend them; but still more was she grieved for the unhappiness which her sister's refusal must have given him. \"His being so sure of succeeding was wrong,\" said she, \"and certainly ought not to have appeared; but consider how much it must increase his disappointment!\" \"Indeed,\" replied Elizabeth, \"I am heartily sorry for him; but he has other feelings, which will probably soon drive away his regard for me."
+                    "target": "Es tat ihr leid, daß Mr. Darcy seine Gefühle in einer Weise dargebracht hatte, die so wenig geeignet war, sie annehmbar zu machen; doch noch mehr bekümmerte sie es, wie unglücklich ihn die Ablehnung ihrer Schwester gemacht haben mußte. \"Daß er sich seines Erfolges so sicher fühlte, war unrecht\", sagte sie, \"und hätte gewiß nicht sein sollen, aber überleg mal, wie sehr dies seine Enttäuschung noch steigern mußte.\" \"Wirklich\", erwiderte Elizabeth, \"es tut mir aufrichtig leid für ihn, aber es gibt andere Gefühle bei ihm, die seine Zuneigung zu mir wahrscheinlich bald vertreiben werden.",
+                    "native": "She was sorry that Mr. Darcy should have delivered his sentiments in a manner so little suited to recommend them; but still more was she grieved for the unhappiness which her sister's refusal must have given him. \"His being so sure of succeeding was wrong,\" said she, \"and certainly ought not to have appeared; but consider how much it must increase his disappointment!\" \"Indeed,\" replied Elizabeth, \"I am heartily sorry for him; but he has other feelings, which will probably soon drive away his regard for me."
                 },
                 {
                     "target": "Du tadelst mich doch nicht dafür, daß ich ihn zurückgewiesen habe?\" \"Dich tadeln!",
@@ -61,30 +53,18 @@
                     "native": "There is but such a quantity of merit between them; just enough to make one good sort of man; and of late it has been shifting about pretty much."
                 },
                 {
-                    "target": "Ich für meinen Teil bin geneigt zu glauben, daß sie alle bei Mr.",
-                    "native": "For my part, I am inclined to believe it all Darcy's; but you shall do as you choose.\" It was some time, however, before a smile could be extorted from Jane. \"I do not know when I have been more shocked,\" said she. \"Wickham so very bad!"
+                    "target": "Ich für meinen Teil bin geneigt zu glauben, daß sie alle bei Mr. Darcy zu finden sind, aber denke du, was dir beliebt.\" Es dauerte jedoch einige Zeit, bis Jane ein Lächeln abgenötigt werden konnte. \"Ich glaube nicht, daß mich jemals etwas mehr schockiert hat\", sagte sie. \"Wickham so überaus schlecht!",
+                    "native": "For my part, I am inclined to believe it all Darcy's; but you shall do as you choose.\" It was some time, however, before a smile could be extorted from Jane. \"I do not know when I have been more shocked,\" said she. \"Wickham so very bad! It is almost past belief."
                 },
                 {
-                    "target": "Darcy zu finden sind, aber denke du, was dir beliebt.\" Es dauerte jedoch einige Zeit, bis Jane ein Lächeln abgenötigt werden konnte. \"Ich glaube nicht, daß mich jemals etwas mehr schockiert hat\", sagte sie. \"Wickham so überaus schlecht!",
-                    "native": "It is almost past belief."
-                },
-                {
-                    "target": "Es ist beinahe nicht zu glauben.",
-                    "native": "And poor Mr."
-                },
-                {
-                    "target": "Und der arme Mr.",
-                    "native": "Darcy!"
+                    "target": "Es ist beinahe nicht zu glauben. Und der arme Mr. Darcy!",
+                    "native": "And poor Mr. Darcy! Dear Lizzy, only consider what he must have suffered."
                 }
             ]
         },
         {
             "pageNumber": 3,
             "sentences": [
-                {
-                    "target": "Darcy!",
-                    "native": "Dear Lizzy, only consider what he must have suffered."
-                },
                 {
                     "target": "Liebe Lizzy, bedenke nur, was er gelitten haben muß.",
                     "native": "Such a disappointment! and with the knowledge of your ill opinion, too! and having to relate such a thing of his sister!"
@@ -106,12 +86,8 @@
                     "native": "Your profusion makes me saving; and if you lament over him much longer, my heart will be as light as a feather.\" \"Poor Wickham! there is such an expression of goodness in his countenance! such an openness and gentleness in his manner!\" \"There certainly was some great mismanagement in the education of those two young men."
                 },
                 {
-                    "target": "Gewiß empfindest du das auch so.\" \"Oh, nein, mein Bedauern und mein Mitleid sind ganz verflogen, da ich dich so voll davon sehe.",
-                    "native": "One has got all the goodness, and the other all the appearance of it.\" \"I never thought Mr."
-                },
-                {
-                    "target": "Ich weiß, du willst ihm in so reichem Maße Gerechtigkeit widerfahren lassen, daß ich mit jedem Augenblick unbekümmerter und gleichgültiger werde.",
-                    "native": "Darcy so deficient in the appearance of it as you used to do.\" \"And yet I meant to be uncommonly clever in taking so decided a dislike to him, without any reason."
+                    "target": "Gewiß empfindest du das auch so.\" \"Oh, nein, mein Bedauern und mein Mitleid sind ganz verflogen, da ich dich so voll davon sehe. Ich weiß, du willst ihm in so reichem Maße Gerechtigkeit widerfahren lassen, daß ich mit jedem Augenblick unbekümmerter und gleichgültiger werde.",
+                    "native": "One has got all the goodness, and the other all the appearance of it.\" \"I never thought Mr. Darcy so deficient in the appearance of it as you used to do.\" \"And yet I meant to be uncommonly clever in taking so decided a dislike to him, without any reason."
                 }
             ]
         },
@@ -135,20 +111,12 @@
                     "native": "And with no one to speak to about what I felt, no Jane to comfort me and say that I had not been so very weak and vain and nonsensical as I knew I had!"
                 },
                 {
-                    "target": "Es war mir ziemlich unbehaglich zumute, sehr unbehaglich sogar, ich möchte sagen, ich war unglücklich.",
-                    "native": "Oh! how I wanted you!\" \"How unfortunate that you should have used such very strong expressions in speaking of Wickham to Mr."
+                    "target": "Es war mir ziemlich unbehaglich zumute, sehr unbehaglich sogar, ich möchte sagen, ich war unglücklich. Und niemand war da, mit dem ich darüber sprechen konnte, was ich fühlte – keine Jane, um mich zu trösten und mir zu sagen, daß ich gar nicht so schwach und eitel und absurd gewesen war, wie ich es aber doch war!",
+                    "native": "Oh! how I wanted you!\" \"How unfortunate that you should have used such very strong expressions in speaking of Wickham to Mr. Darcy, for now they do appear wholly undeserved.\" \"Certainly."
                 },
                 {
-                    "target": "Und niemand war da, mit dem ich darüber sprechen konnte, was ich fühlte – keine Jane, um mich zu trösten und mir zu sagen, daß ich gar nicht so schwach und eitel und absurd gewesen war, wie ich es aber doch war!",
-                    "native": "Darcy, for now they do appear wholly undeserved.\" \"Certainly."
-                },
-                {
-                    "target": "Oh, wie habe ich dich herbeigewünscht!\" \"Wie bedauerlich, daß du so starke Worte gebraucht hast, als du Mr.",
-                    "native": "But the misfortune of speaking with bitterness is a most natural consequence of the prejudices I had been encouraging."
-                },
-                {
-                    "target": "Darcy wegen Wickham ansprachst, denn nun erscheinen sie vollkommen unverdient.\" \"Gewiß, aber das Mißgeschick, mit so viel Bitterkeit zu sprechen, ist eine ganz natürliche Folge der Vorurteile, die ich genährt habe.",
-                    "native": "There is one point on which I want your advice."
+                    "target": "Oh, wie habe ich dich herbeigewünscht!\" \"Wie bedauerlich, daß du so starke Worte gebraucht hast, als du Mr. Darcy wegen Wickham ansprachst, denn nun erscheinen sie vollkommen unverdient.\" \"Gewiß, aber das Mißgeschick, mit so viel Bitterkeit zu sprechen, ist eine ganz natürliche Folge der Vorurteile, die ich genährt habe.",
+                    "native": "But the misfortune of speaking with bitterness is a most natural consequence of the prejudices I had been encouraging. There is one point on which I want your advice."
                 }
             ]
         },
@@ -164,24 +132,16 @@
                     "native": "What is your opinion?\" \"That it ought not to be attempted."
                 },
                 {
-                    "target": "Was ist denn deine eigene Meinung?\" \"Daß wir es nicht tun sollten.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Darcy has not authorised me to make his communication public."
+                    "target": "Was ist denn deine eigene Meinung?\" \"Daß wir es nicht tun sollten. Mr.",
+                    "native": "Mr. Darcy has not authorised me to make his communication public."
                 },
                 {
                     "target": "Darcy hat mich nicht ermächtigt, seine Mitteilungen bekanntzumachen.",
                     "native": "On the contrary, every particular relative to his sister was meant to be kept as much as possible to myself; and if I endeavour to undeceive people as to the rest of his conduct, who will believe me?"
                 },
                 {
-                    "target": "Im Gegenteil, alle Einzelheiten in bezug auf seine Schwester sollte ich soweit wie möglich für mich behalten; und wenn ich versuche, die Leute über sein übriges Verhalten aufzuklären, wer wird mir glauben?",
-                    "native": "The general prejudice against Mr."
-                },
-                {
-                    "target": "Das allgemeine Vorurteil gegen Mr.",
-                    "native": "Darcy is so violent, that it would be the death of half the good people in Meryton to attempt to place him in an amiable light."
+                    "target": "Im Gegenteil, alle Einzelheiten in bezug auf seine Schwester sollte ich soweit wie möglich für mich behalten; und wenn ich versuche, die Leute über sein übriges Verhalten aufzuklären, wer wird mir glauben? Das allgemeine Vorurteil gegen Mr.",
+                    "native": "The general prejudice against Mr. Darcy is so violent, that it would be the death of half the good people in Meryton to attempt to place him in an amiable light."
                 },
                 {
                     "target": "Darcy ist so stark, daß es noch der Tod der Hälfte der guten Leute in Meryton wäre, wenn ich versuchte, ihn in ein freundliches Licht zu setzen.",
@@ -230,12 +190,8 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Aber es gab etwas, was noch verborgen blieb und das zu enthüllen die Klugheit verbot.",
-                    "native": "She dared not relate the other half of Mr."
-                },
-                {
-                    "target": "Sie wagte nicht, ihrer Schwester von der anderen Hälfte von Mr.",
-                    "native": "Darcy's letter, nor explain to her sister how sincerely she had been valued by her friend."
+                    "target": "Aber es gab etwas, was noch verborgen blieb und das zu enthüllen die Klugheit verbot. Sie wagte nicht, ihrer Schwester von der anderen Hälfte von Mr.",
+                    "native": "She dared not relate the other half of Mr. Darcy's letter, nor explain to her sister how sincerely she had been valued by her friend."
                 },
                 {
                     "target": "Darcys Brief zu berichten, und auch nicht, ihr zu sagen, wie aufrichtig sie von seinem Freund wertgehalten wurde.",
@@ -254,22 +210,14 @@
                     "native": "She still cherished a very tender affection for Bingley."
                 },
                 {
-                    "target": "Sie hegte noch immer eine sehr zärtliche Zuneigung zu Bingley.",
-                    "native": "Having never even fancied herself in love before, her regard had all the warmth of first attachment, and, from her age and disposition, greater steadiness than most first attachments often boast; and so fervently did she value his remembrance, and prefer him to every other man, that all her good sense, and all her attention to the feelings of her friends, were requisite to check the indulgence of those regrets which must have been injurious to her own health and their tranquillity. \"Well, Lizzy,\" said Mrs."
-                },
-                {
-                    "target": "Da sie sich bisher noch nicht einmal hatte vorstellen können, verliebt zu sein, zeigten ihre Gefühle die ganze Leidenschaft der ersten Liebe, und aufgrund ihres Alters und ihrer Veranlagung eine größere Beständigkeit, als sich eine erste Liebe sonst meist rühmen kann; und so inbrünstig hielt sie die Erinnerung an ihn hoch und zog ihn jedem anderen Mann vor, daß ihr ganzer gesunder Menschenverstand und ihre ganze Rücksicht gegenüber den Gefühlen ihrer Angehörigen notwendig waren, um diesem Kummer nicht nachzugeben, der ihrer eigenen Gesundheit und der Ruhe der anderen abträglich sein mußte. \"Nun, Lizzy\", sagte Mrs.",
-                    "native": "Bennet one day, \"what is your opinion now of this sad business of Jane's?"
+                    "target": "Sie hegte noch immer eine sehr zärtliche Zuneigung zu Bingley. Da sie sich bisher noch nicht einmal hatte vorstellen können, verliebt zu sein, zeigten ihre Gefühle die ganze Leidenschaft der ersten Liebe, und aufgrund ihres Alters und ihrer Veranlagung eine größere Beständigkeit, als sich eine erste Liebe sonst meist rühmen kann; und so inbrünstig hielt sie die Erinnerung an ihn hoch und zog ihn jedem anderen Mann vor, daß ihr ganzer gesunder Menschenverstand und ihre ganze Rücksicht gegenüber den Gefühlen ihrer Angehörigen notwendig waren, um diesem Kummer nicht nachzugeben, der ihrer eigenen Gesundheit und der Ruhe der anderen abträglich sein mußte. \"Nun, Lizzy\", sagte Mrs. Bennet eines Tages, \"was ist deine Meinung jetzt zu dieser traurigen Geschichte mit Jane?",
+                    "native": "Having never even fancied herself in love before, her regard had all the warmth of first attachment, and, from her age and disposition, greater steadiness than most first attachments often boast; and so fervently did she value his remembrance, and prefer him to every other man, that all her good sense, and all her attention to the feelings of her friends, were requisite to check the indulgence of those regrets which must have been injurious to her own health and their tranquillity. \"Well, Lizzy,\" said Mrs. Bennet one day, \"what is your opinion now of this sad business of Jane's? For my part, I am determined never to speak of it again to anybody."
                 }
             ]
         },
         {
             "pageNumber": 8,
             "sentences": [
-                {
-                    "target": "Bennet eines Tages, \"was ist deine Meinung jetzt zu dieser traurigen Geschichte mit Jane?",
-                    "native": "For my part, I am determined never to speak of it again to anybody."
-                },
                 {
                     "target": "Ich für meinen Teil bin entschlossen, nie wieder zu jemand darüber zu sprechen.",
                     "native": "I told my sister Phillips so the other day."
@@ -279,12 +227,8 @@
                     "native": "But I cannot find out that Jane saw anything of him in London."
                 },
                 {
-                    "target": "Aber ich kann nicht herausfinden, ob Jane Mr.",
-                    "native": "Well, he is a very undeserving young man—and I do not suppose there's the least chance in the world of her ever getting him now."
-                },
-                {
-                    "target": "Bingley in London überhaupt gesehen hat.",
-                    "native": "There is no talk of his coming to Netherfield again in the summer; and I have inquired of everybody, too, who is likely to know.\" \"I do not believe he will ever live at Netherfield any more.\" \"Oh well! it is just as he chooses."
+                    "target": "Aber ich kann nicht herausfinden, ob Jane Mr. Bingley in London überhaupt gesehen hat.",
+                    "native": "Well, he is a very undeserving young man—and I do not suppose there's the least chance in the world of her ever getting him now. There is no talk of his coming to Netherfield again in the summer; and I have inquired of everybody, too, who is likely to know.\" \"I do not believe he will ever live at Netherfield any more.\" \"Oh well! it is just as he chooses."
                 },
                 {
                     "target": "Na, er ist ein sehr unwürdiger junger Mann – und ich nehme nicht an, daß auch nur die allergeringste Chance für sie besteht, ihn noch jemals zu kriegen.",

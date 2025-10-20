@@ -8,20 +8,12 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Zwei Tage nach Mr.",
-                    "native": "Two days after Mr."
+                    "target": "Zwei Tage nach Mr. Bennets Rückkehr, als Jane und Elizabeth zusammen bei den Strauchrabatten hinter dem Haus spazierengingen, sahen sie die Haushälterin auf sich zukommen; und da sie annahmen, daß sie kam, um sie zu ihrer Mutter zu rufen, gingen sie ihr entgegen; aber statt der erwarteten Aufforderung sagte sie zu Miss Bennet: \"Verzeihen Sie, Madam, wenn ich Sie unterbreche, aber ich hatte gehofft, daß Sie gute Nachrichten aus der Stadt haben; deshalb habe ich mir erlaubt zu kommen, um Sie zu fragen.\" \"Was meinen Sie, Hill?",
+                    "native": "Two days after Mr. Bennet's return, as Jane and Elizabeth were walking together in the shrubbery behind the house, they saw the housekeeper coming towards them, and, concluding that she came to call them to their mother, went forward to meet her; but, instead of the expected summons, when they approached her, she said to Miss Bennet, \"I beg your pardon, madam, for interrupting you, but I was in hopes you might have got some good news from town, so I took the liberty of coming to ask.\" \"What do you mean, Hill?"
                 },
                 {
-                    "target": "Bennets Rückkehr, als Jane und Elizabeth zusammen bei den Strauchrabatten hinter dem Haus spazierengingen, sahen sie die Haushälterin auf sich zukommen; und da sie annahmen, daß sie kam, um sie zu ihrer Mutter zu rufen, gingen sie ihr entgegen; aber statt der erwarteten Aufforderung sagte sie zu Miss Bennet: \"Verzeihen Sie, Madam, wenn ich Sie unterbreche, aber ich hatte gehofft, daß Sie gute Nachrichten aus der Stadt haben; deshalb habe ich mir erlaubt zu kommen, um Sie zu fragen.\" \"Was meinen Sie, Hill?",
-                    "native": "Bennet's return, as Jane and Elizabeth were walking together in the shrubbery behind the house, they saw the housekeeper coming towards them, and, concluding that she came to call them to their mother, went forward to meet her; but, instead of the expected summons, when they approached her, she said to Miss Bennet, \"I beg your pardon, madam, for interrupting you, but I was in hopes you might have got some good news from town, so I took the liberty of coming to ask.\" \"What do you mean, Hill?"
-                },
-                {
-                    "target": "Wir haben nichts aus der Stadt gehört.\" \"Liebe Madam\", rief Mrs.",
-                    "native": "We have heard nothing from town.\" \"Dear madam,\" cried Mrs."
-                },
-                {
-                    "target": "Hill sehr verwundert, \"wissen Sie nicht, daß aus der Stadt ein Expreßbrief von Mr.",
-                    "native": "Hill, in great astonishment, \"don't you know there is an express come for master from Mr."
+                    "target": "Wir haben nichts aus der Stadt gehört.\" \"Liebe Madam\", rief Mrs. Hill sehr verwundert, \"wissen Sie nicht, daß aus der Stadt ein Expreßbrief von Mr.",
+                    "native": "We have heard nothing from town.\" \"Dear madam,\" cried Mrs. Hill, in great astonishment, \"don't you know there is an express come for master from Mr."
                 },
                 {
                     "target": "Gardiner an den Herrn gekommen ist?",
@@ -86,24 +78,16 @@
                     "native": "I shall send this by express, that no time may be lost in bringing me your answer."
                 },
                 {
-                    "target": "Von Deiner Seite ist lediglich nötig, daß Du Deiner Tochter durch eine Vereinbarung ihren entsprechenden Anteil an den fünftausend Pfund zusicherst, die nach Deinem Tode und dem meiner Schwester für Deine Kinder bestimmt sind, und Dich weiterhin verpflichtest, ihr solange Du lebst einhundert Pfund jährlich auszusetzen.",
-                    "native": "You will easily comprehend, from these particulars, that Mr."
-                },
-                {
-                    "target": "Dies sind die Bedingungen, auf die ich, alles bedenkend, nicht zögerte einzugehen, soweit ich mich berechtigt fühlte, in Deinem Namen zu sprechen.",
-                    "native": "Wickham's circumstances are not so hopeless as they are generally believed to be."
+                    "target": "Von Deiner Seite ist lediglich nötig, daß Du Deiner Tochter durch eine Vereinbarung ihren entsprechenden Anteil an den fünftausend Pfund zusicherst, die nach Deinem Tode und dem meiner Schwester für Deine Kinder bestimmt sind, und Dich weiterhin verpflichtest, ihr solange Du lebst einhundert Pfund jährlich auszusetzen. Dies sind die Bedingungen, auf die ich, alles bedenkend, nicht zögerte einzugehen, soweit ich mich berechtigt fühlte, in Deinem Namen zu sprechen.",
+                    "native": "You will easily comprehend, from these particulars, that Mr. Wickham's circumstances are not so hopeless as they are generally believed to be."
                 },
                 {
                     "target": "Ich schicke diesen Brief durch einen Kurier, um keine Zeit zu verlieren und rasch eine Antwort von Dir zu bekommen.",
                     "native": "The world has been deceived in that respect; and I am happy to say there will be some little money, even when all his debts are discharged, to settle on my niece, in addition to her own fortune."
                 },
                 {
-                    "target": "Du wirst aus diesen Umständen leicht entnehmen können, daß Mr.",
-                    "native": "If, as I conclude will be the case, you send me full powers to act in your name throughout the whole of this business, I will immediately give directions to Haggerston for preparing a proper settlement."
-                },
-                {
-                    "target": "Wickhams Verhältnisse nicht so hoffnungslos sind, wie allgemein angenommen wurde.",
-                    "native": "There will not be the smallest occasion for your coming to town again; therefore stay quiet at Longbourn, and depend on my diligence and care."
+                    "target": "Du wirst aus diesen Umständen leicht entnehmen können, daß Mr. Wickhams Verhältnisse nicht so hoffnungslos sind, wie allgemein angenommen wurde.",
+                    "native": "If, as I conclude will be the case, you send me full powers to act in your name throughout the whole of this business, I will immediately give directions to Haggerston for preparing a proper settlement. There will not be the smallest occasion for your coming to town again; therefore stay quiet at Longbourn, and depend on my diligence and care."
                 },
                 {
                     "target": "Die Leute sind in dieser Hinsicht getäuscht worden; und ich bin sehr froh, Dir mitteilen zu können, daß, selbst wenn alle seine Schulden beglichen sind, noch ein wenig Geld vorhanden ist, das meiner Nichte zusätzlich zu ihrem eigenen Vermögen zufallen wird.",
@@ -193,12 +177,8 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Seine Schulden bezahlt und dann noch etwas übrig!",
-                    "native": "How is half such a sum to be repaid?\" Mr."
-                },
-                {
-                    "target": "Oh, das muß alles das Werk unseres Onkels sein!",
-                    "native": "Bennet made no answer, and each of them, deep in thought, continued silent till they reached the house."
+                    "target": "Seine Schulden bezahlt und dann noch etwas übrig! Oh, das muß alles das Werk unseres Onkels sein!",
+                    "native": "How is half such a sum to be repaid?\" Mr. Bennet made no answer, and each of them, deep in thought, continued silent till they reached the house."
                 },
                 {
                     "target": "Großzügiger, gütiger Mann, ich fürchte, er hat sich selbst in Not gebracht.",
@@ -213,12 +193,8 @@
                     "native": "That they should marry, small as is their chance of happiness, and wretched as is his character, we are forced to rejoice."
                 },
                 {
-                    "target": "Um Himmels willen, wie kann auch nur die Hälfte einer solchen Summe zurückgezahlt werden?\" Mr.",
-                    "native": "Oh, Lydia!\" \"I comfort myself with thinking,\" replied Jane, \"that he certainly would not marry Lydia if he had not a real regard for her."
-                },
-                {
-                    "target": "Bennet antwortete nicht, und sie schwiegen, jeder für sich in Gedanken versunken, bis sie ins Haus kamen.",
-                    "native": "Though our kind uncle has done something towards clearing him, I cannot believe that ten thousand pounds, or anything like it, has been advanced."
+                    "target": "Um Himmels willen, wie kann auch nur die Hälfte einer solchen Summe zurückgezahlt werden?\" Mr. Bennet antwortete nicht, und sie schwiegen, jeder für sich in Gedanken versunken, bis sie ins Haus kamen.",
+                    "native": "Oh, Lydia!\" \"I comfort myself with thinking,\" replied Jane, \"that he certainly would not marry Lydia if he had not a real regard for her. Though our kind uncle has done something towards clearing him, I cannot believe that ten thousand pounds, or anything like it, has been advanced."
                 },
                 {
                     "target": "Der Vater ging in die Bibliothek, um zu schreiben, und die Mädchen ins Frühstückszimmer. \"Sie werden wirklich heiraten!\" rief Elizabeth, sobald sie allein waren. \"Wie sonderbar das ist!",
@@ -230,12 +206,8 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Und dafür sollen wir noch dankbar sein.",
-                    "native": "How could he spare half ten thousand pounds?\" \"If he were ever able to learn what Wickham's debts have been,\" said Elizabeth, \"and how much is settled on his side on our sister, we shall exactly know what Mr."
-                },
-                {
-                    "target": "So gering die Chance für sie auch sein mag, glücklich zu sein, und wie niederträchtig sein Charakter auch ist – wir müssen uns auch noch darüber freuen!",
-                    "native": "Gardiner has done for them, because Wickham has not sixpence of his own."
+                    "target": "Und dafür sollen wir noch dankbar sein. So gering die Chance für sie auch sein mag, glücklich zu sein, und wie niederträchtig sein Charakter auch ist – wir müssen uns auch noch darüber freuen!",
+                    "native": "How could he spare half ten thousand pounds?\" \"If he were ever able to learn what Wickham's debts have been,\" said Elizabeth, \"and how much is settled on his side on our sister, we shall exactly know what Mr. Gardiner has done for them, because Wickham has not sixpence of his own."
                 },
                 {
                     "target": "O Lydia!\" \"Ich tröste mich mit dem Gedanken\", entgegnete Jane, \"daß er Lydia gewiß nicht heiraten würde, wenn er sie nicht wirklich gern hätte.",
@@ -246,12 +218,8 @@
                     "native": "Their taking her home, and affording her their personal protection and countenance, is such a sacrifice to her advantage as years of gratitude cannot enough acknowledge."
                 },
                 {
-                    "target": "Er hat doch selbst Kinder und wird vielleicht noch mehr haben, wie könnte er auch nur die Hälfte davon erübrigen?\" \"Wenn wir jemals erfahren könnten, wie hoch Wickhams Schulden waren\", sagte Elizabeth, \"und wieviel von seiner Seite unserer Schwester zugesprochen worden ist, dann werden wir genau wissen, was Mr.",
-                    "native": "By this time she is actually with them!"
-                },
-                {
-                    "target": "Gardiner für sie getan hat, denn Wickham besitzt selbst keinen Sixpence.",
-                    "native": "If such goodness does not make her miserable now, she will never deserve to be happy!"
+                    "target": "Er hat doch selbst Kinder und wird vielleicht noch mehr haben, wie könnte er auch nur die Hälfte davon erübrigen?\" \"Wenn wir jemals erfahren könnten, wie hoch Wickhams Schulden waren\", sagte Elizabeth, \"und wieviel von seiner Seite unserer Schwester zugesprochen worden ist, dann werden wir genau wissen, was Mr. Gardiner für sie getan hat, denn Wickham besitzt selbst keinen Sixpence.",
+                    "native": "By this time she is actually with them! If such goodness does not make her miserable now, she will never deserve to be happy!"
                 },
                 {
                     "target": "Die Güte unseres Onkels und unserer Tante können wir niemals vergelten.",
@@ -283,34 +251,22 @@
                     "native": "He was writing and, without raising his head, coolly replied: \"Just as you please.\" \"May we take my uncle's letter to read to her?\" \"Take whatever you like, and get away.\" Elizabeth took the letter from his writing-table, and they went up stairs together."
                 },
                 {
-                    "target": "Ihre gegenseitige Zuneigung wird sie zur Vernunft bringen; und ich wage vorauszusehen, daß sie sich ruhig niederlassen und so vernünftig leben werden, daß ihre vergangene Unbesonnenheit mit der Zeit vergessen wird.\" \"Ihr Verhalten war von einer Art\", erwiderte Elizabeth, \"die weder du noch ich noch irgend jemand anders jemals vergessen kann.",
-                    "native": "Mary and Kitty were both with Mrs."
-                },
-                {
-                    "target": "Es ist zwecklos, darüber zu reden.\" Schließlich fiel den Mädchen ein, daß ihre Mutter sehr wahrscheinlich überhaupt noch nicht wußte, was geschehen war.",
-                    "native": "Bennet: one communication would, therefore, do for all."
+                    "target": "Ihre gegenseitige Zuneigung wird sie zur Vernunft bringen; und ich wage vorauszusehen, daß sie sich ruhig niederlassen und so vernünftig leben werden, daß ihre vergangene Unbesonnenheit mit der Zeit vergessen wird.\" \"Ihr Verhalten war von einer Art\", erwiderte Elizabeth, \"die weder du noch ich noch irgend jemand anders jemals vergessen kann. Es ist zwecklos, darüber zu reden.\" Schließlich fiel den Mädchen ein, daß ihre Mutter sehr wahrscheinlich überhaupt noch nicht wußte, was geschehen war.",
+                    "native": "Mary and Kitty were both with Mrs. Bennet: one communication would, therefore, do for all."
                 },
                 {
                     "target": "Sie gingen deshalb in die Bibliothek und fragten ihren Vater, ob sie es ihr nicht mitteilen sollten.",
                     "native": "After a slight preparation for good news, the letter was read aloud."
                 },
                 {
-                    "target": "Er schrieb gerade und erwiderte kühl, ohne den Kopf zu heben: \"Ganz wie es euch beliebt.\" \"Können wir den Brief unseres Onkels mitnehmen und ihn ihr vorlesen?\" \"Nehmt alles, was ihr wollt, und geht.\" Elizabeth nahm den Brief von seinem Schreibtisch, und sie gingen zusammen nach oben.",
-                    "native": "Mrs."
+                    "target": "Er schrieb gerade und erwiderte kühl, ohne den Kopf zu heben: \"Ganz wie es euch beliebt.\" \"Können wir den Brief unseres Onkels mitnehmen und ihn ihr vorlesen?\" \"Nehmt alles, was ihr wollt, und geht.\" Elizabeth nahm den Brief von seinem Schreibtisch, und sie gingen zusammen nach oben. Mary und Kitty waren beide bei Mrs. Bennet; so konnten sie die Neuigkeit allen zugleich bringen.",
+                    "native": "Mrs. Bennet could hardly contain herself. As soon as Jane had read Mr."
                 }
             ]
         },
         {
             "pageNumber": 9,
             "sentences": [
-                {
-                    "target": "Mary und Kitty waren beide bei Mrs.",
-                    "native": "Bennet could hardly contain herself."
-                },
-                {
-                    "target": "Bennet; so konnten sie die Neuigkeit allen zugleich bringen.",
-                    "native": "As soon as Jane had read Mr."
-                },
                 {
                     "target": "Nach einer kleinen Vorbereitung auf eine gute Nachricht wurde der Brief vorgelesen.",
                     "native": "Gardiner's hope of Lydia's being soon married, her joy burst forth, and every following sentence added to its exuberance."
@@ -324,12 +280,8 @@
                     "native": "To know that her daughter would be married was enough."
                 },
                 {
-                    "target": "Sobald Jane bei Mr.",
-                    "native": "She was disturbed by no fear for her felicity, nor humbled by any remembrance of her misconduct. \"My dear, dear Lydia!\" she cried. \"This is delightful indeed!"
-                },
-                {
-                    "target": "Gardiners Hoffnung angekommen war, daß Lydia bald verheiratet sein würde, brach ihre Freude hervor, und jeder nachfolgende Satz erhöhte ihren Überschwang.",
-                    "native": "She will be married!"
+                    "target": "Sobald Jane bei Mr. Gardiners Hoffnung angekommen war, daß Lydia bald verheiratet sein würde, brach ihre Freude hervor, und jeder nachfolgende Satz erhöhte ihren Überschwang.",
+                    "native": "She was disturbed by no fear for her felicity, nor humbled by any remembrance of her misconduct. \"My dear, dear Lydia!\" she cried. \"This is delightful indeed! She will be married!"
                 },
                 {
                     "target": "Sie befand sich nun vor Freude in ebenso heftiger Erregung wie vorher vor Entrüstung und Verdruß.",
@@ -394,20 +346,12 @@
                     "native": "My dear, dear Lydia!"
                 },
                 {
-                    "target": "Kitty, läute nach Hill.",
-                    "native": "How merry we shall be together when we meet!\" Her eldest daughter endeavoured to give some relief to the violence of these transports, by leading her thoughts to the obligations which Mr."
+                    "target": "Kitty, läute nach Hill. Ich will mich sofort ankleiden.",
+                    "native": "How merry we shall be together when we meet!\" Her eldest daughter endeavoured to give some relief to the violence of these transports, by leading her thoughts to the obligations which Mr. Gardiner's behaviour laid them all under. \"For we must attribute this happy conclusion,\" she added, \"in a great measure to his kindness."
                 },
                 {
-                    "target": "Ich will mich sofort ankleiden.",
-                    "native": "Gardiner's behaviour laid them all under. \"For we must attribute this happy conclusion,\" she added, \"in a great measure to his kindness."
-                },
-                {
-                    "target": "Meine liebe, liebe Lydia!",
-                    "native": "We are persuaded that he has pledged himself to assist Mr."
-                },
-                {
-                    "target": "Wie vergnügt werden wir sein, wenn wir erst zusammen sind!\" Ihre älteste Tochter bemühte sich, die Heftigkeit dieses Freudentaumels etwas abzuschwächen, indem sie die Gedanken der Mutter auf die Verpflichtungen lenkte, die Mr.",
-                    "native": "Wickham with money.\" \"Well,\" cried her mother, \"it is all very right; who should do it but her own uncle?"
+                    "target": "Meine liebe, liebe Lydia! Wie vergnügt werden wir sein, wenn wir erst zusammen sind!\" Ihre älteste Tochter bemühte sich, die Heftigkeit dieses Freudentaumels etwas abzuschwächen, indem sie die Gedanken der Mutter auf die Verpflichtungen lenkte, die Mr. Gardiners Verhalten ihnen allen auferlegt hatte. \"Denn\", fügte sie hinzu, \"wir müssen diesen glücklichen Ausgang in hohem Maße seiner Güte zuschreiben.",
+                    "native": "We are persuaded that he has pledged himself to assist Mr. Wickham with money.\" \"Well,\" cried her mother, \"it is all very right; who should do it but her own uncle? If he had not had a family of his own, I and my children must have had all his money, you know; and it is the first time we have ever had anything from him, except a few presents."
                 }
             ]
         },
@@ -415,28 +359,16 @@
             "pageNumber": 12,
             "sentences": [
                 {
-                    "target": "Gardiners Verhalten ihnen allen auferlegt hatte. \"Denn\", fügte sie hinzu, \"wir müssen diesen glücklichen Ausgang in hohem Maße seiner Güte zuschreiben.",
-                    "native": "If he had not had a family of his own, I and my children must have had all his money, you know; and it is the first time we have ever had anything from him, except a few presents."
-                },
-                {
-                    "target": "Wir sind überzeugt, daß er sich verpflichtet hat, Mr.",
-                    "native": "Well!"
-                },
-                {
-                    "target": "Wickham mit Geld zu unterstützen.\" \"Na\", sagte ihre Mutter, \"das ist doch ganz in Ordnung so; wer sonst sollte das tun, wenn nicht ihr eigener Onkel?",
-                    "native": "I am so happy!"
+                    "target": "Wir sind überzeugt, daß er sich verpflichtet hat, Mr. Wickham mit Geld zu unterstützen.\" \"Na\", sagte ihre Mutter, \"das ist doch ganz in Ordnung so; wer sonst sollte das tun, wenn nicht ihr eigener Onkel?",
+                    "native": "Well! I am so happy!"
                 },
                 {
                     "target": "Wenn er keine eigene Familie hätte, dann hätten nämlich meine Kinder und ich all sein Geld bekommen müssen, und es ist das erstemal, daß wir jemals etwas von ihm bekommen haben außer ein paar Geschenken.",
                     "native": "In a short time I shall have a daughter married."
                 },
                 {
-                    "target": "Ach, ich bin ja so glücklich.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "In kurzer Zeit werde ich eine Tochter verheiratet haben.",
-                    "native": "Wickham!"
+                    "target": "Ach, ich bin ja so glücklich. In kurzer Zeit werde ich eine Tochter verheiratet haben.",
+                    "native": "Mrs. Wickham!"
                 },
                 {
                     "target": "Mrs.",
@@ -468,20 +400,12 @@
                     "native": "Other schemes, too, came into her head. \"I will go to Meryton,\" said she, \"as soon as I am dressed, and tell the good, good news to my sister Philips."
                 },
                 {
-                    "target": "Eine Verzögerung von einem Tag, sagte sie, würde nichts ausmachen; und ihre Mutter war viel zu glücklich, um sich ganz so halsstarrig zu zeigen wie gewöhnlich.",
-                    "native": "And as I come back, I can call on Lady Lucas and Mrs."
+                    "target": "Eine Verzögerung von einem Tag, sagte sie, würde nichts ausmachen; und ihre Mutter war viel zu glücklich, um sich ganz so halsstarrig zu zeigen wie gewöhnlich. Sie hatte auch gleich noch weitere Pläne. \"Sobald ich angezogen bin\", sagte sie, \"fahre ich nach Meryton und bringe meiner Schwester Philips diese wunderbaren Nachrichten.",
+                    "native": "And as I come back, I can call on Lady Lucas and Mrs. Long."
                 },
                 {
-                    "target": "Sie hatte auch gleich noch weitere Pläne. \"Sobald ich angezogen bin\", sagte sie, \"fahre ich nach Meryton und bringe meiner Schwester Philips diese wunderbaren Nachrichten.",
-                    "native": "Long."
-                },
-                {
-                    "target": "Und auf dem Rückweg kann ich zu Lady Lucas und Mrs.",
-                    "native": "Kitty, run down and order the carriage."
-                },
-                {
-                    "target": "Long gehen.",
-                    "native": "An airing would do me a great deal of good, I am sure."
+                    "target": "Und auf dem Rückweg kann ich zu Lady Lucas und Mrs. Long gehen.",
+                    "native": "Kitty, run down and order the carriage. An airing would do me a great deal of good, I am sure."
                 }
             ]
         },
@@ -505,12 +429,8 @@
                     "native": "My dear Hill, have you heard the good news?"
                 },
                 {
-                    "target": "Meine liebe Hill, haben Sie schon die guten Nachrichten gehört?",
-                    "native": "Miss Lydia is going to be married; and you shall all have a bowl of punch to make merry at her wedding.\" Mrs."
-                },
-                {
-                    "target": "Miss Lydia wird heiraten; und ihr sollt alle eine Schale Punsch bekommen, damit ihr an ihrem Hochzeitstag fröhlich seid.\" Mrs.",
-                    "native": "Hill began instantly to express her joy."
+                    "target": "Meine liebe Hill, haben Sie schon die guten Nachrichten gehört? Miss Lydia wird heiraten; und ihr sollt alle eine Schale Punsch bekommen, damit ihr an ihrem Hochzeitstag fröhlich seid.\" Mrs.",
+                    "native": "Miss Lydia is going to be married; and you shall all have a bowl of punch to make merry at her wedding.\" Mrs. Hill began instantly to express her joy."
                 },
                 {
                     "target": "Hill gab augenblicklich ihrer Freude Ausdruck.",

@@ -20,12 +20,8 @@
                     "native": "She had not at first thought very seriously of going thither; but Charlotte, she soon found, was depending on the plan and she gradually learned to consider it herself with greater pleasure as well as greater certainty."
                 },
                 {
-                    "target": "Charlottes Abwesenheit hatte in ihr den Wunsch verstärkt, sie wiederzusehen, und ihren Widerwillen gegenüber Mr.",
-                    "native": "Absence had increased her desire of seeing Charlotte again, and weakened her disgust of Mr."
-                },
-                {
-                    "target": "Collins schwächer werden lassen.",
-                    "native": "Collins."
+                    "target": "Charlottes Abwesenheit hatte in ihr den Wunsch verstärkt, sie wiederzusehen, und ihren Widerwillen gegenüber Mr. Collins schwächer werden lassen.",
+                    "native": "Absence had increased her desire of seeing Charlotte again, and weakened her disgust of Mr. Collins."
                 },
                 {
                     "target": "Die Reise hatte den Reiz des Neuen, und da ihr Zuhause bei einer solchen Mutter und Schwestern, mit denen nichts anzufangen war, seine Unzulänglichkeiten hatte, war eine kleine Veränderung um ihrer selbst willen nicht unwillkommen.",
@@ -57,12 +53,8 @@
                     "native": "The only pain was in leaving her father, who would certainly miss her, and who, when it came to the point, so little liked her going, that he told her to write to him, and almost promised to answer her letter."
                 },
                 {
-                    "target": "Der Abschied von Mr.",
-                    "native": "The farewell between herself and Mr."
-                },
-                {
-                    "target": "Wickham war durchaus freundschaftlich – mehr noch von seiner Seite.",
-                    "native": "Wickham was perfectly friendly; on his side even more."
+                    "target": "Der Abschied von Mr. Wickham war durchaus freundschaftlich – mehr noch von seiner Seite.",
+                    "native": "The farewell between herself and Mr. Wickham was perfectly friendly; on his side even more."
                 },
                 {
                     "target": "Sein augenblickliches Ziel konnte ihn nicht vergessen lassen, daß Elizabeth die erste gewesen war, die seine Aufmerksamkeit erregt und verdient hatte – die erste, die ihm zugehört und ihn bedauert, die erste, die er bewundert hatte; und in der Art und Weise, mit der er sich von ihr verabschiedete und ihr viel Vergnügen wünschte, sie daran erinnerte, was sie von Lady Catherine de Bourgh zu erwarten hatte, darauf vertrauend, daß ihrer beider Meinung über sie – ihrer beider Meinung auch über alle anderen – stets übereinstimmen würde –, lag eine Sorge und Teilnahme, die sie fühlen ließ, daß sie stets in aufrichtigster Freundschaft mit ihm verbunden bleiben würde; und sie schied von ihm in der Überzeugung, daß er, ob verheiratet oder unverheiratet, stets ihr Vorbild für alles Liebenswürdige und Angenehme sein sollte.",
@@ -94,12 +86,8 @@
                     "native": "It was a journey of only twenty-four miles, and they began it so early as to be in Gracechurch Street by noon."
                 },
                 {
-                    "target": "Während sie bei den Gardiners vorfuhren, stand Jane an einem Fenster des Salons und sah sie herankommen; und als sie den Flur betraten, kam sie herbei, um alle zu begrüßen.",
-                    "native": "As they drove to Mr."
-                },
-                {
-                    "target": "Elizabeth, die ihr ernsthaft ins Gesicht blickte, war erfreut festzustellen, daß sie so gesund und lieblich aussah wie immer.",
-                    "native": "Gardiner's door, Jane was at a drawingroom window watching their arrival; when they entered the passage she was there to welcome them, and Elizabeth, looking earnestly in her face, was pleased to see it healthful and lovely as ever."
+                    "target": "Während sie bei den Gardiners vorfuhren, stand Jane an einem Fenster des Salons und sah sie herankommen; und als sie den Flur betraten, kam sie herbei, um alle zu begrüßen. Elizabeth, die ihr ernsthaft ins Gesicht blickte, war erfreut festzustellen, daß sie so gesund und lieblich aussah wie immer.",
+                    "native": "As they drove to Mr. Gardiner's door, Jane was at a drawingroom window watching their arrival; when they entered the passage she was there to welcome them, and Elizabeth, looking earnestly in her face, was pleased to see it healthful and lovely as ever."
                 },
                 {
                     "target": "Auf der Treppe stand eine Schar kleiner Jungen und Mädchen, deren Neugier auf das Erscheinen ihrer Cousine es ihnen nicht erlaubte, im Salon zu bleiben; doch da sie diese ein Jahr lang nicht gesehen hatten, hielt sie ihre Schüchternheit davon ab, weiter herunterzukommen.",
@@ -131,20 +119,12 @@
                     "native": "It was reasonable, however, to hope that they would not continue long."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "Mrs."
+                    "target": "Mrs. Gardiner erzählte ihr auch die näheren Umstände von Miss Bingleys Besuch in Gracechurch Street und gab Unterhaltungen wieder, die sie zu verschiedenen Zeiten mit Jane geführt hatte und die bewiesen, daß Jane die Bekanntschaft im Grunde ihres Herzens aufgegeben hatte.",
+                    "native": "Mrs. Gardiner gave her the particulars also of Miss Bingley's visit in Gracechurch Street, and repeated conversations occurring at different times between Jane and herself, which proved that the former had, from her heart, given up the acquaintance."
                 },
                 {
-                    "target": "Gardiner erzählte ihr auch die näheren Umstände von Miss Bingleys Besuch in Gracechurch Street und gab Unterhaltungen wieder, die sie zu verschiedenen Zeiten mit Jane geführt hatte und die bewiesen, daß Jane die Bekanntschaft im Grunde ihres Herzens aufgegeben hatte.",
-                    "native": "Gardiner gave her the particulars also of Miss Bingley's visit in Gracechurch Street, and repeated conversations occurring at different times between Jane and herself, which proved that the former had, from her heart, given up the acquaintance."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Gardiner befragte ihre Nichte zu Wickhams Treulosigkeit und gratulierte ihr, daß sie so gut damit fertig wurde. \"Aber, meine liebe Elizabeth\", fügte sie hinzu, \"was für ein Mädchen ist Miss King eigentlich?",
-                    "native": "Gardiner then rallied her niece on Wickham's desertion, and complimented her on bearing it so well. \"But my dear Elizabeth,\" she added, \"what sort of girl is Miss King?"
+                    "target": "Mrs. Gardiner befragte ihre Nichte zu Wickhams Treulosigkeit und gratulierte ihr, daß sie so gut damit fertig wurde. \"Aber, meine liebe Elizabeth\", fügte sie hinzu, \"was für ein Mädchen ist Miss King eigentlich?",
+                    "native": "Mrs. Gardiner then rallied her niece on Wickham's desertion, and complimented her on bearing it so well. \"But my dear Elizabeth,\" she added, \"what sort of girl is Miss King?"
                 },
                 {
                     "target": "Es würde mir leid tun, wenn ich unseren Freund für gewinnsüchtig halten müßte.\" \"Ich bitte dich, liebe Tante, was ist bei einer Eheschließung der Unterschied zwischen Gewinnsucht und Vernunft als Motiv?",
@@ -205,12 +185,8 @@
                     "native": "I am going to-morrow where I shall find a man who has not one agreeable quality, who has neither manner nor sense to recommend him."
                 },
                 {
-                    "target": "Dumme Männer sind letzten Endes die einzigen, die zu kennen sich lohnt.\" \"Paß nur auf; diese Worte schmecken sehr nach Enttäuschung.\" Ehe sie das Ende des Schauspiels auseinanderbrachte, wurde ihr eine unerwartete Freude zuteil durch die Einladung, ihren Onkel und ihre Tante auf einer Vergnügungsreise zu begleiten, die sie sich für den Sommer vorgenommen hatten. \"Wir haben noch nicht genau festgelegt, wie weit sie uns bringen wird\", sagte Mrs.",
-                    "native": "Stupid men are the only ones worth knowing, after all.\" \"Take care, Lizzy; that speech savours strongly of disappointment.\" Before they were separated by the conclusion of the play, she had the unexpected happiness of an invitation to accompany her uncle and aunt in a tour of pleasure which they proposed taking in the summer. \"We have not determined how far it shall carry us,\" said Mrs."
-                },
-                {
-                    "target": "Gardiner, \"aber vielleicht in den Lake District.\" Kein Plan hätte für Elizabeth erfreulicher sein können, und sie nahm die Einladung äußerst bereitwillig und dankbar an. \"Meine liebe, liebe Tante\", rief sie begeistert, \"welche Freude!",
-                    "native": "Gardiner, \"but, perhaps, to the Lakes.\" No scheme could have been more agreeable to Elizabeth, and her acceptance of the invitation was most ready and grateful. \"Oh, my dear, dear aunt,\" she rapturously cried, \"what delight! what felicity!"
+                    "target": "Dumme Männer sind letzten Endes die einzigen, die zu kennen sich lohnt.\" \"Paß nur auf; diese Worte schmecken sehr nach Enttäuschung.\" Ehe sie das Ende des Schauspiels auseinanderbrachte, wurde ihr eine unerwartete Freude zuteil durch die Einladung, ihren Onkel und ihre Tante auf einer Vergnügungsreise zu begleiten, die sie sich für den Sommer vorgenommen hatten. \"Wir haben noch nicht genau festgelegt, wie weit sie uns bringen wird\", sagte Mrs. Gardiner, \"aber vielleicht in den Lake District.\" Kein Plan hätte für Elizabeth erfreulicher sein können, und sie nahm die Einladung äußerst bereitwillig und dankbar an. \"Meine liebe, liebe Tante\", rief sie begeistert, \"welche Freude!",
+                    "native": "Stupid men are the only ones worth knowing, after all.\" \"Take care, Lizzy; that speech savours strongly of disappointment.\" Before they were separated by the conclusion of the play, she had the unexpected happiness of an invitation to accompany her uncle and aunt in a tour of pleasure which they proposed taking in the summer. \"We have not determined how far it shall carry us,\" said Mrs. Gardiner, \"but, perhaps, to the Lakes.\" No scheme could have been more agreeable to Elizabeth, and her acceptance of the invitation was most ready and grateful. \"Oh, my dear, dear aunt,\" she rapturously cried, \"what delight! what felicity!"
                 },
                 {
                     "target": "Welches Glück!",

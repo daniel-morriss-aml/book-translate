@@ -20,12 +20,8 @@
                     "native": "For the last week they had seen very little of Lady Catherine or her daughter."
                 },
                 {
-                    "target": "Während der letzten Woche hatten sie weder Lady Catherine noch ihre Tochter viel gesehen.",
-                    "native": "Colonel Fitzwilliam had called at the Parsonage more than once during the time, but Mr."
-                },
-                {
-                    "target": "Colonel Fitzwilliam hatte während der Zeit mehr als einmal einen Besuch im Pfarrhaus gemacht, aber Mr.",
-                    "native": "Darcy they had seen only at church."
+                    "target": "Während der letzten Woche hatten sie weder Lady Catherine noch ihre Tochter viel gesehen. Colonel Fitzwilliam hatte während der Zeit mehr als einmal einen Besuch im Pfarrhaus gemacht, aber Mr.",
+                    "native": "Colonel Fitzwilliam had called at the Parsonage more than once during the time, but Mr. Darcy they had seen only at church."
                 },
                 {
                     "target": "Darcy waren sie nur in der Kirche begegnet.",
@@ -36,8 +32,8 @@
                     "native": "Her ladyship received them civilly, but it was plain that their company was by no means so acceptable as when she could get nobody else; and she was, in fact, almost engrossed by her nephews, speaking to them, especially to Darcy, much more than to any other person in the room."
                 },
                 {
-                    "target": "Ihre Ladyschaft empfing sie höflich, doch es war offensichtlich, daß ihre Gesellschaft keinesfalls so willkommen war wie sonst, wenn niemand anderes zu haben war; sie war in der Tat fast vollständig von ihren Neffen in Anspruch genommen und sprach mit ihnen, besonders aber mit Darcy, viel mehr als mit irgend jemand anders im Salon.",
-                    "native": "Colonel Fitzwilliam seemed really glad to see them; anything was a welcome relief to him at Rosings; and Mrs."
+                    "target": "Ihre Ladyschaft empfing sie höflich, doch es war offensichtlich, daß ihre Gesellschaft keinesfalls so willkommen war wie sonst, wenn niemand anderes zu haben war; sie war in der Tat fast vollständig von ihren Neffen in Anspruch genommen und sprach mit ihnen, besonders aber mit Darcy, viel mehr als mit irgend jemand anders im Salon. Colonel Fitzwilliam schien sich wirklich zu freuen, sie zu sehen; für ihn war alles, was sich bot, eine willkommene Abwechslung auf Rosings; und überdies hatte er an Mrs. Collins’ hübscher Freundin großen Gefallen gefunden.",
+                    "native": "Colonel Fitzwilliam seemed really glad to see them; anything was a welcome relief to him at Rosings; and Mrs. Collins's pretty friend had moreover caught his fancy very much. He now seated himself by her, and talked so agreeably of Kent and Hertfordshire, of travelling and staying at home, of new books and music, that Elizabeth had never been half so well entertained in that room before; and they conversed with so much spirit and flow, as to draw the attention of Lady Catherine herself, as well as of Mr."
                 }
             ]
         },
@@ -45,20 +41,8 @@
             "pageNumber": 2,
             "sentences": [
                 {
-                    "target": "Colonel Fitzwilliam schien sich wirklich zu freuen, sie zu sehen; für ihn war alles, was sich bot, eine willkommene Abwechslung auf Rosings; und überdies hatte er an Mrs.",
-                    "native": "Collins's pretty friend had moreover caught his fancy very much."
-                },
-                {
-                    "target": "Collins’ hübscher Freundin großen Gefallen gefunden.",
-                    "native": "He now seated himself by her, and talked so agreeably of Kent and Hertfordshire, of travelling and staying at home, of new books and music, that Elizabeth had never been half so well entertained in that room before; and they conversed with so much spirit and flow, as to draw the attention of Lady Catherine herself, as well as of Mr."
-                },
-                {
-                    "target": "Er setzte sich nun zu ihr und sprach so gefällig über Kent und Hertfordshire, über Reisen und Daheimbleiben, über neue Bücher und Musik, daß Elizabeth in diesem Salon noch niemals auch nur halb so gut unterhalten worden war; und sie sprachen so lebhaft und ohne Unterlaß miteinander, daß sie sowohl Lady Catherines als auch Mr.",
-                    "native": "Darcy."
-                },
-                {
-                    "target": "Darcys Aufmerksamkeit auf sich lenkten.",
-                    "native": "His eyes had been soon and repeatedly turned towards them with a look of curiosity; and that her ladyship, after a while, shared the feeling, was more openly acknowledged, for she did not scruple to call out: \"What is that you are saying, Fitzwilliam?"
+                    "target": "Er setzte sich nun zu ihr und sprach so gefällig über Kent und Hertfordshire, über Reisen und Daheimbleiben, über neue Bücher und Musik, daß Elizabeth in diesem Salon noch niemals auch nur halb so gut unterhalten worden war; und sie sprachen so lebhaft und ohne Unterlaß miteinander, daß sie sowohl Lady Catherines als auch Mr. Darcys Aufmerksamkeit auf sich lenkten.",
+                    "native": "Darcy. His eyes had been soon and repeatedly turned towards them with a look of curiosity; and that her ladyship, after a while, shared the feeling, was more openly acknowledged, for she did not scruple to call out: \"What is that you are saying, Fitzwilliam?"
                 },
                 {
                     "target": "Darcys Blick war schon bald des öfteren voll Neugier auf sie gerichtet; und daß Ihre Ladyschaft dies Gefühl nach einer Weile teilte, wurde offener zugegeben, denn sie hatte keine Skrupel, laut zu rufen: \"Was sagst du da, Fitzwilliam?",
@@ -106,12 +90,8 @@
                     "native": "I am confident that she would have performed delightfully."
                 },
                 {
-                    "target": "Wie kommt Georgiana voran, Darcy?\" Mr.",
-                    "native": "How does Georgiana get on, Darcy?\" Mr."
-                },
-                {
-                    "target": "Darcy sprach mit liebevollem Lob von den Fertigkeiten seiner Schwester. \"Ich freue mich sehr, so Gutes von ihr zu hören\", sagte Lady Catherine, \"und bitte bestell ihr von mir, daß sie sich nur hervortun kann, wenn sie sehr viel übt.\" \"Ich versichere Ihnen, Madam\", entgegnete er, \"daß sie einen solchen Rat nicht nötig hat.",
-                    "native": "Darcy spoke with affectionate praise of his sister's proficiency. \"I am very glad to hear such a good account of her,\" said Lady Catherine; \"and pray tell her from me, that she cannot expect to excel if she does not practice a good deal.\" \"I assure you, madam,\" he replied, \"that she does not need such advice."
+                    "target": "Wie kommt Georgiana voran, Darcy?\" Mr. Darcy sprach mit liebevollem Lob von den Fertigkeiten seiner Schwester. \"Ich freue mich sehr, so Gutes von ihr zu hören\", sagte Lady Catherine, \"und bitte bestell ihr von mir, daß sie sich nur hervortun kann, wenn sie sehr viel übt.\" \"Ich versichere Ihnen, Madam\", entgegnete er, \"daß sie einen solchen Rat nicht nötig hat.",
+                    "native": "How does Georgiana get on, Darcy?\" Mr. Darcy spoke with affectionate praise of his sister's proficiency. \"I am very glad to hear such a good account of her,\" said Lady Catherine; \"and pray tell her from me, that she cannot expect to excel if she does not practice a good deal.\" \"I assure you, madam,\" he replied, \"that she does not need such advice."
                 }
             ]
         },
@@ -131,24 +111,16 @@
                     "native": "I often tell young ladies that no excellence in music is to be acquired without constant practice."
                 },
                 {
-                    "target": "Ich habe Miss Bennet schon mehrmals erklärt, daß sie nie wirklich gut spielen wird, wenn sie nicht mehr übt; und da Mrs.",
-                    "native": "I have told Miss Bennet several times, that she will never play really well unless she practises more; and though Mrs."
-                },
-                {
-                    "target": "Collins kein Instrument hat, kann sie, wie ich ihr schon oft gesagt habe, sehr gern jeden Tag nach Rosings kommen und auf dem Klavier in Mrs.",
-                    "native": "Collins has no instrument, she is very welcome, as I have often told her, to come to Rosings every day, and play on the pianoforte in Mrs."
+                    "target": "Ich habe Miss Bennet schon mehrmals erklärt, daß sie nie wirklich gut spielen wird, wenn sie nicht mehr übt; und da Mrs. Collins kein Instrument hat, kann sie, wie ich ihr schon oft gesagt habe, sehr gern jeden Tag nach Rosings kommen und auf dem Klavier in Mrs.",
+                    "native": "I have told Miss Bennet several times, that she will never play really well unless she practises more; and though Mrs. Collins has no instrument, she is very welcome, as I have often told her, to come to Rosings every day, and play on the pianoforte in Mrs."
                 },
                 {
                     "target": "Jenkinsons Zimmer spielen.",
                     "native": "Jenkinson's room."
                 },
                 {
-                    "target": "In dem Teil des Hauses würde sie niemanden stören.\" Mr.",
-                    "native": "She would be in nobody's way, you know, in that part of the house.\" Mr."
-                },
-                {
-                    "target": "Darcy war ein wenig beschämt über die Ungezogenheit seiner Tante und antwortete nicht.",
-                    "native": "Darcy looked a little ashamed of his aunt's ill-breeding, and made no answer."
+                    "target": "In dem Teil des Hauses würde sie niemanden stören.\" Mr. Darcy war ein wenig beschämt über die Ungezogenheit seiner Tante und antwortete nicht.",
+                    "native": "She would be in nobody's way, you know, in that part of the house.\" Mr. Darcy looked a little ashamed of his aunt's ill-breeding, and made no answer."
                 }
             ]
         },
@@ -168,12 +140,8 @@
                     "native": "Lady Catherine listened to half a song, and then talked, as before, to her other nephew; till the latter walked away from her, and making with his usual deliberation towards the pianoforte stationed himself so as to command a full view of the fair performer's countenance."
                 },
                 {
-                    "target": "Elizabeth sah es, wandte sich ihm bei der ersten sich bietenden Pause mit einem schelmischen Lächeln zu und sagte: \"Wollen Sie mir Angst machen, da Sie so würdevoll daherkommen, um mir zuzuhören?",
-                    "native": "Elizabeth saw what he was doing, and at the first convenient pause, turned to him with an arch smile, and said: \"You mean to frighten me, Mr."
-                },
-                {
-                    "target": "Ich lasse mich aber nicht beunruhigen, auch wenn Ihre Schwester noch so gut spielt.",
-                    "native": "Darcy, by coming in all this state to hear me?"
+                    "target": "Elizabeth sah es, wandte sich ihm bei der ersten sich bietenden Pause mit einem schelmischen Lächeln zu und sagte: \"Wollen Sie mir Angst machen, da Sie so würdevoll daherkommen, um mir zuzuhören? Ich lasse mich aber nicht beunruhigen, auch wenn Ihre Schwester noch so gut spielt.",
+                    "native": "Elizabeth saw what he was doing, and at the first convenient pause, turned to him with an arch smile, and said: \"You mean to frighten me, Mr. Darcy, by coming in all this state to hear me?"
                 },
                 {
                     "target": "Mir ist nämlich ein gewisser Starrsinn eigen, der es niemals ertragen kann, sich nach dem Willen eines anderen ängstigen zu lassen.",
@@ -193,12 +161,8 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "In der Tat, Mr.",
-                    "native": "I am particularly unlucky in meeting with a person so able to expose my real character, in a part of the world where I had hoped to pass myself off with some degree of credit."
-                },
-                {
-                    "target": "Darcy, es ist gar nicht edelmütig von Ihnen, all das zu erwähnen, was Sie aus Hertfordshire Nachteiliges von mir wußten; und – gestatten Sie mir, das zu sagen – es war auch sehr undiplomatisch, denn es provoziert mich, Rache zu nehmen, und es kann etwas dabei herauskommen, das Ihre Angehörigen schockieren wird zu hören.\" \"Ich habe keine Angst vor Ihnen\", sagte er lächelnd. \"Bitte lassen Sie mich hören, wessen Sie ihn zu beschuldigen haben\", rief Colonel Fitzwilliam. \"Ich würde gern wissen, wie er sich unter Fremden benimmt.\" \"Das sollen Sie hören – aber bereiten Sie sich auf etwas ganz Schreckliches vor.",
-                    "native": "Indeed, Mr."
+                    "target": "In der Tat, Mr. Darcy, es ist gar nicht edelmütig von Ihnen, all das zu erwähnen, was Sie aus Hertfordshire Nachteiliges von mir wußten; und – gestatten Sie mir, das zu sagen – es war auch sehr undiplomatisch, denn es provoziert mich, Rache zu nehmen, und es kann etwas dabei herauskommen, das Ihre Angehörigen schockieren wird zu hören.\" \"Ich habe keine Angst vor Ihnen\", sagte er lächelnd. \"Bitte lassen Sie mich hören, wessen Sie ihn zu beschuldigen haben\", rief Colonel Fitzwilliam. \"Ich würde gern wissen, wie er sich unter Fremden benimmt.\" \"Das sollen Sie hören – aber bereiten Sie sich auf etwas ganz Schreckliches vor.",
+                    "native": "I am particularly unlucky in meeting with a person so able to expose my real character, in a part of the world where I had hoped to pass myself off with some degree of credit. Indeed, Mr."
                 },
                 {
                     "target": "Das allererste Mal, als ich ihn in Hertfordshire gesehen habe, müssen Sie wissen, war auf einem Ball – und was denken Sie, was er auf diesem Ball tat?",
@@ -213,12 +177,8 @@
                     "native": "He danced only four dances, though gentlemen were scarce; and, to my certain knowledge, more than one young lady was sitting down in want of a partner."
                 },
                 {
-                    "target": "Er machte nur vier Tänze mit, obgleich die Herren knapp waren, und wie ich mit Bestimmtheit weiß, blieb mehr als eine junge Dame aus Mangel an einem Partner sitzen.",
-                    "native": "Mr."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Darcy, you cannot deny the fact.\" \"I had not at that time the honour of knowing any lady in the assembly beyond my own party.\" \"True; and nobody can ever be introduced in a ball-room."
+                    "target": "Er machte nur vier Tänze mit, obgleich die Herren knapp waren, und wie ich mit Bestimmtheit weiß, blieb mehr als eine junge Dame aus Mangel an einem Partner sitzen. Mr.",
+                    "native": "Mr. Darcy, you cannot deny the fact.\" \"I had not at that time the honour of knowing any lady in the assembly beyond my own party.\" \"True; and nobody can ever be introduced in a ball-room."
                 },
                 {
                     "target": "Darcy, diese Tatsache können Sie nicht leugnen.\" \"Ich hatte zu dieser Zeit nicht die Ehre, außer meinen Freunden irgendeine andere Dame aus der Gesellschaft zu kennen.\" \"Richtig; und in einem Ballsaal kann auch niemand vorgestellt werden.",

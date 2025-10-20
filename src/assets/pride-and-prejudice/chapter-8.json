@@ -12,12 +12,8 @@
                     "native": "At five o'clock the two ladies retired to dress, and at half-past six Elizabeth was summoned to dinner."
                 },
                 {
-                    "target": "Auf die höflichen Anfragen, die nun auf sie einstürmten – wobei sie das Vergnügen hatte, Mr.",
-                    "native": "To the civil inquiries which then poured in, and amongst which she had the pleasure of distinguishing the much superior solicitude of Mr."
-                },
-                {
-                    "target": "Bingleys Besorgnis als die einzig wirklich ernsthafte wahrzunehmen –, konnte sie keine günstige Antwort geben.",
-                    "native": "Bingley's, she could not make a very favourable answer."
+                    "target": "Auf die höflichen Anfragen, die nun auf sie einstürmten – wobei sie das Vergnügen hatte, Mr. Bingleys Besorgnis als die einzig wirklich ernsthafte wahrzunehmen –, konnte sie keine günstige Antwort geben.",
+                    "native": "To the civil inquiries which then poured in, and amongst which she had the pleasure of distinguishing the much superior solicitude of Mr. Bingley's, she could not make a very favourable answer."
                 },
                 {
                     "target": "Jane ging es auf keinen Fall besser.",
@@ -45,32 +41,20 @@
             "pageNumber": 2,
             "sentences": [
                 {
-                    "target": "Außer ihm nahm kaum einer Notiz von ihr.",
-                    "native": "Miss Bingley was engrossed by Mr."
+                    "target": "Außer ihm nahm kaum einer Notiz von ihr. Miss Bingley war ganz von Mr.",
+                    "native": "Miss Bingley was engrossed by Mr. Darcy, her sister scarcely less so; and as for Mr."
                 },
                 {
-                    "target": "Miss Bingley war ganz von Mr.",
-                    "native": "Darcy, her sister scarcely less so; and as for Mr."
-                },
-                {
-                    "target": "Darcy gefangengenommen, und ihre Schwester kaum weniger; und was Mr.",
-                    "native": "Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to eat, drink, and play at cards; who, when he found her to prefer a plain dish to a ragout, had nothing to say to her."
-                },
-                {
-                    "target": "Hurst anging, neben dem Elizabeth saß, so war er ein träger Mensch, der nur lebte, um zu essen, zu trinken und Karten zu spielen, und der ihr, als er feststellte, daß sie eine einfache Speise dem Ragout vorzog, nichts mehr zu sagen hatte.",
-                    "native": "When dinner was over, she returned directly to Jane, and Miss Bingley began abusing her as soon as she was out of the room."
+                    "target": "Darcy gefangengenommen, und ihre Schwester kaum weniger; und was Mr. Hurst anging, neben dem Elizabeth saß, so war er ein träger Mensch, der nur lebte, um zu essen, zu trinken und Karten zu spielen, und der ihr, als er feststellte, daß sie eine einfache Speise dem Ragout vorzog, nichts mehr zu sagen hatte.",
+                    "native": "Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to eat, drink, and play at cards; who, when he found her to prefer a plain dish to a ragout, had nothing to say to her. When dinner was over, she returned directly to Jane, and Miss Bingley began abusing her as soon as she was out of the room."
                 },
                 {
                     "target": "Als das Dinner beendet war, kehrte Elizabeth sofort zu Jane zurück; und kaum hatte sie den Raum verlassen, als Miss Bingley sie auch schon zu verunglimpfen begann.",
                     "native": "Her manners were pronounced to be very bad indeed, a mixture of pride and impertinence; she had no conversation, no style, no beauty."
                 },
                 {
-                    "target": "Ihre Umgangsformen wurden für wirklich außerordentlich schlecht erklärt, für eine Mischung aus Stolz und Ungehörigkeit; und sie habe keine Lebensart, keine Vornehmheit, keinen Geschmack, keine Schönheit.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Hurst thought the same, and added: \"She has nothing, in short, to recommend her, but being an excellent walker."
+                    "target": "Ihre Umgangsformen wurden für wirklich außerordentlich schlecht erklärt, für eine Mischung aus Stolz und Ungehörigkeit; und sie habe keine Lebensart, keine Vornehmheit, keinen Geschmack, keine Schönheit. Mrs.",
+                    "native": "Mrs. Hurst thought the same, and added: \"She has nothing, in short, to recommend her, but being an excellent walker."
                 },
                 {
                     "target": "Hurst meinte das gleiche und fügte hinzu: \"Kurz gesagt, sie hat nichts, das sie empfehlen könnte, außer daß sie eine ausgezeichnete Fußgängerin ist.",
@@ -106,12 +90,8 @@
                     "native": "I thought Miss Elizabeth Bennet looked remarkably well when she came into the room this morning."
                 },
                 {
-                    "target": "Ihr schmutziges Unterkleid habe ich gar nicht bemerkt.\" \"Sie haben es doch gewiß gesehen, Mr.",
-                    "native": "Her dirty petticoat quite escaped my notice.\" \"You observed it, Mr."
-                },
-                {
-                    "target": "Darcy\", sagte Miss Bingley, \"und ich bin geneigt zu glauben, daß Sie es nicht gern sähen, wenn Ihre Schwester sich so zum Gespött machte.\" \"Gewiß nicht.\" \"Drei, vier oder fünf Meilen, oder wie viele es immer waren, knöcheltief im Schmutz, und allein, ganz allein!",
-                    "native": "Darcy, I am sure,\" said Miss Bingley; \"and I am inclined to think that you would not wish to see your sister make such an exhibition.\" \"Certainly not.\" \"To walk three miles, or four miles, or five miles, or whatever it is, above her ankles in dirt, and alone, quite alone!"
+                    "target": "Ihr schmutziges Unterkleid habe ich gar nicht bemerkt.\" \"Sie haben es doch gewiß gesehen, Mr. Darcy\", sagte Miss Bingley, \"und ich bin geneigt zu glauben, daß Sie es nicht gern sähen, wenn Ihre Schwester sich so zum Gespött machte.\" \"Gewiß nicht.\" \"Drei, vier oder fünf Meilen, oder wie viele es immer waren, knöcheltief im Schmutz, und allein, ganz allein!",
+                    "native": "Her dirty petticoat quite escaped my notice.\" \"You observed it, Mr. Darcy, I am sure,\" said Miss Bingley; \"and I am inclined to think that you would not wish to see your sister make such an exhibition.\" \"Certainly not.\" \"To walk three miles, or four miles, or five miles, or whatever it is, above her ankles in dirt, and alone, quite alone!"
                 }
             ]
         },
@@ -123,12 +103,8 @@
                     "native": "What could she mean by it?"
                 },
                 {
-                    "target": "Mir scheint, dies läßt eine abscheuliche Art dünkelhafter Unabhängigkeit erkennen, eine äußerst provinzielle Gleichgültigkeit gegenüber Anstand und Schicklichkeit.\" \"Es läßt eine Liebe zu ihrer Schwester erkennen, die sehr einnehmend ist\", sagte Bingley. \"Ich fürchte, Mr.",
-                    "native": "It seems to me to show an abominable sort of conceited independence, a most country-town indifference to decorum.\" \"It shows an affection for her sister that is very pleasing,\" said Bingley. \"I am afraid, Mr."
-                },
-                {
-                    "target": "Darcy\", bemerkte Miss Bingley halb flüsternd, \"daß dieses Abenteuer Ihre Bewunderung für ihre schönen Augen ziemlich beeinträchtigt hat.\" \"Ganz und gar nicht\", entgegnete er, \"sie hatten sogar noch mehr Glanz bekommen durch die Bewegung im Freien.\" Darauf folgte eine kurze Pause, bis Mrs.",
-                    "native": "Darcy,\" observed Miss Bingley in a half whisper, \"that this adventure has rather affected your admiration of her fine eyes.\" \"Not at all,\" he replied; \"they were brightened by the exercise.\" A short pause followed this speech, and Mrs."
+                    "target": "Mir scheint, dies läßt eine abscheuliche Art dünkelhafter Unabhängigkeit erkennen, eine äußerst provinzielle Gleichgültigkeit gegenüber Anstand und Schicklichkeit.\" \"Es läßt eine Liebe zu ihrer Schwester erkennen, die sehr einnehmend ist\", sagte Bingley. \"Ich fürchte, Mr. Darcy\", bemerkte Miss Bingley halb flüsternd, \"daß dieses Abenteuer Ihre Bewunderung für ihre schönen Augen ziemlich beeinträchtigt hat.\" \"Ganz und gar nicht\", entgegnete er, \"sie hatten sogar noch mehr Glanz bekommen durch die Bewegung im Freien.\" Darauf folgte eine kurze Pause, bis Mrs.",
+                    "native": "It seems to me to show an abominable sort of conceited independence, a most country-town indifference to decorum.\" \"It shows an affection for her sister that is very pleasing,\" said Bingley. \"I am afraid, Mr. Darcy,\" observed Miss Bingley in a half whisper, \"that this adventure has rather affected your admiration of her fine eyes.\" \"Not at all,\" he replied; \"they were brightened by the exercise.\" A short pause followed this speech, and Mrs."
                 },
                 {
                     "target": "Hurst wieder begann: \"Ich habe eine außerordentlich hohe Meinung von Jane Bennet, sie ist wirklich ein reizendes Mädchen, und ich wünsche von ganzem Herzen, daß sie sich einmal gut verheiratet.",
@@ -160,32 +136,20 @@
                     "native": "On entering the drawing-room she found the whole party at loo, and was immediately invited to join them; but suspecting them to be playing high she declined it, and making her sister the excuse, said she would amuse herself for the short time she could stay below, with a book."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Mr."
+                    "target": "Mr. Hurst sah sie erstaunt an. \"Ziehen Sie Lesen dem Kartenspiel vor?\" fragte er. \"Das ist recht seltsam.\" \"Miss Eliza Bennet verachtet Karten\", sagte Miss Bingley. \"Sie ist eine eifrige Leserin und hat an nichts anderem Vergnügen.\" \"Ich verdiene weder ein solches Lob noch einen solchen Tadel\", rief Elizabeth, \"ich bin keine so eifrige Leserin und habe Vergnügen an vielen Dingen.\" \"Gewiß haben Sie Vergnügen daran, Ihre Schwester zu pflegen\", sagte Bingley, \"und ich hoffe, es wird sich bald noch steigern, wenn Sie sehen, daß sie wieder bei guter Gesundheit ist.\" Elizabeth dankte ihm von Herzen und ging dann zu einem Tisch, auf dem ein paar Bücher lagen.",
+                    "native": "Mr. Hurst looked at her with astonishment. \"Do you prefer reading to cards?\" said he; \"that is rather singular.\" \"Miss Eliza Bennet,\" said Miss Bingley, \"despises cards."
                 },
                 {
-                    "target": "Hurst sah sie erstaunt an. \"Ziehen Sie Lesen dem Kartenspiel vor?\" fragte er. \"Das ist recht seltsam.\" \"Miss Eliza Bennet verachtet Karten\", sagte Miss Bingley. \"Sie ist eine eifrige Leserin und hat an nichts anderem Vergnügen.\" \"Ich verdiene weder ein solches Lob noch einen solchen Tadel\", rief Elizabeth, \"ich bin keine so eifrige Leserin und habe Vergnügen an vielen Dingen.\" \"Gewiß haben Sie Vergnügen daran, Ihre Schwester zu pflegen\", sagte Bingley, \"und ich hoffe, es wird sich bald noch steigern, wenn Sie sehen, daß sie wieder bei guter Gesundheit ist.\" Elizabeth dankte ihm von Herzen und ging dann zu einem Tisch, auf dem ein paar Bücher lagen.",
-                    "native": "Hurst looked at her with astonishment. \"Do you prefer reading to cards?\" said he; \"that is rather singular.\" \"Miss Eliza Bennet,\" said Miss Bingley, \"despises cards."
+                    "target": "Er bot ihr sofort an, noch andere zu holen – alles, was seine Bibliothek bereithielt. \"Ich wünschte, meine Sammlung wäre umfangreicher, zu Ihrem Nutzen und meiner Ehre; aber ich bin ein träger Mensch, und obgleich ich nicht viele Bücher besitze, habe ich noch nicht einmal in alle hineingesehen.\" Elizabeth versicherte ihm, daß sie mit dem, was im Zimmer war, vollkommen zufrieden sei. \"Ich wundere mich darüber, daß mein Vater nur eine so kleine Büchersammlung hinterlassen hat\", sagte Miss Bingley. \"Was für eine wunderbare Bibliothek Sie in Pemberley haben, Mr. Darcy!\" \"Sie sollte schon gut sein\", erwiderte er, \"sie ist das Werk vieler Generationen.\" \"Und Sie haben auch selbst noch so vieles hinzugefügt, Sie kaufen ja ständig Bücher.\" \"Das Vernachlässigen einer Familienbibliothek in Zeiten wie diesen könnte ich auch nicht begreifen.\" \"Vernachlässigen!",
+                    "native": "She is a great reader, and has no pleasure in anything else.\" \"I deserve neither such praise nor such censure,\" cried Elizabeth; \"I am not a great reader, and I have pleasure in many things.\" \"In nursing your sister I am sure you have pleasure,\" said Bingley; \"and I hope it will be soon increased by seeing her quite well.\" Elizabeth thanked him from her heart, and then walked towards the table where a few books were lying. He immediately offered to fetch her others—all that his library afforded. \"And I wish my collection were larger for your benefit and my own credit; but I am an idle fellow, and though I have not many, I have more than I ever looked into.\" Elizabeth assured him that she could suit herself perfectly with those in the room. \"I am astonished,\" said Miss Bingley, \"that my father should have left so small a collection of books."
                 },
                 {
-                    "target": "Er bot ihr sofort an, noch andere zu holen – alles, was seine Bibliothek bereithielt. \"Ich wünschte, meine Sammlung wäre umfangreicher, zu Ihrem Nutzen und meiner Ehre; aber ich bin ein träger Mensch, und obgleich ich nicht viele Bücher besitze, habe ich noch nicht einmal in alle hineingesehen.\" Elizabeth versicherte ihm, daß sie mit dem, was im Zimmer war, vollkommen zufrieden sei. \"Ich wundere mich darüber, daß mein Vater nur eine so kleine Büchersammlung hinterlassen hat\", sagte Miss Bingley. \"Was für eine wunderbare Bibliothek Sie in Pemberley haben, Mr.",
-                    "native": "She is a great reader, and has no pleasure in anything else.\" \"I deserve neither such praise nor such censure,\" cried Elizabeth; \"I am not a great reader, and I have pleasure in many things.\" \"In nursing your sister I am sure you have pleasure,\" said Bingley; \"and I hope it will be soon increased by seeing her quite well.\" Elizabeth thanked him from her heart, and then walked towards the table where a few books were lying."
+                    "target": "Ich bin sicher, Sie vernachlässigen nichts, was zu den Schönheiten dieses vortrefflichen Hauses beiträgt. Charles, wenn du dein Haus baust, dann wünschte ich, es würde wenigstens halb so wunderbar wie Pemberley.\" \"Das wünsche ich mir auch.\" \"Aber ich würde dir wirklich raten, in derselben Gegend etwas zu kaufen und Pemberley als eine Art Modell zu nehmen.",
+                    "native": "What a delightful library you have at Pemberley, Mr. Darcy!\" \"It ought to be good,\" he replied, \"it has been the work of many generations.\" \"And then you have added so much to it yourself, you are always buying books.\" \"I cannot comprehend the neglect of a family library in such days as these.\" \"Neglect!"
                 },
                 {
-                    "target": "Darcy!\" \"Sie sollte schon gut sein\", erwiderte er, \"sie ist das Werk vieler Generationen.\" \"Und Sie haben auch selbst noch so vieles hinzugefügt, Sie kaufen ja ständig Bücher.\" \"Das Vernachlässigen einer Familienbibliothek in Zeiten wie diesen könnte ich auch nicht begreifen.\" \"Vernachlässigen!",
-                    "native": "He immediately offered to fetch her others—all that his library afforded. \"And I wish my collection were larger for your benefit and my own credit; but I am an idle fellow, and though I have not many, I have more than I ever looked into.\" Elizabeth assured him that she could suit herself perfectly with those in the room. \"I am astonished,\" said Miss Bingley, \"that my father should have left so small a collection of books."
-                },
-                {
-                    "target": "Ich bin sicher, Sie vernachlässigen nichts, was zu den Schönheiten dieses vortrefflichen Hauses beiträgt.",
-                    "native": "What a delightful library you have at Pemberley, Mr."
-                },
-                {
-                    "target": "Charles, wenn du dein Haus baust, dann wünschte ich, es würde wenigstens halb so wunderbar wie Pemberley.\" \"Das wünsche ich mir auch.\" \"Aber ich würde dir wirklich raten, in derselben Gegend etwas zu kaufen und Pemberley als eine Art Modell zu nehmen.",
-                    "native": "Darcy!\" \"It ought to be good,\" he replied, \"it has been the work of many generations.\" \"And then you have added so much to it yourself, you are always buying books.\" \"I cannot comprehend the neglect of a family library in such days as these.\" \"Neglect!"
-                },
-                {
-                    "target": "Es gibt keine schönere Grafschaft in England als Derbyshire.\" \"Für mein Leben gern; ich werde Pemberley selbst erwerben, wenn Darcy es verkauft.\" \"Ich spreche von dem, was möglich ist, Charles.\" \"Auf mein Wort, Caroline, ich würde meinen, Pemberley ist eher durch Kauf zu haben als durch Nachahmung.\" Elizabeth war von dem, was gesprochen wurde, so gefangengenommen, daß ihr sehr wenig Aufmerksamkeit für ihr Buch übrigblieb; und bald legte sie es gänzlich beiseite, ging zum Kartentisch hinüber und stellte sich zwischen Mr.",
-                    "native": "I am sure you neglect nothing that can add to the beauties of that noble place."
+                    "target": "Es gibt keine schönere Grafschaft in England als Derbyshire.\" \"Für mein Leben gern; ich werde Pemberley selbst erwerben, wenn Darcy es verkauft.\" \"Ich spreche von dem, was möglich ist, Charles.\" \"Auf mein Wort, Caroline, ich würde meinen, Pemberley ist eher durch Kauf zu haben als durch Nachahmung.\" Elizabeth war von dem, was gesprochen wurde, so gefangengenommen, daß ihr sehr wenig Aufmerksamkeit für ihr Buch übrigblieb; und bald legte sie es gänzlich beiseite, ging zum Kartentisch hinüber und stellte sich zwischen Mr. Bingley und seine ältere Schwester, um dem Spiel zuzuschauen. \"Ist Miss Darcy sehr gewachsen seit dem Frühling?\" fragte Miss Bingley. \"Wird sie so groß werden wie ich?\" \"Ich denke schon.",
+                    "native": "I am sure you neglect nothing that can add to the beauties of that noble place. Charles, when you build your house, I wish it may be half as delightful as Pemberley.\" \"I wish it may.\" \"But I would really advise you to make your purchase in that neighbourhood, and take Pemberley for a kind of model."
                 }
             ]
         },
@@ -193,16 +157,8 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Bingley und seine ältere Schwester, um dem Spiel zuzuschauen. \"Ist Miss Darcy sehr gewachsen seit dem Frühling?\" fragte Miss Bingley. \"Wird sie so groß werden wie ich?\" \"Ich denke schon.",
-                    "native": "Charles, when you build your house, I wish it may be half as delightful as Pemberley.\" \"I wish it may.\" \"But I would really advise you to make your purchase in that neighbourhood, and take Pemberley for a kind of model."
-                },
-                {
-                    "target": "Sie ist jetzt etwa so groß wie Miss Elizabeth Bennet, oder eher noch größer.\" \"Wie es mich verlangt, sie wiederzusehen!",
-                    "native": "There is not a finer county in England than Derbyshire.\" \"With all my heart; I will buy Pemberley itself if Darcy will sell it.\" \"I am talking of possibilities, Charles.\" \"Upon my word, Caroline, I should think it more possible to get Pemberley by purchase than by imitation.\" Elizabeth was so much caught with what passed, as to leave her very little attention for her book; and soon laying it wholly aside, she drew near the card-table, and stationed herself between Mr."
-                },
-                {
-                    "target": "Mir ist noch nie ein Mädchen begegnet, das mich so entzückt hat.",
-                    "native": "Bingley and his eldest sister, to observe the game. \"Is Miss Darcy much grown since the spring?\" said Miss Bingley; \"will she be as tall as I am?\" \"I think she will."
+                    "target": "Sie ist jetzt etwa so groß wie Miss Elizabeth Bennet, oder eher noch größer.\" \"Wie es mich verlangt, sie wiederzusehen! Mir ist noch nie ein Mädchen begegnet, das mich so entzückt hat.",
+                    "native": "There is not a finer county in England than Derbyshire.\" \"With all my heart; I will buy Pemberley itself if Darcy will sell it.\" \"I am talking of possibilities, Charles.\" \"Upon my word, Caroline, I should think it more possible to get Pemberley by purchase than by imitation.\" Elizabeth was so much caught with what passed, as to leave her very little attention for her book; and soon laying it wholly aside, she drew near the card-table, and stationed herself between Mr. Bingley and his eldest sister, to observe the game. \"Is Miss Darcy much grown since the spring?\" said Miss Bingley; \"will she be as tall as I am?\" \"I think she will."
                 },
                 {
                     "target": "Diese Haltung und diese Umgangsformen!",
@@ -246,12 +202,8 @@
                     "native": "The word is applied to many a woman who deserves it no otherwise than by netting a purse or covering a screen."
                 },
                 {
-                    "target": "Und ich habe niemals solche Fähigkeiten, so viel Geschmack, so viel Fleiß und Hingabe und so viel Vornehmheit, wie Sie es beschreiben, vereint gesehen.\" Mrs.",
-                    "native": "But I am very far from agreeing with you in your estimation of ladies in general."
-                },
-                {
-                    "target": "Hurst und Miss Bingley protestierten heftig gegen die Ungerechtigkeit, die in solchen Zweifeln lag, und erklärten beide empört, daß sie viele Frauen kennen würden, die dieser Beschreibung entsprachen; doch dann rief Mr.",
-                    "native": "I cannot boast of knowing more than half-a-dozen, in the whole range of my acquaintance, that are really accomplished.\" \"Nor I, I am sure,\" said Miss Bingley. \"Then,\" observed Elizabeth, \"you must comprehend a great deal in your idea of an accomplished woman.\" \"Yes, I do comprehend a great deal in it.\" \"Oh! certainly,\" cried his faithful assistant, \"no one can be really esteemed accomplished who does not greatly surpass what is usually met with."
+                    "target": "Und ich habe niemals solche Fähigkeiten, so viel Geschmack, so viel Fleiß und Hingabe und so viel Vornehmheit, wie Sie es beschreiben, vereint gesehen.\" Mrs. Hurst und Miss Bingley protestierten heftig gegen die Ungerechtigkeit, die in solchen Zweifeln lag, und erklärten beide empört, daß sie viele Frauen kennen würden, die dieser Beschreibung entsprachen; doch dann rief Mr.",
+                    "native": "But I am very far from agreeing with you in your estimation of ladies in general. I cannot boast of knowing more than half-a-dozen, in the whole range of my acquaintance, that are really accomplished.\" \"Nor I, I am sure,\" said Miss Bingley. \"Then,\" observed Elizabeth, \"you must comprehend a great deal in your idea of an accomplished woman.\" \"Yes, I do comprehend a great deal in it.\" \"Oh! certainly,\" cried his faithful assistant, \"no one can be really esteemed accomplished who does not greatly surpass what is usually met with."
                 },
                 {
                     "target": "Hurst sie mit bitteren Klagen zur Ordnung, weil sie dem Spiel nicht mit der nötigen Aufmerksamkeit folgten.",
@@ -267,47 +219,30 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Aber meiner Meinung nach ist das ein verächtlicher Kunstgriff, eine ganz armselige List.\" \"Zweifellos\", erwiderte Darcy, an den diese Bemerkung vor allem gerichtet war, \"liegt all diesen Listen, die Damen zuweilen anzuwenden geruhen, um jemand für sich einzunehmen, eine niedrige Gesinnung zugrunde.",
-                    "native": "I never saw such capacity, and taste, and application, and elegance, as you describe united.\" Mrs."
-                },
-                {
-                    "target": "Was immer nach Verschlagenheit aussieht, ist verabscheuungswürdig.\" Miss Bingley war nicht so ganz zufrieden mit dieser Antwort und deshalb nicht geneigt, das Thema fortzusetzen.",
-                    "native": "Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered this description, when Mr."
+                    "target": "Aber meiner Meinung nach ist das ein verächtlicher Kunstgriff, eine ganz armselige List.\" \"Zweifellos\", erwiderte Darcy, an den diese Bemerkung vor allem gerichtet war, \"liegt all diesen Listen, die Damen zuweilen anzuwenden geruhen, um jemand für sich einzunehmen, eine niedrige Gesinnung zugrunde. Was immer nach Verschlagenheit aussieht, ist verabscheuungswürdig.\" Miss Bingley war nicht so ganz zufrieden mit dieser Antwort und deshalb nicht geneigt, das Thema fortzusetzen.",
+                    "native": "I never saw such capacity, and taste, and application, and elegance, as you describe united.\" Mrs. Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered this description, when Mr."
                 },
                 {
                     "target": "Elizabeth kam nur noch einmal herunter, um ihnen zu sagen, daß es ihrer Schwester schlechter ginge und daß sie sie nicht allein lassen könne.",
                     "native": "Hurst called them to order, with bitter complaints of their inattention to what was going forward."
                 },
                 {
-                    "target": "Bingley drang darauf, daß sofort nach Mr.",
-                    "native": "As all conversation was thereby at an end, Elizabeth soon afterwards left the room. \"Elizabeth Bennet,\" said Miss Bingley, when the door was closed on her, \"is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own; and with many men, I dare say, it succeeds."
+                    "target": "Bingley drang darauf, daß sofort nach Mr. Jones geschickt werden solle, während seine Schwestern – da sie überzeugt waren, daß kein ärztlicher Rat auf dem Lande von irgendwelchem Nutzen sein könne – empfahlen, einen Eilboten nach einem der berühmtesten Ärzte in der Stadt zu schicken.",
+                    "native": "As all conversation was thereby at an end, Elizabeth soon afterwards left the room. \"Elizabeth Bennet,\" said Miss Bingley, when the door was closed on her, \"is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own; and with many men, I dare say, it succeeds. But, in my opinion, it is a paltry device, a very mean art.\" \"Undoubtedly,\" replied Darcy, to whom this remark was chiefly addressed, \"there is a meanness in all the arts which ladies sometimes condescend to employ for captivation."
                 },
                 {
-                    "target": "Jones geschickt werden solle, während seine Schwestern – da sie überzeugt waren, daß kein ärztlicher Rat auf dem Lande von irgendwelchem Nutzen sein könne – empfahlen, einen Eilboten nach einem der berühmtesten Ärzte in der Stadt zu schicken.",
-                    "native": "But, in my opinion, it is a paltry device, a very mean art.\" \"Undoubtedly,\" replied Darcy, to whom this remark was chiefly addressed, \"there is a meanness in all the arts which ladies sometimes condescend to employ for captivation."
+                    "target": "Davon wollte Elizabeth nichts hören, war aber nicht abgeneigt, sich dem Vorschlag des Bruders zu fügen; und so wurde beschlossen, am frühen Morgen nach Mr. Jones zu schicken, falls es Miss Bennet nicht entschieden besser ginge.",
+                    "native": "Whatever bears affinity to cunning is despicable.\" Miss Bingley was not so entirely satisfied with this reply as to continue the subject. Elizabeth joined them again only to say that her sister was worse, and that she could not leave her."
                 },
                 {
-                    "target": "Davon wollte Elizabeth nichts hören, war aber nicht abgeneigt, sich dem Vorschlag des Bruders zu fügen; und so wurde beschlossen, am frühen Morgen nach Mr.",
-                    "native": "Whatever bears affinity to cunning is despicable.\" Miss Bingley was not so entirely satisfied with this reply as to continue the subject."
-                },
-                {
-                    "target": "Jones zu schicken, falls es Miss Bennet nicht entschieden besser ginge.",
-                    "native": "Elizabeth joined them again only to say that her sister was worse, and that she could not leave her."
-                },
-                {
-                    "target": "Bingley war sehr beunruhigt, und seine Schwestern erklärten, sie seien ganz unglücklich.",
-                    "native": "Bingley urged Mr."
+                    "target": "Bingley war sehr beunruhigt, und seine Schwestern erklärten, sie seien ganz unglücklich. Sie milderten jedoch ihr Elend nach dem Abendessen durch Singen von Duetten, während er nichts Besseres zur Erleichterung für seine Gefühle finden konnte, als der Haushälterin Anweisung zu geben, der kranken Dame und ihrer Schwester alle erdenkliche Aufmerksamkeit zuteil werden zu lassen. * sehr belebte Straße in London; wahrscheinlich Wortspiel mit cheap/billig. * ein Kartenspiel",
+                    "native": "Bingley urged Mr. Jones being sent for immediately; while his sisters, convinced that no country advice could be of any service, recommended an express to town for one of the most eminent physicians."
                 }
             ]
         },
         {
             "pageNumber": 9,
-            "sentences": [
-                {
-                    "target": "Sie milderten jedoch ihr Elend nach dem Abendessen durch Singen von Duetten, während er nichts Besseres zur Erleichterung für seine Gefühle finden konnte, als der Haushälterin Anweisung zu geben, der kranken Dame und ihrer Schwester alle erdenkliche Aufmerksamkeit zuteil werden zu lassen. * sehr belebte Straße in London; wahrscheinlich Wortspiel mit cheap/billig. * ein Kartenspiel",
-                    "native": "Jones being sent for immediately; while his sisters, convinced that no country advice could be of any service, recommended an express to town for one of the most eminent physicians."
-                }
-            ]
+            "sentences": []
         }
     ]
 }

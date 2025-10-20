@@ -415,12 +415,8 @@
             "pageNumber": 12,
             "sentences": [
                 {
-                    "target": "Mrs.",
-                    "native": "Kitty was the only one who shed tears; but she did weep from vexation and envy."
-                },
-                {
-                    "target": "Bennet war sehr wortreich in ihren guten Wünschen für das Glück ihrer Tochter, und sie schärfte ihr nachdrücklich ein, nur ja keine Gelegenheit zu versäumen, sich so viel wie möglich zu amüsieren – ein Rat, von dem man mit der größten Wahrscheinlichkeit annehmen konnte, daß er befolgt werden würde; und bei der lärmenden Glückseligkeit, mit der Lydia selbst sich verabschiedete, wurde das leise Lebewohl ihrer Schwestern gänzlich überhört.",
-                    "native": "Mrs."
+                    "target": "Mrs. Bennet war sehr wortreich in ihren guten Wünschen für das Glück ihrer Tochter, und sie schärfte ihr nachdrücklich ein, nur ja keine Gelegenheit zu versäumen, sich so viel wie möglich zu amüsieren – ein Rat, von dem man mit der größten Wahrscheinlichkeit annehmen konnte, daß er befolgt werden würde; und bei der lärmenden Glückseligkeit, mit der Lydia selbst sich verabschiedete, wurde das leise Lebewohl ihrer Schwestern gänzlich überhört.",
+                    "native": "Kitty was the only one who shed tears; but she did weep from vexation and envy. Mrs."
                 }
             ]
         }

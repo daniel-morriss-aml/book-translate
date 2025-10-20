@@ -8,12 +8,8 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Es war in der zweiten Maiwoche, als die drei jungen Damen zusammen von Gracechurch Street nach der Stadt ... in Hertfordshire aufbrachen; und als sie sich dem verabredeten Gasthof näherten, wohin ihnen Mr.",
-                    "native": "It was the second week in May, in which the three young ladies set out together from Gracechurch Street for the town of ——, in Hertfordshire; and, as they drew near the appointed inn where Mr."
-                },
-                {
-                    "target": "Bennets Kutsche entgegenkommen sollte, erblickten sie schon bald – als Zeichen der Pünktlichkeit des Kutschers – Kitty und Lydia, die aus dem oben gelegenen Speisesaal heraussahen.",
-                    "native": "Bennet's carriage was to meet them, they quickly perceived, in token of the coachman's punctuality, both Kitty and Lydia looking out of a dining-room up stairs."
+                    "target": "Es war in der zweiten Maiwoche, als die drei jungen Damen zusammen von Gracechurch Street nach der Stadt ... in Hertfordshire aufbrachen; und als sie sich dem verabredeten Gasthof näherten, wohin ihnen Mr. Bennets Kutsche entgegenkommen sollte, erblickten sie schon bald – als Zeichen der Pünktlichkeit des Kutschers – Kitty und Lydia, die aus dem oben gelegenen Speisesaal heraussahen.",
+                    "native": "It was the second week in May, in which the three young ladies set out together from Gracechurch Street for the town of ——, in Hertfordshire; and, as they drew near the appointed inn where Mr. Bennet's carriage was to meet them, they quickly perceived, in token of the coachman's punctuality, both Kitty and Lydia looking out of a dining-room up stairs."
                 },
                 {
                     "target": "Die beiden Mädchen befanden sich schon über eine Stunde am Ort, glücklich damit beschäftigt, eine Putzmacherin gegenüber aufzusuchen, einen Wachtposten zu beobachten und Salat und Gurken anzurichten.",
@@ -164,28 +160,16 @@
                     "native": "She is almost three-and-twenty!"
                 },
                 {
-                    "target": "Sie sagt, Lizzy hätte Mr.",
-                    "native": "Lord, how ashamed I should be of not being married before three-and-twenty!"
+                    "target": "Sie sagt, Lizzy hätte Mr. Collins doch lieber nehmen sollen; aber ich glaube, das wäre nicht sehr vergnüglich gewesen.",
+                    "native": "Lord, how ashamed I should be of not being married before three-and-twenty! My aunt Phillips wants you so to get husbands, you can't think."
                 },
                 {
-                    "target": "Collins doch lieber nehmen sollen; aber ich glaube, das wäre nicht sehr vergnüglich gewesen.",
-                    "native": "My aunt Phillips wants you so to get husbands, you can't think."
+                    "target": "Gott, wie gerne würde ich vor euch allen verheiratet sein, dann würde ich euch als Anstandsdame zu all den Bällen begleiten. – Du lieber Himmel, was hatten wir neulich für einen Spaß bei Colonel Forster! Kitty und ich sollten den Tag dort verbringen, und Mrs.",
+                    "native": "She says Lizzy had better have taken Mr. Collins; but I do not think there would have been any fun in it."
                 },
                 {
-                    "target": "Gott, wie gerne würde ich vor euch allen verheiratet sein, dann würde ich euch als Anstandsdame zu all den Bällen begleiten. – Du lieber Himmel, was hatten wir neulich für einen Spaß bei Colonel Forster!",
-                    "native": "She says Lizzy had better have taken Mr."
-                },
-                {
-                    "target": "Kitty und ich sollten den Tag dort verbringen, und Mrs.",
-                    "native": "Collins; but I do not think there would have been any fun in it."
-                },
-                {
-                    "target": "Forster versprach, am Abend einen kleinen Tanz zu veranstalten (übrigens, Mrs.",
-                    "native": "Lord! how I should like to be married before any of you; and then I would chaperon you about to all the balls."
-                },
-                {
-                    "target": "Forster und ich sind solche guten Freunde!); sie lud dazu die beiden Harringtons ein, aber Harriet war krank, also mußte Pen allein kommen; und was glaubt ihr, was wir dann gemacht haben?",
-                    "native": "Dear me! we had such a good piece of fun the other day at Colonel Forster's."
+                    "target": "Forster versprach, am Abend einen kleinen Tanz zu veranstalten (übrigens, Mrs. Forster und ich sind solche guten Freunde!); sie lud dazu die beiden Harringtons ein, aber Harriet war krank, also mußte Pen allein kommen; und was glaubt ihr, was wir dann gemacht haben?",
+                    "native": "Lord! how I should like to be married before any of you; and then I would chaperon you about to all the balls. Dear me! we had such a good piece of fun the other day at Colonel Forster's."
                 }
             ]
         },
@@ -193,12 +177,8 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Wir steckten Chamberlayne in Frauenkleider, damit er als Dame gelten konnte – stellt euch vor, was das für ein Spaß war!",
-                    "native": "Kitty and me were to spend the day there, and Mrs."
-                },
-                {
-                    "target": "Kein Mensch wußte es, nur der Colonel und Mrs.",
-                    "native": "Forster promised to have a little dance in the evening; (by the bye, Mrs."
+                    "target": "Wir steckten Chamberlayne in Frauenkleider, damit er als Dame gelten konnte – stellt euch vor, was das für ein Spaß war! Kein Mensch wußte es, nur der Colonel und Mrs.",
+                    "native": "Kitty and me were to spend the day there, and Mrs. Forster promised to have a little dance in the evening; (by the bye, Mrs."
                 },
                 {
                     "target": "Forster und Kitty und ich – und die Tante, wir mußten uns nämlich ein Kleid von ihr ausleihen.",
@@ -209,30 +189,22 @@
                     "native": "We dressed up Chamberlayne in woman's clothes on purpose to pass for a lady, only think what fun!"
                 },
                 {
-                    "target": "Als Denny, Wickham und Pratt und noch zwei oder drei andere Männer reinkamen, haben sie ihn nicht im mindesten erkannt.",
-                    "native": "Not a soul knew of it, but Colonel and Mrs."
-                },
-                {
-                    "target": "Gott, wie hab ich gelacht, und Mrs.",
-                    "native": "Forster, and Kitty and me, except my aunt, for we were forced to borrow one of her gowns; and you cannot imagine how well he looked!"
+                    "target": "Als Denny, Wickham und Pratt und noch zwei oder drei andere Männer reinkamen, haben sie ihn nicht im mindesten erkannt. Gott, wie hab ich gelacht, und Mrs.",
+                    "native": "Not a soul knew of it, but Colonel and Mrs. Forster, and Kitty and me, except my aunt, for we were forced to borrow one of her gowns; and you cannot imagine how well he looked!"
                 },
                 {
                     "target": "Forster auch.",
                     "native": "When Denny, and Wickham, and Pratt, and two or three more of the men came in, they did not know him in the least."
                 },
                 {
-                    "target": "Ich dachte, ich würde sterben vor Lachen.",
-                    "native": "Lord! how I laughed! and so did Mrs."
+                    "target": "Ich dachte, ich würde sterben vor Lachen. Das hat die Männer natürlich Verdacht schöpfen lassen, und sie haben dann bald rausgefunden, was los war.\" Mit derlei Geschichten und Späßen von ihren Tanzabenden bemühte sich Lydia, unterstützt von Kittys Bemerkungen und Ergänzungen, ihre Begleiterinnen während des ganzen Weges nach Longbourn zu unterhalten.",
+                    "native": "Lord! how I laughed! and so did Mrs. Forster."
                 }
             ]
         },
         {
             "pageNumber": 7,
             "sentences": [
-                {
-                    "target": "Das hat die Männer natürlich Verdacht schöpfen lassen, und sie haben dann bald rausgefunden, was los war.\" Mit derlei Geschichten und Späßen von ihren Tanzabenden bemühte sich Lydia, unterstützt von Kittys Bemerkungen und Ergänzungen, ihre Begleiterinnen während des ganzen Weges nach Longbourn zu unterhalten.",
-                    "native": "Forster."
-                },
                 {
                     "target": "Elizabeth hörte so wenig wie möglich zu, aber vor der häufigen Erwähnung von Wickhams Namen gab es kein Entrinnen.",
                     "native": "I thought I should have died."
@@ -246,30 +218,18 @@
                     "native": "Elizabeth listened as little as she could, but there was no escaping the frequent mention of Wickham's name."
                 },
                 {
-                    "target": "Bennet war hocherfreut, Jane in ungeminderter Schönheit wiederzusehen, und mehr als einmal während des Dinners sagte Mr.",
-                    "native": "Their reception at home was most kind."
+                    "target": "Bennet war hocherfreut, Jane in ungeminderter Schönheit wiederzusehen, und mehr als einmal während des Dinners sagte Mr. Bennet aus einem inneren Bedürfnis heraus: \"Ich bin froh, daß du wieder da bist, Lizzy.\" Es war eine große Gesellschaft im Speisezimmer versammelt, denn fast die ganze Familie Lucas war gekommen, um Maria abzuholen und die Neuigkeiten zu hören, denn es waren vielerlei Dinge, die sie beschäftigten.",
+                    "native": "Their reception at home was most kind. Mrs."
                 },
                 {
-                    "target": "Bennet aus einem inneren Bedürfnis heraus: \"Ich bin froh, daß du wieder da bist, Lizzy.\" Es war eine große Gesellschaft im Speisezimmer versammelt, denn fast die ganze Familie Lucas war gekommen, um Maria abzuholen und die Neuigkeiten zu hören, denn es waren vielerlei Dinge, die sie beschäftigten.",
-                    "native": "Mrs."
-                },
-                {
-                    "target": "Lady Lucas erkundigte sich über den Tisch hinweg bei Maria nach dem Wohlergehen ihrer ältesten Tochter und nach deren Geflügel; Mrs.",
-                    "native": "Bennet rejoiced to see Jane in undiminished beauty; and more than once during dinner did Mr."
-                },
-                {
-                    "target": "Bennet war gleich doppelt beschäftigt – auf der einen Seite holte sie von Jane, die ein Stück von ihr weg saß, einen Bericht über die gegenwärtige Mode ein, auf der anderen gab sie ihn an die jüngeren Miss Lucas weiter; und Lydia zählte mit einer Stimme, die die anderen noch übertönte, allen, die es hören wollten, die verschiedenen Vergnügungen des Vormittags auf. \"Oh, Mary\", sagte sie, \"ich wünschte, du wärst mitgekommen, wir hatten ja solchen Spaß!",
-                    "native": "Bennet say voluntarily to Elizabeth: \"I am glad you are come back, Lizzy.\" Their party in the dining-room was large, for almost all the Lucases came to meet Maria and hear the news; and various were the subjects that occupied them: Lady Lucas was inquiring of Maria, after the welfare and poultry of her eldest daughter; Mrs."
+                    "target": "Lady Lucas erkundigte sich über den Tisch hinweg bei Maria nach dem Wohlergehen ihrer ältesten Tochter und nach deren Geflügel; Mrs. Bennet war gleich doppelt beschäftigt – auf der einen Seite holte sie von Jane, die ein Stück von ihr weg saß, einen Bericht über die gegenwärtige Mode ein, auf der anderen gab sie ihn an die jüngeren Miss Lucas weiter; und Lydia zählte mit einer Stimme, die die anderen noch übertönte, allen, die es hören wollten, die verschiedenen Vergnügungen des Vormittags auf. \"Oh, Mary\", sagte sie, \"ich wünschte, du wärst mitgekommen, wir hatten ja solchen Spaß! Kitty und ich haben in der Kutsche alle Vorhänge zugezogen und so getan, als wäre niemand drin; und ich hätte das den ganzen Weg so gemacht, wenn es Kitty nicht schlecht geworden wäre; und als wir zum George kamen, haben wir uns, meine ich, sehr nobel gezeigt, wir haben nämlich die anderen drei mit dem feinsten kalten Lunch der Welt bewirtet; und wenn du mitgekommen wärst, hätten wir dich auch eingeladen.",
+                    "native": "Bennet rejoiced to see Jane in undiminished beauty; and more than once during dinner did Mr. Bennet say voluntarily to Elizabeth: \"I am glad you are come back, Lizzy.\" Their party in the dining-room was large, for almost all the Lucases came to meet Maria and hear the news; and various were the subjects that occupied them: Lady Lucas was inquiring of Maria, after the welfare and poultry of her eldest daughter; Mrs. Bennet was doubly engaged, on one hand collecting an account of the present fashions from Jane, who sat some way below her, and, on the other, retailing them all to the younger Lucases; and Lydia, in a voice rather louder than any other person's, was enumerating the various pleasures of the morning to anybody who would hear her. \"Oh!"
                 }
             ]
         },
         {
             "pageNumber": 8,
             "sentences": [
-                {
-                    "target": "Kitty und ich haben in der Kutsche alle Vorhänge zugezogen und so getan, als wäre niemand drin; und ich hätte das den ganzen Weg so gemacht, wenn es Kitty nicht schlecht geworden wäre; und als wir zum George kamen, haben wir uns, meine ich, sehr nobel gezeigt, wir haben nämlich die anderen drei mit dem feinsten kalten Lunch der Welt bewirtet; und wenn du mitgekommen wärst, hätten wir dich auch eingeladen.",
-                    "native": "Bennet was doubly engaged, on one hand collecting an account of the present fashions from Jane, who sat some way below her, and, on the other, retailing them all to the younger Lucases; and Lydia, in a voice rather louder than any other person's, was enumerating the various pleasures of the morning to anybody who would hear her. \"Oh!"
-                },
                 {
                     "target": "Und als wir dann abfahren wollten, gab es einen Riesenspaß!",
                     "native": "Mary,\" said she, \"I wish you had gone with us, for we had such fun!"
@@ -324,12 +284,8 @@
                     "native": "There was another reason too for her opposition."
                 },
                 {
-                    "target": "Daß die Verlegung des Regiments herannahte, war in der Tat ein Trost für sie, der nicht mit Worten zu beschreiben war.",
-                    "native": "She dreaded seeing Mr."
-                },
-                {
-                    "target": "In zwei Wochen würden sie fortgehen, und wenn sie einmal fort waren, so hoffte sie, würde es nichts mehr geben, das sie seinetwegen noch plagen könnte.",
-                    "native": "Wickham again, and was resolved to avoid it as long as possible."
+                    "target": "Daß die Verlegung des Regiments herannahte, war in der Tat ein Trost für sie, der nicht mit Worten zu beschreiben war. In zwei Wochen würden sie fortgehen, und wenn sie einmal fort waren, so hoffte sie, würde es nichts mehr geben, das sie seinetwegen noch plagen könnte.",
+                    "native": "She dreaded seeing Mr. Wickham again, and was resolved to avoid it as long as possible."
                 },
                 {
                     "target": "Sie war erst wenige Stunden zu Hause, als sie feststellte, daß der Plan, nach Brighton zu gehen, von dem Lydia im Gasthaus eine Andeutung gemacht hatte, zwischen den Eltern häufig diskutiert wurde.",
