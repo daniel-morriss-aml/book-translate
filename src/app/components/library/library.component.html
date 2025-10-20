@@ -2,7 +2,9 @@
     <!-- Header -->
     <header class="bg-white dark:bg-gray-800 shadow-sm p-6">
         <div class="max-w-6xl mx-auto">
-            <h1 class="text-3xl font-bold text-gray-800 dark:text-gray-100">📚 Book Library</h1>
+            <h1 class="text-3xl font-bold text-gray-800 dark:text-gray-100">
+                📚 Book Library
+            </h1>
             <p class="text-sm text-gray-600 dark:text-gray-400 mt-2">
                 Select a book to start reading with progressive translation
             </p>
@@ -10,23 +12,27 @@
     </header>
 
     <!-- Loading State -->
-    <div *ngIf="loading" class="flex items-center justify-center p-12">
-        <div class="text-xl text-gray-600 dark:text-gray-400">Loading library...</div>
+    @if (loading) {
+    <div class="flex items-center justify-center p-12">
+        <div class="text-xl text-gray-600 dark:text-gray-400">
+            Loading library...
+        </div>
     </div>
+    }
 
     <!-- Error State -->
-    <div
-        *ngIf="error && !loading"
-        class="flex items-center justify-center p-12"
-    >
+    @if (error && !loading) {
+    <div class="flex items-center justify-center p-12">
         <div class="text-xl text-red-600 dark:text-red-400">{{ error }}</div>
     </div>
+    }
 
     <!-- Books Grid -->
-    <main *ngIf="!loading && !error" class="max-w-6xl mx-auto p-8">
+    @if (!loading && !error) {
+    <main class="max-w-6xl mx-auto p-8">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            @for (book of books; track book.id) {
             <div
-                *ngFor="let book of books"
                 (click)="openBook(book)"
                 class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition transform hover:-translate-y-1"
             >
@@ -40,7 +46,9 @@
                     </div>
 
                     <!-- Book Title -->
-                    <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-2">
+                    <h2
+                        class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-2"
+                    >
                         {{ book.title }}
                     </h2>
 
@@ -50,7 +58,9 @@
                     </p>
 
                     <!-- Description -->
-                    <p class="text-sm text-gray-700 dark:text-gray-300 flex-1 mb-4">
+                    <p
+                        class="text-sm text-gray-700 dark:text-gray-300 flex-1 mb-4"
+                    >
                         {{ book.description }}
                     </p>
 
@@ -62,14 +72,15 @@
                     </button>
                 </div>
             </div>
+            }
         </div>
 
         <!-- Empty State -->
-        <div
-            *ngIf="books.length === 0"
-            class="text-center text-gray-500 dark:text-gray-400 py-12"
-        >
+        @if (books.length === 0) {
+        <div class="text-center text-gray-500 dark:text-gray-400 py-12">
             No books available in the library.
         </div>
+        }
     </main>
+    }
 </div>

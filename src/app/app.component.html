@@ -6,8 +6,11 @@
         title="Toggle theme"
         aria-label="Toggle theme"
     >
-        <span class="text-2xl" *ngIf="!isDarkMode">🌙</span>
-        <span class="text-2xl" *ngIf="isDarkMode">☀️</span>
+        @if (!isDarkMode) {
+        <span class="text-2xl">🌙</span>
+        } @if (isDarkMode) {
+        <span class="text-2xl">☀️</span>
+        }
     </button>
 
     <router-outlet></router-outlet>
