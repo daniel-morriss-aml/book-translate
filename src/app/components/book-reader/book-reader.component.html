@@ -1,21 +1,23 @@
 <div class="min-h-screen bg-gray-100 dark:bg-gray-900 flex flex-col">
     <!-- Loading State -->
-    <div *ngIf="loading" class="flex-1 flex items-center justify-center">
+    @if (loading) {
+    <div class="flex-1 flex items-center justify-center">
         <div class="text-xl text-gray-600 dark:text-gray-400">
             Loading book...
         </div>
     </div>
+    }
 
     <!-- Error State -->
-    <div
-        *ngIf="error && !loading"
-        class="flex-1 flex items-center justify-center"
-    >
+    @if (error && !loading) {
+    <div class="flex-1 flex items-center justify-center">
         <div class="text-xl text-red-600 dark:text-red-400">{{ error }}</div>
     </div>
+    }
 
     <!-- Book Reader -->
-    <div *ngIf="book && !loading && !error" class="flex-1 flex flex-col">
+    @if (book && !loading && !error) {
+    <div class="flex-1 flex flex-col">
         <!-- Header -->
         <header class="bg-white dark:bg-gray-800 shadow-sm p-4">
             <div class="max-w-4xl mx-auto flex items-center justify-between">
@@ -53,11 +55,9 @@
 
                 <!-- Sentences -->
                 <div class="space-y-0">
+                    @for (sentence of currentPage?.sentences; track
+                    sentence.target; let i = $index) {
                     <div
-                        *ngFor="
-                            let sentence of currentPage?.sentences;
-                            let i = index
-                        "
                         class="relative p-2 transition-colors duration-500 ease-in-out"
                         [class.bg-gray-800]="shouldShowNative(i) && !isDarkMode"
                         [class.bg-gray-100]="shouldShowNative(i) && isDarkMode"
@@ -79,15 +79,17 @@
                         </p>
 
                         <!-- Native Language (overlay with inverted color mode) -->
+                        @if (shouldShowNative(i)) {
                         <p
-                            *ngIf="shouldShowNative(i)"
                             class="absolute top-2 left-2 text-lg leading-relaxed font-medium transition-colors duration-500 ease-in-out"
                             [class.text-gray-200]="!isDarkMode"
                             [class.text-gray-800]="isDarkMode"
                         >
                             {{ sentence.native }}
                         </p>
+                        }
                     </div>
+                    }
                 </div>
 
                 <!-- Navigation Buttons -->
@@ -174,4 +176,5 @@
             </div>
         </footer>
     </div>
+    }
 </div>

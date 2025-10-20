@@ -11,7 +11,7 @@
                 </button>
             </div>
             <h1 class="text-3xl font-bold text-gray-800 dark:text-gray-100">
-                {{ book?.title || 'Chapters' }}
+                {{ book?.title || "Chapters" }}
             </h1>
             <p class="text-sm text-gray-600 dark:text-gray-400 mt-2">
                 Select a chapter to start reading
@@ -20,23 +20,27 @@
     </header>
 
     <!-- Loading State -->
-    <div *ngIf="loading" class="flex items-center justify-center p-12">
-        <div class="text-xl text-gray-600 dark:text-gray-400">Loading chapters...</div>
+    @if (loading) {
+    <div class="flex items-center justify-center p-12">
+        <div class="text-xl text-gray-600 dark:text-gray-400">
+            Loading chapters...
+        </div>
     </div>
+    }
 
     <!-- Error State -->
-    <div
-        *ngIf="error && !loading"
-        class="flex items-center justify-center p-12"
-    >
+    @if (error && !loading) {
+    <div class="flex items-center justify-center p-12">
         <div class="text-xl text-red-600 dark:text-red-400">{{ error }}</div>
     </div>
+    }
 
     <!-- Chapters Grid -->
-    <main *ngIf="!loading && !error" class="max-w-6xl mx-auto p-8">
+    @if (!loading && !error) {
+    <main class="max-w-6xl mx-auto p-8">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            @for (chapter of chapters; track chapter.id) {
             <div
-                *ngFor="let chapter of chapters"
                 (click)="openChapter(chapter)"
                 class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition transform hover:-translate-y-1"
             >
@@ -52,7 +56,9 @@
                     </div>
 
                     <!-- Chapter Title -->
-                    <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-4 text-center">
+                    <h2
+                        class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-4 text-center"
+                    >
                         {{ chapter.title }}
                     </h2>
 
@@ -64,14 +70,15 @@
                     </button>
                 </div>
             </div>
+            }
         </div>
 
         <!-- Empty State -->
-        <div
-            *ngIf="chapters.length === 0"
-            class="text-center text-gray-500 dark:text-gray-400 py-12"
-        >
+        @if (chapters.length === 0) {
+        <div class="text-center text-gray-500 dark:text-gray-400 py-12">
             No chapters available for this book.
         </div>
+        }
     </main>
+    }
 </div>
