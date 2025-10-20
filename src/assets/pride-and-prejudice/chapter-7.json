@@ -1,0 +1,378 @@
+{
+    "id": "pap-de-en-007",
+    "title": "Pride and Prejudice / Stolz und Vorurteil - Chapter 7",
+    "targetLanguage": "German",
+    "nativeLanguage": "English",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "sentences": [
+                {
+                    "target": "Mr.",
+                    "native": "Mr."
+                },
+                {
+                    "target": "Bennets Vermögen bestand fast ausschließlich aus einem Landbesitz, der zweitausend Pfund im Jahr einbrachte, der aber, zum Unglück seiner Töchter, mangels männlicher Erben einst einem entfernten Verwandten zufließen würde; und das Vermögen ihrer Mutter konnte, wenngleich es für ihre eigene Stellung im Leben vollauf genügte, die Unzulänglichkeit des seinen nur schlecht ausgleichen.",
+                    "native": "Bennet's property consisted almost entirely in an estate of two thousand a year, which, unfortunately for his daughters, was entailed, in default of heirs male, on a distant relation; and their mother's fortune, though ample for her situation in life, could but ill supply the deficiency of his."
+                },
+                {
+                    "target": "Ihr Vater war Anwalt in Meryton gewesen und hatte ihr viertausend Pfund hinterlassen.",
+                    "native": "Her father had been an attorney in Meryton, and had left her four thousand pounds."
+                },
+                {
+                    "target": "Sie hatte eine Schwester, verheiratet mit einem Mr.",
+                    "native": "She had a sister married to a Mr."
+                },
+                {
+                    "target": "Philips, der bei ihrem Vater juristischer Angestellter gewesen und dessen Nachfolger in der Kanzlei geworden war; und ein Bruder von ihr hatte sich in London in einem angesehenen Geschäftszweig niedergelassen.",
+                    "native": "Phillips, who had been a clerk to their father and succeeded him in the business, and a brother settled in London in a respectable line of trade."
+                },
+                {
+                    "target": "Das Dorf Longbourn war nur eine Meile von Meryton entfernt und deshalb äußerst bequem zu erreichen für die jungen Damen, die es gewöhnlich drei-oder viermal in der Woche dorthin trieb, um ihrer Tante und, gleich auf dem Wege, einem Hutgeschäft ihren Pflichtbesuch zu machen.",
+                    "native": "The village of Longbourn was only one mile from Meryton; a most convenient distance for the young ladies, who were usually tempted thither three or four times a week, to pay their duty to their aunt and to a milliner's shop just over the way."
+                },
+                {
+                    "target": "Die beiden Jüngsten der Familie, Catherine und Lydia, kamen dem besonders häufig nach; ihr Geist war unausgefüllter als der ihrer Schwestern, und wenn sich nichts Besseres bot, war ein Gang nach Meryton notwendig, um sich in den Vormittagsstunden die Zeit zu vertreiben und für den Abend Gesprächsstoff zu haben; und wie wenig Neuigkeiten es auf dem Lande im allgemeinen auch geben mochte, gelang es ihnen doch, von ihrer Tante immer wieder etwas zu erfahren.",
+                    "native": "The two youngest of the family, Catherine and Lydia, were particularly frequent in these attentions; their minds were more vacant than their sisters', and when nothing better offered, a walk to Meryton was necessary to amuse their morning hours and furnish conversation for the evening; and however bare of news the country in general might be, they always contrived to learn some from their aunt."
+                },
+                {
+                    "target": "Seit kurzer Zeit waren sie allerdings durch die Ankunft eines Bürgerwehrregiments in der Nachbarschaft sowohl mit Neuigkeiten als auch mit glücklicher Aufregung wohlversorgt.",
+                    "native": "At present, indeed, they were well supplied both with news and happiness by the recent arrival of a militia regiment in the neighbourhood; it was to remain the whole winter, and Meryton was the headquarters."
+                }
+            ]
+        },
+        {
+            "pageNumber": 2,
+            "sentences": [
+                {
+                    "target": "Das Regiment sollte den ganzen Winter über bleiben, und das Hauptquartier befand sich in Meryton.",
+                    "native": "Their visits to Mrs."
+                },
+                {
+                    "target": "Ihre Besuche bei Mrs.",
+                    "native": "Phillips were now productive of the most interesting intelligence."
+                },
+                {
+                    "target": "Philips lieferten ihnen nun die interessantesten Informationen.",
+                    "native": "Every day added something to their knowledge of the officers' names and connections."
+                },
+                {
+                    "target": "Jeder Tag brachte ihnen weitere Kenntnisse über Namen und Verbindungen der Offiziere.",
+                    "native": "Their lodgings were not long a secret, and at length they began to know the officers themselves."
+                },
+                {
+                    "target": "Ihre Unterkünfte blieben nicht lange geheim, und schließlich lernten sie auch die Offiziere selbst kennen.",
+                    "native": "Mr."
+                },
+                {
+                    "target": "Mr.",
+                    "native": "Phillips visited them all, and this opened to his nieces a store of felicity unknown before."
+                },
+                {
+                    "target": "Philips besuchte sie alle, und damit tat sich für seine Nichten eine Quelle bisher ungekannter Glückseligkeit auf.",
+                    "native": "They could talk of nothing but officers; and Mr."
+                },
+                {
+                    "target": "Sie konnten über nichts anderes mehr reden als über die Offiziere; und Mr.",
+                    "native": "Bingley's large fortune, the mention of which gave animation to their mother, was worthless in their eyes when opposed to the regimentals of an ensign."
+                }
+            ]
+        },
+        {
+            "pageNumber": 3,
+            "sentences": [
+                {
+                    "target": "Bingleys großes Vermögen, dessen Erwähnung ihre Mutter so belebte, war in ihren Augen ohne Bedeutung gegenüber der Uniform eines Fähnrichs.",
+                    "native": "After listening one morning to their effusions on this subject, Mr."
+                },
+                {
+                    "target": "Nachdem Mr.",
+                    "native": "Bennet coolly observed: \\\"From all that I can collect by your manner of talking, you must be two of the silliest girls in the country."
+                },
+                {
+                    "target": "Bennet eines Morgens ihren Ergüssen über dieses Thema zugehört hatte, bemerkte er kühl: \\\"Wie ich aus all euren Reden entnehmen kann, müßt ihr zwei der törichtsten Mädchen der ganzen Gegend sein.",
+                    "native": "I have suspected it some time, but I am now convinced.\\\" Catherine was disconcerted, and made no answer; but Lydia, with perfect indifference, continued to express her admiration of Captain Carter, and her hope of seeing him in the course of the day, as he was going the next morning to London. \\\"I am astonished, my dear,\\\" said Mrs."
+                },
+                {
+                    "target": "Ich habe das schon eine Zeitlang vermutet, aber nun bin ich davon überzeugt.\\\" Catherine war verwirrt und entgegnete nichts; doch Lydia fuhr mit völliger Unbekümmertheit fort, von ihrer Bewunderung für Captain Carter zu sprechen, und daß sie hoffe, ihn im Laufe des Tages noch zu sehen, da er am nächsten Morgen nach London fuhr. \\\"Ich bin erstaunt, mein Lieber\\\", sagte Mrs.",
+                    "native": "Bennet, \\\"that you should be so ready to think your own children silly."
+                },
+                {
+                    "target": "Bennet, \\\"daß du so leicht bereit bist, deine eigenen Kinder für töricht zu halten.",
+                    "native": "If I wished to think slightingly of anybody's children, it should not be of my own, however.\\\" \\\"If my children are silly, I must hope to be always sensible of it.\\\" \\\"Yes—but as it happens, they are all of them very clever.\\\" \\\"This is the only point, I flatter myself, on which we do not agree."
+                },
+                {
+                    "target": "Wenn ich abschätzig über irgend jemandes Kinder denken wollte, so wären es gewiß nicht meine eigenen.\\\" \\\"Wenn meine Kinder töricht sind, kann ich nur hoffen, daß mir das stets bewußt ist.\\\" \\\"Ja, aber wie die Sache liegt, sind sie alle sehr klug.\\\" \\\"Das ist der einzige Punkt, schmeichle ich mir, in dem wir nicht einer Meinung sind.",
+                    "native": "I had hoped that our sentiments coincided in every particular, but I must so far differ from you as to think our two youngest daughters uncommonly foolish.\\\" \\\"My dear Mr."
+                },
+                {
+                    "target": "Ich hatte gehofft, daß unsere Ansichten in jeder Einzelheit übereinstimmen würden, aber ich muß hier insofern von den deinen abweichen, als ich meine, daß unsere beiden jüngsten Töchter ungewöhnlich töricht sind.\\\" \\\"Mein lieber Mr.",
+                    "native": "Bennet, you must not expect such girls to have the sense of their father and mother."
+                },
+                {
+                    "target": "Bennet, du darfst doch nicht erwarten, daß solche Mädchen schon den Verstand ihres Vaters und ihrer Mutter haben.",
+                    "native": "When they get to our age, I dare say they will not think about officers any more than we do."
+                }
+            ]
+        },
+        {
+            "pageNumber": 4,
+            "sentences": [
+                {
+                    "target": "Wenn sie in unser Alter kommen, werden sie, wie ich wohl behaupten darf, nicht häufiger an Offiziere denken als wir.",
+                    "native": "I remember the time when I liked a red coat myself very well—and, indeed, so I do still at my heart; and if a smart young colonel, with five or six thousand a year, should want one of my girls I shall not say nay to him; and I thought Colonel Forster looked very becoming the other night at Sir William's in his regimentals.\\\" \\\"Mamma,\\\" cried Lydia, \\\"my aunt says that Colonel Forster and Captain Carter do not go so often to Miss Watson's as they did when they first came; she sees them now very often standing in Clarke's library.\\\" Mrs."
+                },
+                {
+                    "target": "Ich erinnere mich an die Zeit, als ich selbst sehr viel Gefallen an einem roten Rock fand – und das tue ich im Grunde meines Herzens sogar jetzt noch; und wenn ein schneidiger junger Colonel mit fünf-oder sechstausend im Jahr eine meiner Töchter wollte, würde ich nicht nein sagen; ich fand, Colonel Forster sah neulich bei Sir William sehr vorteilhaft in seiner Uniform aus.\\\" \\\"Mama\\\", rief Lydia, \\\"die Tante sagt, Colonel Forster und Captain Carter gehen nicht mehr so oft zu Miss Watson wie anfangs; sie sieht sie jetzt sehr oft in Clarkes Bibliothek.\\\" Mrs.",
+                    "native": "Bennet was prevented replying by the entrance of the footman with a note for Miss Bennet; it came from Netherfield, and the servant waited for an answer."
+                },
+                {
+                    "target": "Bennet kam nicht dazu, darauf zu antworten, da der Lakai mit einem Billett für Miss Bennet eintrat; es kam von Netherfield, und der Diener wartete auf eine Antwort.",
+                    "native": "Mrs."
+                },
+                {
+                    "target": "Mrs.",
+                    "native": "Bennet's eyes sparkled with pleasure, and she was eagerly calling out, while her daughter read, \\\"Well, Jane, who is it from?"
+                },
+                {
+                    "target": "Bennets Augen blitzten vor Vergnügen, und während ihre Tochter las, rief sie ungeduldig: \\\"Nun, Jane, von wem ist es?",
+                    "native": "What is it about?"
+                },
+                {
+                    "target": "Worum geht es?",
+                    "native": "What does he say?"
+                },
+                {
+                    "target": "Was schreibt er?",
+                    "native": "Well, Jane, make haste and tell us; make haste, my love.\\\" \\\"It is from Miss Bingley,\\\" said Jane, and then read it aloud. \\\"MY DEAR FRIEND,— \\\"If you are not so compassionate as to dine to-day with Louisa and me, we shall be in danger of hating each other for the rest of our lives, for a whole day's tete-a-tete between two women can never end without a quarrel."
+                },
+                {
+                    "target": "Also Jane, beeil dich und sag es uns, mach rasch, mein Schatz.\\\" \\\"Es ist von Miss Bingley\\\", sagte Jane und las es vor. \\\"Meine liebe Freundin!",
+                    "native": "Come as soon as you can on receipt of this."
+                }
+            ]
+        },
+        {
+            "pageNumber": 5,
+            "sentences": [
+                {
+                    "target": "Wenn Sie nicht Erbarmen haben und heute mit Louisa und mir dinieren wollen, werden wir Gefahr laufen, einander für den Rest unseres Lebens zu hassen, denn ein Tête-à-tête zweier Frauen, das einen ganzen Tag währt, kann niemals ohne Streit enden.",
+                    "native": "My brother and the gentlemen are to dine with the officers.—Yours ever, \\\"CAROLINE BINGLEY\\\" \\\"With the officers!\\\" cried Lydia. \\\"I wonder my aunt did not tell us of that.\\\" \\\"Dining out,\\\" said Mrs."
+                },
+                {
+                    "target": "Kommen Sie nach Erhalt dieses Billetts, sobald Sie können.",
+                    "native": "Bennet, \\\"that is very unlucky.\\\" \\\"Can I have the carriage?\\\" said Jane. \\\"No, my dear, you had better go on horseback, because it seems likely to rain; and then you must stay all night.\\\" \\\"That would be a good scheme,\\\" said Elizabeth, \\\"if you were sure that they would not offer to send her home.\\\" \\\"Oh! but the gentlemen will have Mr."
+                },
+                {
+                    "target": "Mein Bruder und die anderen Herren speisen heute mit den Offizieren.",
+                    "native": "Bingley's chaise to go to Meryton, and the Hursts have no horses to theirs.\\\" \\\"I had much rather go in the coach.\\\" \\\"But, my dear, your father cannot spare the horses, I am sure."
+                },
+                {
+                    "target": "Herzlichst, Ihre Caroline Bingley\\\" \\\"Mit den Offizieren!\\\" rief Lydia. \\\"Ich möchte wissen, warum die Tante mir das nicht erzählt hat.\\\" \\\"Er speist außer Haus\\\", sagte Mrs.",
+                    "native": "They are wanted in the farm, Mr."
+                },
+                {
+                    "target": "Bennet, \\\"das ist aber sehr unglücklich.\\\" \\\"Kann ich die Kutsche haben?\\\" fragte Jane. \\\"Nein, meine Liebe, du reitest besser hinüber, es scheint, daß es regnen wird, und dann mußt du über Nacht bleiben.\\\" \\\"Das wäre ein guter Plan\\\", sagte Elizabeth, \\\"wenn du sicher sein könntest, daß sie Jane nicht anbieten, sie nach Hause zu bringen.\\\" \\\"Ach, die Herren werden nach Meryton Mr.",
+                    "native": "Bennet, are they not?\\\" \\\"They are wanted in the farm much oftener than I can get them.\\\" \\\"But if you have got them to-day,\\\" said Elizabeth, \\\"my mother's purpose will be answered.\\\" She did at last extort from her father an acknowledgment that the horses were engaged."
+                },
+                {
+                    "target": "Bingleys Equipage genommen haben, und die Hursts haben keine eigenen Pferde.\\\" \\\"Ich würde viel lieber den Wagen nehmen.\\\" \\\"Aber, meine Liebe, dein Vater kann die Pferde bestimmt nicht entbehren.",
+                    "native": "Jane was therefore obliged to go on horseback, and her mother attended her to the door with many cheerful prognostics of a bad day."
+                },
+                {
+                    "target": "Sie werden auf dem Gut gebraucht, nicht wahr, Mr.",
+                    "native": "Her hopes were answered; Jane had not been gone long before it rained hard."
+                },
+                {
+                    "target": "Bennet, so ist es doch?\\\" \\\"Sie werden viel öfter auf dem Gut gebraucht, als sie mir zur Verfügung stehen.\\\" \\\"Aber wenn sie dir heute zur Verfügung stehen\\\", sagte Elizabeth, \\\"dann wäre doch Mamas Absicht erreicht.\\\" Sie rang ihrem Vater schließlich das Zugeständnis ab, daß die Pferde nicht abkömmlich seien.",
+                    "native": "Her sisters were uneasy for her, but her mother was delighted."
+                }
+            ]
+        },
+        {
+            "pageNumber": 6,
+            "sentences": [
+                {
+                    "target": "Jane war deshalb genötigt, nach Netherfield zu reiten, und ihre Mutter begleitete sie mit vielen munteren Prophezeiungen für schlechtes Wetter zur Tür.",
+                    "native": "The rain continued the whole evening without intermission; Jane certainly could not come back. \\\"This was a lucky idea of mine, indeed!\\\" said Mrs."
+                },
+                {
+                    "target": "Ihre Hoffnungen wurden erfüllt; Jane war noch nicht lange fort, als es heftig zu regnen begann.",
+                    "native": "Bennet more than once, as if the credit of making it rain were all her own."
+                },
+                {
+                    "target": "Ihre Schwestern waren ihretwegen beunruhigt, aber die Mutter freute sich.",
+                    "native": "Till the next morning, however, she was not aware of all the felicity of her contrivance."
+                },
+                {
+                    "target": "Es regnete ununterbrochen den ganzen Abend, Jane konnte mit Sicherheit nicht zurückkommen. \\\"Das war wirklich eine glückliche Idee von mir!\\\" sagte Mrs.",
+                    "native": "Breakfast was scarcely over when a servant from Netherfield brought the following note for Elizabeth: \\\"MY DEAREST LIZZY,— \\\"I find myself very unwell this morning, which, I suppose, is to be imputed to my getting wet through yesterday."
+                },
+                {
+                    "target": "Bennet mehr als einmal, als wäre es allein ihr Verdienst, daß es tatsächlich regnete.",
+                    "native": "My kind friends will not hear of my returning till I am better."
+                },
+                {
+                    "target": "Doch bis zum nächsten Morgen war sie sich des ganzen Segens, den ihr Einfall gebracht hatte, gar nicht bewußt.",
+                    "native": "They insist also on my seeing Mr."
+                },
+                {
+                    "target": "Das Frühstück war kaum vorbei, als ein Diener von Netherfield das folgende Billett für Elizabeth brachte. \\\"Meine liebste Lizzy!",
+                    "native": "Jones—therefore do not be alarmed if you should hear of his having been to me—and, excepting a sore throat and headache, there is not much the matter with me.—Yours, etc.\\\" \\\"Well, my dear,\\\" said Mr."
+                },
+                {
+                    "target": "Mir geht es heute morgen gar nicht gut, was vermutlich daher kommt, daß ich gestern völlig durchnäßt wurde.",
+                    "native": "Bennet, when Elizabeth had read the note aloud, \\\"if your daughter should have a dangerous fit of illness—if she should die, it would be a comfort to know that it was all in pursuit of Mr."
+                }
+            ]
+        },
+        {
+            "pageNumber": 7,
+            "sentences": [
+                {
+                    "target": "Meine gütigen Freunde wollen nichts von meiner Rückkehr nach Hause hören, ehe es mir nicht besser geht.",
+                    "native": "Bingley, and under your orders.\\\" \\\"Oh!"
+                },
+                {
+                    "target": "Sie bestehen auch darauf, daß Mr.",
+                    "native": "I am not afraid of her dying."
+                },
+                {
+                    "target": "Jones nach mir sieht.",
+                    "native": "People do not die of little trifling colds."
+                },
+                {
+                    "target": "Erschrecke deshalb nicht, wenn Du hören solltest, daß er bei mir gewesen ist, außer einer Halsentzündung und Kopfschmerzen fehlt mir eigentlich nichts.",
+                    "native": "She will be taken good care of."
+                },
+                {
+                    "target": "Deine, usw.\\\" \\\"Nun, meine Liebe\\\", sagte Mr.",
+                    "native": "As long as she stays there, it is all very well."
+                },
+                {
+                    "target": "Bennet, nachdem Elizabeth das Billett vorgelesen hatte, \\\"wenn deine Tochter ernstlich krank ist und wenn sie sterben sollte, wäre es doch ein Trost zu wissen, daß dies alles geschah, um Mr.",
+                    "native": "I would go and see her if I could have the carriage.\\\" Elizabeth, feeling really anxious, was determined to go to her, though the carriage was not to be had; and as she was no horsewoman, walking was her only alternative."
+                },
+                {
+                    "target": "Bingley einzufangen – und auf deine Anweisung.\\\" \\\"Oh, ich habe keineswegs Angst, daß sie sterben könnte.",
+                    "native": "She declared her resolution. \\\"How can you be so silly,\\\" cried her mother, \\\"as to think of such a thing, in all this dirt!"
+                },
+                {
+                    "target": "Man stirbt nicht gleich wegen einer unbedeutenden kleinen Erkältung.",
+                    "native": "You will not be fit to be seen when you get there.\\\" \\\"I shall be very fit to see Jane—which is all I want.\\\" \\\"Is this a hint to me, Lizzy,\\\" said her father, \\\"to send for the horses?\\\" \\\"No, indeed, I do not wish to avoid the walk."
+                }
+            ]
+        },
+        {
+            "pageNumber": 8,
+            "sentences": [
+                {
+                    "target": "Sie wird gut betreut werden.",
+                    "native": "The distance is nothing when one has a motive; only three miles."
+                },
+                {
+                    "target": "Solange sie dort bleibt, ist alles bestens.",
+                    "native": "I shall be back by dinner.\\\" \\\"I admire the activity of your benevolence,\\\" observed Mary, \\\"but every impulse of feeling should be guided by reason; and, in my opinion, exertion should always be in proportion to what is required.\\\" \\\"We will go as far as Meryton with you,\\\" said Catherine and Lydia."
+                },
+                {
+                    "target": "Ich würde sie besuchen, wenn ich die Kutsche haben könnte.\\\" Elizabeth war, da sie sich wirklich Sorgen machte, entschlossen, zu ihr zu gehen, obgleich die Kutsche nicht verfügbar war; und da sie nicht reiten konnte, war zu Fuß gehen die einzige Alternative.",
+                    "native": "Elizabeth accepted their company, and the three young ladies set off together. \\\"If we make haste,\\\" said Lydia, as they walked along, \\\"perhaps we may see something of Captain Carter before he goes.\\\" In Meryton they parted; the two youngest repaired to the lodgings of one of the officers' wives, and Elizabeth continued her walk alone, crossing field after field at a quick pace, jumping over stiles and springing over puddles with impatient activity, and finding herself at last within view of the house, with weary ankles, dirty stockings, and a face glowing with the warmth of exercise."
+                },
+                {
+                    "target": "Sie teilte den anderen ihren Beschluß mit. \\\"Wie kannst du nur so töricht sein\\\", rief ihre Mutter, \\\"und an so etwas denken, bei diesem ganzen Schmutz!",
+                    "native": "She was shown into the breakfast-parlour, where all but Jane were assembled, and where her appearance created a great deal of surprise."
+                },
+                {
+                    "target": "Du kannst dich gar nicht sehen lassen, wenn du dort ankommst.\\\" \\\"Ich werde mich sehr wohl sehen lassen können, um Jane zu besuchen – und das ist alles, was ich will.\\\" \\\"Ist das ein Wink für mich, Lizzy, nach den Pferden zu schicken?\\\" fragte der Vater. \\\"Aber nein, ich möchte mich nicht davor drücken, zu Fuß zu gehen.",
+                    "native": "That she should have walked three miles so early in the day, in such dirty weather, and by herself, was almost incredible to Mrs."
+                },
+                {
+                    "target": "Es ist überhaupt keine Entfernung, wenn man einen wirklichen Grund für den Gang hat – nur drei Meilen.",
+                    "native": "Hurst and Miss Bingley; and Elizabeth was convinced that they held her in contempt for it."
+                },
+                {
+                    "target": "Ich werde zum Dinner zurück sein.\\\" \\\"Ich bewundere deinen menschenfreundlichen Tatendrang\\\", bemerkte Mary, \\\"aber jede Gefühlsregung sollte von Vernunft geleitet sein; und meiner Meinung nach sollten besondere Mühen im richtigen Verhältnis zu dem stehen, was erforderlich ist.\\\" \\\"Wir werden bis Meryton mit dir gehen\\\", sagten Catherine und Lydia.",
+                    "native": "She was received, however, very politely by them; and in their brother's manners there was something better than politeness; there was good humour and kindness."
+                },
+                {
+                    "target": "Elizabeth war mit ihrer Begleitung einverstanden, und die drei jungen Damen machten sich zusammen auf den Weg. \\\"Wenn wir uns beeilen\\\", sagte Lydia unterwegs, \\\"sehen wir vielleicht noch Captain Carter, bevor er fortgeht.\\\" In Meryton trennten sie sich; die beiden jüngsten Schwestern begaben sich zu der Wohnung einer der Offiziersgattinnen, und Elizabeth ging allein weiter, überquerte raschen Schrittes ein Feld nach dem anderen, kletterte über Zauntritte, sprang mit ungeduldiger Behendigkeit über alle Tümpel und befand sich schließlich mit müden Beinen, schmutzigen Strümpfen und einem Gesicht, das von der Bewegung in der frischen Luft glühte, vor dem Haus.",
+                    "native": "Mr."
+                }
+            ]
+        },
+        {
+            "pageNumber": 9,
+            "sentences": [
+                {
+                    "target": "Sie wurde in das Frühstückszimmer geführt, wo alle außer Jane versammelt waren und ihr Erscheinen nur großes Erstaunen hervorrief. – Daß sie so früh am Tage bei solchem Schmutzwetter und ganz allein drei Meilen zu Fuß gegangen sein sollte, war für Mrs.",
+                    "native": "Darcy said very little, and Mr."
+                },
+                {
+                    "target": "Hurst und Miss Bingley beinahe unglaublich; und Elizabeth war überzeugt, daß man sie dafür verachtete.",
+                    "native": "Hurst nothing at all."
+                },
+                {
+                    "target": "Sie wurde jedoch sehr höflich von ihnen empfangen; aber im Verhalten ihres Bruders lag etwas Besseres als nur Höflichkeit, nämlich gute Laune und Freundlichkeit.",
+                    "native": "The former was divided between admiration of the brilliancy which exercise had given to her complexion, and doubt as to the occasion's justifying her coming so far alone."
+                },
+                {
+                    "target": "Mr.",
+                    "native": "The latter was thinking only of his breakfast."
+                },
+                {
+                    "target": "Darcy sagte sehr wenig und Mr.",
+                    "native": "Her inquiries after her sister were not very favourably answered."
+                },
+                {
+                    "target": "Hurst gar nichts.",
+                    "native": "Miss Bennet had slept ill, and though up, was very feverish, and not well enough to leave her room."
+                },
+                {
+                    "target": "Der erstere schwankte zwischen Bewunderung des Glanzes, den der Marsch in der frischen Luft ihrem Teint verliehen hatte, und dem Zweifel darüber, ob der Anlaß es rechtfertigte, daß sie ganz allein von so weit her gekommen war.",
+                    "native": "Elizabeth was glad to be taken to her immediately; and Jane, who had only been withheld by the fear of giving alarm or inconvenience from expressing in her note how much she longed for such a visit, was delighted at her entrance."
+                },
+                {
+                    "target": "Der letztere dachte nur an sein Frühstück.",
+                    "native": "She was not equal, however, to much conversation, and when Miss Bingley left them together, could attempt little besides expressions of gratitude for the extraordinary kindness she was treated with."
+                }
+            ]
+        },
+        {
+            "pageNumber": 10,
+            "sentences": [
+                {
+                    "target": "Auf ihre Erkundigungen nach ihrer Schwester bekam sie keine günstige Antwort.",
+                    "native": "Elizabeth silently attended her."
+                },
+                {
+                    "target": "Miss Bennet hatte schlecht geschlafen, und obgleich sie aufgestanden war, fieberte sie ziemlich, und es ging ihr nicht gut genug, um das Zimmer verlassen zu können.",
+                    "native": "When breakfast was over they were joined by the sisters; and Elizabeth began to like them herself, when she saw how much affection and solicitude they showed for Jane."
+                },
+                {
+                    "target": "Elizabeth war froh, daß man sie sogleich zu ihr führte; und Jane – die sich nur aus Furcht, Sorge und Ungelegenheiten zu bereiten, in ihrem Brief einer Äußerung enthalten hatte, wie sehr es sie nach einem solchen Besuch verlangte – war hocherfreut, als Elizabeth eintrat.",
+                    "native": "The apothecary came, and having examined his patient, said, as might be supposed, that she had caught a violent cold, and that they must endeavour to get the better of it; advised her to return to bed, and promised her some draughts."
+                },
+                {
+                    "target": "Sie war jedoch nicht imstande, viel zu sprechen, und als Miss Bingley die beiden allein gelassen hatte, konnte sie kaum mehr als ihre Dankbarkeit über die außerordentliche Freundlichkeit zum Ausdruck bringen, mit der sie behandelt wurde.",
+                    "native": "The advice was followed readily, for the feverish symptoms increased, and her head ached acutely."
+                },
+                {
+                    "target": "Elizabeth umsorgte sie schweigend.",
+                    "native": "Elizabeth did not quit her room for a moment; nor were the other ladies often absent; the gentlemen being out, they had, in fact, nothing to do elsewhere."
+                },
+                {
+                    "target": "Als das Frühstück vorüber war, gesellten sich die Schwestern zu ihnen, und Elizabeth mochte die beiden schließlich selbst, als sie sah, wieviel Zuneigung und Besorgtheit sie Jane entgegenbrachten.",
+                    "native": "When the clock struck three, Elizabeth felt that she must go, and very unwillingly said so."
+                },
+                {
+                    "target": "Der Apotheker kam, und nachdem er seine Patientin untersucht hatte, erklärte er, wie anzunehmen war, daß sie sich eine starke Erkältung zugezogen habe und man zusehen müsse, daß sie sich davon wieder erhole; und er riet ihr, sich wieder ins Bett zu legen und versprach ihr einige Arzneien.",
+                    "native": "Miss Bingley offered her the carriage, and she only wanted a little pressing to accept it, when Jane testified such concern in parting with her, that Miss Bingley was obliged to convert the offer of the chaise to an invitation to remain at Netherfield for the present."
+                },
+                {
+                    "target": "Der Rat wurde bereitwillig befolgt, denn die Fiebersymptome nahmen zu, und sie hatte heftige Kopfschmerzen.",
+                    "native": "Elizabeth most thankfully consented, and a servant was dispatched to Longbourn to acquaint the family with her stay and bring back a supply of clothes."
+                }
+            ]
+        }
+    ]
+}
