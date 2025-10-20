@@ -32,12 +32,12 @@
                     "native": "This information, however, startled Mrs."
                 },
                 {
-                    "target": "Bennet; sie wäre froh gewesen, hätte sie sich ebenso mit der Ansicht zufriedengeben können, daß ihre Tochter ihn durch die Ablehnung seines Antrags wirklich ermutigen wollte; aber sie wagte nicht, daran zu glauben, und konnte nicht umhin, ihm das zu sagen. \\\"Aber Sie können sich darauf verlassen, Mr.",
-                    "native": "Bennet; she would have been glad to be equally satisfied that her daughter had meant to encourage him by protesting against his proposals, but she dared not believe it, and could not help saying so. \\\"But, depend upon it, Mr."
+                    "target": "Bennet; sie wäre froh gewesen, hätte sie sich ebenso mit der Ansicht zufriedengeben können, daß ihre Tochter ihn durch die Ablehnung seines Antrags wirklich ermutigen wollte; aber sie wagte nicht, daran zu glauben, und konnte nicht umhin, ihm das zu sagen. \"Aber Sie können sich darauf verlassen, Mr.",
+                    "native": "Bennet; she would have been glad to be equally satisfied that her daughter had meant to encourage him by protesting against his proposals, but she dared not believe it, and could not help saying so. \"But, depend upon it, Mr."
                 },
                 {
-                    "target": "Collins\\\", fügte sie hinzu, \\\"daß Lizzy zur Vernunft gebracht wird.",
-                    "native": "Collins,\\\" she added, \\\"that Lizzy shall be brought to reason."
+                    "target": "Collins\", fügte sie hinzu, \"daß Lizzy zur Vernunft gebracht wird.",
+                    "native": "Collins,\" she added, \"that Lizzy shall be brought to reason."
                 }
             ]
         },
@@ -49,20 +49,20 @@
                     "native": "I will speak to her about it directly."
                 },
                 {
-                    "target": "Sie ist ein sehr eigensinniges und törichtes Mädchen und weiß nicht, was gut für sie ist; aber ich werde es ihr klarmachen.\\\" \\\"Verzeihen Sie, wenn ich Sie unterbreche, Madam\\\", rief Mr.",
-                    "native": "She is a very headstrong, foolish girl, and does not know her own interest but I will make her know it.\\\" \\\"Pardon me for interrupting you, madam,\\\" cried Mr."
+                    "target": "Sie ist ein sehr eigensinniges und törichtes Mädchen und weiß nicht, was gut für sie ist; aber ich werde es ihr klarmachen.\" \"Verzeihen Sie, wenn ich Sie unterbreche, Madam\", rief Mr.",
+                    "native": "She is a very headstrong, foolish girl, and does not know her own interest but I will make her know it.\" \"Pardon me for interrupting you, madam,\" cried Mr."
                 },
                 {
-                    "target": "Collins, \\\"aber wenn sie wirklich eigensinnig und töricht ist, dann weiß ich nicht, ob sie überhaupt eine so begehrenswerte Gattin für einen Mann in meiner Stellung wäre, der ich natürlich auf einen glücklichen Ehestand hoffe.",
-                    "native": "Collins; \\\"but if she is really headstrong and foolish, I know not whether she would altogether be a very desirable wife to a man in my situation, who naturally looks for happiness in the marriage state."
+                    "target": "Collins, \"aber wenn sie wirklich eigensinnig und töricht ist, dann weiß ich nicht, ob sie überhaupt eine so begehrenswerte Gattin für einen Mann in meiner Stellung wäre, der ich natürlich auf einen glücklichen Ehestand hoffe.",
+                    "native": "Collins; \"but if she is really headstrong and foolish, I know not whether she would altogether be a very desirable wife to a man in my situation, who naturally looks for happiness in the marriage state."
                 },
                 {
-                    "target": "Wenn sie also tatsächlich dabei bleibt, mein Werben zurückzuweisen, ist es vielleicht besser, sie nicht zu zwingen; denn wenn sie zu solchen Charakterfehlern neigt, könnte sie nicht viel zu meinem Glück beitragen.\\\" \\\"Mein Herr, Sie mißverstehen mich völlig\\\", sagte Mrs.",
-                    "native": "If therefore she actually persists in rejecting my suit, perhaps it were better not to force her into accepting me, because if liable to such defects of temper, she could not contribute much to my felicity.\\\" \\\"Sir, you quite misunderstand me,\\\" said Mrs."
+                    "target": "Wenn sie also tatsächlich dabei bleibt, mein Werben zurückzuweisen, ist es vielleicht besser, sie nicht zu zwingen; denn wenn sie zu solchen Charakterfehlern neigt, könnte sie nicht viel zu meinem Glück beitragen.\" \"Mein Herr, Sie mißverstehen mich völlig\", sagte Mrs.",
+                    "native": "If therefore she actually persists in rejecting my suit, perhaps it were better not to force her into accepting me, because if liable to such defects of temper, she could not contribute much to my felicity.\" \"Sir, you quite misunderstand me,\" said Mrs."
                 },
                 {
-                    "target": "Bennet erschrocken. \\\"Lizzy ist nur in solchen Dingen eigensinnig.",
-                    "native": "Bennet, alarmed. \\\"Lizzy is only headstrong in such matters as these."
+                    "target": "Bennet erschrocken. \"Lizzy ist nur in solchen Dingen eigensinnig.",
+                    "native": "Bennet, alarmed. \"Lizzy is only headstrong in such matters as these."
                 },
                 {
                     "target": "In allem anderen ist sie das gutmütigste Mädchen der Welt.",
@@ -73,8 +73,8 @@
                     "native": "I will go directly to Mr."
                 },
                 {
-                    "target": "Bennet gehen, und ich bin sicher, wir werden das sehr bald mit ihr klären.\\\" Sie gab ihm keine Zeit zu antworten, sondern eilte augenblicklich zu ihrem Gatten in die Bibliothek und rief: \\\"Ach, Mr.",
-                    "native": "Bennet, and we shall very soon settle it with her, I am sure.\\\" She would not give him time to reply, but hurrying instantly to her husband, called out as she entered the library, \\\"Oh!"
+                    "target": "Bennet gehen, und ich bin sicher, wir werden das sehr bald mit ihr klären.\" Sie gab ihm keine Zeit zu antworten, sondern eilte augenblicklich zu ihrem Gatten in die Bibliothek und rief: \"Ach, Mr.",
+                    "native": "Bennet, and we shall very soon settle it with her, I am sure.\" She would not give him time to reply, but hurrying instantly to her husband, called out as she entered the library, \"Oh!"
                 }
             ]
         },
@@ -90,16 +90,16 @@
                     "native": "Bennet, you are wanted immediately; we are all in an uproar."
                 },
                 {
-                    "target": "Collins zu heiraten; sie erklärt nämlich, daß sie ihn nicht will; und wenn du dich nicht beeilst, wird er es sich anders überlegen und sie nicht wollen.\\\" Mr.",
+                    "target": "Collins zu heiraten; sie erklärt nämlich, daß sie ihn nicht will; und wenn du dich nicht beeilst, wird er es sich anders überlegen und sie nicht wollen.\" Mr.",
                     "native": "You must come and make Lizzy marry Mr."
                 },
                 {
-                    "target": "Bennet blickte von seinem Buch auf, als sie eintrat, und sah sie mit vollkommener Gelassenheit an, die sich auch durch ihre Mitteilung nicht im geringsten änderte. \\\"Ich habe nicht das Vergnügen, dich zu verstehen\\\", sagte er, als sie zu Ende geredet hatte. \\\"Wovon sprichst du eigentlich?\\\" \\\"Von Mr.",
-                    "native": "Collins, for she vows she will not have him, and if you do not make haste he will change his mind and not have her.\\\" Mr."
+                    "target": "Bennet blickte von seinem Buch auf, als sie eintrat, und sah sie mit vollkommener Gelassenheit an, die sich auch durch ihre Mitteilung nicht im geringsten änderte. \"Ich habe nicht das Vergnügen, dich zu verstehen\", sagte er, als sie zu Ende geredet hatte. \"Wovon sprichst du eigentlich?\" \"Von Mr.",
+                    "native": "Collins, for she vows she will not have him, and if you do not make haste he will change his mind and not have her.\" Mr."
                 },
                 {
                     "target": "Collins und Lizzy.",
-                    "native": "Bennet raised his eyes from his book as she entered, and fixed them on her face with a calm unconcern which was not in the least altered by her communication. \\\"I have not the pleasure of understanding you,\\\" said he, when she had finished her speech. \\\"Of what are you talking?\\\" \\\"Of Mr."
+                    "native": "Bennet raised his eyes from his book as she entered, and fixed them on her face with a calm unconcern which was not in the least altered by her communication. \"I have not the pleasure of understanding you,\" said he, when she had finished her speech. \"Of what are you talking?\" \"Of Mr."
                 },
                 {
                     "target": "Lizzy erklärt, daß sie Mr.",
@@ -110,7 +110,7 @@
                     "native": "Lizzy declares she will not have Mr."
                 },
                 {
-                    "target": "Collins schon davon, daß er Lizzy nicht haben will.\\\" \\\"Und was soll ich dabei tun?",
+                    "target": "Collins schon davon, daß er Lizzy nicht haben will.\" \"Und was soll ich dabei tun?",
                     "native": "Collins, and Mr."
                 }
             ]
@@ -119,36 +119,36 @@
             "pageNumber": 4,
             "sentences": [
                 {
-                    "target": "Es scheint doch eine hoffnungslose Sache zu sein.\\\" \\\"Sprich du mit Lizzy darüber.",
-                    "native": "Collins begins to say that he will not have Lizzy.\\\" \\\"And what am I to do on the occasion?"
+                    "target": "Es scheint doch eine hoffnungslose Sache zu sein.\" \"Sprich du mit Lizzy darüber.",
+                    "native": "Collins begins to say that he will not have Lizzy.\" \"And what am I to do on the occasion?"
                 },
                 {
-                    "target": "Sage ihr, du bestehst darauf, daß sie ihn heiratet.\\\" \\\"Laß sie herunterrufen.",
-                    "native": "It seems an hopeless business.\\\" \\\"Speak to Lizzy about it yourself."
+                    "target": "Sage ihr, du bestehst darauf, daß sie ihn heiratet.\" \"Laß sie herunterrufen.",
+                    "native": "It seems an hopeless business.\" \"Speak to Lizzy about it yourself."
                 },
                 {
-                    "target": "Dann soll sie meine Meinung hören.\\\" Mrs.",
-                    "native": "Tell her that you insist upon her marrying him.\\\" \\\"Let her be called down."
+                    "target": "Dann soll sie meine Meinung hören.\" Mrs.",
+                    "native": "Tell her that you insist upon her marrying him.\" \"Let her be called down."
                 },
                 {
-                    "target": "Bennet läutete, und Miss Elizabeth wurde in die Bibliothek bestellt. \\\"Komm her, mein Kind\\\", rief ihr Vater, als sie erschien. \\\"Ich habe dich in einer wichtigen Angelegenheit kommen lassen.",
-                    "native": "She shall hear my opinion.\\\" Mrs."
+                    "target": "Bennet läutete, und Miss Elizabeth wurde in die Bibliothek bestellt. \"Komm her, mein Kind\", rief ihr Vater, als sie erschien. \"Ich habe dich in einer wichtigen Angelegenheit kommen lassen.",
+                    "native": "She shall hear my opinion.\" Mrs."
                 },
                 {
                     "target": "Wie ich höre, hat dir Mr.",
-                    "native": "Bennet rang the bell, and Miss Elizabeth was summoned to the library. \\\"Come here, child,\\\" cried her father as she appeared. \\\"I have sent for you on an affair of importance."
+                    "native": "Bennet rang the bell, and Miss Elizabeth was summoned to the library. \"Come here, child,\" cried her father as she appeared. \"I have sent for you on an affair of importance."
                 },
                 {
                     "target": "Collins einen Heiratsantrag gemacht.",
                     "native": "I understand that Mr."
                 },
                 {
-                    "target": "Ist das richtig?\\\" Elizabeth bejahte es. \\\"Sehr gut – und diesen Heiratsantrag hast du abgelehnt?\\\" \\\"Ja, Sir.\\\" \\\"Also gut.",
+                    "target": "Ist das richtig?\" Elizabeth bejahte es. \"Sehr gut – und diesen Heiratsantrag hast du abgelehnt?\" \"Ja, Sir.\" \"Also gut.",
                     "native": "Collins has made you an offer of marriage."
                 },
                 {
                     "target": "Kommen wir nun zu dem entscheidenden Punkt.",
-                    "native": "Is it true?\\\" Elizabeth replied that it was. \\\"Very well—and this offer of marriage you have refused?\\\" \\\"I have, sir.\\\" \\\"Very well."
+                    "native": "Is it true?\" Elizabeth replied that it was. \"Very well—and this offer of marriage you have refused?\" \"I have, sir.\" \"Very well."
                 }
             ]
         },
@@ -164,28 +164,28 @@
                     "native": "Your mother insists upon your accepting it."
                 },
                 {
-                    "target": "Bennet?\\\" \\\"Jawohl, sonst will ich sie nie wiedersehen.\\\" \\\"Dir steht eine unglückliche Wahl bevor, Elizabeth.",
+                    "target": "Bennet?\" \"Jawohl, sonst will ich sie nie wiedersehen.\" \"Dir steht eine unglückliche Wahl bevor, Elizabeth.",
                     "native": "Is it not so, Mrs."
                 },
                 {
                     "target": "Von diesem Tag an wirst du für einen deiner Eltern eine Fremde sein.",
-                    "native": "Bennet?\\\" \\\"Yes, or I will never see her again.\\\" \\\"An unhappy alternative is before you, Elizabeth."
+                    "native": "Bennet?\" \"Yes, or I will never see her again.\" \"An unhappy alternative is before you, Elizabeth."
                 },
                 {
                     "target": "Deine Mutter will dich nie mehr sehen, wenn du Mr.",
                     "native": "From this day you must be a stranger to one of your parents."
                 },
                 {
-                    "target": "Collins nicht heiratest, und ich will dich nie mehr sehen, wenn du es tust.\\\" Elizabeth mußte lächeln über eine solche Schlußfolgerung bei einer solchen Vorrede; doch Mrs.",
+                    "target": "Collins nicht heiratest, und ich will dich nie mehr sehen, wenn du es tust.\" Elizabeth mußte lächeln über eine solche Schlußfolgerung bei einer solchen Vorrede; doch Mrs.",
                     "native": "Your mother will never see you again if you do not marry Mr."
                 },
                 {
-                    "target": "Bennet, die sich eingebildet hatte, daß ihr Gatte die Sache so sehen würde, wie sie es wünschte, war schrecklich enttäuscht. \\\"Was soll das heißen, Mr.",
-                    "native": "Collins, and I will never see you again if you do.\\\" Elizabeth could not but smile at such a conclusion of such a beginning, but Mrs."
+                    "target": "Bennet, die sich eingebildet hatte, daß ihr Gatte die Sache so sehen würde, wie sie es wünschte, war schrecklich enttäuscht. \"Was soll das heißen, Mr.",
+                    "native": "Collins, and I will never see you again if you do.\" Elizabeth could not but smile at such a conclusion of such a beginning, but Mrs."
                 },
                 {
                     "target": "Bennet, daß du so redest.",
-                    "native": "Bennet, who had persuaded herself that her husband regarded the affair as she wished, was excessively disappointed. \\\"What do you mean, Mr."
+                    "native": "Bennet, who had persuaded herself that her husband regarded the affair as she wished, was excessively disappointed. \"What do you mean, Mr."
                 }
             ]
         },
@@ -193,20 +193,20 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Du hast mir versprochen, darauf zu bestehen, daß sie ihn heiraten soll.\\\" \\\"Meine Liebe\\\", entgegnete ihr Gatte, \\\"ich muß dich um zwei kleine Gefallen bitten.",
+                    "target": "Du hast mir versprochen, darauf zu bestehen, daß sie ihn heiraten soll.\" \"Meine Liebe\", entgegnete ihr Gatte, \"ich muß dich um zwei kleine Gefallen bitten.",
                     "native": "Bennet, in talking this way?"
                 },
                 {
                     "target": "Erstens, daß du mir in dieser Angelegenheit den freien Gebrauch meines Verstandes und zweitens den meines Zimmers gestatten möchtest.",
-                    "native": "You promised me to insist upon her marrying him.\\\" \\\"My dear,\\\" replied her husband, \\\"I have two small favours to request."
+                    "native": "You promised me to insist upon her marrying him.\" \"My dear,\" replied her husband, \"I have two small favours to request."
                 },
                 {
-                    "target": "Ich würde mich freuen, sobald wie möglich meine Bibliothek wieder für mich zu haben.\\\" Doch trotz der Enttäuschung über ihren Gatten gab Mrs.",
+                    "target": "Ich würde mich freuen, sobald wie möglich meine Bibliothek wieder für mich zu haben.\" Doch trotz der Enttäuschung über ihren Gatten gab Mrs.",
                     "native": "First, that you will allow me the free use of my understanding on the present occasion; and secondly, of my room."
                 },
                 {
                     "target": "Bennet die Sache noch nicht auf.",
-                    "native": "I shall be glad to have the library to myself as soon as may be.\\\" Not yet, however, in spite of her disappointment in her husband, did Mrs."
+                    "native": "I shall be glad to have the library to myself as soon as may be.\" Not yet, however, in spite of her disappointment in her husband, did Mrs."
                 },
                 {
                     "target": "Sie sprach wieder und wieder mit Elizabeth, schmeichelte ihr und drohte ihr abwechselnd.",
@@ -246,19 +246,19 @@
                     "native": "His regard for her was quite imaginary; and the possibility of her deserving her mother's reproach prevented his feeling any regret."
                 },
                 {
-                    "target": "In der Halle traf sie auf Lydia, die auf sie zulief und halb im Flüsterton rief: \\\"Schön, daß Sie gekommen sind, wir hatten ja einen solchen Spaß!",
+                    "target": "In der Halle traf sie auf Lydia, die auf sie zulief und halb im Flüsterton rief: \"Schön, daß Sie gekommen sind, wir hatten ja einen solchen Spaß!",
                     "native": "While the family were in this confusion, Charlotte Lucas came to spend the day with them."
                 },
                 {
                     "target": "Was glauben Sie, was heute morgen los war? – Mr.",
-                    "native": "She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, \\\"I am glad you are come, for there is such fun here!"
+                    "native": "She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, \"I am glad you are come, for there is such fun here!"
                 },
                 {
-                    "target": "Collins hat Lizzy einen Heiratsantrag gemacht, und sie will ihn nicht.\\\" Ehe Charlotte überhaupt antworten konnte, kam auch schon Kitty dazu, die ihr die gleichen Neuigkeiten berichten wollte; und kaum hatten sie das Frühstückszimmer betreten, in dem sich Mrs.",
+                    "target": "Collins hat Lizzy einen Heiratsantrag gemacht, und sie will ihn nicht.\" Ehe Charlotte überhaupt antworten konnte, kam auch schon Kitty dazu, die ihr die gleichen Neuigkeiten berichten wollte; und kaum hatten sie das Frühstückszimmer betreten, in dem sich Mrs.",
                     "native": "What do you think has happened this morning?"
                 },
                 {
-                    "target": "Bennet allein befand, als diese gleichfalls über das Thema zu reden begann, Miss Lucas um ihr Mitgefühl anrief und sie inständig bat, ihre Freundin Lizzy dazu zu bewegen, den Wünschen ihrer ganzen Familie nachzukommen. \\\"Bitte, tun Sie das, meine liebe Miss Lucas\\\", fügte sie in schwermütigem Ton hinzu, \\\"niemand ist auf meiner Seite, niemand nimmt Anteil an mir, man spielt mir grausam mit, und niemand hat Mitleid mit meinen armen Nerven.\\\" Charlotte wurde einer Antwort enthoben, da Jane und Elizabeth gerade hereinkamen. \\\"Ja, da kommt sie\\\", fuhr Mrs.",
+                    "target": "Bennet allein befand, als diese gleichfalls über das Thema zu reden begann, Miss Lucas um ihr Mitgefühl anrief und sie inständig bat, ihre Freundin Lizzy dazu zu bewegen, den Wünschen ihrer ganzen Familie nachzukommen. \"Bitte, tun Sie das, meine liebe Miss Lucas\", fügte sie in schwermütigem Ton hinzu, \"niemand ist auf meiner Seite, niemand nimmt Anteil an mir, man spielt mir grausam mit, und niemand hat Mitleid mit meinen armen Nerven.\" Charlotte wurde einer Antwort enthoben, da Jane und Elizabeth gerade hereinkamen. \"Ja, da kommt sie\", fuhr Mrs.",
                     "native": "Mr."
                 }
             ]
@@ -267,20 +267,20 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Bennet fort, \\\"und macht ein völlig unbeteiligtes Gesicht und kümmert sich nicht mehr um uns, als wären wir in York, wenn sie nur tun kann, was ihr beliebt. – Aber ich will dir etwas sagen, Miss Lizzy, wenn du es dir in den Kopf setzt, immer weiter auf diese Weise jeden Heiratsantrag abzulehnen, wirst du überhaupt keinen Mann bekommen – und ich habe keine Ahnung, wer dich ernähren soll, wenn dein Vater tot ist.",
-                    "native": "Collins has made an offer to Lizzy, and she will not have him.\\\" Charlotte hardly had time to answer, before they were joined by Kitty, who came to tell the same news; and no sooner had they entered the breakfast-room, where Mrs."
+                    "target": "Bennet fort, \"und macht ein völlig unbeteiligtes Gesicht und kümmert sich nicht mehr um uns, als wären wir in York, wenn sie nur tun kann, was ihr beliebt. – Aber ich will dir etwas sagen, Miss Lizzy, wenn du es dir in den Kopf setzt, immer weiter auf diese Weise jeden Heiratsantrag abzulehnen, wirst du überhaupt keinen Mann bekommen – und ich habe keine Ahnung, wer dich ernähren soll, wenn dein Vater tot ist.",
+                    "native": "Collins has made an offer to Lizzy, and she will not have him.\" Charlotte hardly had time to answer, before they were joined by Kitty, who came to tell the same news; and no sooner had they entered the breakfast-room, where Mrs."
                 },
                 {
                     "target": "Ich werde nicht in der Lage sein, für dich zu sorgen – ich warne dich also.",
-                    "native": "Bennet was alone, than she likewise began on the subject, calling on Miss Lucas for her compassion, and entreating her to persuade her friend Lizzy to comply with the wishes of all her family. \\\"Pray do, my dear Miss Lucas,\\\" she added in a melancholy tone, \\\"for nobody is on my side, nobody takes part with me."
+                    "native": "Bennet was alone, than she likewise began on the subject, calling on Miss Lucas for her compassion, and entreating her to persuade her friend Lizzy to comply with the wishes of all her family. \"Pray do, my dear Miss Lucas,\" she added in a melancholy tone, \"for nobody is on my side, nobody takes part with me."
                 },
                 {
                     "target": "Ich bin fertig mit dir von diesem Tag an.",
-                    "native": "I am cruelly used, nobody feels for my poor nerves.\\\" Charlotte's reply was spared by the entrance of Jane and Elizabeth. \\\"Aye, there she comes,\\\" continued Mrs."
+                    "native": "I am cruelly used, nobody feels for my poor nerves.\" Charlotte's reply was spared by the entrance of Jane and Elizabeth. \"Aye, there she comes,\" continued Mrs."
                 },
                 {
                     "target": "Du weißt, ich habe dir in der Bibliothek gesagt, ich werde niemals wieder mit dir sprechen, und du wirst sehen, ich halte mein Wort.",
-                    "native": "Bennet, \\\"looking as unconcerned as may be, and caring no more for us than if we were at York, provided she can have her own way."
+                    "native": "Bennet, \"looking as unconcerned as may be, and caring no more for us than if we were at York, provided she can have her own way."
                 },
                 {
                     "target": "Ich habe keine Freude daran, mit pflichtvergessenen Kindern zu reden.– Nicht, daß ich überhaupt viel Vergnügen daran hätte, mit irgend jemand zu sprechen.",
@@ -295,7 +295,7 @@
                     "native": "I have done with you from this very day."
                 },
                 {
-                    "target": "Wer nicht klagt, wird nicht bedauert.\\\" Ihre Töchter hörten sich diesen Erguß schweigend an, in dem Bewußtsein, daß jeglicher Versuch, vernünftig mit ihr zu reden oder sie zu beschwichtigen, ihren Ärger nur verstärken würde.",
+                    "target": "Wer nicht klagt, wird nicht bedauert.\" Ihre Töchter hörten sich diesen Erguß schweigend an, in dem Bewußtsein, daß jeglicher Versuch, vernünftig mit ihr zu reden oder sie zu beschwichtigen, ihren Ärger nur verstärken würde.",
                     "native": "I told you in the library, you know, that I should never speak to you again, and you will find me as good as my word."
                 }
             ]
@@ -308,11 +308,11 @@
                     "native": "I have no pleasure in talking to undutiful children."
                 },
                 {
-                    "target": "Collins zu ihnen gesellte, der mit einer noch würdevolleren Miene als gewöhnlich eintrat; und als sie ihn bemerkte, sagte sie zu den Mädchen: \\\"Also, ich bestehe darauf, daß ihr – ihr alle – jetzt den Mund haltet und mich ein wenig mit Mr.",
+                    "target": "Collins zu ihnen gesellte, der mit einer noch würdevolleren Miene als gewöhnlich eintrat; und als sie ihn bemerkte, sagte sie zu den Mädchen: \"Also, ich bestehe darauf, daß ihr – ihr alle – jetzt den Mund haltet und mich ein wenig mit Mr.",
                     "native": "Not that I have much pleasure, indeed, in talking to anybody."
                 },
                 {
-                    "target": "Collins sprechen laßt.\\\" Elizabeth ging leise hinaus, Jane und Kitty folgten ihr, doch Lydia wich nicht, entschlossen, möglichst alles mitanzuhören; und Charlotte, anfangs zurückgehalten durch die Zuvorkommenheit Mr.",
+                    "target": "Collins sprechen laßt.\" Elizabeth ging leise hinaus, Jane und Kitty folgten ihr, doch Lydia wich nicht, entschlossen, möglichst alles mitanzuhören; und Charlotte, anfangs zurückgehalten durch die Zuvorkommenheit Mr.",
                     "native": "People who suffer as I do from nervous complaints can have no great inclination for talking."
                 },
                 {
@@ -324,16 +324,16 @@
                     "native": "But it is always so."
                 },
                 {
-                    "target": "Bennet die angekündigte Unterhaltung. –\\\"Oh, Mr.",
-                    "native": "Those who do not complain are never pitied.\\\" Her daughters listened in silence to this effusion, sensible that any attempt to reason with her or soothe her would only increase the irritation."
+                    "target": "Bennet die angekündigte Unterhaltung. –\"Oh, Mr.",
+                    "native": "Those who do not complain are never pitied.\" Her daughters listened in silence to this effusion, sensible that any attempt to reason with her or soothe her would only increase the irritation."
                 },
                 {
-                    "target": "Collins!\\\" \\\"Meine liebe Madam\\\", erwiderte er, \\\"lassen Sie uns für immer schweigen über dieses Thema.",
+                    "target": "Collins!\" \"Meine liebe Madam\", erwiderte er, \"lassen Sie uns für immer schweigen über dieses Thema.",
                     "native": "She talked on, therefore, without interruption from any of them, till they were joined by Mr."
                 },
                 {
-                    "target": "Es sei fern von mir\\\", fuhr er sogleich mit einer Stimme fort, die seine Verärgerung erkennen ließ, \\\"das Verhalten Ihrer Tochter übelzunehmen.",
-                    "native": "Collins, who entered the room with an air more stately than usual, and on perceiving whom, she said to the girls, \\\"Now, I do insist upon it, that you, all of you, hold your tongues, and let me and Mr."
+                    "target": "Es sei fern von mir\", fuhr er sogleich mit einer Stimme fort, die seine Verärgerung erkennen ließ, \"das Verhalten Ihrer Tochter übelzunehmen.",
+                    "native": "Collins, who entered the room with an air more stately than usual, and on perceiving whom, she said to the girls, \"Now, I do insist upon it, that you, all of you, hold your tongues, and let me and Mr."
                 }
             ]
         },
@@ -342,7 +342,7 @@
             "sentences": [
                 {
                     "target": "Sich in unvermeidliche Übel zu finden, ist unser aller Pflicht – und die besondere Pflicht eines jungen Mannes, der so wie ich das Glück hatte, eine frühzeitige Förderung zu erfahren; und ich denke, ich habe mich damit abgefunden.",
-                    "native": "Collins have a little conversation together.\\\" Elizabeth passed quietly out of the room, Jane and Kitty followed, but Lydia stood her ground, determined to hear all she could; and Charlotte, detained first by the civility of Mr."
+                    "native": "Collins have a little conversation together.\" Elizabeth passed quietly out of the room, Jane and Kitty followed, but Lydia stood her ground, determined to hear all she could; and Charlotte, detained first by the civility of Mr."
                 },
                 {
                     "target": "Vielleicht nicht zum wenigsten aus dem Gefühl des Zweifels heraus, ob ich wirklich glücklich geworden wäre, wenn mich meine schöne Cousine mit ihrer Hand beehrt hätte; denn ich habe oft bemerkt, daß ein Verzicht erst dann wirklich vollkommen ist, wenn die Gnade, die uns versagt ist, in unserem Urteil etwas von ihrem Wert zu verlieren beginnt.",
@@ -354,7 +354,7 @@
                 },
                 {
                     "target": "Bennet das Kompliment gemacht habe, Sie in meinem Namen um Ihren Einfluß auf sie zu ersuchen.",
-                    "native": "Bennet began the projected conversation: \\\"Oh!"
+                    "native": "Bennet began the projected conversation: \"Oh!"
                 },
                 {
                     "target": "Ich fürchte, ich habe mich nicht ganz richtig verhalten, indem ich meine Abweisung aus dem Munde Ihrer Tochter entgegennahm, statt aus dem Ihren.",
@@ -362,14 +362,14 @@
                 },
                 {
                     "target": "Aber wir neigen alle dazu, Fehler zu machen.",
-                    "native": "Collins!\\\" \\\"My dear madam,\\\" replied he, \\\"let us be for ever silent on this point."
+                    "native": "Collins!\" \"My dear madam,\" replied he, \"let us be for ever silent on this point."
                 },
                 {
                     "target": "Ich habe es bei der ganzen Sache gewiß gut gemeint.",
-                    "native": "Far be it from me,\\\" he presently continued, in a voice that marked his displeasure, \\\"to resent the behaviour of your daughter."
+                    "native": "Far be it from me,\" he presently continued, in a voice that marked his displeasure, \"to resent the behaviour of your daughter."
                 },
                 {
-                    "target": "Mein Ziel ist es gewesen, mich einer liebenswürdigen Gefährtin zu versichern, bei gebührender Berücksichtigung des Vorteils für Ihre ganze Familie; und wenn mein Verhalten in irgendeiner Weise tadelnswert gewesen ist, dann bitte ich Sie, mir zu verzeihen.\\\"",
+                    "target": "Mein Ziel ist es gewesen, mich einer liebenswürdigen Gefährtin zu versichern, bei gebührender Berücksichtigung des Vorteils für Ihre ganze Familie; und wenn mein Verhalten in irgendeiner Weise tadelnswert gewesen ist, dann bitte ich Sie, mir zu verzeihen.\"",
                     "native": "Resignation to inevitable evils is the duty of us all; the peculiar duty of a young man who has been so fortunate as I have been in early preferment; and I trust I am resigned."
                 }
             ]

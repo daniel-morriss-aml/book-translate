@@ -28,8 +28,8 @@
                     "native": "The beginning contained an account of all their little parties and engagements, with such news as the country afforded; but the latter half, which was dated a day later, and written in evident agitation, gave more important intelligence."
                 },
                 {
-                    "target": "Der Anfang enthielt einen Bericht über all die kleinen gesellschaftlichen Begebenheiten und Einladungen sowie Neuigkeiten von der Art, wie sie das Leben auf dem Lande bot; aber die zweite Hälfte des Briefes, die einen Tag später datiert und in offensichtlicher Aufregung geschrieben worden war, brachte bedeutendere Kunde, und zwar wie folgt: \\\"Seit ich den ersten Teil des Briefes geschrieben habe, liebste Lizzy, ist etwas sehr Unerwartetes und Ernstes geschehen; aber ich fürchte, ich erschrecke Dich – Du kannst beruhigt sein, es geht uns allen gut.",
-                    "native": "It was to this effect: \\\"Since writing the above, dearest Lizzy, something has occurred of a most unexpected and serious nature; but I am afraid of alarming you—be assured that we are all well."
+                    "target": "Der Anfang enthielt einen Bericht über all die kleinen gesellschaftlichen Begebenheiten und Einladungen sowie Neuigkeiten von der Art, wie sie das Leben auf dem Lande bot; aber die zweite Hälfte des Briefes, die einen Tag später datiert und in offensichtlicher Aufregung geschrieben worden war, brachte bedeutendere Kunde, und zwar wie folgt: \"Seit ich den ersten Teil des Briefes geschrieben habe, liebste Lizzy, ist etwas sehr Unerwartetes und Ernstes geschehen; aber ich fürchte, ich erschrecke Dich – Du kannst beruhigt sein, es geht uns allen gut.",
+                    "native": "It was to this effect: \"Since writing the above, dearest Lizzy, something has occurred of a most unexpected and serious nature; but I am afraid of alarming you—be assured that we are all well."
                 },
                 {
                     "target": "Was ich zu sagen habe, betrifft unsere arme Lydia.",
@@ -110,7 +110,7 @@
                     "native": "Lydia left a few lines for his wife, informing her of their intention."
                 },
                 {
-                    "target": "Ich fürchte, Du wirst hieraus gar nicht richtig klug werden, aber ich weiß selbst kaum, was ich geschrieben habe.\\\" Ohne sich Zeit zum Überlegen zu lassen und kaum wissend, was sie fühlte, griff Elizabeth, als sie den Brief fertiggelesen hatte, sofort nach dem anderen; sie öffnete ihn mit größter Ungeduld – er war einen Tag nach Beendigung des ersten geschrieben worden – und las das Folgende: \\\"Inzwischen wirst Du, meine liebste Schwester, meinen hastig geschriebenen Brief bekommen haben; ich hoffe, dieser wird verständlicher, aber obgleich ich mir jetzt Zeit nehmen kann, bin ich doch so durcheinander, daß ich mich nicht dafür verbürge, ob ich mich klar genug ausdrücke.",
+                    "target": "Ich fürchte, Du wirst hieraus gar nicht richtig klug werden, aber ich weiß selbst kaum, was ich geschrieben habe.\" Ohne sich Zeit zum Überlegen zu lassen und kaum wissend, was sie fühlte, griff Elizabeth, als sie den Brief fertiggelesen hatte, sofort nach dem anderen; sie öffnete ihn mit größter Ungeduld – er war einen Tag nach Beendigung des ersten geschrieben worden – und las das Folgende: \"Inzwischen wirst Du, meine liebste Schwester, meinen hastig geschriebenen Brief bekommen haben; ich hoffe, dieser wird verständlicher, aber obgleich ich mir jetzt Zeit nehmen kann, bin ich doch so durcheinander, daß ich mich nicht dafür verbürge, ob ich mich klar genug ausdrücke.",
                     "native": "I must conclude, for I cannot be long from my poor mother."
                 }
             ]
@@ -120,7 +120,7 @@
             "sentences": [
                 {
                     "target": "Liebste Lizzy, ich weiß kaum, was ich schreiben soll, aber ich habe schlechte Nachrichten, und sie dulden keinen Aufschub.",
-                    "native": "I am afraid you will not be able to make it out, but I hardly know what I have written.\\\" Without allowing herself time for consideration, and scarcely knowing what she felt, Elizabeth on finishing this letter instantly seized the other, and opening it with the utmost impatience, read as follows: it had been written a day later than the conclusion of the first. \\\"By this time, my dearest sister, you have received my hurried letter; I wish this may be more intelligible, but though not confined for time, my head is so bewildered that I cannot answer for being coherent."
+                    "native": "I am afraid you will not be able to make it out, but I hardly know what I have written.\" Without allowing herself time for consideration, and scarcely knowing what she felt, Elizabeth on finishing this letter instantly seized the other, and opening it with the utmost impatience, read as follows: it had been written a day later than the conclusion of the first. \"By this time, my dearest sister, you have received my hurried letter; I wish this may be more intelligible, but though not confined for time, my head is so bewildered that I cannot answer for being coherent."
                 },
                 {
                     "target": "So unklug eine Heirat zwischen Mr.",
@@ -242,7 +242,7 @@
                     "native": "I take up my pen again to do what I have just told you I would not; but circumstances are such that I cannot help earnestly begging you all to come here as soon as possible."
                 },
                 {
-                    "target": "In einer so kritischen Lage würde der Rat und Beistand unseres Onkels alles in der Welt bedeuten; er wird sofort verstehen, was ich fühlen muß, ich vertraue auf seine Güte.\\\" \\\"Oh, wo ist mein Onkel, wo ist er?\\\" rief Elizabeth und sprang sofort voller Ungeduld auf, als sie den Brief fertiggelesen hatte, um ihm nachzugehen, ohne einen Augenblick der so kostbaren Zeit zu verlieren; doch als sie zur Tür kam, wurde sie gerade von einem Dienstboten geöffnet, und Mr.",
+                    "target": "In einer so kritischen Lage würde der Rat und Beistand unseres Onkels alles in der Welt bedeuten; er wird sofort verstehen, was ich fühlen muß, ich vertraue auf seine Güte.\" \"Oh, wo ist mein Onkel, wo ist er?\" rief Elizabeth und sprang sofort voller Ungeduld auf, als sie den Brief fertiggelesen hatte, um ihm nachzugehen, ohne einen Augenblick der so kostbaren Zeit zu verlieren; doch als sie zur Tür kam, wurde sie gerade von einem Dienstboten geöffnet, und Mr.",
                     "native": "I know my dear uncle and aunt so well, that I am not afraid of requesting it, though I have still something more to ask of the former."
                 },
                 {
@@ -250,15 +250,15 @@
                     "native": "My father is going to London with Colonel Forster instantly, to try to discover her."
                 },
                 {
-                    "target": "Ihr blasses Gesicht und ihr ungestümes Verhalten erschreckten ihn, und ehe er sich noch genug fassen konnte, um etwas zu sagen, rief Elizabeth, in deren Kopf jeder andere Gedanke von Lydias Lage verdrängt wurde, hastig aus: \\\"Ich bitte Sie um Verzeihung, aber ich muß fort.",
+                    "target": "Ihr blasses Gesicht und ihr ungestümes Verhalten erschreckten ihn, und ehe er sich noch genug fassen konnte, um etwas zu sagen, rief Elizabeth, in deren Kopf jeder andere Gedanke von Lydias Lage verdrängt wurde, hastig aus: \"Ich bitte Sie um Verzeihung, aber ich muß fort.",
                     "native": "What he means to do I am sure I know not; but his excessive distress will not allow him to pursue any measure in the best and safest way, and Colonel Forster is obliged to be at Brighton again to-morrow evening."
                 },
                 {
                     "target": "Ich muß sofort Mr.",
-                    "native": "In such an exigence, my uncle's advice and assistance would be everything in the world; he will immediately comprehend what I must feel, and I rely upon his goodness.\\\" \\\"Oh! where, where is my uncle?\\\" cried Elizabeth, darting from her seat as she finished the letter, in eagerness to follow him, without losing a moment of the time so precious; but as she reached the door it was opened by a servant, and Mr."
+                    "native": "In such an exigence, my uncle's advice and assistance would be everything in the world; he will immediately comprehend what I must feel, and I rely upon his goodness.\" \"Oh! where, where is my uncle?\" cried Elizabeth, darting from her seat as she finished the letter, in eagerness to follow him, without losing a moment of the time so precious; but as she reached the door it was opened by a servant, and Mr."
                 },
                 {
-                    "target": "Gardiner suchen wegen einer Angelegenheit, die keinen Aufschub duldet; ich kann keinen Augenblick verlieren.\\\" \\\"Großer Gott, was ist geschehen?\\\" rief er mehr erregt als höflich; dann sagte er, sich fassend: \\\"Ich will Sie keine Minute aufhalten, aber lassen Sie mich, oder lassen Sie den Dienstboten Mr. und Mrs.",
+                    "target": "Gardiner suchen wegen einer Angelegenheit, die keinen Aufschub duldet; ich kann keinen Augenblick verlieren.\" \"Großer Gott, was ist geschehen?\" rief er mehr erregt als höflich; dann sagte er, sich fassend: \"Ich will Sie keine Minute aufhalten, aber lassen Sie mich, oder lassen Sie den Dienstboten Mr. und Mrs.",
                     "native": "Darcy appeared."
                 }
             ]
@@ -268,31 +268,31 @@
             "sentences": [
                 {
                     "target": "Gardiner holen.",
-                    "native": "Her pale face and impetuous manner made him start, and before he could recover himself to speak, she, in whose mind every idea was superseded by Lydia's situation, hastily exclaimed, \\\"I beg your pardon, but I must leave you."
+                    "native": "Her pale face and impetuous manner made him start, and before he could recover himself to speak, she, in whose mind every idea was superseded by Lydia's situation, hastily exclaimed, \"I beg your pardon, but I must leave you."
                 },
                 {
-                    "target": "Es geht Ihnen nicht gut genug, Sie können nicht selbst gehen.\\\" Elizabeth zögerte, aber ihr zitterten die Knie, und sie fühlte, wie wenig gewonnen wäre, wenn sie versuchen würde, ihnen selbst zu folgen.",
+                    "target": "Es geht Ihnen nicht gut genug, Sie können nicht selbst gehen.\" Elizabeth zögerte, aber ihr zitterten die Knie, und sie fühlte, wie wenig gewonnen wäre, wenn sie versuchen würde, ihnen selbst zu folgen.",
                     "native": "I must find Mr."
                 },
                 {
                     "target": "Sie rief deshalb den Diener zurück und beauftragte ihn, wenngleich so atemlos, daß es beinahe unverständlich war, den Herrn und die Dame sofort zurückzuholen.",
-                    "native": "Gardiner this moment, on business that cannot be delayed; I have not an instant to lose.\\\" \\\"Good God! what is the matter?\\\" cried he, with more feeling than politeness; then recollecting himself, \\\"I will not detain you a minute; but let me, or let the servant go after Mr. and Mrs."
+                    "native": "Gardiner this moment, on business that cannot be delayed; I have not an instant to lose.\" \"Good God! what is the matter?\" cried he, with more feeling than politeness; then recollecting himself, \"I will not detain you a minute; but let me, or let the servant go after Mr. and Mrs."
                 },
                 {
-                    "target": "Nachdem er hinausgegangen war, konnte sie sich nicht mehr aufrecht halten und setzte sich; und sie sah so elend aus, daß es Darcy unmöglich war, sie zu verlassen, und er sich nicht enthalten konnte, in sanftem, mitleidsvollem Ton zu sagen: \\\"Lassen Sie mich Ihr Zimmermädchen rufen.",
+                    "target": "Nachdem er hinausgegangen war, konnte sie sich nicht mehr aufrecht halten und setzte sich; und sie sah so elend aus, daß es Darcy unmöglich war, sie zu verlassen, und er sich nicht enthalten konnte, in sanftem, mitleidsvollem Ton zu sagen: \"Lassen Sie mich Ihr Zimmermädchen rufen.",
                     "native": "Gardiner."
                 },
                 {
                     "target": "Gibt es nichts, was Sie zu sich nehmen können, das Ihnen eine momentane Erleichterung verschafft?",
-                    "native": "You are not well enough; you cannot go yourself.\\\" Elizabeth hesitated, but her knees trembled under her and she felt how little would be gained by her attempting to pursue them."
+                    "native": "You are not well enough; you cannot go yourself.\" Elizabeth hesitated, but her knees trembled under her and she felt how little would be gained by her attempting to pursue them."
                 },
                 {
-                    "target": "Vielleicht ein Glas Wein – soll ich Ihnen eins holen? – Es geht Ihnen nicht gut.\\\" \\\"Nein, danke\\\", erwiderte sie, während sie versuchte, sich wieder zu fassen. \\\"Mir fehlt gar nichts.",
+                    "target": "Vielleicht ein Glas Wein – soll ich Ihnen eins holen? – Es geht Ihnen nicht gut.\" \"Nein, danke\", erwiderte sie, während sie versuchte, sich wieder zu fassen. \"Mir fehlt gar nichts.",
                     "native": "Calling back the servant, therefore, she commissioned him, though in so breathless an accent as made her almost unintelligible, to fetch his master and mistress home instantly."
                 },
                 {
-                    "target": "Ich bin nur sehr erschüttert über eine schreckliche Nachricht, die ich gerade von Longbourn erhalten habe.\\\" Sie brach in Tränen aus, als sie das sagte, und ein paar Minuten lang konnte sie kein Wort herausbringen.",
-                    "native": "On his quitting the room she sat down, unable to support herself, and looking so miserably ill, that it was impossible for Darcy to leave her, or to refrain from saying, in a tone of gentleness and commiseration, \\\"Let me call your maid."
+                    "target": "Ich bin nur sehr erschüttert über eine schreckliche Nachricht, die ich gerade von Longbourn erhalten habe.\" Sie brach in Tränen aus, als sie das sagte, und ein paar Minuten lang konnte sie kein Wort herausbringen.",
+                    "native": "On his quitting the room she sat down, unable to support herself, and looking so miserably ill, that it was impossible for Darcy to leave her, or to refrain from saying, in a tone of gentleness and commiseration, \"Let me call your maid."
                 },
                 {
                     "target": "Darcy, in seiner quälenden Ungewißheit, konnte nur etwas Verworrenes über seine Besorgnis bemerken und sie in mitleidigem Schweigen ansehen.",
@@ -304,16 +304,16 @@
             "pageNumber": 9,
             "sentences": [
                 {
-                    "target": "Schließlich sprach sie wieder. \\\"Ich habe gerade einen Brief von Jane bekommen mit so schrecklichen Nachrichten.",
+                    "target": "Schließlich sprach sie wieder. \"Ich habe gerade einen Brief von Jane bekommen mit so schrecklichen Nachrichten.",
                     "native": "A glass of wine; shall I get you one?"
                 },
                 {
                     "target": "Es kann vor niemandem verborgen bleiben.",
-                    "native": "You are very ill.\\\" \\\"No, I thank you,\\\" she replied, endeavouring to recover herself. \\\"There is nothing the matter with me."
+                    "native": "You are very ill.\" \"No, I thank you,\" she replied, endeavouring to recover herself. \"There is nothing the matter with me."
                 },
                 {
                     "target": "Meine jüngste Schwester hat all ihre Angehörigen und Freunde verlassen – hat sich entführen lassen – und hat sich in die Hände von – von Mr.",
-                    "native": "I am quite well; I am only distressed by some dreadful news which I have just received from Longbourn.\\\" She burst into tears as she alluded to it, and for a few minutes could not speak another word."
+                    "native": "I am quite well; I am only distressed by some dreadful news which I have just received from Longbourn.\" She burst into tears as she alluded to it, and for a few minutes could not speak another word."
                 },
                 {
                     "target": "Wickham begeben.",
@@ -321,14 +321,14 @@
                 },
                 {
                     "target": "Die beiden haben sich von Brighton aus zusammen davongemacht.",
-                    "native": "At length she spoke again. \\\"I have just had a letter from Jane, with such dreadful news."
+                    "native": "At length she spoke again. \"I have just had a letter from Jane, with such dreadful news."
                 },
                 {
                     "target": "Sie kennen ihn zu gut, um über den Rest im Zweifel zu sein.",
                     "native": "It cannot be concealed from anyone."
                 },
                 {
-                    "target": "Sie hat kein Geld, keine Verbindungen, nichts, das ihn bewegen kann, sie ... sie ist für immer verloren.\\\" Darcy war starr vor Bestürzung. \\\"Wenn ich bedenke\\\", fügte sie mit noch erregterer Stimme hinzu, \\\"daß ich es hätte verhindern können! – Ich, die ich wußte, was für ein Mensch er ist.",
+                    "target": "Sie hat kein Geld, keine Verbindungen, nichts, das ihn bewegen kann, sie ... sie ist für immer verloren.\" Darcy war starr vor Bestürzung. \"Wenn ich bedenke\", fügte sie mit noch erregterer Stimme hinzu, \"daß ich es hätte verhindern können! – Ich, die ich wußte, was für ein Mensch er ist.",
                     "native": "My younger sister has left all her friends—has eloped; has thrown herself into the power of—of Mr."
                 },
                 {
@@ -345,15 +345,15 @@
                     "native": "They are gone off together from Brighton."
                 },
                 {
-                    "target": "Aber das ist nun alles, alles zu spät.\\\" \\\"Ich bin zutiefst bekümmert\\\", sagte Darcy, \\\"bekümmert – schockiert.",
+                    "target": "Aber das ist nun alles, alles zu spät.\" \"Ich bin zutiefst bekümmert\", sagte Darcy, \"bekümmert – schockiert.",
                     "native": "You know him too well to doubt the rest."
                 },
                 {
-                    "target": "Aber ist es sicher, absolut sicher?\\\" \\\"O ja!",
-                    "native": "She has no money, no connections, nothing that can tempt him to—she is lost for ever.\\\" Darcy was fixed in astonishment. \\\"When I consider,\\\" she added in a yet more agitated voice, \\\"that I might have prevented it!"
+                    "target": "Aber ist es sicher, absolut sicher?\" \"O ja!",
+                    "native": "She has no money, no connections, nothing that can tempt him to—she is lost for ever.\" Darcy was fixed in astonishment. \"When I consider,\" she added in a yet more agitated voice, \"that I might have prevented it!"
                 },
                 {
-                    "target": "Sie haben Brighton am Sonntagabend zusammen verlassen, und ihre Spur konnte fast bis nach London verfolgt werden, aber dann nicht weiter; sie sind ganz bestimmt nicht nach Schottland gegangen.\\\" \\\"Und was ist unternommen worden, was hat man versucht, um sie zurückzuholen?\\\" \\\"Mein Vater ist nach London gefahren, und Jane hat geschrieben, daß sie meinen Onkel um sofortige Hilfe bittet; wir werden, hoffe ich, in einer halben Stunde aufbrechen.",
+                    "target": "Sie haben Brighton am Sonntagabend zusammen verlassen, und ihre Spur konnte fast bis nach London verfolgt werden, aber dann nicht weiter; sie sind ganz bestimmt nicht nach Schottland gegangen.\" \"Und was ist unternommen worden, was hat man versucht, um sie zurückzuholen?\" \"Mein Vater ist nach London gefahren, und Jane hat geschrieben, daß sie meinen Onkel um sofortige Hilfe bittet; wir werden, hoffe ich, in einer halben Stunde aufbrechen.",
                     "native": "I, who knew what he was."
                 },
                 {
@@ -366,11 +366,11 @@
                 },
                 {
                     "target": "Wie kann man sie überhaupt auffinden?",
-                    "native": "But it is all—all too late now.\\\" \\\"I am grieved indeed,\\\" cried Darcy; \\\"grieved—shocked."
+                    "native": "But it is all—all too late now.\" \"I am grieved indeed,\" cried Darcy; \"grieved—shocked."
                 },
                 {
                     "target": "Ich habe nicht die geringste Hoffnung.",
-                    "native": "But is it certain—absolutely certain?\\\" \\\"Oh, yes!"
+                    "native": "But is it certain—absolutely certain?\" \"Oh, yes!"
                 }
             ]
         },
@@ -378,15 +378,15 @@
             "pageNumber": 11,
             "sentences": [
                 {
-                    "target": "Es ist in jeder Hinsicht entsetzlich!\\\" Darcy schüttelte den Kopf in schweigender Ergebung. \\\"Als meine Augen über seinen wirklichen Charakter geöffnet wurden – ach, wenn ich da nur gewußt hätte, was ich tun, was ich wagen sollte!",
-                    "native": "They left Brighton together on Sunday night, and were traced almost to London, but not beyond; they are certainly not gone to Scotland.\\\" \\\"And what has been done, what has been attempted, to recover her?\\\" \\\"My father is gone to London, and Jane has written to beg my uncle's immediate assistance; and we shall be off, I hope, in half-an-hour."
+                    "target": "Es ist in jeder Hinsicht entsetzlich!\" Darcy schüttelte den Kopf in schweigender Ergebung. \"Als meine Augen über seinen wirklichen Charakter geöffnet wurden – ach, wenn ich da nur gewußt hätte, was ich tun, was ich wagen sollte!",
+                    "native": "They left Brighton together on Sunday night, and were traced almost to London, but not beyond; they are certainly not gone to Scotland.\" \"And what has been done, what has been attempted, to recover her?\" \"My father is gone to London, and Jane has written to beg my uncle's immediate assistance; and we shall be off, I hope, in half-an-hour."
                 },
                 {
                     "target": "Aber ich wußte es nicht – ich fürchtete, zu viel zu tun.",
                     "native": "But nothing can be done—I know very well that nothing can be done."
                 },
                 {
-                    "target": "Welch unglücklicher Fehler!\\\" Darcy antwortete nicht.",
+                    "target": "Welch unglücklicher Fehler!\" Darcy antwortete nicht.",
                     "native": "How is such a man to be worked on?"
                 },
                 {
@@ -399,7 +399,7 @@
                 },
                 {
                     "target": "Ihre Macht über ihn wurde schwächer; alles mußte vergehen unter einem solchen Beweis von Charakterschwäche in der Familie – einem solchen Beweis tiefster Schande.",
-                    "native": "It is every way horrible!\\\" Darcy shook his head in silent acquiescence. \\\"When my eyes were opened to his real character—Oh! had I known what I ought, what I dared to do!"
+                    "native": "It is every way horrible!\" Darcy shook his head in silent acquiescence. \"When my eyes were opened to his real character—Oh! had I known what I ought, what I dared to do!"
                 },
                 {
                     "target": "Sie konnte sich weder wundern noch ihn verdammen; doch die Überzeugung, daß er sich selbst bezwang, brachte ihrem Herzen nichts Tröstliches, gewährte ihr keine Linderung ihres Kummers.",
@@ -407,7 +407,7 @@
                 },
                 {
                     "target": "Sie war im Gegenteil bestens dazu geeignet, sich über ihre eigenen Wünsche klar zu werden; und niemals hatte sie so ernsthaft gefühlt, daß sie ihn geliebt haben könnte, wie jetzt, da alle Liebe umsonst sein mußte.",
-                    "native": "Wretched, wretched mistake!\\\" Darcy made no answer."
+                    "native": "Wretched, wretched mistake!\" Darcy made no answer."
                 }
             ]
         },
@@ -419,7 +419,7 @@
                     "native": "He seemed scarcely to hear her, and was walking up and down the room in earnest meditation, his brow contracted, his air gloomy."
                 },
                 {
-                    "target": "Lydia – die Demütigung, die sie über sie alle brachte, verdrängte bald allen eigenen Kummer; sie bedeckte ihr Gesicht mit dem Taschentuch und vergaß bald alles andere um sich herum; und nach einer Pause von einigen Minuten gewann sie nur durch die Stimme ihres Besuchers ein Gefühl für ihre Lage zurück, der in einer Weise, die zwar Mitleid, aber auch Zurückhaltung verriet, sagte: \\\"Ich fürchte, daß Sie schon zu lange wieder allein zu sein wünschen, auch habe ich nichts, das ich als Entschuldigung für mein Bleiben vorbringen könnte, als ehrliche, wenngleich nutzlose Anteilnahme.",
+                    "target": "Lydia – die Demütigung, die sie über sie alle brachte, verdrängte bald allen eigenen Kummer; sie bedeckte ihr Gesicht mit dem Taschentuch und vergaß bald alles andere um sich herum; und nach einer Pause von einigen Minuten gewann sie nur durch die Stimme ihres Besuchers ein Gefühl für ihre Lage zurück, der in einer Weise, die zwar Mitleid, aber auch Zurückhaltung verriet, sagte: \"Ich fürchte, daß Sie schon zu lange wieder allein zu sein wünschen, auch habe ich nichts, das ich als Entschuldigung für mein Bleiben vorbringen könnte, als ehrliche, wenngleich nutzlose Anteilnahme.",
                     "native": "Elizabeth soon observed, and instantly understood it."
                 },
                 {
@@ -431,7 +431,7 @@
                     "native": "She could neither wonder nor condemn, but the belief of his self-conquest brought nothing consolatory to her bosom, afforded no palliation of her distress."
                 },
                 {
-                    "target": "Diese unglückliche Affäre läßt es, fürchte ich, nicht zu, daß meine Schwester heute die Ehre haben wird, Sie in Pemberley zu sehen.\\\" \\\"O ja, seien Sie so freundlich und entschuldigen Sie uns bei Miss Darcy.",
+                    "target": "Diese unglückliche Affäre läßt es, fürchte ich, nicht zu, daß meine Schwester heute die Ehre haben wird, Sie in Pemberley zu sehen.\" \"O ja, seien Sie so freundlich und entschuldigen Sie uns bei Miss Darcy.",
                     "native": "It was, on the contrary, exactly calculated to make her understand her own wishes; and never had she so honestly felt that she could have loved him, as now, when all love must be vain."
                 },
                 {
@@ -439,8 +439,8 @@
                     "native": "But self, though it would intrude, could not engross her."
                 },
                 {
-                    "target": "Halten Sie die unglückliche Wahrheit so lange wie möglich geheim – ich weiß, es kann nicht für lange sein.\\\" Er versicherte sie sogleich seiner Verschwiegenheit, äußerte erneut, wie betrübt er über ihren Kummer sei, und wünschte einen glücklicheren Abschluß, als es zur Zeit den Anschein hatte; und mit seinen Empfehlungen für ihre Verwandten und einem einzigen ernsten Blick zum Abschied ging er fort.",
-                    "native": "Lydia—the humiliation, the misery she was bringing on them all, soon swallowed up every private care; and covering her face with her handkerchief, Elizabeth was soon lost to everything else; and, after a pause of several minutes, was only recalled to a sense of her situation by the voice of her companion, who, in a manner which, though it spoke compassion, spoke likewise restraint, said, \\\"I am afraid you have been long desiring my absence, nor have I anything to plead in excuse of my stay, but real, though unavailing concern."
+                    "target": "Halten Sie die unglückliche Wahrheit so lange wie möglich geheim – ich weiß, es kann nicht für lange sein.\" Er versicherte sie sogleich seiner Verschwiegenheit, äußerte erneut, wie betrübt er über ihren Kummer sei, und wünschte einen glücklicheren Abschluß, als es zur Zeit den Anschein hatte; und mit seinen Empfehlungen für ihre Verwandten und einem einzigen ernsten Blick zum Abschied ging er fort.",
+                    "native": "Lydia—the humiliation, the misery she was bringing on them all, soon swallowed up every private care; and covering her face with her handkerchief, Elizabeth was soon lost to everything else; and, after a pause of several minutes, was only recalled to a sense of her situation by the voice of her companion, who, in a manner which, though it spoke compassion, spoke likewise restraint, said, \"I am afraid you have been long desiring my absence, nor have I anything to plead in excuse of my stay, but real, though unavailing concern."
                 },
                 {
                     "target": "Als er hinausging, fühlte Elizabeth, wie unwahrscheinlich es war, daß sie einander jemals wieder so freundschaftlich begegnen würden, wie dies bei ihren verschiedenen Zusammenkünften in Derbyshire der Fall gewesen war; und als sie nun auf die gesamte Zeit ihrer Bekanntschaft zurückschaute, die so voller Widersprüche und von so wechselhafter Art war, seufzte sie über den Wankelmut ihrer Gefühle, die nun eine Fortsetzung wünschten, wo sie früher über ihre Beendigung frohlockt hätte.",
@@ -457,7 +457,7 @@
                 },
                 {
                     "target": "Doch wenn es anders ist – wenn die Liebe, die solchen Quellen entspringt, unvernünftig oder unnatürlich ist im Vergleich zu dem, was so häufig als Liebe auf den ersten Blick, bevor auch nur zwei Worte gewechselt worden sind, beschrieben worden ist –, kann nichts zu Elizabeths Verteidigung gesagt werden, außer daß sie mit der letzteren Methode so etwas wie einen Versuch gemacht hatte mit ihrer Zuneigung zu Wickham und daß deren Mißerfolg sie vielleicht dazu berechtigt hatte, die andere, weniger fesselnde Art der Liebe zu suchen.",
-                    "native": "This unfortunate affair will, I fear, prevent my sister's having the pleasure of seeing you at Pemberley to-day.\\\" \\\"Oh, yes."
+                    "native": "This unfortunate affair will, I fear, prevent my sister's having the pleasure of seeing you at Pemberley to-day.\" \"Oh, yes."
                 },
                 {
                     "target": "Wie dem auch sei, sie sah ihn mit Bedauern gehen; und dieses erste Beispiel, was Lydias Ehrlosigkeit alles zur Folge haben mußte, erhöhte noch ihren Schmerz, während sie über diese unglückliche Sache nachdachte.",
@@ -469,7 +469,7 @@
                 },
                 {
                     "target": "Niemand außer Jane, dachte sie, konnte solche Erwartungen hegen.",
-                    "native": "Conceal the unhappy truth as long as it is possible, I know it cannot be long.\\\" He readily assured her of his secrecy; again expressed his sorrow for her distress, wished it a happier conclusion than there was at present reason to hope, and leaving his compliments for her relations, with only one serious, parting look, went away."
+                    "native": "Conceal the unhappy truth as long as it is possible, I know it cannot be long.\" He readily assured her of his secrecy; again expressed his sorrow for her distress, wished it a happier conclusion than there was at present reason to hope, and leaving his compliments for her relations, with only one serious, parting look, went away."
                 },
                 {
                     "target": "Bestürzung war das geringste ihrer Gefühle zu dieser Entwicklung.",
@@ -546,15 +546,15 @@
                     "native": "Mr. and Mrs."
                 },
                 {
-                    "target": "Sie wollten so rasch wie möglich abfahren. \\\"Aber was ist wegen Pemberley zu tun?\\\" rief Mrs.",
+                    "target": "Sie wollten so rasch wie möglich abfahren. \"Aber was ist wegen Pemberley zu tun?\" rief Mrs.",
                     "native": "Gardiner had hurried back in alarm, supposing by the servant's account that their niece was taken suddenly ill; but satisfying them instantly on that head, she eagerly communicated the cause of their summons, reading the two letters aloud, and dwelling on the postscript of the last with trembling energy, though Lydia had never been a favourite with them, Mr. and Mrs."
                 },
                 {
-                    "target": "Gardiner. \\\"John sagte uns, Mr.",
+                    "target": "Gardiner. \"John sagte uns, Mr.",
                     "native": "Gardiner could not but be deeply afflicted."
                 },
                 {
-                    "target": "Darcy sei hier gewesen, als du nach uns schicktest – stimmt das?\\\" \\\"Ja; und ich habe ihm gesagt, daß wir unsere Verabredung nicht einhalten können.",
+                    "target": "Darcy sei hier gewesen, als du nach uns schicktest – stimmt das?\" \"Ja; und ich habe ihm gesagt, daß wir unsere Verabredung nicht einhalten können.",
                     "native": "Not Lydia only, but all were concerned in it; and after the first exclamations of surprise and horror, Mr."
                 }
             ]
@@ -563,24 +563,24 @@
             "pageNumber": 16,
             "sentences": [
                 {
-                    "target": "Das ist alles geregelt.\\\" \\\"Das ist alles geregelt\\\", wiederholte die Tante, während sie in ihr Zimmer eilte, um sich fertigzumachen. \\\"Stehen sie in einer solchen Beziehung zueinander, daß sie ihm die Wahrheit offenbart hat?",
+                    "target": "Das ist alles geregelt.\" \"Das ist alles geregelt\", wiederholte die Tante, während sie in ihr Zimmer eilte, um sich fertigzumachen. \"Stehen sie in einer solchen Beziehung zueinander, daß sie ihm die Wahrheit offenbart hat?",
                     "native": "Gardiner promised every assistance in his power."
                 },
                 {
-                    "target": "Wenn ich doch nur wüßte, wie das war!\\\" Aber sie wünschte es umsonst, bestenfalls konnte es in der Eile und dem Durcheinander der folgenden Stunde dazu dienen, sie zu unterhalten.",
+                    "target": "Wenn ich doch nur wüßte, wie das war!\" Aber sie wünschte es umsonst, bestenfalls konnte es in der Eile und dem Durcheinander der folgenden Stunde dazu dienen, sie zu unterhalten.",
                     "native": "Elizabeth, though expecting no less, thanked him with tears of gratitude; and all three being actuated by one spirit, everything relating to their journey was speedily settled."
                 },
                 {
                     "target": "Hätte es Elizabeth freigestanden, müßig zu sein, wäre sie überzeugt gewesen, daß jede Beschäftigung für einen so unglücklichen Menschen wie sie unmöglich sei; doch sie hatte ebenso wie ihre Tante ihren Teil an den Vorbereitungen zu leisten; unter anderem waren Billetts an alle ihre Freunde in Lambton zu schreiben – mit vorgetäuschten Entschuldigungen für ihre plötzliche Abreise.",
-                    "native": "They were to be off as soon as possible. \\\"But what is to be done about Pemberley?\\\" cried Mrs."
+                    "native": "They were to be off as soon as possible. \"But what is to be done about Pemberley?\" cried Mrs."
                 },
                 {
                     "target": "Nach einer Stunde war alles geschafft; und da Mr.",
-                    "native": "Gardiner. \\\"John told us Mr."
+                    "native": "Gardiner. \"John told us Mr."
                 },
                 {
                     "target": "Gardiner inzwischen seine Rechnung im Gasthaus beglichen hatte, blieb nichts zu tun als abzufahren; und nach all dem Elend des Morgens fand sich Elizabeth in kürzerer Zeit, als sie hätte vermuten können, in der Kutsche und auf dem Wege nach Longbourn.",
-                    "native": "Darcy was here when you sent for us; was it so?\\\" \\\"Yes; and I told him we should not be able to keep our engagement."
+                    "native": "Darcy was here when you sent for us; was it so?\" \"Yes; and I told him we should not be able to keep our engagement."
                 }
             ]
         }
