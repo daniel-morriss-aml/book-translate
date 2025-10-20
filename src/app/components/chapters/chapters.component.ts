@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { BookMetadata, ChapterMetadata } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
+import { ProgressService } from '../../services/progress.service';
 
 @Component({
     selector: 'app-chapters',
@@ -18,6 +19,7 @@ export class ChaptersComponent implements OnInit {
 
     constructor(
         private bookService: BookService,
+        private progressService: ProgressService,
         private route: ActivatedRoute,
         private router: Router
     ) {}
@@ -73,5 +75,13 @@ export class ChaptersComponent implements OnInit {
 
     backToLibrary(): void {
         this.router.navigate(['/']);
+    }
+
+    getChapterProgress(chapterId: string): number {
+        return this.progressService.getProgressPercentage(chapterId);
+    }
+
+    isChapterComplete(chapterId: string): boolean {
+        return this.getChapterProgress(chapterId) === 100;
     }
 }
