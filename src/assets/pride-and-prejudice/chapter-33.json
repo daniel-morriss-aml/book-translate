@@ -156,12 +156,8 @@
                     "native": "She directly replied: \"You need not be frightened."
                 },
                 {
-                    "target": "Sie ist bei einigen Damen meiner Bekanntschaft, Mrs. Hurst und Miss Bingley, außerordentlich beliebt.",
-                    "native": "I never heard any harm of her; and I dare say she is one of the most tractable creatures in the world. She is a very great favourite with some ladies of my acquaintance, Mrs."
-                },
-                {
-                    "target": "Ich glaube, ich habe Sie sagen hören, daß Sie die Damen kennen.\" \"Ich kenne sie ein wenig.",
-                    "native": "Hurst and Miss Bingley."
+                    "target": "Sie ist bei einigen Damen meiner Bekanntschaft, Mrs. Hurst und Miss Bingley, außerordentlich beliebt. Ich glaube, ich habe Sie sagen hören, daß Sie die Damen kennen.\" \"Ich kenne sie ein wenig.",
+                    "native": "I never heard any harm of her; and I dare say she is one of the most tractable creatures in the world. She is a very great favourite with some ladies of my acquaintance, Mrs. Hurst and Miss Bingley."
                 },
                 {
                     "target": "Ihr Bruder ist ein angenehmer, feiner Mensch – und ein sehr guter Freund von Darcy.\" \"O ja!\" sagte Elizabeth trocken, \"Mr.",
@@ -173,12 +169,8 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Darcy ist ungewöhnlich gütig zu Mr. Bingley und kümmert sich außerordentlich viel um ihn.\" \"Kümmert sich um ihn! – Ja, ich glaube wirklich, Darcy tut das dort, wo Bingley es am meisten nötig hat.",
-                    "native": "Their brother is a pleasant gentlemanlike man—he is a great friend of Darcy's.\" \"Oh! yes,\" said Elizabeth drily; \"Mr. Darcy is uncommonly kind to Mr."
-                },
-                {
-                    "target": "Nach einer Sache zu urteilen, die er mir auf unserem Wege hierher erzählt hat, habe ich Grund anzunehmen, daß Bingley ihm sehr zu Dank verpflichtet ist.",
-                    "native": "Bingley, and takes a prodigious deal of care of him.\" \"Care of him!"
+                    "target": "Darcy ist ungewöhnlich gütig zu Mr. Bingley und kümmert sich außerordentlich viel um ihn.\" \"Kümmert sich um ihn! – Ja, ich glaube wirklich, Darcy tut das dort, wo Bingley es am meisten nötig hat. Nach einer Sache zu urteilen, die er mir auf unserem Wege hierher erzählt hat, habe ich Grund anzunehmen, daß Bingley ihm sehr zu Dank verpflichtet ist.",
+                    "native": "Their brother is a pleasant gentlemanlike man—he is a great friend of Darcy's.\" \"Oh! yes,\" said Elizabeth drily; \"Mr. Darcy is uncommonly kind to Mr. Bingley, and takes a prodigious deal of care of him.\" \"Care of him!"
                 },
                 {
                     "target": "Aber ich sollte mich bei ihm entschuldigen, denn es berechtigt mich nichts zu der Annahme, daß Bingley die Person war, die er meinte.",
@@ -198,20 +190,12 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Warum sollte er sich hier zum Richter machen?\" \"Sie sind eher geneigt, seine Einmischung aufdringlich zu nennen?\" \"Ich kann nicht sehen, welches Recht Mr. Darcy hatte, über die Schicklichkeit der Liebe seines Freundes zu entscheiden, und warum er aufgrund seines alleinigen Urteils bestimmen sollte, auf welche Weise dieser Freund glücklich zu sein hat.",
-                    "native": "After watching her a little, Fitzwilliam asked her why she was so thoughtful. \"I am thinking of what you have been telling me,\" said she. \"Your cousin's conduct does not suit my feelings. Why was he to be the judge?\" \"You are rather disposed to call his interference officious?\" \"I do not see what right Mr."
+                    "target": "Warum sollte er sich hier zum Richter machen?\" \"Sie sind eher geneigt, seine Einmischung aufdringlich zu nennen?\" \"Ich kann nicht sehen, welches Recht Mr. Darcy hatte, über die Schicklichkeit der Liebe seines Freundes zu entscheiden, und warum er aufgrund seines alleinigen Urteils bestimmen sollte, auf welche Weise dieser Freund glücklich zu sein hat. Aber\", fuhr sie, sich wieder besinnend, fort, \"da wir keine Einzelheiten kennen, ist es nicht fair, ihn zu verdammen.",
+                    "native": "After watching her a little, Fitzwilliam asked her why she was so thoughtful. \"I am thinking of what you have been telling me,\" said she. \"Your cousin's conduct does not suit my feelings. Why was he to be the judge?\" \"You are rather disposed to call his interference officious?\" \"I do not see what right Mr. Darcy had to decide on the propriety of his friend's inclination, or why, upon his own judgement alone, he was to determine and direct in what manner his friend was to be happy."
                 },
                 {
-                    "target": "Aber\", fuhr sie, sich wieder besinnend, fort, \"da wir keine Einzelheiten kennen, ist es nicht fair, ihn zu verdammen.",
-                    "native": "Darcy had to decide on the propriety of his friend's inclination, or why, upon his own judgement alone, he was to determine and direct in what manner his friend was to be happy."
-                },
-                {
-                    "target": "Man kann nicht annehmen, daß viel Liebe dabei im Spiel war.\" \"Diese Vermutung ist nur natürlich\", sagte Fitzwilliam, \"aber sie mindert den Triumph meines Cousins erheblich.\" Das war im Scherz gesprochen, doch erschien es ihr ein so passendes Bild von Mr. Darcy, daß sie lieber nicht mehr antwortete; und so wechselte sie rasch das Thema und sprach über gleichgültige Dinge, bis sie das Pfarrhaus erreichten.",
-                    "native": "But,\" she continued, recollecting herself, \"as we know none of the particulars, it is not fair to condemn him. It is not to be supposed that there was much affection in the case.\" \"That is not an unnatural surmise,\" said Fitzwilliam, \"but it is a lessening of the honour of my cousin's triumph very sadly.\" This was spoken jestingly; but it appeared to her so just a picture of Mr."
-                },
-                {
-                    "target": "Dort konnte sie – eingeschlossen in ihrem Zimmer, sobald ihr Besucher gegangen war – ungestört über alles nachdenken, was sie gehört hatte.",
-                    "native": "Darcy, that she would not trust herself with an answer, and therefore, abruptly changing the conversation talked on indifferent matters until they reached the Parsonage."
+                    "target": "Man kann nicht annehmen, daß viel Liebe dabei im Spiel war.\" \"Diese Vermutung ist nur natürlich\", sagte Fitzwilliam, \"aber sie mindert den Triumph meines Cousins erheblich.\" Das war im Scherz gesprochen, doch erschien es ihr ein so passendes Bild von Mr. Darcy, daß sie lieber nicht mehr antwortete; und so wechselte sie rasch das Thema und sprach über gleichgültige Dinge, bis sie das Pfarrhaus erreichten. Dort konnte sie – eingeschlossen in ihrem Zimmer, sobald ihr Besucher gegangen war – ungestört über alles nachdenken, was sie gehört hatte.",
+                    "native": "But,\" she continued, recollecting herself, \"as we know none of the particulars, it is not fair to condemn him. It is not to be supposed that there was much affection in the case.\" \"That is not an unnatural surmise,\" said Fitzwilliam, \"but it is a lessening of the honour of my cousin's triumph very sadly.\" This was spoken jestingly; but it appeared to her so just a picture of Mr. Darcy, that she would not trust herself with an answer, and therefore, abruptly changing the conversation talked on indifferent matters until they reached the Parsonage."
                 },
                 {
                     "target": "Es war nicht anzunehmen, daß andere Leute gemeint sein konnten als ihre eigenen Angehörigen.",
@@ -223,12 +207,8 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Es konnte in der Welt keinen zweiten Menschen geben, über den Mr. Darcy eine so grenzenlose Macht hatte.",
-                    "native": "It was not to be supposed that any other people could be meant than those with whom she was connected. There could not exist in the world two men over whom Mr."
-                },
-                {
-                    "target": "Daß er beteiligt gewesen war an den Maßnahmen, die unternommen worden waren, um Mr. Bingley und Jane zu trennen, hatte sie nie bezweifelt, doch den eigentlichen Plan und die Ausführung hatte sie stets Miss Bingley zugeschrieben.",
-                    "native": "Darcy could have such boundless influence. That he had been concerned in the measures taken to separate Bingley and Jane she had never doubted; but she had always attributed to Miss Bingley the principal design and arrangement of them."
+                    "target": "Es konnte in der Welt keinen zweiten Menschen geben, über den Mr. Darcy eine so grenzenlose Macht hatte. Daß er beteiligt gewesen war an den Maßnahmen, die unternommen worden waren, um Mr. Bingley und Jane zu trennen, hatte sie nie bezweifelt, doch den eigentlichen Plan und die Ausführung hatte sie stets Miss Bingley zugeschrieben.",
+                    "native": "It was not to be supposed that any other people could be meant than those with whom she was connected. There could not exist in the world two men over whom Mr. Darcy could have such boundless influence. That he had been concerned in the measures taken to separate Bingley and Jane she had never doubted; but she had always attributed to Miss Bingley the principal design and arrangement of them."
                 },
                 {
                     "target": "Doch wenn ihn nicht seine Eitelkeit zu dieser Darstellung verleitet hatte, dann war tatsächlich er die Ursache, waren sein Stolz und seine Launen die Ursache all dessen, was Jane gelitten hatte und noch immer litt.",
@@ -239,22 +219,14 @@
                     "native": "He had ruined for a while every hope of happiness for the most affectionate, generous heart in the world; and no one could say how lasting an evil he might have inflicted. \"There were some very strong objections against the lady,\" were Colonel Fitzwilliam's words; and those strong objections probably were, her having one uncle who was a country attorney, and another who was in business in London. \"To Jane herself,\" she exclaimed, \"there could be no possibility of objection; all loveliness and goodness as she is!—her understanding excellent, her mind improved, and her manners captivating."
                 },
                 {
-                    "target": "Bei soviel Liebreiz und Güte – ihrem ausgezeichneten Verstand, ihrem gebildeten Geist, ihrem einnehmenden Wesen. Auch kann nichts gegen meinen Vater vorgebracht werden, der trotz einiger Eigenheiten Fähigkeiten besitzt, die selbst Mr. Darcy nicht geringschätzen kann, und der ein Ansehen genießt, das er wahrscheinlich niemals erreichen wird.\" Wenn sie allerdings an ihre Mutter dachte, war sie etwas weniger zuversichtlich, aber sie wollte nicht gelten lassen, daß irgendwelche Einwände in diesem Punkt bei Mr. Darcy wesentlich ins Gewicht fielen, dessen Stolz, davon war sie überzeugt, eine tiefere Kränkung durch den Mangel an Bedeutung bei den Verwandten seines Freundes erfahren würde als durch den Mangel an Verstand; und sie war sich schließlich ganz sicher, daß er teilweise von dieser schlimmsten Art des Stolzes und teilweise von dem Wunsch, Mr.",
-                    "native": "Neither could anything be urged against my father, who, though with some peculiarities, has abilities Mr. Darcy himself need not disdain, and respectability which he will probably never reach.\" When she thought of her mother, her confidence gave way a little; but she would not allow that any objections there had material weight with Mr. Darcy, whose pride, she was convinced, would receive a deeper wound from the want of importance in his friend's connections, than from their want of sense; and she was quite decided, at last, that he had been partly governed by this worst kind of pride, and partly by the wish of retaining Mr. Bingley for his sister."
+                    "target": "Bei soviel Liebreiz und Güte – ihrem ausgezeichneten Verstand, ihrem gebildeten Geist, ihrem einnehmenden Wesen. Auch kann nichts gegen meinen Vater vorgebracht werden, der trotz einiger Eigenheiten Fähigkeiten besitzt, die selbst Mr. Darcy nicht geringschätzen kann, und der ein Ansehen genießt, das er wahrscheinlich niemals erreichen wird.\" Wenn sie allerdings an ihre Mutter dachte, war sie etwas weniger zuversichtlich, aber sie wollte nicht gelten lassen, daß irgendwelche Einwände in diesem Punkt bei Mr. Darcy wesentlich ins Gewicht fielen, dessen Stolz, davon war sie überzeugt, eine tiefere Kränkung durch den Mangel an Bedeutung bei den Verwandten seines Freundes erfahren würde als durch den Mangel an Verstand; und sie war sich schließlich ganz sicher, daß er teilweise von dieser schlimmsten Art des Stolzes und teilweise von dem Wunsch, Mr. Bingley für seine Schwester zu erhalten, geleitet worden war. Die Aufregung und die Tränen, die dies alles bei ihr hervorgerufen hatte, führten zu Kopfschmerzen, und es wurde zum Abend so schlimm, daß es sie, zusammen mit ihrer Abneigung, Mr. Darcy zu begegnen, bestimmte, ihre Angehörigen nicht nach Rosings zu begleiten, wo sie zum Tee eingeladen waren. Mrs.",
+                    "native": "Neither could anything be urged against my father, who, though with some peculiarities, has abilities Mr. Darcy himself need not disdain, and respectability which he will probably never reach.\" When she thought of her mother, her confidence gave way a little; but she would not allow that any objections there had material weight with Mr. Darcy, whose pride, she was convinced, would receive a deeper wound from the want of importance in his friend's connections, than from their want of sense; and she was quite decided, at last, that he had been partly governed by this worst kind of pride, and partly by the wish of retaining Mr. Bingley for his sister. The agitation and tears which the subject occasioned, brought on a headache; and it grew so much worse towards the evening, that, added to her unwillingness to see Mr. Darcy, it determined her not to attend her cousins to Rosings, where they were engaged to drink tea. Mrs. Collins, seeing that she was really unwell, did not press her to go and as much as possible prevented her husband from pressing her; but Mr."
                 }
             ]
         },
         {
             "pageNumber": 9,
             "sentences": [
-                {
-                    "target": "Bingley für seine Schwester zu erhalten, geleitet worden war. Die Aufregung und die Tränen, die dies alles bei ihr hervorgerufen hatte, führten zu Kopfschmerzen, und es wurde zum Abend so schlimm, daß es sie, zusammen mit ihrer Abneigung, Mr.",
-                    "native": "The agitation and tears which the subject occasioned, brought on a headache; and it grew so much worse towards the evening, that, added to her unwillingness to see Mr. Darcy, it determined her not to attend her cousins to Rosings, where they were engaged to drink tea."
-                },
-                {
-                    "target": "Darcy zu begegnen, bestimmte, ihre Angehörigen nicht nach Rosings zu begleiten, wo sie zum Tee eingeladen waren. Mrs.",
-                    "native": "Mrs. Collins, seeing that she was really unwell, did not press her to go and as much as possible prevented her husband from pressing her; but Mr."
-                },
                 {
                     "target": "Collins drängte sie nicht, mitzukommen, da sie sah, daß es ihr wirklich nicht gutging, und sie versuchte, ihren Gatten soweit wie möglich davon abzuhalten, sie dazu zu drängen; doch Mr.",
                     "native": "Collins could not conceal his apprehension of Lady Catherine's being rather displeased by her staying at home."

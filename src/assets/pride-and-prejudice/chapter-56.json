@@ -74,12 +74,8 @@
                     "native": "I saw them the night before last.\" Elizabeth now expected that she would produce a letter for her from Charlotte, as it seemed the only probable motive for her calling."
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "But no letter appeared, and she was completely puzzled."
-                },
-                {
-                    "target": "Bennet bat Ihre Ladyschaft sehr höflich, doch eine Erfrischung zu sich zu nehmen, doch Lady Catherine lehnte es sehr entschieden und nicht sehr höflich ab, irgend etwas zu essen; dann erhob sie sich und sagte zu Elizabeth: \"Miss Bennet, es scheint da auf der einen Seite Ihres Rasenplatzes eine ganz hübsche kleine Wildnis zu geben; ich würde dort gern einen kleinen Spaziergang machen, wenn Sie die Güte haben würden, mich zu begleiten.\" \"Geh, mein Kind\", rief ihre Mutter, \"und führe Ihre Ladyschaft all die Wege entlang, die Klause wird ihr bestimmt gefallen.\" Elizabeth gehorchte, lief in ihr Zimmer nach ihrem Sonnenschirm und begleitete ihren erlauchten Gast nach unten. Als sie durch die Halle gingen, öffnete Lady Catherine die Türen zum Speisezimmer und zum Salon, erklärte die Räume nach einer kurzen Begutachtung für ganz ordentlich und ging dann weiter.",
-                    "native": "Mrs. Bennet, with great civility, begged her ladyship to take some refreshment; but Lady Catherine very resolutely, and not very politely, declined eating anything; and then, rising up, said to Elizabeth, \"Miss Bennet, there seemed to be a prettyish kind of a little wilderness on one side of your lawn."
+                    "target": "Mrs. Bennet bat Ihre Ladyschaft sehr höflich, doch eine Erfrischung zu sich zu nehmen, doch Lady Catherine lehnte es sehr entschieden und nicht sehr höflich ab, irgend etwas zu essen; dann erhob sie sich und sagte zu Elizabeth: \"Miss Bennet, es scheint da auf der einen Seite Ihres Rasenplatzes eine ganz hübsche kleine Wildnis zu geben; ich würde dort gern einen kleinen Spaziergang machen, wenn Sie die Güte haben würden, mich zu begleiten.\" \"Geh, mein Kind\", rief ihre Mutter, \"und führe Ihre Ladyschaft all die Wege entlang, die Klause wird ihr bestimmt gefallen.\" Elizabeth gehorchte, lief in ihr Zimmer nach ihrem Sonnenschirm und begleitete ihren erlauchten Gast nach unten. Als sie durch die Halle gingen, öffnete Lady Catherine die Türen zum Speisezimmer und zum Salon, erklärte die Räume nach einer kurzen Begutachtung für ganz ordentlich und ging dann weiter.",
+                    "native": "But no letter appeared, and she was completely puzzled. Mrs. Bennet, with great civility, begged her ladyship to take some refreshment; but Lady Catherine very resolutely, and not very politely, declined eating anything; and then, rising up, said to Elizabeth, \"Miss Bennet, there seemed to be a prettyish kind of a little wilderness on one side of your lawn."
                 },
                 {
                     "target": "Ihre Kutsche stand noch vor der Tür, und Elizabeth sah, daß ihr Kammermädchen darin saß.",
@@ -185,12 +181,8 @@
                     "native": "I have not been accustomed to such language as this."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "I am almost the nearest relation he has in the world, and am entitled to know all his dearest concerns.\" \"But you are not entitled to know mine; nor will such behaviour as this, ever induce me to be explicit.\" \"Let me be rightly understood."
-                },
-                {
-                    "target": "Darcy ist mit meiner Tochter verlobt.",
-                    "native": "This match, to which you have the presumption to aspire, can never take place."
+                    "target": "Mr. Darcy ist mit meiner Tochter verlobt.",
+                    "native": "I am almost the nearest relation he has in the world, and am entitled to know all his dearest concerns.\" \"But you are not entitled to know mine; nor will such behaviour as this, ever induce me to be explicit.\" \"Let me be rightly understood. This match, to which you have the presumption to aspire, can never take place."
                 }
             ]
         },

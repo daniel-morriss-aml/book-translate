@@ -41,12 +41,8 @@
                     "native": "By Mrs. Hurst and Miss Bingley they were noticed only by a curtsey; and, on their being seated, a pause, awkward as such pauses must always be, succeeded for a few moments."
                 },
                 {
-                    "target": "Sie wurde zuerst von Mrs. Annesley unterbrochen, einer vornehmen Frau mit angenehmen Gesichtszügen, deren Bemühen, ein Gespräch aufkommen zu lassen, sie als weit wohlerzogener erwies als die beiden anderen; und zwischen ihr und Mrs.",
-                    "native": "It was first broken by Mrs. Annesley, a genteel, agreeable-looking woman, whose endeavour to introduce some kind of discourse proved her to be more truly well-bred than either of the others; and between her and Mrs."
-                },
-                {
-                    "target": "Gardiner, und einem gelegentlichen Beitrag seitens Elizabeths, wurde nun die Unterhaltung fortgeführt.",
-                    "native": "Gardiner, with occasional help from Elizabeth, the conversation was carried on."
+                    "target": "Sie wurde zuerst von Mrs. Annesley unterbrochen, einer vornehmen Frau mit angenehmen Gesichtszügen, deren Bemühen, ein Gespräch aufkommen zu lassen, sie als weit wohlerzogener erwies als die beiden anderen; und zwischen ihr und Mrs. Gardiner, und einem gelegentlichen Beitrag seitens Elizabeths, wurde nun die Unterhaltung fortgeführt.",
+                    "native": "It was first broken by Mrs. Annesley, a genteel, agreeable-looking woman, whose endeavour to introduce some kind of discourse proved her to be more truly well-bred than either of the others; and between her and Mrs. Gardiner, with occasional help from Elizabeth, the conversation was carried on."
                 },
                 {
                     "target": "Miss Darcy erweckte den Eindruck, als wünschte sie sich genug Mut, um sich daran zu beteiligen; und manchmal wagte sie einen kurzen Satz, und zwar dann, wenn die wenigste Gefahr bestand, daß er gehört wurde.",
@@ -165,12 +161,8 @@
                     "native": "Her brother, whose eye she feared to meet, scarcely recollected her interest in the affair, and the very circumstance which had been designed to turn his thoughts from Elizabeth seemed to have fixed them on her more and more cheerfully."
                 },
                 {
-                    "target": "Ihr Bruder, dessen Blick zu begegnen sie fürchtete, dachte kaum noch an die Rolle, die sie bei der Affäre gespielt hatte; und gerade der Umstand, der dazu bestimmt gewesen war, seine Gedanken von Elizabeth abzulenken, schien diese immer freundlicher auf sie zu richten. Ihr Besuch währte nicht mehr lange nach jener Frage und Elizabeths Antwort darauf, und während Mr.",
-                    "native": "Their visit did not continue long after the question and answer above mentioned; and while Mr. Darcy was attending them to their carriage Miss Bingley was venting her feelings in criticisms on Elizabeth's person, behaviour, and dress."
-                },
-                {
-                    "target": "Darcy sie zu ihrer Kutsche begleitete, machte Miss Bingley ihren Gefühlen in kritischen Äußerungen über Elizabeths Erscheinung, Betragen und Kleidung Luft.",
-                    "native": "But Georgiana would not join her."
+                    "target": "Ihr Bruder, dessen Blick zu begegnen sie fürchtete, dachte kaum noch an die Rolle, die sie bei der Affäre gespielt hatte; und gerade der Umstand, der dazu bestimmt gewesen war, seine Gedanken von Elizabeth abzulenken, schien diese immer freundlicher auf sie zu richten. Ihr Besuch währte nicht mehr lange nach jener Frage und Elizabeths Antwort darauf, und während Mr. Darcy sie zu ihrer Kutsche begleitete, machte Miss Bingley ihren Gefühlen in kritischen Äußerungen über Elizabeths Erscheinung, Betragen und Kleidung Luft.",
+                    "native": "Their visit did not continue long after the question and answer above mentioned; and while Mr. Darcy was attending them to their carriage Miss Bingley was venting her feelings in criticisms on Elizabeth's person, behaviour, and dress. But Georgiana would not join her."
                 },
                 {
                     "target": "Doch Georgiana stimmte nicht mit ein.",
@@ -223,20 +215,12 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Eher könnte ich ihre Mutter eine geistreiche Person nennen.‹ Aber später schien sie Ihnen besser zu gefallen, und ich glaube, Sie haben sie einmal ziemlich hübsch gefunden.\" \"Ja\", erwiderte Darcy, der nicht länger an sich halten konnte, \"aber das war nur, als ich sie kennenlernte; schon seit vielen Monaten betrachte ich sie als eine der schönsten Frauen meiner Bekanntschaft.\" Damit ging er hinaus, und Miss Bingley blieb die ganze Genugtuung darüber, daß sie ihn genötigt hatte zu sagen, was niemanden peinigte als sie selbst. Mrs.",
-                    "native": "Mrs. Gardiner and Elizabeth talked of all that had occurred during their visit, as they returned, except what had particularly interested them both."
+                    "target": "Eher könnte ich ihre Mutter eine geistreiche Person nennen.‹ Aber später schien sie Ihnen besser zu gefallen, und ich glaube, Sie haben sie einmal ziemlich hübsch gefunden.\" \"Ja\", erwiderte Darcy, der nicht länger an sich halten konnte, \"aber das war nur, als ich sie kennenlernte; schon seit vielen Monaten betrachte ich sie als eine der schönsten Frauen meiner Bekanntschaft.\" Damit ging er hinaus, und Miss Bingley blieb die ganze Genugtuung darüber, daß sie ihn genötigt hatte zu sagen, was niemanden peinigte als sie selbst. Mrs. Gardiner und Elizabeth sprachen bei ihrer Rückkehr über alles, was sich während ihres Besuches ereignet hatte, nur nicht über das, was sie beide besonders interessierte.",
+                    "native": "Mrs. Gardiner and Elizabeth talked of all that had occurred during their visit, as they returned, except what had particularly interested them both. The look and behaviour of everybody they had seen were discussed, except of the person who had mostly engaged their attention."
                 },
                 {
-                    "target": "Gardiner und Elizabeth sprachen bei ihrer Rückkehr über alles, was sich während ihres Besuches ereignet hatte, nur nicht über das, was sie beide besonders interessierte.",
-                    "native": "The look and behaviour of everybody they had seen were discussed, except of the person who had mostly engaged their attention."
-                },
-                {
-                    "target": "Es wurde das Aussehen und Betragen aller durchgesprochen, die sie gesehen hatten, nur nicht von der Person, die ihre Aufmerksamkeit am meisten in Anspruch genommen hatte. Sie sprachen über seine Schwester, seine Freunde, sein Haus, sein Obst, über alles, nur nicht über ihn selbst; und Elizabeth wünschte doch so sehr zu erfahren, was Mrs.",
-                    "native": "They talked of his sister, his friends, his house, his fruit—of everything but himself; yet Elizabeth was longing to know what Mrs. Gardiner thought of him, and Mrs."
-                },
-                {
-                    "target": "Gardiner über ihn dachte, und Mrs.",
-                    "native": "Gardiner would have been highly gratified by her niece's beginning the subject."
+                    "target": "Es wurde das Aussehen und Betragen aller durchgesprochen, die sie gesehen hatten, nur nicht von der Person, die ihre Aufmerksamkeit am meisten in Anspruch genommen hatte. Sie sprachen über seine Schwester, seine Freunde, sein Haus, sein Obst, über alles, nur nicht über ihn selbst; und Elizabeth wünschte doch so sehr zu erfahren, was Mrs. Gardiner über ihn dachte, und Mrs.",
+                    "native": "They talked of his sister, his friends, his house, his fruit—of everything but himself; yet Elizabeth was longing to know what Mrs. Gardiner thought of him, and Mrs. Gardiner would have been highly gratified by her niece's beginning the subject."
                 }
             ]
         }

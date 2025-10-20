@@ -41,24 +41,16 @@
             "pageNumber": 2,
             "sentences": [
                 {
-                    "target": "Außer ihm nahm kaum einer Notiz von ihr. Miss Bingley war ganz von Mr.",
-                    "native": "Miss Bingley was engrossed by Mr. Darcy, her sister scarcely less so; and as for Mr."
-                },
-                {
-                    "target": "Darcy gefangengenommen, und ihre Schwester kaum weniger; und was Mr. Hurst anging, neben dem Elizabeth saß, so war er ein träger Mensch, der nur lebte, um zu essen, zu trinken und Karten zu spielen, und der ihr, als er feststellte, daß sie eine einfache Speise dem Ragout vorzog, nichts mehr zu sagen hatte.",
-                    "native": "Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to eat, drink, and play at cards; who, when he found her to prefer a plain dish to a ragout, had nothing to say to her. When dinner was over, she returned directly to Jane, and Miss Bingley began abusing her as soon as she was out of the room."
+                    "target": "Außer ihm nahm kaum einer Notiz von ihr. Miss Bingley war ganz von Mr. Darcy gefangengenommen, und ihre Schwester kaum weniger; und was Mr. Hurst anging, neben dem Elizabeth saß, so war er ein träger Mensch, der nur lebte, um zu essen, zu trinken und Karten zu spielen, und der ihr, als er feststellte, daß sie eine einfache Speise dem Ragout vorzog, nichts mehr zu sagen hatte.",
+                    "native": "Miss Bingley was engrossed by Mr. Darcy, her sister scarcely less so; and as for Mr. Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to eat, drink, and play at cards; who, when he found her to prefer a plain dish to a ragout, had nothing to say to her. When dinner was over, she returned directly to Jane, and Miss Bingley began abusing her as soon as she was out of the room."
                 },
                 {
                     "target": "Als das Dinner beendet war, kehrte Elizabeth sofort zu Jane zurück; und kaum hatte sie den Raum verlassen, als Miss Bingley sie auch schon zu verunglimpfen begann.",
                     "native": "Her manners were pronounced to be very bad indeed, a mixture of pride and impertinence; she had no conversation, no style, no beauty."
                 },
                 {
-                    "target": "Ihre Umgangsformen wurden für wirklich außerordentlich schlecht erklärt, für eine Mischung aus Stolz und Ungehörigkeit; und sie habe keine Lebensart, keine Vornehmheit, keinen Geschmack, keine Schönheit. Mrs.",
-                    "native": "Mrs. Hurst thought the same, and added: \"She has nothing, in short, to recommend her, but being an excellent walker."
-                },
-                {
-                    "target": "Hurst meinte das gleiche und fügte hinzu: \"Kurz gesagt, sie hat nichts, das sie empfehlen könnte, außer daß sie eine ausgezeichnete Fußgängerin ist.",
-                    "native": "I shall never forget her appearance this morning."
+                    "target": "Ihre Umgangsformen wurden für wirklich außerordentlich schlecht erklärt, für eine Mischung aus Stolz und Ungehörigkeit; und sie habe keine Lebensart, keine Vornehmheit, keinen Geschmack, keine Schönheit. Mrs. Hurst meinte das gleiche und fügte hinzu: \"Kurz gesagt, sie hat nichts, das sie empfehlen könnte, außer daß sie eine ausgezeichnete Fußgängerin ist.",
+                    "native": "Mrs. Hurst thought the same, and added: \"She has nothing, in short, to recommend her, but being an excellent walker. I shall never forget her appearance this morning."
                 }
             ]
         },
@@ -103,12 +95,8 @@
                     "native": "What could she mean by it?"
                 },
                 {
-                    "target": "Mir scheint, dies läßt eine abscheuliche Art dünkelhafter Unabhängigkeit erkennen, eine äußerst provinzielle Gleichgültigkeit gegenüber Anstand und Schicklichkeit.\" \"Es läßt eine Liebe zu ihrer Schwester erkennen, die sehr einnehmend ist\", sagte Bingley. \"Ich fürchte, Mr. Darcy\", bemerkte Miss Bingley halb flüsternd, \"daß dieses Abenteuer Ihre Bewunderung für ihre schönen Augen ziemlich beeinträchtigt hat.\" \"Ganz und gar nicht\", entgegnete er, \"sie hatten sogar noch mehr Glanz bekommen durch die Bewegung im Freien.\" Darauf folgte eine kurze Pause, bis Mrs.",
-                    "native": "It seems to me to show an abominable sort of conceited independence, a most country-town indifference to decorum.\" \"It shows an affection for her sister that is very pleasing,\" said Bingley. \"I am afraid, Mr. Darcy,\" observed Miss Bingley in a half whisper, \"that this adventure has rather affected your admiration of her fine eyes.\" \"Not at all,\" he replied; \"they were brightened by the exercise.\" A short pause followed this speech, and Mrs."
-                },
-                {
-                    "target": "Hurst wieder begann: \"Ich habe eine außerordentlich hohe Meinung von Jane Bennet, sie ist wirklich ein reizendes Mädchen, und ich wünsche von ganzem Herzen, daß sie sich einmal gut verheiratet.",
-                    "native": "Hurst began again: \"I have an excessive regard for Miss Jane Bennet, she is really a very sweet girl, and I wish with all my heart she were well settled."
+                    "target": "Mir scheint, dies läßt eine abscheuliche Art dünkelhafter Unabhängigkeit erkennen, eine äußerst provinzielle Gleichgültigkeit gegenüber Anstand und Schicklichkeit.\" \"Es läßt eine Liebe zu ihrer Schwester erkennen, die sehr einnehmend ist\", sagte Bingley. \"Ich fürchte, Mr. Darcy\", bemerkte Miss Bingley halb flüsternd, \"daß dieses Abenteuer Ihre Bewunderung für ihre schönen Augen ziemlich beeinträchtigt hat.\" \"Ganz und gar nicht\", entgegnete er, \"sie hatten sogar noch mehr Glanz bekommen durch die Bewegung im Freien.\" Darauf folgte eine kurze Pause, bis Mrs. Hurst wieder begann: \"Ich habe eine außerordentlich hohe Meinung von Jane Bennet, sie ist wirklich ein reizendes Mädchen, und ich wünsche von ganzem Herzen, daß sie sich einmal gut verheiratet.",
+                    "native": "It seems to me to show an abominable sort of conceited independence, a most country-town indifference to decorum.\" \"It shows an affection for her sister that is very pleasing,\" said Bingley. \"I am afraid, Mr. Darcy,\" observed Miss Bingley in a half whisper, \"that this adventure has rather affected your admiration of her fine eyes.\" \"Not at all,\" he replied; \"they were brightened by the exercise.\" A short pause followed this speech, and Mrs. Hurst began again: \"I have an excessive regard for Miss Jane Bennet, she is really a very sweet girl, and I wish with all my heart she were well settled."
                 },
                 {
                     "target": "Aber mit einem solchen Vater und einer solchen Mutter und so niederen Verwandten hat sie keine Chance, fürchte ich.\" \"Ich glaubte, dich sagen zu hören, daß ihr Onkel Anwalt in Meryton ist.\" \"Ja, und sie haben noch einen weiteren Anwalt in der Familie, der irgendwo in der Nähe von Cheapside * lebt.\" \"Das ist ja fabelhaft\", fügte ihre Schwester hinzu, und beide lachten herzlich. \"Und wenn sie genügend Onkels hätten, um ganz Cheapside zu füllen\", rief Bingley, \"so würde es sie um keine Spur weniger liebenswürdig machen.\" \"Aber es würde ihre Chance, einen Mann von einiger Bedeutung zu heiraten, erheblich verringern\", entgegnete Darcy.",
@@ -202,12 +190,8 @@
                     "native": "The word is applied to many a woman who deserves it no otherwise than by netting a purse or covering a screen."
                 },
                 {
-                    "target": "Und ich habe niemals solche Fähigkeiten, so viel Geschmack, so viel Fleiß und Hingabe und so viel Vornehmheit, wie Sie es beschreiben, vereint gesehen.\" Mrs. Hurst und Miss Bingley protestierten heftig gegen die Ungerechtigkeit, die in solchen Zweifeln lag, und erklärten beide empört, daß sie viele Frauen kennen würden, die dieser Beschreibung entsprachen; doch dann rief Mr.",
-                    "native": "But I am very far from agreeing with you in your estimation of ladies in general. I cannot boast of knowing more than half-a-dozen, in the whole range of my acquaintance, that are really accomplished.\" \"Nor I, I am sure,\" said Miss Bingley. \"Then,\" observed Elizabeth, \"you must comprehend a great deal in your idea of an accomplished woman.\" \"Yes, I do comprehend a great deal in it.\" \"Oh! certainly,\" cried his faithful assistant, \"no one can be really esteemed accomplished who does not greatly surpass what is usually met with."
-                },
-                {
-                    "target": "Hurst sie mit bitteren Klagen zur Ordnung, weil sie dem Spiel nicht mit der nötigen Aufmerksamkeit folgten.",
-                    "native": "A woman must have a thorough knowledge of music, singing, drawing, dancing, and the modern languages, to deserve the word; and besides all this, she must possess a certain something in her air and manner of walking, the tone of her voice, her address and expressions, or the word will be but halfdeserved.\" \"All this she must possess,\" added Darcy, \"and to all this she must yet add something more substantial, in the improvement of her mind by extensive reading.\" \"I am no longer surprised at your knowing only six accomplished women."
+                    "target": "Und ich habe niemals solche Fähigkeiten, so viel Geschmack, so viel Fleiß und Hingabe und so viel Vornehmheit, wie Sie es beschreiben, vereint gesehen.\" Mrs. Hurst und Miss Bingley protestierten heftig gegen die Ungerechtigkeit, die in solchen Zweifeln lag, und erklärten beide empört, daß sie viele Frauen kennen würden, die dieser Beschreibung entsprachen; doch dann rief Mr. Hurst sie mit bitteren Klagen zur Ordnung, weil sie dem Spiel nicht mit der nötigen Aufmerksamkeit folgten.",
+                    "native": "But I am very far from agreeing with you in your estimation of ladies in general. I cannot boast of knowing more than half-a-dozen, in the whole range of my acquaintance, that are really accomplished.\" \"Nor I, I am sure,\" said Miss Bingley. \"Then,\" observed Elizabeth, \"you must comprehend a great deal in your idea of an accomplished woman.\" \"Yes, I do comprehend a great deal in it.\" \"Oh! certainly,\" cried his faithful assistant, \"no one can be really esteemed accomplished who does not greatly surpass what is usually met with. A woman must have a thorough knowledge of music, singing, drawing, dancing, and the modern languages, to deserve the word; and besides all this, she must possess a certain something in her air and manner of walking, the tone of her voice, her address and expressions, or the word will be but halfdeserved.\" \"All this she must possess,\" added Darcy, \"and to all this she must yet add something more substantial, in the improvement of her mind by extensive reading.\" \"I am no longer surprised at your knowing only six accomplished women."
                 },
                 {
                     "target": "Da jegliche Unterhaltung damit ein Ende hatte, verließ Elizabeth bald darauf das Zimmer. \"Eliza Bennet\", sagte Miss Bingley, als sich die Tür hinter ihr schloß, \"ist eine jener jungen Damen, die sich dem anderen Geschlecht zu empfehlen suchen, indem sie ihr eigenes herabsetzen; und ich glaube wohl, daß dies bei vielen Männern Erfolg hat.",
@@ -219,12 +203,8 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Aber meiner Meinung nach ist das ein verächtlicher Kunstgriff, eine ganz armselige List.\" \"Zweifellos\", erwiderte Darcy, an den diese Bemerkung vor allem gerichtet war, \"liegt all diesen Listen, die Damen zuweilen anzuwenden geruhen, um jemand für sich einzunehmen, eine niedrige Gesinnung zugrunde. Was immer nach Verschlagenheit aussieht, ist verabscheuungswürdig.\" Miss Bingley war nicht so ganz zufrieden mit dieser Antwort und deshalb nicht geneigt, das Thema fortzusetzen.",
-                    "native": "I never saw such capacity, and taste, and application, and elegance, as you describe united.\" Mrs. Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered this description, when Mr."
-                },
-                {
-                    "target": "Elizabeth kam nur noch einmal herunter, um ihnen zu sagen, daß es ihrer Schwester schlechter ginge und daß sie sie nicht allein lassen könne.",
-                    "native": "Hurst called them to order, with bitter complaints of their inattention to what was going forward."
+                    "target": "Aber meiner Meinung nach ist das ein verächtlicher Kunstgriff, eine ganz armselige List.\" \"Zweifellos\", erwiderte Darcy, an den diese Bemerkung vor allem gerichtet war, \"liegt all diesen Listen, die Damen zuweilen anzuwenden geruhen, um jemand für sich einzunehmen, eine niedrige Gesinnung zugrunde. Was immer nach Verschlagenheit aussieht, ist verabscheuungswürdig.\" Miss Bingley war nicht so ganz zufrieden mit dieser Antwort und deshalb nicht geneigt, das Thema fortzusetzen. Elizabeth kam nur noch einmal herunter, um ihnen zu sagen, daß es ihrer Schwester schlechter ginge und daß sie sie nicht allein lassen könne.",
+                    "native": "I never saw such capacity, and taste, and application, and elegance, as you describe united.\" Mrs. Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered this description, when Mr. Hurst called them to order, with bitter complaints of their inattention to what was going forward."
                 },
                 {
                     "target": "Bingley drang darauf, daß sofort nach Mr. Jones geschickt werden solle, während seine Schwestern – da sie überzeugt waren, daß kein ärztlicher Rat auf dem Lande von irgendwelchem Nutzen sein könne – empfahlen, einen Eilboten nach einem der berühmtesten Ärzte in der Stadt zu schicken.",

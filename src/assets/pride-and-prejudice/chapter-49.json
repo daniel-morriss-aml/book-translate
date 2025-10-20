@@ -12,12 +12,8 @@
                     "native": "Two days after Mr. Bennet's return, as Jane and Elizabeth were walking together in the shrubbery behind the house, they saw the housekeeper coming towards them, and, concluding that she came to call them to their mother, went forward to meet her; but, instead of the expected summons, when they approached her, she said to Miss Bennet, \"I beg your pardon, madam, for interrupting you, but I was in hopes you might have got some good news from town, so I took the liberty of coming to ask.\" \"What do you mean, Hill?"
                 },
                 {
-                    "target": "Wir haben nichts aus der Stadt gehört.\" \"Liebe Madam\", rief Mrs. Hill sehr verwundert, \"wissen Sie nicht, daß aus der Stadt ein Expreßbrief von Mr.",
-                    "native": "We have heard nothing from town.\" \"Dear madam,\" cried Mrs. Hill, in great astonishment, \"don't you know there is an express come for master from Mr."
-                },
-                {
-                    "target": "Gardiner an den Herrn gekommen ist?",
-                    "native": "Gardiner?"
+                    "target": "Wir haben nichts aus der Stadt gehört.\" \"Liebe Madam\", rief Mrs. Hill sehr verwundert, \"wissen Sie nicht, daß aus der Stadt ein Expreßbrief von Mr. Gardiner an den Herrn gekommen ist?",
+                    "native": "We have heard nothing from town.\" \"Dear madam,\" cried Mrs. Hill, in great astonishment, \"don't you know there is an express come for master from Mr. Gardiner?"
                 },
                 {
                     "target": "Es war vor einer halben Stunde, den Brief hat der Herr entgegengenommen.\" Sofort liefen die Mädchen davon, zu ungeduldig, ins Haus zu kommen, um noch etwas zu sagen.",
@@ -259,8 +255,8 @@
                     "native": "After a slight preparation for good news, the letter was read aloud."
                 },
                 {
-                    "target": "Er schrieb gerade und erwiderte kühl, ohne den Kopf zu heben: \"Ganz wie es euch beliebt.\" \"Können wir den Brief unseres Onkels mitnehmen und ihn ihr vorlesen?\" \"Nehmt alles, was ihr wollt, und geht.\" Elizabeth nahm den Brief von seinem Schreibtisch, und sie gingen zusammen nach oben. Mary und Kitty waren beide bei Mrs. Bennet; so konnten sie die Neuigkeit allen zugleich bringen.",
-                    "native": "Mrs. Bennet could hardly contain herself. As soon as Jane had read Mr."
+                    "target": "Er schrieb gerade und erwiderte kühl, ohne den Kopf zu heben: \"Ganz wie es euch beliebt.\" \"Können wir den Brief unseres Onkels mitnehmen und ihn ihr vorlesen?\" \"Nehmt alles, was ihr wollt, und geht.\" Elizabeth nahm den Brief von seinem Schreibtisch, und sie gingen zusammen nach oben. Mary und Kitty waren beide bei Mrs. Bennet; so konnten sie die Neuigkeit allen zugleich bringen. Nach einer kleinen Vorbereitung auf eine gute Nachricht wurde der Brief vorgelesen.",
+                    "native": "Mrs. Bennet could hardly contain herself. As soon as Jane had read Mr. Gardiner's hope of Lydia's being soon married, her joy burst forth, and every following sentence added to its exuberance."
                 }
             ]
         },
@@ -268,16 +264,8 @@
             "pageNumber": 9,
             "sentences": [
                 {
-                    "target": "Nach einer kleinen Vorbereitung auf eine gute Nachricht wurde der Brief vorgelesen.",
-                    "native": "Gardiner's hope of Lydia's being soon married, her joy burst forth, and every following sentence added to its exuberance."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "She was now in an irritation as violent from delight, as she had ever been fidgety from alarm and vexation."
-                },
-                {
-                    "target": "Bennet konnte kaum an sich halten.",
-                    "native": "To know that her daughter would be married was enough."
+                    "target": "Mrs. Bennet konnte kaum an sich halten.",
+                    "native": "She was now in an irritation as violent from delight, as she had ever been fidgety from alarm and vexation. To know that her daughter would be married was enough."
                 },
                 {
                     "target": "Sobald Jane bei Mr. Gardiners Hoffnung angekommen war, daß Lydia bald verheiratet sein würde, brach ihre Freude hervor, und jeder nachfolgende Satz erhöhte ihren Überschwang.",
@@ -371,12 +359,8 @@
                     "native": "Mrs. Wickham!"
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "How well it sounds!"
-                },
-                {
-                    "target": "Wickham!",
-                    "native": "And she was only sixteen last June."
+                    "target": "Mrs. Wickham!",
+                    "native": "How well it sounds! And she was only sixteen last June."
                 }
             ]
         },
@@ -429,12 +413,8 @@
                     "native": "My dear Hill, have you heard the good news?"
                 },
                 {
-                    "target": "Meine liebe Hill, haben Sie schon die guten Nachrichten gehört? Miss Lydia wird heiraten; und ihr sollt alle eine Schale Punsch bekommen, damit ihr an ihrem Hochzeitstag fröhlich seid.\" Mrs.",
-                    "native": "Miss Lydia is going to be married; and you shall all have a bowl of punch to make merry at her wedding.\" Mrs. Hill began instantly to express her joy."
-                },
-                {
-                    "target": "Hill gab augenblicklich ihrer Freude Ausdruck.",
-                    "native": "Elizabeth received her congratulations amongst the rest, and then, sick of this folly, took refuge in her own room, that she might think with freedom."
+                    "target": "Meine liebe Hill, haben Sie schon die guten Nachrichten gehört? Miss Lydia wird heiraten; und ihr sollt alle eine Schale Punsch bekommen, damit ihr an ihrem Hochzeitstag fröhlich seid.\" Mrs. Hill gab augenblicklich ihrer Freude Ausdruck.",
+                    "native": "Miss Lydia is going to be married; and you shall all have a bowl of punch to make merry at her wedding.\" Mrs. Hill began instantly to express her joy. Elizabeth received her congratulations amongst the rest, and then, sick of this folly, took refuge in her own room, that she might think with freedom."
                 },
                 {
                     "target": "Auch Elizabeth empfing mit den anderen ihre Glückwünsche, doch dann flüchtete sie, dieser Narrheiten überdrüssig, in ihr Zimmer, damit sie ungestört nachdenken konnte.",

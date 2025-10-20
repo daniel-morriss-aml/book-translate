@@ -132,20 +132,12 @@
                     "native": "What is your opinion?\" \"That it ought not to be attempted."
                 },
                 {
-                    "target": "Was ist denn deine eigene Meinung?\" \"Daß wir es nicht tun sollten. Mr.",
-                    "native": "Mr. Darcy has not authorised me to make his communication public."
+                    "target": "Was ist denn deine eigene Meinung?\" \"Daß wir es nicht tun sollten. Mr. Darcy hat mich nicht ermächtigt, seine Mitteilungen bekanntzumachen.",
+                    "native": "Mr. Darcy has not authorised me to make his communication public. On the contrary, every particular relative to his sister was meant to be kept as much as possible to myself; and if I endeavour to undeceive people as to the rest of his conduct, who will believe me?"
                 },
                 {
-                    "target": "Darcy hat mich nicht ermächtigt, seine Mitteilungen bekanntzumachen.",
-                    "native": "On the contrary, every particular relative to his sister was meant to be kept as much as possible to myself; and if I endeavour to undeceive people as to the rest of his conduct, who will believe me?"
-                },
-                {
-                    "target": "Im Gegenteil, alle Einzelheiten in bezug auf seine Schwester sollte ich soweit wie möglich für mich behalten; und wenn ich versuche, die Leute über sein übriges Verhalten aufzuklären, wer wird mir glauben? Das allgemeine Vorurteil gegen Mr.",
-                    "native": "The general prejudice against Mr. Darcy is so violent, that it would be the death of half the good people in Meryton to attempt to place him in an amiable light."
-                },
-                {
-                    "target": "Darcy ist so stark, daß es noch der Tod der Hälfte der guten Leute in Meryton wäre, wenn ich versuchte, ihn in ein freundliches Licht zu setzen.",
-                    "native": "I am not equal to it."
+                    "target": "Im Gegenteil, alle Einzelheiten in bezug auf seine Schwester sollte ich soweit wie möglich für mich behalten; und wenn ich versuche, die Leute über sein übriges Verhalten aufzuklären, wer wird mir glauben? Das allgemeine Vorurteil gegen Mr. Darcy ist so stark, daß es noch der Tod der Hälfte der guten Leute in Meryton wäre, wenn ich versuchte, ihn in ein freundliches Licht zu setzen.",
+                    "native": "The general prejudice against Mr. Darcy is so violent, that it would be the death of half the good people in Meryton to attempt to place him in an amiable light. I am not equal to it."
                 }
             ]
         },
@@ -190,12 +182,8 @@
             "pageNumber": 7,
             "sentences": [
                 {
-                    "target": "Aber es gab etwas, was noch verborgen blieb und das zu enthüllen die Klugheit verbot. Sie wagte nicht, ihrer Schwester von der anderen Hälfte von Mr.",
-                    "native": "She dared not relate the other half of Mr. Darcy's letter, nor explain to her sister how sincerely she had been valued by her friend."
-                },
-                {
-                    "target": "Darcys Brief zu berichten, und auch nicht, ihr zu sagen, wie aufrichtig sie von seinem Freund wertgehalten wurde.",
-                    "native": "Here was knowledge in which no one could partake; and she was sensible that nothing less than a perfect understanding between the parties could justify her in throwing off this last encumbrance of mystery. \"And then,\" said she, \"if that very improbable event should ever take place, I shall merely be able to tell what Bingley may tell in a much more agreeable manner himself."
+                    "target": "Aber es gab etwas, was noch verborgen blieb und das zu enthüllen die Klugheit verbot. Sie wagte nicht, ihrer Schwester von der anderen Hälfte von Mr. Darcys Brief zu berichten, und auch nicht, ihr zu sagen, wie aufrichtig sie von seinem Freund wertgehalten wurde.",
+                    "native": "She dared not relate the other half of Mr. Darcy's letter, nor explain to her sister how sincerely she had been valued by her friend. Here was knowledge in which no one could partake; and she was sensible that nothing less than a perfect understanding between the parties could justify her in throwing off this last encumbrance of mystery. \"And then,\" said she, \"if that very improbable event should ever take place, I shall merely be able to tell what Bingley may tell in a much more agreeable manner himself."
                 },
                 {
                     "target": "Hier hatte sie Kenntnis von etwas, an dem niemand teilhaben konnte; und sie war sich bewußt, daß nichts Geringeres als ein vollkommenes Einvernehmen zwischen den Beteiligten ihr das Recht geben konnte, sich von diesem letzten belastenden Geheimnis zu befreien. \"Und dann\", sagte sie, \"wenn dieses unwahrscheinliche Ereignis jemals eintreten sollte, werde ich lediglich sagen können, was Bingley selbst auf eine viel liebenswürdigere Weise sagen mag.",

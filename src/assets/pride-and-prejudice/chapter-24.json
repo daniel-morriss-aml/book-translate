@@ -276,38 +276,22 @@
             "pageNumber": 9,
             "sentences": [
                 {
-                    "target": "Mrs.",
-                    "native": "Do not distress me by the idea."
+                    "target": "Mrs. Bennet fuhr noch immer fort, sich darüber zu wundern und zu klagen, daß er nicht mehr wiederkam; und obgleich selten ein Tag verging, an dem Elizabeth ihr die Gründe nicht klar und deutlich begreiflich machte, schien es keine Chance zu geben, daß sie die Sache jemals mit weniger Bestürzung betrachten würde.",
+                    "native": "Do not distress me by the idea. I am not ashamed of having been mistaken— or, at least, it is light, it is nothing in comparison of what I should feel in thinking ill of him or his sisters."
                 },
                 {
-                    "target": "Bennet fuhr noch immer fort, sich darüber zu wundern und zu klagen, daß er nicht mehr wiederkam; und obgleich selten ein Tag verging, an dem Elizabeth ihr die Gründe nicht klar und deutlich begreiflich machte, schien es keine Chance zu geben, daß sie die Sache jemals mit weniger Bestürzung betrachten würde.",
-                    "native": "I am not ashamed of having been mistaken— or, at least, it is light, it is nothing in comparison of what I should feel in thinking ill of him or his sisters."
+                    "target": "Ihre Tochter bemühte sich, sie von etwas zu überzeugen, was sie selbst nicht glaubte – daß seine Aufmerksamkeiten gegenüber Jane lediglich auf einer gewöhnlichen, flüchtigen Zuneigung beruht hatten, die endete, als er sie nicht mehr sah; doch obgleich die Wahrscheinlichkeit dieser Erklärung jeweils zugegeben wurde, mußte sie die gleiche Geschichte Tag für Tag wiederholen. Am meisten tröstete Mrs. Bennet noch der Gedanke, daß Mr. Bingley ja im Sommer wiederkommen mußte.",
+                    "native": "Let me take it in the best light, in the light in which it may be understood.\" Elizabeth could not oppose such a wish; and from this time Mr. Bingley's name was scarcely ever mentioned between them. Mrs. Bennet still continued to wonder and repine at his returning no more, and though a day seldom passed in which Elizabeth did not account for it clearly, there was little chance of her ever considering it with less perplexity."
                 },
                 {
-                    "target": "Ihre Tochter bemühte sich, sie von etwas zu überzeugen, was sie selbst nicht glaubte – daß seine Aufmerksamkeiten gegenüber Jane lediglich auf einer gewöhnlichen, flüchtigen Zuneigung beruht hatten, die endete, als er sie nicht mehr sah; doch obgleich die Wahrscheinlichkeit dieser Erklärung jeweils zugegeben wurde, mußte sie die gleiche Geschichte Tag für Tag wiederholen. Am meisten tröstete Mrs.",
-                    "native": "Let me take it in the best light, in the light in which it may be understood.\" Elizabeth could not oppose such a wish; and from this time Mr. Bingley's name was scarcely ever mentioned between them."
-                },
-                {
-                    "target": "Bennet noch der Gedanke, daß Mr. Bingley ja im Sommer wiederkommen mußte.",
-                    "native": "Mrs. Bennet still continued to wonder and repine at his returning no more, and though a day seldom passed in which Elizabeth did not account for it clearly, there was little chance of her ever considering it with less perplexity."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Her daughter endeavoured to convince her of what she did not believe herself, that his attentions to Jane had been merely the effect of a common and transient liking, which ceased when he saw her no more; but though the probability of the statement was admitted at the time, she had the same story to repeat every day."
+                    "target": "Mr. Bennet betrachtete die Sache ganz anders. \"Also, Lizzy\", sagte er eines Tages, \"ich stelle fest, deine Schwester hat Unglück in der Liebe. Ich gratuliere ihr. Abgesehen vom Verheiratetsein hat es ein Mädchen auch sehr gern, ab und zu ein wenig Unglück in der Liebe zu haben.",
+                    "native": "Her daughter endeavoured to convince her of what she did not believe herself, that his attentions to Jane had been merely the effect of a common and transient liking, which ceased when he saw her no more; but though the probability of the statement was admitted at the time, she had the same story to repeat every day. Mrs. Bennet's best comfort was that Mr. Bingley must be down again in the summer."
                 }
             ]
         },
         {
             "pageNumber": 10,
             "sentences": [
-                {
-                    "target": "Bennet betrachtete die Sache ganz anders. \"Also, Lizzy\", sagte er eines Tages, \"ich stelle fest, deine Schwester hat Unglück in der Liebe. Ich gratuliere ihr.",
-                    "native": "Mrs. Bennet's best comfort was that Mr."
-                },
-                {
-                    "target": "Abgesehen vom Verheiratetsein hat es ein Mädchen auch sehr gern, ab und zu ein wenig Unglück in der Liebe zu haben.",
-                    "native": "Bingley must be down again in the summer."
-                },
                 {
                     "target": "Es ist etwas, worüber sie nachdenken kann, und es verleiht ihr eine Art Würde unter ihren Gefährtinnen. Wann bist du denn an der Reihe?",
                     "native": "Mr. Bennet treated the matter differently. \"So, Lizzy,\" said he one day, \"your sister is crossed in love, I find."
@@ -338,12 +322,8 @@
                     "native": "You will hardly bear to be long outdone by Jane."
                 },
                 {
-                    "target": "Wir können nicht alle auf Janes Glück hoffen.\" \"Das ist richtig\", sagte Mr. Bennet, \"aber es ist ein Trost zu wissen, daß du, was immer dir in dieser Art widerfahren mag, eine liebevolle Mutter hast, die stets das Beste daraus machen wird.\" Mr.",
-                    "native": "Now is your time. Here are officers enough in Meryton to disappoint all the young ladies in the country."
-                },
-                {
-                    "target": "Wickhams Gesellschaft war von wesentlichem Nutzen, um die trübe Stimmung zu zerstreuen, die diese schlimmen Vorkommnisse kürzlich über einen großen Teil der Familie von Longbourn gebracht hatten.",
-                    "native": "Let Wickham be your man."
+                    "target": "Wir können nicht alle auf Janes Glück hoffen.\" \"Das ist richtig\", sagte Mr. Bennet, \"aber es ist ein Trost zu wissen, daß du, was immer dir in dieser Art widerfahren mag, eine liebevolle Mutter hast, die stets das Beste daraus machen wird.\" Mr. Wickhams Gesellschaft war von wesentlichem Nutzen, um die trübe Stimmung zu zerstreuen, die diese schlimmen Vorkommnisse kürzlich über einen großen Teil der Familie von Longbourn gebracht hatten.",
+                    "native": "Now is your time. Here are officers enough in Meryton to disappoint all the young ladies in the country. Let Wickham be your man."
                 },
                 {
                     "target": "Sie sahen ihn häufig, und zu seinen anderen Vorzügen kam nun noch eine allgemeine Freimütigkeit.",

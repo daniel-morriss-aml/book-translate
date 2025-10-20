@@ -86,12 +86,8 @@
                     "native": "You must, therefore, pardon the freedom with which I demand your attention; your feelings, I know, will bestow it unwillingly, but I demand it of your justice. \"Two offenses of a very different nature, and by no means of equal magnitude, you last night laid to my charge."
                 },
                 {
-                    "target": "Das von Ihnen zuerst erwähnte war, daß ich, ohne Rücksicht auf die Gefühle beider, Mr. Bingley von Ihrer Schwester getrennt habe, und das andere, daß ich ungeachtet verschiedener Ansprüche, ungeachtet von Ehre und Menschlichkeit, Mr.",
-                    "native": "The first mentioned was, that, regardless of the sentiments of either, I had detached Mr. Bingley from your sister, and the other, that I had, in defiance of various claims, in defiance of honour and humanity, ruined the immediate prosperity and blasted the prospects of Mr."
-                },
-                {
-                    "target": "Wickhams augenblickliches Wohlergehen verhindert und seine Aussichten zunichte gemacht habe.",
-                    "native": "Wickham."
+                    "target": "Das von Ihnen zuerst erwähnte war, daß ich, ohne Rücksicht auf die Gefühle beider, Mr. Bingley von Ihrer Schwester getrennt habe, und das andere, daß ich ungeachtet verschiedener Ansprüche, ungeachtet von Ehre und Menschlichkeit, Mr. Wickhams augenblickliches Wohlergehen verhindert und seine Aussichten zunichte gemacht habe.",
+                    "native": "The first mentioned was, that, regardless of the sentiments of either, I had detached Mr. Bingley from your sister, and the other, that I had, in defiance of various claims, in defiance of honour and humanity, ruined the immediate prosperity and blasted the prospects of Mr. Wickham."
                 },
                 {
                     "target": "Den Gefährten meiner Jugend und den erklärten Liebling meines Vaters – einen jungen Mann, der sich kaum auf etwas anderes stützen konnte als auf unser Patronat und der aufgewachsen war in der Erwartung, das Amt einmal auszuüben – vorsätzlich und unbarmherzig verstoßen zu haben, sei eine Schlechtigkeit, mit der selbst die Trennung zweier junger Menschen, deren Liebe erst wenige Wochen bestand, nicht zu vergleichen wäre.",
@@ -271,12 +267,8 @@
                     "native": "Perhaps this concealment, this disguise was beneath me; it is done, however, and it was done for the best."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "On this subject I have nothing more to say, no other apology to offer."
-                },
-                {
-                    "target": "Wickham ist der Sohn eines sehr respektablen Mannes, der viele Jahre alle Besitztümer von Pemberley verwaltet hat und dessen vorbildliche Erfüllung seiner Pflichten meinen Vater natürlich veranlaßte, ihm nützlich zu sein; und George Wickham, der sein Patenkind war, hat er deshalb in reichem Maße Wohltaten erwiesen. Mein Vater unterstützte ihn in der Schule und danach in Cambridge – eine äußerst wichtige Hilfe, da sein eigener Vater, der durch die Extravaganzen seiner Frau immer mittellos blieb, nicht imstande gewesen wäre, ihm eine höhere Bildung angedeihen zu lassen.",
-                    "native": "If I have wounded your sister's feelings, it was unknowingly done and though the motives which governed me may to you very naturally appear insufficient, I have not yet learnt to condemn them. \"With respect to that other, more weighty accusation, of having injured Mr. Wickham, I can only refute it by laying before you the whole of his connection with my family."
+                    "target": "Mr. Wickham ist der Sohn eines sehr respektablen Mannes, der viele Jahre alle Besitztümer von Pemberley verwaltet hat und dessen vorbildliche Erfüllung seiner Pflichten meinen Vater natürlich veranlaßte, ihm nützlich zu sein; und George Wickham, der sein Patenkind war, hat er deshalb in reichem Maße Wohltaten erwiesen. Mein Vater unterstützte ihn in der Schule und danach in Cambridge – eine äußerst wichtige Hilfe, da sein eigener Vater, der durch die Extravaganzen seiner Frau immer mittellos blieb, nicht imstande gewesen wäre, ihm eine höhere Bildung angedeihen zu lassen.",
+                    "native": "On this subject I have nothing more to say, no other apology to offer. If I have wounded your sister's feelings, it was unknowingly done and though the motives which governed me may to you very naturally appear insufficient, I have not yet learnt to condemn them. \"With respect to that other, more weighty accusation, of having injured Mr. Wickham, I can only refute it by laying before you the whole of his connection with my family."
                 }
             ]
         },
@@ -313,20 +305,12 @@
                     "native": "Here again I shall give you pain—to what degree you only can tell."
                 },
                 {
-                    "target": "Mein trefflicher Vater starb vor etwa fünf Jahren, und seine Zuneigung zu Mr. Wickham war bis zum letzten Augenblick so unverändert, daß er mir in seinem Testament besonders empfahl, ihn in seinem Fortkommen in der besten Weise zu fördern, die sein Beruf einst möglich machte; und er wünschte, daß ihm, falls er in den geistlichen Stand treten würde, eine einträgliche Familienpfründe zukommen sollte, sobald sie vakant wäre.",
-                    "native": "But whatever may be the sentiments which Mr. Wickham has created, a suspicion of their nature shall not prevent me from unfolding his real character—it adds even another motive. \"My excellent father died about five years ago; and his attachment to Mr."
+                    "target": "Mein trefflicher Vater starb vor etwa fünf Jahren, und seine Zuneigung zu Mr. Wickham war bis zum letzten Augenblick so unverändert, daß er mir in seinem Testament besonders empfahl, ihn in seinem Fortkommen in der besten Weise zu fördern, die sein Beruf einst möglich machte; und er wünschte, daß ihm, falls er in den geistlichen Stand treten würde, eine einträgliche Familienpfründe zukommen sollte, sobald sie vakant wäre. Außerdem war noch eine Erbschaft von eintausend Pfund vorgesehen.",
+                    "native": "But whatever may be the sentiments which Mr. Wickham has created, a suspicion of their nature shall not prevent me from unfolding his real character—it adds even another motive. \"My excellent father died about five years ago; and his attachment to Mr. Wickham was to the last so steady, that in his will he particularly recommended it to me, to promote his advancement in the best manner that his profession might allow—and if he took orders, desired that a valuable family living might be his as soon as it became vacant."
                 },
                 {
-                    "target": "Außerdem war noch eine Erbschaft von eintausend Pfund vorgesehen.",
-                    "native": "Wickham was to the last so steady, that in his will he particularly recommended it to me, to promote his advancement in the best manner that his profession might allow—and if he took orders, desired that a valuable family living might be his as soon as it became vacant."
-                },
-                {
-                    "target": "Sein Vater überlebte den meinen nicht lange, und ein halbes Jahr nach diesen Ereignissen teilte mir Mr. Wickham in einem Brief mit, daß er, da er endgültig beschlossen habe, nicht in den Priesterstand zu treten, hoffte, ich würde es als nicht unangemessen betrachten, wenn er etwas mehr direkte geldliche Zuwendungen erwarte anstelle des höheren Amtes, in dessen Genuß er nun nicht kommen konnte.",
-                    "native": "There was also a legacy of one thousand pounds. His own father did not long survive mine, and within half a year from these events, Mr."
-                },
-                {
-                    "target": "Er habe die Absicht, fügte er hinzu, die Rechte zu studieren, und ich müsse mir bewußt sein, daß die Zinsen von eintausend Pfund eine sehr ungenügende Hilfe dabei seien.",
-                    "native": "Wickham wrote to inform me that, having finally resolved against taking orders, he hoped I should not think it unreasonable for him to expect some more immediate pecuniary advantage, in lieu of the preferment, by which he could not be benefited."
+                    "target": "Sein Vater überlebte den meinen nicht lange, und ein halbes Jahr nach diesen Ereignissen teilte mir Mr. Wickham in einem Brief mit, daß er, da er endgültig beschlossen habe, nicht in den Priesterstand zu treten, hoffte, ich würde es als nicht unangemessen betrachten, wenn er etwas mehr direkte geldliche Zuwendungen erwarte anstelle des höheren Amtes, in dessen Genuß er nun nicht kommen konnte. Er habe die Absicht, fügte er hinzu, die Rechte zu studieren, und ich müsse mir bewußt sein, daß die Zinsen von eintausend Pfund eine sehr ungenügende Hilfe dabei seien.",
+                    "native": "There was also a legacy of one thousand pounds. His own father did not long survive mine, and within half a year from these events, Mr. Wickham wrote to inform me that, having finally resolved against taking orders, he hoped I should not think it unreasonable for him to expect some more immediate pecuniary advantage, in lieu of the preferment, by which he could not be benefited."
                 },
                 {
                     "target": "Daß er es ehrlich meinte, wünschte ich eher, als daß ich es glaubte, war aber auf jeden Fall durchaus bereit, auf seinen Vorschlag einzugehen.",
@@ -338,12 +322,8 @@
             "pageNumber": 11,
             "sentences": [
                 {
-                    "target": "Mir war klar, daß Mr. Wickham nicht zum Geistlichen taugte.",
-                    "native": "I rather wished, than believed him to be sincere; but, at any rate, was perfectly ready to accede to his proposal. I knew that Mr."
-                },
-                {
-                    "target": "Diese Angelegenheit wurde deshalb bald erledigt.",
-                    "native": "Wickham ought not to be a clergyman; the business was therefore soon settled—he resigned all claim to assistance in the church, were it possible that he could ever be in a situation to receive it, and accepted in return three thousand pounds."
+                    "target": "Mir war klar, daß Mr. Wickham nicht zum Geistlichen taugte. Diese Angelegenheit wurde deshalb bald erledigt.",
+                    "native": "I rather wished, than believed him to be sincere; but, at any rate, was perfectly ready to accede to his proposal. I knew that Mr. Wickham ought not to be a clergyman; the business was therefore soon settled—he resigned all claim to assistance in the church, were it possible that he could ever be in a situation to receive it, and accepted in return three thousand pounds."
                 },
                 {
                     "target": "Er verzichtete auf jeden Anspruch auf Unterstützung für ein Amt in der Kirche, falls er jemals in diese Lage kommen würde, und akzeptierte als Gegenleistung dreitausend Pfund.",
@@ -408,20 +388,12 @@
             "pageNumber": 13,
             "sentences": [
                 {
-                    "target": "Da ich das gesagt habe, zweifle ich nicht an Ihrer Verschwiegenheit. Meine Schwester, die zehn Jahre jünger ist als ich, wurde unter die Vormundschaft sowohl des Neffen meiner Mutter, Colonel Fitzwilliam, als auch der meinen gestellt.",
-                    "native": "About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over it, to Ramsgate; and thither also went Mr. Wickham, undoubtedly by design; for there proved to have been a prior acquaintance between him and Mrs."
+                    "target": "Da ich das gesagt habe, zweifle ich nicht an Ihrer Verschwiegenheit. Meine Schwester, die zehn Jahre jünger ist als ich, wurde unter die Vormundschaft sowohl des Neffen meiner Mutter, Colonel Fitzwilliam, als auch der meinen gestellt. Vor etwa einem Jahr wurde sie von der Schule genommen und in London eine Wohnung für sie eingerichtet.",
+                    "native": "About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over it, to Ramsgate; and thither also went Mr. Wickham, undoubtedly by design; for there proved to have been a prior acquaintance between him and Mrs. Younge, in whose character we were most unhappily deceived; and by her connivance and aid, he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement."
                 },
                 {
-                    "target": "Vor etwa einem Jahr wurde sie von der Schule genommen und in London eine Wohnung für sie eingerichtet.",
-                    "native": "Younge, in whose character we were most unhappily deceived; and by her connivance and aid, he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement."
-                },
-                {
-                    "target": "Im vorigen Sommer ging sie mit Mrs. Younge, der Dame, die die Aufsicht darüber hatte, nach Ramsgate; und dorthin ging auch Mr.",
-                    "native": "She was then but fifteen, which must be her excuse; and after stating her imprudence, I am happy to add, that I owed the knowledge of it to herself. I joined them unexpectedly a day or two before the intended elopement, and then Georgiana, unable to support the idea of grieving and offending a brother whom she almost looked up to as a father, acknowledged the whole to me."
-                },
-                {
-                    "target": "Wickham, was zweifellos geplant war, denn es stellte sich heraus, daß er mit Mrs. Younge schon früher bekannt gewesen war, in deren Charakter wir uns zu unserem Unglück getäuscht hatten.",
-                    "native": "You may imagine what I felt and how I acted. Regard for my sister's credit and feelings prevented any public exposure; but I wrote to Mr."
+                    "target": "Im vorigen Sommer ging sie mit Mrs. Younge, der Dame, die die Aufsicht darüber hatte, nach Ramsgate; und dorthin ging auch Mr. Wickham, was zweifellos geplant war, denn es stellte sich heraus, daß er mit Mrs. Younge schon früher bekannt gewesen war, in deren Charakter wir uns zu unserem Unglück getäuscht hatten.",
+                    "native": "She was then but fifteen, which must be her excuse; and after stating her imprudence, I am happy to add, that I owed the knowledge of it to herself. I joined them unexpectedly a day or two before the intended elopement, and then Georgiana, unable to support the idea of grieving and offending a brother whom she almost looked up to as a father, acknowledged the whole to me. You may imagine what I felt and how I acted. Regard for my sister's credit and feelings prevented any public exposure; but I wrote to Mr."
                 },
                 {
                     "target": "Mit ihrer stillschweigenden Duldung und Hilfe machte er sich bei Georgiana, deren liebevolles Herz aus der Kindheit einen starken Eindruck von seiner Freundlichkeit ihr gegenüber bewahrt hatte, so sehr angenehm, daß sie überzeugt wurde zu glauben, sie liebe ihn, und einer Entführung zustimmte. Zu der Zeit war sie erst fünfzehn, was sie entschuldigen muß; und nachdem ich von ihrer Unbesonnenheit berichtet habe, bin ich froh, hinzufügen zu können, daß ich dies von ihr selbst erfahren habe.",
@@ -437,20 +409,12 @@
                     "native": "Mr. Wickham's chief object was unquestionably my sister's fortune, which is thirty thousand pounds; but I cannot help supposing that the hope of revenging himself on me was a strong inducement."
                 },
                 {
-                    "target": "Die Rücksicht auf die Ehre und die Gefühle meiner Schwester verbot jede öffentliche Bloßstellung, aber ich schrieb an Mr. Wickham, der den Ort sofort verließ, und Mrs.",
-                    "native": "His revenge would have been complete indeed. \"This, madam, is a faithful narrative of every event in which we have been concerned together; and if you do not absolutely reject it as false, you will, I hope, acquit me henceforth of cruelty towards Mr. Wickham."
+                    "target": "Die Rücksicht auf die Ehre und die Gefühle meiner Schwester verbot jede öffentliche Bloßstellung, aber ich schrieb an Mr. Wickham, der den Ort sofort verließ, und Mrs. Younge wurde natürlich entlassen.",
+                    "native": "His revenge would have been complete indeed. \"This, madam, is a faithful narrative of every event in which we have been concerned together; and if you do not absolutely reject it as false, you will, I hope, acquit me henceforth of cruelty towards Mr. Wickham. I know not in what manner, under what form of falsehood he had imposed on you; but his success is not perhaps to be wondered at."
                 },
                 {
-                    "target": "Younge wurde natürlich entlassen.",
-                    "native": "I know not in what manner, under what form of falsehood he had imposed on you; but his success is not perhaps to be wondered at."
-                },
-                {
-                    "target": "Mr.",
-                    "native": "Ignorant as you previously were of everything concerning either, detection could not be in your power, and suspicion certainly not in your inclination. \"You may possibly wonder why all this was not told you last night; but I was not then master enough of myself to know what could or ought to be revealed."
-                },
-                {
-                    "target": "Wickhams Hauptziel war fraglos das Vermögen meiner Schwester, das dreißigtausend Pfund beträgt, aber ich kann nicht umhin anzunehmen, daß die Hoffnung, sich damit an mir zu rächen, ein starker Beweggrund dabei war.",
-                    "native": "For the truth of everything here related, I can appeal more particularly to the testimony of Colonel Fitzwilliam, who, from our near relationship and constant intimacy, and, still more, as one of the executors of my father's will, has been unavoidably acquainted with every particular of these transactions."
+                    "target": "Mr. Wickhams Hauptziel war fraglos das Vermögen meiner Schwester, das dreißigtausend Pfund beträgt, aber ich kann nicht umhin anzunehmen, daß die Hoffnung, sich damit an mir zu rächen, ein starker Beweggrund dabei war.",
+                    "native": "Ignorant as you previously were of everything concerning either, detection could not be in your power, and suspicion certainly not in your inclination. \"You may possibly wonder why all this was not told you last night; but I was not then master enough of myself to know what could or ought to be revealed. For the truth of everything here related, I can appeal more particularly to the testimony of Colonel Fitzwilliam, who, from our near relationship and constant intimacy, and, still more, as one of the executors of my father's will, has been unavoidably acquainted with every particular of these transactions."
                 }
             ]
         },

@@ -41,12 +41,8 @@
             "pageNumber": 2,
             "sentences": [
                 {
-                    "target": "Dann werden alle sehen können, daß wir auf beiden Seiten als ganz gewöhnliche, gleichgültige Bekannte zusammentreffen.\" \"Ja, wirklich, sehr gleichgültige\", sagte Elizabeth lachend. \"O Jane, paß auf dich auf.\" \"Meine liebe Lizzy, du kannst mich doch nicht für so schwach halten, daß ich jetzt in Gefahr bin.\" \"Ich denke, du bist in sehr großer Gefahr, ihn genauso wie immer in dich verliebt zu machen.\" Bis zum Dienstag sahen sie die Herren nicht wieder; und Mrs. Bennet gab sich inzwischen all den glücklichen Plänen hin, die die gute Stimmung und die vertraute Zuvorkommenheit Bingleys während seines halbstündigen Besuches wiederbelebt hatte.",
-                    "native": "I am glad he dines here on Tuesday. It will then be publicly seen that, on both sides, we meet only as common and indifferent acquaintance.\" \"Yes, very indifferent indeed,\" said Elizabeth, laughingly. \"Oh, Jane, take care.\" \"My dear Lizzy, you cannot think me so weak, as to be in danger now?\" \"I think you are in very great danger of making him as much in love with you as ever.\" They did not see the gentlemen again till Tuesday; and Mrs."
-                },
-                {
-                    "target": "Am Dienstag war eine große Gesellschaft in Longbourn versammelt, und die beiden, die mit der größten Unruhe erwartet wurden, kamen zum Beweis ihrer Pünktlichkeit als Waidmänner sehr zeitig.",
-                    "native": "Bennet, in the meanwhile, was giving way to all the happy schemes, which the good humour and common politeness of Bingley, in half an hour's visit, had revived."
+                    "target": "Dann werden alle sehen können, daß wir auf beiden Seiten als ganz gewöhnliche, gleichgültige Bekannte zusammentreffen.\" \"Ja, wirklich, sehr gleichgültige\", sagte Elizabeth lachend. \"O Jane, paß auf dich auf.\" \"Meine liebe Lizzy, du kannst mich doch nicht für so schwach halten, daß ich jetzt in Gefahr bin.\" \"Ich denke, du bist in sehr großer Gefahr, ihn genauso wie immer in dich verliebt zu machen.\" Bis zum Dienstag sahen sie die Herren nicht wieder; und Mrs. Bennet gab sich inzwischen all den glücklichen Plänen hin, die die gute Stimmung und die vertraute Zuvorkommenheit Bingleys während seines halbstündigen Besuches wiederbelebt hatte. Am Dienstag war eine große Gesellschaft in Longbourn versammelt, und die beiden, die mit der größten Unruhe erwartet wurden, kamen zum Beweis ihrer Pünktlichkeit als Waidmänner sehr zeitig.",
+                    "native": "I am glad he dines here on Tuesday. It will then be publicly seen that, on both sides, we meet only as common and indifferent acquaintance.\" \"Yes, very indifferent indeed,\" said Elizabeth, laughingly. \"Oh, Jane, take care.\" \"My dear Lizzy, you cannot think me so weak, as to be in danger now?\" \"I think you are in very great danger of making him as much in love with you as ever.\" They did not see the gentlemen again till Tuesday; and Mrs. Bennet, in the meanwhile, was giving way to all the happy schemes, which the good humour and common politeness of Bingley, in half an hour's visit, had revived."
                 },
                 {
                     "target": "Als sie sich ins Speisezimmer begaben, beobachtete Elizabeth gespannt, ob Bingley den Platz einnehmen würde, der bei all ihren früheren Gesellschaften der seine gewesen war – neben ihrer Schwester.",
@@ -74,12 +70,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Er trug es mit großmütiger Gleichgültigkeit, und sie hätte fast geglaubt, daß Bingley seine Zustimmung erhalten hatte, glücklich zu sein, hätte sie nicht gesehen, wie dessen Augen mit einem halb besorgten, halb belustigten Ausdruck ebenso auf Mr. Darcy gerichtet waren.",
-                    "native": "Elizabeth, with a triumphant sensation, looked towards his friend. He bore it with noble indifference, and she would have imagined that Bingley had received his sanction to be happy, had she not seen his eyes likewise turned towards Mr."
-                },
-                {
-                    "target": "Sein ganzes Verhalten gegenüber ihrer Schwester während des Dinners zeigte seine Bewunderung für sie; und obgleich er zurückhaltender war als früher, überzeugte dies Elizabeth, daß Janes Glück und das seine, wenn er sich völlig selbst überlassen wäre, rasch gesichert sein würde.",
-                    "native": "Darcy, with an expression of half-laughing alarm."
+                    "target": "Er trug es mit großmütiger Gleichgültigkeit, und sie hätte fast geglaubt, daß Bingley seine Zustimmung erhalten hatte, glücklich zu sein, hätte sie nicht gesehen, wie dessen Augen mit einem halb besorgten, halb belustigten Ausdruck ebenso auf Mr. Darcy gerichtet waren. Sein ganzes Verhalten gegenüber ihrer Schwester während des Dinners zeigte seine Bewunderung für sie; und obgleich er zurückhaltender war als früher, überzeugte dies Elizabeth, daß Janes Glück und das seine, wenn er sich völlig selbst überlassen wäre, rasch gesichert sein würde.",
+                    "native": "Elizabeth, with a triumphant sensation, looked towards his friend. He bore it with noble indifference, and she would have imagined that Bingley had received his sanction to be happy, had she not seen his eyes likewise turned towards Mr. Darcy, with an expression of half-laughing alarm."
                 },
                 {
                     "target": "Obgleich sie noch nicht wagte, auf mögliche Folgen zu vertrauen, hatte sie doch viel Vergnügen beim Beobachten seines Verhaltens.",
@@ -90,12 +82,8 @@
                     "native": "Though she dared not depend upon the consequence, she yet received pleasure from observing his behaviour."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "It gave her all the animation that her spirits could boast; for she was in no cheerful humour."
-                },
-                {
-                    "target": "Darcy befand sich so weit weg von ihr, wie der Tisch sie nur trennen konnte. Er saß neben ihrer Mutter.",
-                    "native": "Mr. Darcy was almost as far from her as the table could divide them."
+                    "target": "Mr. Darcy befand sich so weit weg von ihr, wie der Tisch sie nur trennen konnte. Er saß neben ihrer Mutter.",
+                    "native": "It gave her all the animation that her spirits could boast; for she was in no cheerful humour. Mr. Darcy was almost as far from her as the table could divide them."
                 }
             ]
         },
@@ -197,12 +185,8 @@
                     "native": "Mrs. Bennet had designed to keep the two Netherfield gentlemen to supper; but their carriage was unluckily ordered before any of the others, and she had no opportunity of detaining them. \"Well girls,\" said she, as soon as they were left to themselves, \"What say you to the day?"
                 },
                 {
-                    "target": "Mrs.",
-                    "native": "I think every thing has passed off uncommonly well, I assure you."
-                },
-                {
-                    "target": "Bennet hatte vorgehabt, die beiden Herren von Netherfield zum Abendessen dazubehalten, doch unglücklicherweise wurde ihre Kutsche noch vor allen anderen bestellt, und sie hatte keine Gelegenheit mehr, sie aufzuhalten. \"Nun, ihr Mädchen\", sagte sie, sobald sie allein waren, \"was sagt ihr zu diesem Tag?",
-                    "native": "The dinner was as well dressed as any I ever saw."
+                    "target": "Mrs. Bennet hatte vorgehabt, die beiden Herren von Netherfield zum Abendessen dazubehalten, doch unglücklicherweise wurde ihre Kutsche noch vor allen anderen bestellt, und sie hatte keine Gelegenheit mehr, sie aufzuhalten. \"Nun, ihr Mädchen\", sagte sie, sobald sie allein waren, \"was sagt ihr zu diesem Tag?",
+                    "native": "I think every thing has passed off uncommonly well, I assure you. The dinner was as well dressed as any I ever saw."
                 }
             ]
         },
@@ -218,12 +202,8 @@
                     "native": "The soup was fifty times better than what we had at the Lucases' last week; and even Mr. Darcy acknowledged, that the partridges were remarkably well done; and I suppose he has two or three French cooks at least."
                 },
                 {
-                    "target": "Die Suppe war hundertmal besser als die bei den Lucas’ letzte Woche; und selbst Mr. Darcy gab zu, daß die Rebhühner ungewöhnlich gut geraten waren.",
-                    "native": "And, my dear Jane, I never saw you look in greater beauty. Mrs."
-                },
-                {
-                    "target": "Ich nehme an, er hat selbst mindestens zwei oder drei französische Köche.",
-                    "native": "Long said so too, for I asked her whether you did not."
+                    "target": "Die Suppe war hundertmal besser als die bei den Lucas’ letzte Woche; und selbst Mr. Darcy gab zu, daß die Rebhühner ungewöhnlich gut geraten waren. Ich nehme an, er hat selbst mindestens zwei oder drei französische Köche.",
+                    "native": "And, my dear Jane, I never saw you look in greater beauty. Mrs. Long said so too, for I asked her whether you did not."
                 },
                 {
                     "target": "Und meine liebe Jane, dich habe ich noch nie schöner gesehen, Mrs. Long hat das auch gesagt, als ich sie danach fragte.",
@@ -239,12 +219,8 @@
                     "native": "Mrs. Bennet, we shall have her at Netherfield at last.' She did indeed."
                 },
                 {
-                    "target": "Mrs. Long ist ja so ein gutes Wesen, und ihre Nichten haben ein so feines Benehmen, und sie sind überhaupt nicht hübsch.",
-                    "native": "I do think Mrs. Long is as good a creature as ever lived—and her nieces are very pretty behaved girls, and not at all handsome: I like them prodigiously.\" Mrs."
-                },
-                {
-                    "target": "Ich habe sie ungemein gern.\" Kurz gesagt, Mrs. Bennet war in Hochstimmung; sie hatte genug von Bingleys Verhalten gegenüber Jane gesehen, um überzeugt zu sein, daß sie ihn schließlich bekommen würde; und ihre Erwartungen im Hinblick auf die Vorteile für ihre Familie überstiegen, wenn sie in glückseliger Laune war, so sehr jede Vernunft, daß sie ganz enttäuscht war, ihn nicht schon am nächsten Tag wiederzusehen, damit er seinen Antrag machte. \"Es war ein sehr erfreulicher Tag\", sagte Miss Bennet zu Elizabeth. \"Die Gesellschaft schien so gut gewählt, alle paßten so gut zueinander.",
-                    "native": "Bennet, in short, was in very great spirits; she had seen enough of Bingley's behaviour to Jane, to be convinced that she would get him at last; and her expectations of advantage to her family, when in a happy humour, were so far beyond reason, that she was quite disappointed at not seeing him there again the next day, to make his proposals. \"It has been a very agreeable day,\" said Miss Bennet to Elizabeth. \"The party seemed so well selected, so suitable one with the other. I hope we may often meet again.\" Elizabeth smiled. \"Lizzy, you must not do so."
+                    "target": "Mrs. Long ist ja so ein gutes Wesen, und ihre Nichten haben ein so feines Benehmen, und sie sind überhaupt nicht hübsch. Ich habe sie ungemein gern.\" Kurz gesagt, Mrs. Bennet war in Hochstimmung; sie hatte genug von Bingleys Verhalten gegenüber Jane gesehen, um überzeugt zu sein, daß sie ihn schließlich bekommen würde; und ihre Erwartungen im Hinblick auf die Vorteile für ihre Familie überstiegen, wenn sie in glückseliger Laune war, so sehr jede Vernunft, daß sie ganz enttäuscht war, ihn nicht schon am nächsten Tag wiederzusehen, damit er seinen Antrag machte. \"Es war ein sehr erfreulicher Tag\", sagte Miss Bennet zu Elizabeth. \"Die Gesellschaft schien so gut gewählt, alle paßten so gut zueinander.",
+                    "native": "I do think Mrs. Long is as good a creature as ever lived—and her nieces are very pretty behaved girls, and not at all handsome: I like them prodigiously.\" Mrs. Bennet, in short, was in very great spirits; she had seen enough of Bingley's behaviour to Jane, to be convinced that she would get him at last; and her expectations of advantage to her family, when in a happy humour, were so far beyond reason, that she was quite disappointed at not seeing him there again the next day, to make his proposals. \"It has been a very agreeable day,\" said Miss Bennet to Elizabeth. \"The party seemed so well selected, so suitable one with the other. I hope we may often meet again.\" Elizabeth smiled. \"Lizzy, you must not do so."
                 },
                 {
                     "target": "Ich hoffe, wir können recht oft zusammenkommen.\" Elizabeth lächelte. \"Lizzy, hör auf damit.",

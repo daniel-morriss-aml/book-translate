@@ -8,20 +8,12 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Während des Dinners sprach Mr. Bennet kaum ein Wort, doch als sich die Dienstboten zurückgezogen hatten, hielt er es für an der Zeit, sich mit seinem Gast etwas zu unterhalten; und er schnitt ein Thema an, bei dem Mr.",
-                    "native": "During dinner, Mr. Bennet scarcely spoke at all; but when the servants were withdrawn, he thought it time to have some conversation with his guest, and therefore started a subject in which he expected him to shine, by observing that he seemed very fortunate in his patroness."
+                    "target": "Während des Dinners sprach Mr. Bennet kaum ein Wort, doch als sich die Dienstboten zurückgezogen hatten, hielt er es für an der Zeit, sich mit seinem Gast etwas zu unterhalten; und er schnitt ein Thema an, bei dem Mr. Collins vermutlich glänzen konnte – er bemerkte, daß er anscheinend mit seiner Patronin großes Glück gehabt habe.",
+                    "native": "During dinner, Mr. Bennet scarcely spoke at all; but when the servants were withdrawn, he thought it time to have some conversation with his guest, and therefore started a subject in which he expected him to shine, by observing that he seemed very fortunate in his patroness. Lady Catherine de Bourgh's attention to his wishes, and consideration for his comfort, appeared very remarkable."
                 },
                 {
-                    "target": "Collins vermutlich glänzen konnte – er bemerkte, daß er anscheinend mit seiner Patronin großes Glück gehabt habe.",
-                    "native": "Lady Catherine de Bourgh's attention to his wishes, and consideration for his comfort, appeared very remarkable."
-                },
-                {
-                    "target": "Wie Lady Catherine de Bourgh auf seine Wünsche einging und auf sein Wohlbefinden bedacht war, erscheine sehr bemerkenswert. Mr.",
-                    "native": "Mr. Bennet could not have chosen better."
-                },
-                {
-                    "target": "Bennet hätte kein besseres Thema auswählen können. Mr.",
-                    "native": "Mr. Collins was eloquent in her praise."
+                    "target": "Wie Lady Catherine de Bourgh auf seine Wünsche einging und auf sein Wohlbefinden bedacht war, erscheine sehr bemerkenswert. Mr. Bennet hätte kein besseres Thema auswählen können. Mr.",
+                    "native": "Mr. Bennet could not have chosen better. Mr. Collins was eloquent in her praise."
                 },
                 {
                     "target": "Collins zeigte große Beredsamkeit in seinem Lob für sie.",
@@ -49,12 +41,8 @@
                     "native": "She had always spoken to him as she would to any other gentleman; she made not the smallest objection to his joining in the society of the neighbourhood nor to his leaving the parish occasionally for a week or two, to visit his relations."
                 },
                 {
-                    "target": "Sie habe immer mit ihm gesprochen wie mit jedem anderen Herrn; sie habe nicht das geringste dagegen einzuwenden gehabt, daß er sich der Gesellschaft in der Nachbarschaft anschloß, und auch nicht, daß er die Gemeinde gelegentlich für ein, zwei Wochen verließ, um seine Verwandten zu besuchen. Sie habe sogar geruht, ihm zu raten, sobald wie möglich zu heiraten, vorausgesetzt, er treffe seine Wahl mit Umsicht; und sie habe ihn in seinem bescheidenen Pfarrhaus besucht, wo sie alle Veränderungen, die er vorgenommen hatte, guthieß und sogar die Güte hatte, einiges selbst vorzuschlagen, und zwar einige Regale für die Privaträume im oberen Stockwerk. \"Das ist natürlich alles sehr anständig und zuvorkommend\", sagte Mrs.",
-                    "native": "She had even condescended to advise him to marry as soon as he could, provided he chose with discretion; and had once paid him a visit in his humble parsonage, where she had perfectly approved all the alterations he had been making, and had even vouchsafed to suggest some herself—some shelves in the closet up stairs.\" \"That is all very proper and civil, I am sure,\" said Mrs. Bennet, \"and I dare say she is a very agreeable woman."
-                },
-                {
-                    "target": "Bennet, \"sie scheint wirklich eine sehr liebenswürdige Frau zu sein.",
-                    "native": "It is a pity that great ladies in general are not more like her."
+                    "target": "Sie habe immer mit ihm gesprochen wie mit jedem anderen Herrn; sie habe nicht das geringste dagegen einzuwenden gehabt, daß er sich der Gesellschaft in der Nachbarschaft anschloß, und auch nicht, daß er die Gemeinde gelegentlich für ein, zwei Wochen verließ, um seine Verwandten zu besuchen. Sie habe sogar geruht, ihm zu raten, sobald wie möglich zu heiraten, vorausgesetzt, er treffe seine Wahl mit Umsicht; und sie habe ihn in seinem bescheidenen Pfarrhaus besucht, wo sie alle Veränderungen, die er vorgenommen hatte, guthieß und sogar die Güte hatte, einiges selbst vorzuschlagen, und zwar einige Regale für die Privaträume im oberen Stockwerk. \"Das ist natürlich alles sehr anständig und zuvorkommend\", sagte Mrs. Bennet, \"sie scheint wirklich eine sehr liebenswürdige Frau zu sein.",
+                    "native": "She had even condescended to advise him to marry as soon as he could, provided he chose with discretion; and had once paid him a visit in his humble parsonage, where she had perfectly approved all the alterations he had been making, and had even vouchsafed to suggest some herself—some shelves in the closet up stairs.\" \"That is all very proper and civil, I am sure,\" said Mrs. Bennet, \"and I dare say she is a very agreeable woman. It is a pity that great ladies in general are not more like her."
                 },
                 {
                     "target": "Es ist ein Jammer, daß große Damen im allgemeinen nicht immer so sind wie sie.",
@@ -66,12 +54,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Lebt sie in Ihrer Nähe, Sir?\" \"Der Garten, in dem sich meine bescheidene Wohnstätte befindet, ist von Rosings Park, dem Wohnsitz Ihrer Ladyschaft, nur durch einen Weg getrennt.\" \"Sie sagten wohl, sie sei Witwe, Sir? Hat sie Familie?\" \"Sie hat nur eine Tochter, die Erbin von Rosings und eines sehr ausgedehnten Besitztums.\" \"Oh\", rief Mrs.",
-                    "native": "Has she any family?\" \"She has only one daughter, the heiress of Rosings, and of very extensive property.\" \"Ah!\" said Mrs. Bennet, shaking her head, \"then she is better off than many girls."
-                },
-                {
-                    "target": "Bennet und schüttelte den Kopf, \"dann ist sie besser dran als viele andere Mädchen.",
-                    "native": "And what sort of young lady is she?"
+                    "target": "Lebt sie in Ihrer Nähe, Sir?\" \"Der Garten, in dem sich meine bescheidene Wohnstätte befindet, ist von Rosings Park, dem Wohnsitz Ihrer Ladyschaft, nur durch einen Weg getrennt.\" \"Sie sagten wohl, sie sei Witwe, Sir? Hat sie Familie?\" \"Sie hat nur eine Tochter, die Erbin von Rosings und eines sehr ausgedehnten Besitztums.\" \"Oh\", rief Mrs. Bennet und schüttelte den Kopf, \"dann ist sie besser dran als viele andere Mädchen.",
+                    "native": "Has she any family?\" \"She has only one daughter, the heiress of Rosings, and of very extensive property.\" \"Ah!\" said Mrs. Bennet, shaking her head, \"then she is better off than many girls. And what sort of young lady is she?"
                 },
                 {
                     "target": "Und welcherart ist diese junge Dame?",
@@ -119,18 +103,14 @@
                     "native": "His cousin was as absurd as he had hoped, and he listened to him with the keenest enjoyment, maintaining at the same time the most resolute composure of countenance, and, except in an occasional glance at Elizabeth, requiring no partner in his pleasure."
                 },
                 {
-                    "target": "Als die Teestunde herankam, hatte er jedoch genug davon, und er war froh, daß er seinen Gast wieder in den Salon geleiten und ihn nach dem Tee bitten konnte, den Damen etwas vorzulesen. Mr.",
-                    "native": "By tea-time, however, the dose had been enough, and Mr. Bennet was glad to take his guest into the drawing-room again, and, when tea was over, glad to invite him to read aloud to the ladies."
+                    "target": "Als die Teestunde herankam, hatte er jedoch genug davon, und er war froh, daß er seinen Gast wieder in den Salon geleiten und ihn nach dem Tee bitten konnte, den Damen etwas vorzulesen. Mr. Collins stimmte bereitwillig zu, und man holte ein Buch herbei; doch als er es erblickte, fuhr er zurück (denn alles wies darauf hin, daß es aus einer Leihbibliothek kam), bat um Verzeihung und beteuerte, er würde niemals Romane lesen. Kitty starrte ihn an, und Lydia stieß einen Laut der Überraschung aus.",
+                    "native": "By tea-time, however, the dose had been enough, and Mr. Bennet was glad to take his guest into the drawing-room again, and, when tea was over, glad to invite him to read aloud to the ladies. Mr. Collins readily assented, and a book was produced; but, on beholding it (for everything announced it to be from a circulating library), he started back, and begging pardon, protested that he never read novels."
                 }
             ]
         },
         {
             "pageNumber": 5,
             "sentences": [
-                {
-                    "target": "Collins stimmte bereitwillig zu, und man holte ein Buch herbei; doch als er es erblickte, fuhr er zurück (denn alles wies darauf hin, daß es aus einer Leihbibliothek kam), bat um Verzeihung und beteuerte, er würde niemals Romane lesen. Kitty starrte ihn an, und Lydia stieß einen Laut der Überraschung aus.",
-                    "native": "Mr. Collins readily assented, and a book was produced; but, on beholding it (for everything announced it to be from a circulating library), he started back, and begging pardon, protested that he never read novels."
-                },
                 {
                     "target": "Es wurden andere Bücher gebracht, und nach einigen Überlegungen wählte er Fordyces Predigten aus.",
                     "native": "Kitty stared at him, and Lydia exclaimed."
@@ -169,19 +149,14 @@
                     "native": "Mr. Bennet accepted the challenge, observing that he acted very wisely in leaving the girls to their own trifling amusements."
                 },
                 {
-                    "target": "Mrs. Bennet und ihre Töchter entschuldigten sich bei Mr. Collins sehr höflich für Lydias Unterbrechung und versprachen, daß dies nicht wieder vorkommen würde, wenn er weiterlesen wollte; aber nachdem er ihnen versichert hatte, daß er keinen Groll gegen seine junge Cousine hege und ihr Betragen keinesfalls als eine Beleidigung auffasse, setzte er sich mit Mr.",
-                    "native": "Mrs. Bennet and her daughters apologised most civilly for Lydia's interruption, and promised that it should not occur again, if he would resume his book; but Mr. Collins, after assuring them that he bore his young cousin no ill-will, and should never resent her behaviour as any affront, seated himself at another table with Mr."
+                    "target": "Mrs. Bennet und ihre Töchter entschuldigten sich bei Mr. Collins sehr höflich für Lydias Unterbrechung und versprachen, daß dies nicht wieder vorkommen würde, wenn er weiterlesen wollte; aber nachdem er ihnen versichert hatte, daß er keinen Groll gegen seine junge Cousine hege und ihr Betragen keinesfalls als eine Beleidigung auffasse, setzte er sich mit Mr. Bennet an einen anderen Tisch und wandte sich dem Backgammon zu.",
+                    "native": "Mrs. Bennet and her daughters apologised most civilly for Lydia's interruption, and promised that it should not occur again, if he would resume his book; but Mr. Collins, after assuring them that he bore his young cousin no ill-will, and should never resent her behaviour as any affront, seated himself at another table with Mr. Bennet, and prepared for backgammon."
                 }
             ]
         },
         {
             "pageNumber": 7,
-            "sentences": [
-                {
-                    "target": "Bennet an einen anderen Tisch und wandte sich dem Backgammon zu.",
-                    "native": "Bennet, and prepared for backgammon."
-                }
-            ]
+            "sentences": []
         }
     ]
 }

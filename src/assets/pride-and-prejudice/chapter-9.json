@@ -33,20 +33,12 @@
             "pageNumber": 2,
             "sentences": [
                 {
-                    "target": "Mrs.",
-                    "native": "She would not listen, therefore, to her daughter's proposal of being carried home; neither did the apothecary, who arrived about the same time, think it at all advisable."
+                    "target": "Mrs. Bennet wollte deshalb nichts von dem Vorschlag ihrer Tochter hören, daß man sie nach Hause bringen solle; auch der Apotheker, der etwa zur gleichen Zeit ankam, fand es keinesfalls ratsam.",
+                    "native": "She would not listen, therefore, to her daughter's proposal of being carried home; neither did the apothecary, who arrived about the same time, think it at all advisable. After sitting a little while with Jane, on Miss Bingley's appearance and invitation, the mother and three daughters all attended her into the breakfast parlour."
                 },
                 {
-                    "target": "Bennet wollte deshalb nichts von dem Vorschlag ihrer Tochter hören, daß man sie nach Hause bringen solle; auch der Apotheker, der etwa zur gleichen Zeit ankam, fand es keinesfalls ratsam.",
-                    "native": "After sitting a little while with Jane, on Miss Bingley's appearance and invitation, the mother and three daughters all attended her into the breakfast parlour."
-                },
-                {
-                    "target": "Nachdem die Mutter eine Weile bei Jane gesessen hatte, ging sie mit ihren drei Töchtern auf Einladung Miss Bingleys ins Frühstückszimmer. Bingley trat auf sie zu und gab der Hoffnung Ausdruck, daß Mrs.",
-                    "native": "Bingley met them with hopes that Mrs. Bennet had not found Miss Bennet worse than she expected. \"Indeed I have, sir,\" was her answer. \"She is a great deal too ill to be moved."
-                },
-                {
-                    "target": "Bennet Jane nicht schlechter angetroffen habe, als sie erwartet hatte. \"O doch, das habe ich, Sir\", war ihre Antwort. \"Sie ist noch viel zu krank, um heimgebracht zu werden. Mr.",
-                    "native": "Mr. Jones says we must not think of moving her."
+                    "target": "Nachdem die Mutter eine Weile bei Jane gesessen hatte, ging sie mit ihren drei Töchtern auf Einladung Miss Bingleys ins Frühstückszimmer. Bingley trat auf sie zu und gab der Hoffnung Ausdruck, daß Mrs. Bennet Jane nicht schlechter angetroffen habe, als sie erwartet hatte. \"O doch, das habe ich, Sir\", war ihre Antwort. \"Sie ist noch viel zu krank, um heimgebracht zu werden. Mr.",
+                    "native": "Bingley met them with hopes that Mrs. Bennet had not found Miss Bennet worse than she expected. \"Indeed I have, sir,\" was her answer. \"She is a great deal too ill to be moved. Mr. Jones says we must not think of moving her."
                 },
                 {
                     "target": "Jones sagt, daß wir nicht daran denken dürfen.",
@@ -62,12 +54,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Ich sage oft zu meinen anderen Töchtern, sie seien überhaupt nicht mit Jane zu vergleichen. Sie haben ein wunderhübsches Zimmer hier, Mr.",
-                    "native": "You have a sweet room here, Mr. Bingley, and a charming prospect over the gravel walk."
-                },
-                {
-                    "target": "Bingley, und einen bezaubernden Ausblick über diesen Kiesweg.",
-                    "native": "I do not know a place in the country that is equal to Netherfield."
+                    "target": "Ich sage oft zu meinen anderen Töchtern, sie seien überhaupt nicht mit Jane zu vergleichen. Sie haben ein wunderhübsches Zimmer hier, Mr. Bingley, und einen bezaubernden Ausblick über diesen Kiesweg.",
+                    "native": "You have a sweet room here, Mr. Bingley, and a charming prospect over the gravel walk. I do not know a place in the country that is equal to Netherfield."
                 },
                 {
                     "target": "Ich kenne keinen Ort in der Gegend, der Netherfield gleicht.",
@@ -95,12 +83,8 @@
                     "native": "They have at least that advantage.\" \"The country,\" said Darcy, \"can in general supply but a few subjects for such a study."
                 },
                 {
-                    "target": "Diesen Vorzug zumindest haben sie.\" \"Das Land\", sagte Darcy, \"kann im allgemeinen nur wenige Objekte für ein solches Studium liefern. In einer ländlichen Umgebung bewegt man sich in einer sehr begrenzten, gleichförmigen Gesellschaft.\" \"Aber die Menschen selbst ändern sich so sehr, daß man immer wieder etwas Neues an ihnen beobachten kann.\" \"Ja, tatsächlich\", rief Mrs.",
-                    "native": "In a country neighbourhood you move in a very confined and unvarying society.\" \"But people themselves alter so much, that there is something new to be observed in them for ever.\" \"Yes, indeed,\" cried Mrs. Bennet, offended by his manner of mentioning a country neighbourhood. \"I assure you there is quite as much of that going on in the country as in town.\" Everybody was surprised, and Darcy, after looking at her for a moment, turned silently away."
-                },
-                {
-                    "target": "Bennet, die sich gekränkt fühlte durch die Art und Weise, wie Darcy über die ländliche Umgebung sprach. \"Ich versichere Ihnen, auf dem Lande spielt sich ganz genauso viel ab wie in der Stadt.\" Alle waren verblüfft; Darcy sah sie einen Augenblick lang schweigend an und wandte sich dann ab. Mrs.",
-                    "native": "Mrs. Bennet, who fancied she had gained a complete victory over him, continued her triumph. \"I cannot see that London has any great advantage over the country, for my part, except the shops and public places."
+                    "target": "Diesen Vorzug zumindest haben sie.\" \"Das Land\", sagte Darcy, \"kann im allgemeinen nur wenige Objekte für ein solches Studium liefern. In einer ländlichen Umgebung bewegt man sich in einer sehr begrenzten, gleichförmigen Gesellschaft.\" \"Aber die Menschen selbst ändern sich so sehr, daß man immer wieder etwas Neues an ihnen beobachten kann.\" \"Ja, tatsächlich\", rief Mrs. Bennet, die sich gekränkt fühlte durch die Art und Weise, wie Darcy über die ländliche Umgebung sprach. \"Ich versichere Ihnen, auf dem Lande spielt sich ganz genauso viel ab wie in der Stadt.\" Alle waren verblüfft; Darcy sah sie einen Augenblick lang schweigend an und wandte sich dann ab. Mrs.",
+                    "native": "In a country neighbourhood you move in a very confined and unvarying society.\" \"But people themselves alter so much, that there is something new to be observed in them for ever.\" \"Yes, indeed,\" cried Mrs. Bennet, offended by his manner of mentioning a country neighbourhood. \"I assure you there is quite as much of that going on in the country as in town.\" Everybody was surprised, and Darcy, after looking at her for a moment, turned silently away. Mrs. Bennet, who fancied she had gained a complete victory over him, continued her triumph. \"I cannot see that London has any great advantage over the country, for my part, except the shops and public places."
                 },
                 {
                     "target": "Bennet, die glaubte, sie hätte einen vollkommenen Sieg über ihn errungen, fuhr in ihrem Triumph fort: \"Ich für meinen Teil kann nicht erkennen, daß London einen großen Vorteil gegenüber dem Land bietet, wenn man einmal von den Läden und Wirtshäusern absieht. Das Land ist doch viel erfreulicher, nicht wahr, Mr. Bingley?\" \"Wenn ich mich auf dem Lande befinde\", erwiderte er, \"möchte ich niemals wieder von dort fortgehen; und wenn ich in der Stadt bin, ist es ziemlich das gleiche.",
@@ -112,12 +96,8 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Beides hat seine Vorteile, und ich kann auf dem Land wie in der Stadt gleichermaßen glücklich sein.\" \"Freilich – das kommt daher, weil Sie die rechte Veranlagung dazu haben. Aber dieser Herr\", sie sah Darcy an, \"scheint zu denken, das Land wäre überhaupt nichts.\" \"Aber Mama, du irrst dich\", sagte Elizabeth, die für ihre Mutter errötete, \"du hast Mr.",
-                    "native": "But that gentleman,\" looking at Darcy, \"seemed to think the country was nothing at all.\" \"Indeed, Mamma, you are mistaken,\" said Elizabeth, blushing for her mother. \"You quite mistook Mr. Darcy."
-                },
-                {
-                    "target": "Darcy ganz mißverstanden.",
-                    "native": "He only meant that there was not such a variety of people to be met with in the country as in the town, which you must acknowledge to be true.\" \"Certainly, my dear, nobody said there were; but as to not meeting with many people in this neighbourhood, I believe there are few neighbourhoods larger."
+                    "target": "Beides hat seine Vorteile, und ich kann auf dem Land wie in der Stadt gleichermaßen glücklich sein.\" \"Freilich – das kommt daher, weil Sie die rechte Veranlagung dazu haben. Aber dieser Herr\", sie sah Darcy an, \"scheint zu denken, das Land wäre überhaupt nichts.\" \"Aber Mama, du irrst dich\", sagte Elizabeth, die für ihre Mutter errötete, \"du hast Mr. Darcy ganz mißverstanden.",
+                    "native": "But that gentleman,\" looking at Darcy, \"seemed to think the country was nothing at all.\" \"Indeed, Mamma, you are mistaken,\" said Elizabeth, blushing for her mother. \"You quite mistook Mr. Darcy. He only meant that there was not such a variety of people to be met with in the country as in the town, which you must acknowledge to be true.\" \"Certainly, my dear, nobody said there were; but as to not meeting with many people in this neighbourhood, I believe there are few neighbourhoods larger."
                 },
                 {
                     "target": "Er meinte nur, daß man auf dem Lande nicht einer solchen Vielfalt von Leuten begegnet wie in der Stadt – was doch richtig ist, wie du zugeben mußt.\" \"Gewiß, meine Liebe, das sagt ja niemand; aber als ob man nicht so viele Leute in dieser Umgebung hier antreffen könnte!",
@@ -137,12 +117,8 @@
             "pageNumber": 6,
             "sentences": [
                 {
-                    "target": "Elizabeth fragte ihre Mutter – nur um etwas zu sagen, das diese auf andere Gedanken bringen könnte –, ob Charlotte Lucas während ihrer Abwesenheit in Longbourn gewesen sei. \"Ja, sie hat uns gestern mit ihrem Vater besucht. Was für ein liebenswürdiger Mensch Sir William ist, Mr.",
-                    "native": "What an agreeable man Sir William is, Mr. Bingley, is not he?"
-                },
-                {
-                    "target": "Bingley – nicht wahr?",
-                    "native": "So much the man of fashion!"
+                    "target": "Elizabeth fragte ihre Mutter – nur um etwas zu sagen, das diese auf andere Gedanken bringen könnte –, ob Charlotte Lucas während ihrer Abwesenheit in Longbourn gewesen sei. \"Ja, sie hat uns gestern mit ihrem Vater besucht. Was für ein liebenswürdiger Mensch Sir William ist, Mr. Bingley – nicht wahr?",
+                    "native": "What an agreeable man Sir William is, Mr. Bingley, is not he? So much the man of fashion!"
                 },
                 {
                     "target": "So ganz ein Mann der feinen Lebensart!",
@@ -290,12 +266,8 @@
             "pageNumber": 11,
             "sentences": [
                 {
-                    "target": "Ich werde Colonel Forster sagen, daß es eine rechte Schande wäre, wenn sie es nicht täten.\" Dann fuhren Mrs. Bennet und ihre Töchter ab, und Elizabeth kehrte augenblicklich zu Jane zurück und überließ es den beiden Damen und Mr.",
-                    "native": "I shall tell Colonel Forster it will be quite a shame if he does not.\" Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to Jane, leaving her own and her relations' behaviour to the remarks of the two ladies and Mr."
-                },
-                {
-                    "target": "Darcy, ihre Bemerkungen über ihr eigenes Verhalten und das ihrer Angehörigen zu machen; der letztere konnte jedoch nicht dazu bewogen werden, sich ihrer Kritik über Elizabeth anzuschließen, trotz all der Witzeleien Miss Bingleys über schöne Augen.",
-                    "native": "Darcy; the latter of whom, however, could not be prevailed on to join in their censure of her, in spite of all Miss Bingley's witticisms on fine eyes."
+                    "target": "Ich werde Colonel Forster sagen, daß es eine rechte Schande wäre, wenn sie es nicht täten.\" Dann fuhren Mrs. Bennet und ihre Töchter ab, und Elizabeth kehrte augenblicklich zu Jane zurück und überließ es den beiden Damen und Mr. Darcy, ihre Bemerkungen über ihr eigenes Verhalten und das ihrer Angehörigen zu machen; der letztere konnte jedoch nicht dazu bewogen werden, sich ihrer Kritik über Elizabeth anzuschließen, trotz all der Witzeleien Miss Bingleys über schöne Augen.",
+                    "native": "I shall tell Colonel Forster it will be quite a shame if he does not.\" Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to Jane, leaving her own and her relations' behaviour to the remarks of the two ladies and Mr. Darcy; the latter of whom, however, could not be prevailed on to join in their censure of her, in spite of all Miss Bingley's witticisms on fine eyes."
                 }
             ]
         }

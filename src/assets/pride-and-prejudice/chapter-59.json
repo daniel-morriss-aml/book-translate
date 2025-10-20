@@ -213,18 +213,14 @@
                     "native": "But now she would no longer conceal from her his share in Lydia's marriage."
                 },
                 {
-                    "target": "Sie hatte Bingley nicht erwähnen wollen, und der unbestimmte Zustand ihrer eigenen Gefühle hatte sie gleichermaßen zögern lassen, auf seinen Freund zu sprechen zu kommen. Aber nun wollte sie auch nicht länger seinen Anteil an Lydias Heirat vor ihr verbergen. Jane erfuhr jetzt alles, sie sprachen die halbe Nacht miteinander. \"Du lieber Himmel!\" rief Mrs. Bennet, als sie am nächsten Morgen aus dem Fenster sah, \"da kommt doch dieser unangenehme Mr.",
-                    "native": "All was acknowledged, and half the night spent in conversation. \"Good gracious!\" cried Mrs. Bennet, as she stood at a window the next morning, \"if that disagreeable Mr. Darcy is not coming here again with our dear Bingley! What can he mean by being so tiresome as to be always coming here?"
+                    "target": "Sie hatte Bingley nicht erwähnen wollen, und der unbestimmte Zustand ihrer eigenen Gefühle hatte sie gleichermaßen zögern lassen, auf seinen Freund zu sprechen zu kommen. Aber nun wollte sie auch nicht länger seinen Anteil an Lydias Heirat vor ihr verbergen. Jane erfuhr jetzt alles, sie sprachen die halbe Nacht miteinander. \"Du lieber Himmel!\" rief Mrs. Bennet, als sie am nächsten Morgen aus dem Fenster sah, \"da kommt doch dieser unangenehme Mr. Darcy mit unserem lieben Bingley wieder!",
+                    "native": "All was acknowledged, and half the night spent in conversation. \"Good gracious!\" cried Mrs. Bennet, as she stood at a window the next morning, \"if that disagreeable Mr. Darcy is not coming here again with our dear Bingley! What can he mean by being so tiresome as to be always coming here? I had no notion but he would go ashooting, or something or other, and not disturb us with his company."
                 }
             ]
         },
         {
             "pageNumber": 7,
             "sentences": [
-                {
-                    "target": "Darcy mit unserem lieben Bingley wieder!",
-                    "native": "I had no notion but he would go ashooting, or something or other, and not disturb us with his company."
-                },
                 {
                     "target": "Was soll denn das heißen, daß er immerzu mit herkommt und uns lästig fällt?",
                     "native": "What shall we do with him?"
@@ -238,22 +234,14 @@
                     "native": "As soon as they entered, Bingley looked at her so expressively, and shook hands with such warmth, as left no doubt of his good information; and he soon afterwards said aloud, \"Mrs."
                 },
                 {
-                    "target": "Lizzy, du mußt wieder mit ihm spazierengehen, damit er Bingley nicht im Wege ist.\" Elizabeth konnte sich kaum enthalten zu lachen bei einem so willkommenen Vorschlag; aber sie war wirklich ärgerlich, daß ihre Mutter ihn stets mit solchen Beiworten bedachte. Sobald sie eintraten, sah Bingley sie so vielsagend an und schüttelte ihr mit einer solchen Herzlichkeit die Hand, daß es keinen Zweifel gab, wie gut er informiert war; und er sagte bald laut: \"Mrs. Bennet, haben Sie noch mehr Wege hier, auf denen sich Lizzy heute wieder verlaufen kann?\" \"Ich rate Mr. Darcy, Lizzy und Kitty\", sagte Mrs.",
-                    "native": "Bennet, have you no more lanes hereabouts in which Lizzy may lose her way again to-day?\" \"I advise Mr. Darcy, and Lizzy, and Kitty,\" said Mrs. Bennet, \"to walk to Oakham Mount this morning. It is a nice long walk, and Mr."
+                    "target": "Lizzy, du mußt wieder mit ihm spazierengehen, damit er Bingley nicht im Wege ist.\" Elizabeth konnte sich kaum enthalten zu lachen bei einem so willkommenen Vorschlag; aber sie war wirklich ärgerlich, daß ihre Mutter ihn stets mit solchen Beiworten bedachte. Sobald sie eintraten, sah Bingley sie so vielsagend an und schüttelte ihr mit einer solchen Herzlichkeit die Hand, daß es keinen Zweifel gab, wie gut er informiert war; und er sagte bald laut: \"Mrs. Bennet, haben Sie noch mehr Wege hier, auf denen sich Lizzy heute wieder verlaufen kann?\" \"Ich rate Mr. Darcy, Lizzy und Kitty\", sagte Mrs. Bennet, \"heute morgen zum Oakham Mount zu gehen. Es ist ein schöner langer Spaziergang, und Mr. Darcy kennt den Ausblick von dort noch gar nicht.\" \"Das mag für Mr. Darcy und Lizzy das richtige sein\", erwiderte Mr.",
+                    "native": "Bennet, have you no more lanes hereabouts in which Lizzy may lose her way again to-day?\" \"I advise Mr. Darcy, and Lizzy, and Kitty,\" said Mrs. Bennet, \"to walk to Oakham Mount this morning. It is a nice long walk, and Mr. Darcy has never seen the view.\" \"It may do very well for the others,\" replied Mr. Bingley; \"but I am sure it will be too much for Kitty. Won't it, Kitty?\" Kitty owned that she had rather stay at home. Darcy professed a great curiosity to see the view from the Mount, and Elizabeth silently consented."
                 }
             ]
         },
         {
             "pageNumber": 8,
             "sentences": [
-                {
-                    "target": "Bennet, \"heute morgen zum Oakham Mount zu gehen. Es ist ein schöner langer Spaziergang, und Mr.",
-                    "native": "Darcy has never seen the view.\" \"It may do very well for the others,\" replied Mr. Bingley; \"but I am sure it will be too much for Kitty."
-                },
-                {
-                    "target": "Darcy kennt den Ausblick von dort noch gar nicht.\" \"Das mag für Mr. Darcy und Lizzy das richtige sein\", erwiderte Mr.",
-                    "native": "Won't it, Kitty?\" Kitty owned that she had rather stay at home. Darcy professed a great curiosity to see the view from the Mount, and Elizabeth silently consented."
-                },
                 {
                     "target": "Bingley, \"aber für Kitty wird es bestimmt zuviel werden. Nicht wahr, Kitty?\" Kitty gestand, daß sie lieber zu Hause bleiben würde.",
                     "native": "As she went up stairs to get ready, Mrs. Bennet followed her, saying: \"I am quite sorry, Lizzy, that you should be forced to have that disagreeable man all to yourself."
@@ -276,12 +264,8 @@
                     "native": "Elizabeth reserved to herself the application for her mother's."
                 },
                 {
-                    "target": "Mach dir also nicht so viel Mühe.\" Während ihres Spazierganges wurde beschlossen, im Laufe des Abends Mr. Bennet um seine Einwilligung zu bitten.",
-                    "native": "She could not determine how her mother would take it; sometimes doubting whether all his wealth and grandeur would be enough to overcome her abhorrence of the man. But whether she were violently set against the match, or violently delighted with it, it was certain that her manner would be equally ill adapted to do credit to her sense; and she could no more bear that Mr."
-                },
-                {
-                    "target": "Elizabeth behielt sich vor, um die ihrer Mutter zu ersuchen.",
-                    "native": "Darcy should hear the first raptures of her joy, than the first vehemence of her disapprobation."
+                    "target": "Mach dir also nicht so viel Mühe.\" Während ihres Spazierganges wurde beschlossen, im Laufe des Abends Mr. Bennet um seine Einwilligung zu bitten. Elizabeth behielt sich vor, um die ihrer Mutter zu ersuchen.",
+                    "native": "She could not determine how her mother would take it; sometimes doubting whether all his wealth and grandeur would be enough to overcome her abhorrence of the man. But whether she were violently set against the match, or violently delighted with it, it was certain that her manner would be equally ill adapted to do credit to her sense; and she could no more bear that Mr. Darcy should hear the first raptures of her joy, than the first vehemence of her disapprobation."
                 },
                 {
                     "target": "Sie konnte zu keinem Schluß kommen, wie ihre Mutter es aufnehmen würde; manchmal zweifelte sie, ob all sein Reichtum und seine Vornehmheit ausreichen würden, ihren Abscheu vor diesem Mann zu überwinden. Doch ob sie sich dieser Heirat nun ungestüm widersetzte oder sich ungestüm darüber freute, es stand fest, daß ihr Verhalten gleichermaßen ungeeignet sein würde, ihrer Vernunft Ehre zu machen; und sie hätte es ebensowenig ertragen können, Mr. Darcy ihre ersten Ausbrüche des Entzückens zuzumuten wie den ersten Sturm ihrer Mißbilligung.",
@@ -293,12 +277,8 @@
             "pageNumber": 10,
             "sentences": [
                 {
-                    "target": "Am Abend, bald nachdem sich Mr. Bennet in die Bibliothek zurückgezogen hatte, sah Elizabeth, wie sich Mr.",
-                    "native": "She did not fear her father's opposition, but he was going to be made unhappy; and that it should be through her means—that she, his favourite child, should be distressing him by her choice, should be filling him with fears and regrets in disposing of her—was a wretched reflection, and she sat in misery till Mr. Darcy appeared again, when, looking at him, she was a little relieved by his smile."
-                },
-                {
-                    "target": "Darcy ebenfalls erhob und ihm folgte; das versetzte sie in außerordentliche Unruhe.",
-                    "native": "In a few minutes he approached the table where she was sitting with Kitty; and, while pretending to admire her work said in a whisper, \"Go to your father, he wants you in the library.\" She was gone directly."
+                    "target": "Am Abend, bald nachdem sich Mr. Bennet in die Bibliothek zurückgezogen hatte, sah Elizabeth, wie sich Mr. Darcy ebenfalls erhob und ihm folgte; das versetzte sie in außerordentliche Unruhe.",
+                    "native": "She did not fear her father's opposition, but he was going to be made unhappy; and that it should be through her means—that she, his favourite child, should be distressing him by her choice, should be filling him with fears and regrets in disposing of her—was a wretched reflection, and she sat in misery till Mr. Darcy appeared again, when, looking at him, she was a little relieved by his smile. In a few minutes he approached the table where she was sitting with Kitty; and, while pretending to admire her work said in a whisper, \"Go to your father, he wants you in the library.\" She was gone directly."
                 },
                 {
                     "target": "Sie fürchtete keinen Widerstand von ihrem Vater, aber es würde ihn unglücklich machen.",
@@ -438,12 +418,8 @@
                     "native": "Lord bless me! only think! dear me!"
                 },
                 {
-                    "target": "Als ihre Mutter am Abend in ihr Ankleidezimmer hinaufging, folgte sie ihr und teilte ihr die so bedeutende Neuigkeit mit. Die Wirkung war höchst ungewöhnlich, denn als Mrs.",
-                    "native": "Mr. Darcy!"
-                },
-                {
-                    "target": "Bennet es vernahm, saß sie zuerst ganz still und konnte kein Wort hervorbringen.",
-                    "native": "Who would have thought it!"
+                    "target": "Als ihre Mutter am Abend in ihr Ankleidezimmer hinaufging, folgte sie ihr und teilte ihr die so bedeutende Neuigkeit mit. Die Wirkung war höchst ungewöhnlich, denn als Mrs. Bennet es vernahm, saß sie zuerst ganz still und konnte kein Wort hervorbringen.",
+                    "native": "Mr. Darcy! Who would have thought it!"
                 },
                 {
                     "target": "Auch dauerte es eine ganze Zeit, bis sie begriff, was sie gehört hatte; obgleich sie im allgemeinen nicht langsam darin war, Dingen Glauben zu schenken, die für die Familie von Nutzen waren oder in Gestalt eines Liebhabers daherkamen.",
@@ -471,12 +447,8 @@
                     "native": "I am so pleased—so happy."
                 },
                 {
-                    "target": "Mr.",
-                    "native": "Such a charming man!—so handsome! so tall!— Oh, my dear Lizzy! pray apologise for my having disliked him so much before."
-                },
-                {
-                    "target": "Darcy!",
-                    "native": "I hope he will overlook it."
+                    "target": "Mr. Darcy!",
+                    "native": "Such a charming man!—so handsome! so tall!— Oh, my dear Lizzy! pray apologise for my having disliked him so much before. I hope he will overlook it."
                 },
                 {
                     "target": "Wer hätte das gedacht!",

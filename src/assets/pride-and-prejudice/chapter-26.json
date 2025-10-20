@@ -45,12 +45,8 @@
                     "native": "You must not disappoint your father.\" \"My dear aunt, this is being serious indeed.\" \"Yes, and I hope to engage you to be serious likewise.\" \"Well, then, you need not be under any alarm."
                 },
                 {
-                    "target": "Du darfst ihn nicht enttäuschen.\" \"Meine liebe Tante, das ist ja in der Tat ernst.\" \"Ja, und ich hoffe, ich verpflichte dich, ebenfalls ernst zu sein.\" \"Nun gut, du brauchst keinesfalls beunruhigt zu sein. Ich werde auf mich aufpassen, und auf Mr.",
-                    "native": "I will take care of myself, and of Mr. Wickham too."
-                },
-                {
-                    "target": "Wickham auch.",
-                    "native": "He shall not be in love with me, if I can prevent it.\" \"Elizabeth, you are not serious now.\" \"I beg your pardon, I will try again."
+                    "target": "Du darfst ihn nicht enttäuschen.\" \"Meine liebe Tante, das ist ja in der Tat ernst.\" \"Ja, und ich hoffe, ich verpflichte dich, ebenfalls ernst zu sein.\" \"Nun gut, du brauchst keinesfalls beunruhigt zu sein. Ich werde auf mich aufpassen, und auf Mr. Wickham auch.",
+                    "native": "I will take care of myself, and of Mr. Wickham too. He shall not be in love with me, if I can prevent it.\" \"Elizabeth, you are not serious now.\" \"I beg your pardon, I will try again."
                 },
                 {
                     "target": "Er soll sich nicht in mich verlieben, wenn ich es verhindern kann.\" \"Elizabeth – jetzt bist du nicht ernst!\" \"Entschuldige! Ich will es noch einmal versuchen.",
@@ -66,20 +62,12 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Aber er ist der unvergleichlich angenehmste Mann, dem ich je begegnet bin – und wenn er sein Herz wirklich an mich verlieren würde ..., dann denke ich, das sollte er besser nicht. Ich erkenne, wie unklug es wäre. – Ach, dieser abscheuliche Mr.",
-                    "native": "Oh! that abominable Mr. Darcy!"
+                    "target": "Aber er ist der unvergleichlich angenehmste Mann, dem ich je begegnet bin – und wenn er sein Herz wirklich an mich verlieren würde ..., dann denke ich, das sollte er besser nicht. Ich erkenne, wie unklug es wäre. – Ach, dieser abscheuliche Mr. Darcy!",
+                    "native": "Oh! that abominable Mr. Darcy! My father's opinion of me does me the greatest honour, and I should be miserable to forfeit it."
                 },
                 {
-                    "target": "Darcy!",
-                    "native": "My father's opinion of me does me the greatest honour, and I should be miserable to forfeit it."
-                },
-                {
-                    "target": "Die gute Meinung meines Vaters von mir ehrt mich sehr, und es würde mich bekümmern, wenn ich sie verwirkte. Andererseits ist mein Vater für Mr.",
-                    "native": "My father, however, is partial to Mr. Wickham."
-                },
-                {
-                    "target": "Wickham eingenommen.",
-                    "native": "In short, my dear aunt, I should be very sorry to be the means of making any of you unhappy; but since we see every day that where there is affection, young people are seldom withheld by immediate want of fortune from entering into engagements with each other, how can I promise to be wiser than so many of my fellow-creatures if I am tempted, or how am I even to know that it would be wisdom to resist?"
+                    "target": "Die gute Meinung meines Vaters von mir ehrt mich sehr, und es würde mich bekümmern, wenn ich sie verwirkte. Andererseits ist mein Vater für Mr. Wickham eingenommen.",
+                    "native": "My father, however, is partial to Mr. Wickham. In short, my dear aunt, I should be very sorry to be the means of making any of you unhappy; but since we see every day that where there is affection, young people are seldom withheld by immediate want of fortune from entering into engagements with each other, how can I promise to be wiser than so many of my fellow-creatures if I am tempted, or how am I even to know that it would be wisdom to resist?"
                 },
                 {
                     "target": "Kurz gesagt, meine liebe Tante, es würde mir sehr leid tun, wenn jemand von euch durch mich unglücklich würde; doch da wir täglich erleben, daß junge Leute, wenn sie sich lieben, selten durch momentanen Geldmangel abgehalten werden, sich miteinander zu verloben – wie kann ich da versprechen, weiser zu sein als so viele meiner Mitmenschen, wenn ich in Versuchung komme – wie kann ich überhaupt wissen, ob es wirklich klug wäre zu widerstehen?",
@@ -123,18 +111,14 @@
                     "native": "But really, and upon my honour, I will try to do what I think to be the wisest; and now I hope you are satisfied.\" Her aunt assured her that she was, and Elizabeth having thanked her for the kindness of her hints, they parted; a wonderful instance of advice being given on such a point, without being resented."
                 },
                 {
-                    "target": "Aber wirklich, auf Ehre, ich will versuchen, das zu tun, was ich für das Klügste halte; und nun hoffe ich, daß du zufrieden bist.\" Die Tante versicherte es ihr; und nachdem sich Elizabeth für ihre freundlichen Hinweise bedankt hatte, trennten sie sich – ein erstaunliches Beispiel dafür, daß ein Rat zu einem solchen Thema nicht übelgenommen wurde. Mr. Collins kam bald, nachdem die Gardiners und Jane fort waren, nach Hertfordshire zurück; doch da er diesmal bei der Lucas-Familie wohnte, brachte sein Kommen für Mrs.",
-                    "native": "Mr. Collins returned into Hertfordshire soon after it had been quitted by the Gardiners and Jane; but as he took up his abode with the Lucases, his arrival was no great inconvenience to Mrs. Bennet."
+                    "target": "Aber wirklich, auf Ehre, ich will versuchen, das zu tun, was ich für das Klügste halte; und nun hoffe ich, daß du zufrieden bist.\" Die Tante versicherte es ihr; und nachdem sich Elizabeth für ihre freundlichen Hinweise bedankt hatte, trennten sie sich – ein erstaunliches Beispiel dafür, daß ein Rat zu einem solchen Thema nicht übelgenommen wurde. Mr. Collins kam bald, nachdem die Gardiners und Jane fort waren, nach Hertfordshire zurück; doch da er diesmal bei der Lucas-Familie wohnte, brachte sein Kommen für Mrs. Bennet keine großen Unbequemlichkeiten mit sich.",
+                    "native": "Mr. Collins returned into Hertfordshire soon after it had been quitted by the Gardiners and Jane; but as he took up his abode with the Lucases, his arrival was no great inconvenience to Mrs. Bennet. His marriage was now fast approaching, and she was at length so far resigned as to think it inevitable, and even repeatedly to say, in an ill-natured tone, that she \"wished they might be happy.\" Thursday was to be the wedding day, and on Wednesday Miss Lucas paid her farewell visit; and when she rose to take leave, Elizabeth, ashamed of her mother's ungracious and reluctant good wishes, and sincerely affected herself, accompanied her out of the room."
                 }
             ]
         },
         {
             "pageNumber": 5,
             "sentences": [
-                {
-                    "target": "Bennet keine großen Unbequemlichkeiten mit sich.",
-                    "native": "His marriage was now fast approaching, and she was at length so far resigned as to think it inevitable, and even repeatedly to say, in an ill-natured tone, that she \"wished they might be happy.\" Thursday was to be the wedding day, and on Wednesday Miss Lucas paid her farewell visit; and when she rose to take leave, Elizabeth, ashamed of her mother's ungracious and reluctant good wishes, and sincerely affected herself, accompanied her out of the room."
-                },
                 {
                     "target": "Seine Hochzeit rückte nun rasch näher, und sie hatte sich schließlich soweit damit abgefunden, daß sie es für unvermeidlich hielt, sogar wiederholt, wenn auch in einem unfreundlichen Ton, den Wunsch auszusprechen, daß sie ›glücklich werden mögen‹.",
                     "native": "As they went downstairs together, Charlotte said: \"I shall depend on hearing from you very often, Eliza.\" \"That you certainly shall.\" \"And I have another favour to ask you."
@@ -223,12 +207,8 @@
                     "native": "My visit was not long, as Caroline and Mrs. Hurst were going out."
                 },
                 {
-                    "target": "Mein Besuch währte nicht lange, da Caroline und Mrs. Hurst ausgehen wollten.",
-                    "native": "I dare say I shall see them soon here.\" Elizabeth shook her head over this letter. It convinced her that accident only could discover to Mr."
-                },
-                {
-                    "target": "Es kann gut sein, daß sie bald einmal hierher zu uns kommen werden.\" Elizabeth schüttelte den Kopf über diesen Brief.",
-                    "native": "Bingley her sister's being in town."
+                    "target": "Mein Besuch währte nicht lange, da Caroline und Mrs. Hurst ausgehen wollten. Es kann gut sein, daß sie bald einmal hierher zu uns kommen werden.\" Elizabeth schüttelte den Kopf über diesen Brief.",
+                    "native": "I dare say I shall see them soon here.\" Elizabeth shook her head over this letter. It convinced her that accident only could discover to Mr. Bingley her sister's being in town."
                 },
                 {
                     "target": "Er überzeugte sie, daß nur ein Zufall Mr. Bingley entdecken konnte, daß ihre Schwester in der Stadt war.",
@@ -351,20 +331,12 @@
             "pageNumber": 12,
             "sentences": [
                 {
-                    "target": "Sie würde nicht einmal mehr eine Erneuerung seiner Aufmerksamkeiten wünschen. Er sank mit jedem Gedanken daran mehr in ihrer Achtung; und als Strafe für ihn, wie möglicherweise auch zum Nutzen für Jane, hoffte sie ernsthaft, daß er Mr.",
-                    "native": "Mrs. Gardiner about this time reminded Elizabeth of her promise concerning that gentleman, and required information; and Elizabeth had such to send as might rather give contentment to her aunt than to herself."
+                    "target": "Sie würde nicht einmal mehr eine Erneuerung seiner Aufmerksamkeiten wünschen. Er sank mit jedem Gedanken daran mehr in ihrer Achtung; und als Strafe für ihn, wie möglicherweise auch zum Nutzen für Jane, hoffte sie ernsthaft, daß er Mr. Darcys Schwester nun wirklich bald heiraten würde, denn Mr. Wickhams Bericht zufolge würde ihn das reichlich bedauern lassen, was er zurückgewiesen hatte.",
+                    "native": "Mrs. Gardiner about this time reminded Elizabeth of her promise concerning that gentleman, and required information; and Elizabeth had such to send as might rather give contentment to her aunt than to herself. His apparent partiality had subsided, his attentions were over, he was the admirer of some one else. Elizabeth was watchful enough to see it all, but she could see it and write of it without material pain."
                 },
                 {
-                    "target": "Darcys Schwester nun wirklich bald heiraten würde, denn Mr. Wickhams Bericht zufolge würde ihn das reichlich bedauern lassen, was er zurückgewiesen hatte.",
-                    "native": "His apparent partiality had subsided, his attentions were over, he was the admirer of some one else. Elizabeth was watchful enough to see it all, but she could see it and write of it without material pain."
-                },
-                {
-                    "target": "Mrs.",
-                    "native": "Her heart had been but slightly touched, and her vanity was satisfied with believing that she would have been his only choice, had fortune permitted it."
-                },
-                {
-                    "target": "Gardiner erinnerte Elizabeth gerade zu dieser Zeit an ihr Versprechen, ihr über Mr. Wickham Bescheid zu geben; und was ihr Elizabeth berichten konnte, mochte eher ihre Tante zufriedenstellen als sie selbst.",
-                    "native": "The sudden acquisition of ten thousand pounds was the most remarkable charm of the young lady to whom he was now rendering himself agreeable; but Elizabeth, less clear-sighted perhaps in this case than in Charlotte's, did not quarrel with him for his wish of independence. Nothing, on the contrary, could be more natural; and while able to suppose that it cost him a few struggles to relinquish her, she was ready to allow it a wise and desirable measure for both, and could very sincerely wish him happy."
+                    "target": "Mrs. Gardiner erinnerte Elizabeth gerade zu dieser Zeit an ihr Versprechen, ihr über Mr. Wickham Bescheid zu geben; und was ihr Elizabeth berichten konnte, mochte eher ihre Tante zufriedenstellen als sie selbst.",
+                    "native": "Her heart had been but slightly touched, and her vanity was satisfied with believing that she would have been his only choice, had fortune permitted it. The sudden acquisition of ten thousand pounds was the most remarkable charm of the young lady to whom he was now rendering himself agreeable; but Elizabeth, less clear-sighted perhaps in this case than in Charlotte's, did not quarrel with him for his wish of independence. Nothing, on the contrary, could be more natural; and while able to suppose that it cost him a few struggles to relinquish her, she was ready to allow it a wise and desirable measure for both, and could very sincerely wish him happy."
                 },
                 {
                     "target": "Seine so offensichtliche Eingenommenheit für sie habe sich gelegt, seine Aufmerksamkeiten seien vorbei, er bewundere jemand anders. Elizabeth war wachsam genug, um das alles zu erkennen, doch konnte sie es ohne wesentlichen Kummer sehen und darüber schreiben.",

@@ -12,12 +12,8 @@
                     "native": "Happy for all her maternal feelings was the day on which Mrs. Bennet got rid of her two most deserving daughters."
                 },
                 {
-                    "target": "Mit welch freudigem Stolz sie danach Mrs. Bingley besuchte und von Mrs.",
-                    "native": "With what delighted pride she afterwards visited Mrs. Bingley, and talked of Mrs."
-                },
-                {
-                    "target": "Darcy sprach, läßt sich vermuten.",
-                    "native": "Darcy, may be guessed."
+                    "target": "Mit welch freudigem Stolz sie danach Mrs. Bingley besuchte und von Mrs. Darcy sprach, läßt sich vermuten.",
+                    "native": "With what delighted pride she afterwards visited Mrs. Bingley, and talked of Mrs. Darcy, may be guessed."
                 },
                 {
                     "target": "Könnte ich doch um der Familie willen sagen, daß die Erfüllung ihrer dringendsten Wünsche, die Verheiratung so vieler ihrer Kinder, eine so glückliche Wirkung erzeugt hätte, daß sie für den Rest ihres Lebens zu einer vernünftigen, liebenswürdigen, gebildeten Frau wurde; doch zum Glück für ihren Gatten, der an so ungewohnter häuslicher Harmonie vielleicht keinen Gefallen gefunden hätte, bekam sie noch immer gelegentlich nervöse Zustände und war unverändert töricht.",
@@ -66,12 +62,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Sie hatte keinen so ungebärdigen Charakter wie Lydia, und fern von deren Einfluß wurde sie durch eine angemessene Aufmerksamkeit und Lenkung nun zu einem weniger reizbaren, weniger unwissenden und weniger geistlosen Menschen. Vor weiterem Schaden durch Lydias Gesellschaft wurde sie natürlich sorgsam bewahrt; und obgleich Mrs.",
-                    "native": "From the further disadvantage of Lydia's society she was of course carefully kept, and though Mrs. Wickham frequently invited her to come and stay with her, with the promise of balls and young men, her father would never consent to her going."
-                },
-                {
-                    "target": "Wickham sie häufig einlud, zu ihr zu kommen und bei ihr zu bleiben – mit dem Versprechen, für Bälle und junge Männer zu sorgen –, gab ihr Vater niemals seine Zustimmung dazu. Mary war die einzige Tochter, die zu Hause blieb; und sie wurde zwangsläufig von ihrem Streben nach Bildung abgelenkt, weil Mrs.",
-                    "native": "Mary was the only daughter who remained at home; and she was necessarily drawn from the pursuit of accomplishments by Mrs. Bennet's being quite unable to sit alone."
+                    "target": "Sie hatte keinen so ungebärdigen Charakter wie Lydia, und fern von deren Einfluß wurde sie durch eine angemessene Aufmerksamkeit und Lenkung nun zu einem weniger reizbaren, weniger unwissenden und weniger geistlosen Menschen. Vor weiterem Schaden durch Lydias Gesellschaft wurde sie natürlich sorgsam bewahrt; und obgleich Mrs. Wickham sie häufig einlud, zu ihr zu kommen und bei ihr zu bleiben – mit dem Versprechen, für Bälle und junge Männer zu sorgen –, gab ihr Vater niemals seine Zustimmung dazu. Mary war die einzige Tochter, die zu Hause blieb; und sie wurde zwangsläufig von ihrem Streben nach Bildung abgelenkt, weil Mrs.",
+                    "native": "From the further disadvantage of Lydia's society she was of course carefully kept, and though Mrs. Wickham frequently invited her to come and stay with her, with the promise of balls and young men, her father would never consent to her going. Mary was the only daughter who remained at home; and she was necessarily drawn from the pursuit of accomplishments by Mrs. Bennet's being quite unable to sit alone."
                 },
                 {
                     "target": "Bennet nicht im mindesten allein sein konnte.",

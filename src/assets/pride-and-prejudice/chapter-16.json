@@ -8,20 +8,12 @@
             "pageNumber": 1,
             "sentences": [
                 {
-                    "target": "Da es keinen Einwand gegen die Verabredung der jungen Leute mit ihrer Tante gab und alle Bedenken von Mr. Collins, Mr. und Mrs.",
-                    "native": "As no objection was made to the young people's engagement with their aunt, and all Mr. Collins's scruples of leaving Mr. and Mrs."
+                    "target": "Da es keinen Einwand gegen die Verabredung der jungen Leute mit ihrer Tante gab und alle Bedenken von Mr. Collins, Mr. und Mrs. Bennet für einen einzigen Abend während seines Besuches allein zu lassen, sehr standhaft zurückgewiesen wurden, brachte die Kutsche ihn und seine fünf Cousinen zu passender Stunde nach Meryton; und als die Mädchen den Salon betraten, hatten sie das Vergnügen zu hören, daß Mr. Wickham die Einladung ihres Onkels angenommen hatte und bereits im Hause war.",
+                    "native": "As no objection was made to the young people's engagement with their aunt, and all Mr. Collins's scruples of leaving Mr. and Mrs. Bennet for a single evening during his visit were most steadily resisted, the coach conveyed him and his five cousins at a suitable hour to Meryton; and the girls had the pleasure of hearing, as they entered the drawing-room, that Mr. Wickham had accepted their uncle's invitation, and was then in the house."
                 },
                 {
-                    "target": "Bennet für einen einzigen Abend während seines Besuches allein zu lassen, sehr standhaft zurückgewiesen wurden, brachte die Kutsche ihn und seine fünf Cousinen zu passender Stunde nach Meryton; und als die Mädchen den Salon betraten, hatten sie das Vergnügen zu hören, daß Mr. Wickham die Einladung ihres Onkels angenommen hatte und bereits im Hause war.",
-                    "native": "Bennet for a single evening during his visit were most steadily resisted, the coach conveyed him and his five cousins at a suitable hour to Meryton; and the girls had the pleasure of hearing, as they entered the drawing-room, that Mr. Wickham had accepted their uncle's invitation, and was then in the house."
-                },
-                {
-                    "target": "Nachdem sie diese Mitteilung erhalten und alle ihre Plätze eingenommen hatten, konnte sich Mr. Collins nun mit Muße umsehen und alles bewundern, und er war so sehr von der Größe des Raumes und von den Möbeln beeindruckt, daß er erklärte, es scheine ihm fast, er befände sich in dem kleineren SommerFrühstückszimmer auf Rosings – ein Vergleich, der anfangs mit wenig Befriedigung aufgenommen wurde; doch als Mrs.",
-                    "native": "When this information was given, and they had all taken their seats, Mr. Collins was at leisure to look around him and admire, and he was so much struck with the size and furniture of the apartment, that he declared he might almost have supposed himself in the small summer breakfast parlour at Rosings; a comparison that did not at first convey much gratification; but when Mrs."
-                },
-                {
-                    "target": "Philips von ihm erfuhr, welche Bedeutung Rosings hatte und wer die Eigentümerin war, außerdem die Beschreibung von nur einem von Lady Catherines Salons angehört und erfahren hatte, daß der Kaminsims allein achthundert Pfund wert war, empfand sie das ganze Gewicht des Kompliments und hätte kaum einen Vergleich mit dem Zimmer der Haushälterin übelgenommen.",
-                    "native": "Phillips understood from him what Rosings was, and who was its proprietor—when she had listened to the description of only one of Lady Catherine's drawing-rooms, and found that the chimney-piece alone had cost eight hundred pounds, she felt all the force of the compliment, and would hardly have resented a comparison with the housekeeper's room."
+                    "target": "Nachdem sie diese Mitteilung erhalten und alle ihre Plätze eingenommen hatten, konnte sich Mr. Collins nun mit Muße umsehen und alles bewundern, und er war so sehr von der Größe des Raumes und von den Möbeln beeindruckt, daß er erklärte, es scheine ihm fast, er befände sich in dem kleineren SommerFrühstückszimmer auf Rosings – ein Vergleich, der anfangs mit wenig Befriedigung aufgenommen wurde; doch als Mrs. Philips von ihm erfuhr, welche Bedeutung Rosings hatte und wer die Eigentümerin war, außerdem die Beschreibung von nur einem von Lady Catherines Salons angehört und erfahren hatte, daß der Kaminsims allein achthundert Pfund wert war, empfand sie das ganze Gewicht des Kompliments und hätte kaum einen Vergleich mit dem Zimmer der Haushälterin übelgenommen.",
+                    "native": "When this information was given, and they had all taken their seats, Mr. Collins was at leisure to look around him and admire, and he was so much struck with the size and furniture of the apartment, that he declared he might almost have supposed himself in the small summer breakfast parlour at Rosings; a comparison that did not at first convey much gratification; but when Mrs. Phillips understood from him what Rosings was, and who was its proprietor—when she had listened to the description of only one of Lady Catherine's drawing-rooms, and found that the chimney-piece alone had cost eight hundred pounds, she felt all the force of the compliment, and would hardly have resented a comparison with the housekeeper's room."
                 },
                 {
                     "target": "Bis die Herren sich ihnen anschlossen, war Mr. Collins glücklich damit beschäftigt, Mrs. Philips die ganze Großartigkeit Lady Catherines und ihres Herrenhauses zu beschreiben, mit gelegentlichen Abschweifungen zum Lobe seines eigenen bescheidenen Wohnsitzes und der Verbesserungen, die an ihm vorgenommen wurden; und er fand in ihr eine sehr aufmerksame Zuhörerin, deren Achtung vor der Bedeutung seiner Person durch das, was sie hörte, immer größer wurde und die beschloß, das alles so bald wie möglich ihren Nachbarinnen weiterzuerzählen.",
@@ -37,16 +29,12 @@
                     "native": "It was over at last, however."
                 },
                 {
-                    "target": "Schließlich war sie jedoch vorüber. Die Herren kamen herein, und als Mr.",
-                    "native": "The gentlemen did approach, and when Mr. Wickham walked into the room, Elizabeth felt that she had neither been seeing him before, nor thinking of him since, with the smallest degree of unreasonable admiration."
+                    "target": "Schließlich war sie jedoch vorüber. Die Herren kamen herein, und als Mr. Wickham den Salon betrat, hatte Elizabeth das Gefühl, daß die Bewunderung, mit der sie ihn vorher erblickt und an ihn gedacht hatte, auf gar keinen Fall unvernünftig gewesen war. Die Offiziere vom ... shire waren im allgemeinen eine sehr achtbare, vornehme Gesellschaft, und die besten von ihnen waren hier anwesend; doch Mr.",
+                    "native": "The gentlemen did approach, and when Mr. Wickham walked into the room, Elizabeth felt that she had neither been seeing him before, nor thinking of him since, with the smallest degree of unreasonable admiration. The officers of the ——shire were in general a very creditable, gentlemanlike set, and the best of them were of the present party; but Mr. Wickham was as far beyond them all in person, countenance, air, and walk, as they were superior to the broad-faced, stuffy uncle Phillips, breathing port wine, who followed them into the room."
                 },
                 {
-                    "target": "Wickham den Salon betrat, hatte Elizabeth das Gefühl, daß die Bewunderung, mit der sie ihn vorher erblickt und an ihn gedacht hatte, auf gar keinen Fall unvernünftig gewesen war. Die Offiziere vom ... shire waren im allgemeinen eine sehr achtbare, vornehme Gesellschaft, und die besten von ihnen waren hier anwesend; doch Mr.",
-                    "native": "The officers of the ——shire were in general a very creditable, gentlemanlike set, and the best of them were of the present party; but Mr. Wickham was as far beyond them all in person, countenance, air, and walk, as they were superior to the broad-faced, stuffy uncle Phillips, breathing port wine, who followed them into the room."
-                },
-                {
-                    "target": "Wickham übertraf sie alle bei weitem in seinem Äußeren, seiner Gesichtsbildung, seinem Auftreten und seinem Gang – so wie sie ihrerseits dem breitgesichtigen, schwerfälligen, nach Portwein riechenden Onkel Philips, der ihnen in den Salon folgte, überlegen waren. Mr.",
-                    "native": "Mr. Wickham was the happy man towards whom almost every female eye was turned, and Elizabeth was the happy woman by whom he finally seated himself; and the agreeable manner in which he immediately fell into conversation, though it was only on its being a wet night, made her feel that the commonest, dullest, most threadbare topic might be rendered interesting by the skill of the speaker."
+                    "target": "Wickham übertraf sie alle bei weitem in seinem Äußeren, seiner Gesichtsbildung, seinem Auftreten und seinem Gang – so wie sie ihrerseits dem breitgesichtigen, schwerfälligen, nach Portwein riechenden Onkel Philips, der ihnen in den Salon folgte, überlegen waren. Mr. Wickham war der Glückliche, auf den fast alle weiblichen Augen gerichtet waren, und Elizabeth die Glückliche, an deren Seite er schließlich Platz nahm; und die liebenswürdige Art, in der er sofort ins Gespräch kam – wenn auch nur darüber, daß dies ein regnerischer Abend sei und eine Regenzeit bevorstehen könnte – gab ihr das Gefühl, das gewöhnlichste, langweiligste und abgedroschenste Thema könne durch seine Geschicklichkeit interessant werden. Mit solchen Rivalen um die Aufmerksamkeit des schönen Geschlechts wie Mr. Wickham und den Offizieren war es anzunehmen, daß Mr. Collins in Bedeutungslosigkeit versank; den jungen Damen bedeutete er jedenfalls nichts, doch hatte er noch immer ab und zu eine freundliche Zuhörerin in Mrs.",
+                    "native": "Mr. Wickham was the happy man towards whom almost every female eye was turned, and Elizabeth was the happy woman by whom he finally seated himself; and the agreeable manner in which he immediately fell into conversation, though it was only on its being a wet night, made her feel that the commonest, dullest, most threadbare topic might be rendered interesting by the skill of the speaker. With such rivals for the notice of the fair as Mr. Wickham and the officers, Mr. Collins seemed to sink into insignificance; to the young ladies he certainly was nothing; but he had still at intervals a kind listener in Mrs. Phillips, and was by her watchfulness, most abundantly supplied with coffee and muffin."
                 }
             ]
         },
@@ -54,20 +42,8 @@
             "pageNumber": 3,
             "sentences": [
                 {
-                    "target": "Wickham war der Glückliche, auf den fast alle weiblichen Augen gerichtet waren, und Elizabeth die Glückliche, an deren Seite er schließlich Platz nahm; und die liebenswürdige Art, in der er sofort ins Gespräch kam – wenn auch nur darüber, daß dies ein regnerischer Abend sei und eine Regenzeit bevorstehen könnte – gab ihr das Gefühl, das gewöhnlichste, langweiligste und abgedroschenste Thema könne durch seine Geschicklichkeit interessant werden. Mit solchen Rivalen um die Aufmerksamkeit des schönen Geschlechts wie Mr.",
-                    "native": "With such rivals for the notice of the fair as Mr. Wickham and the officers, Mr."
-                },
-                {
-                    "target": "Wickham und den Offizieren war es anzunehmen, daß Mr. Collins in Bedeutungslosigkeit versank; den jungen Damen bedeutete er jedenfalls nichts, doch hatte er noch immer ab und zu eine freundliche Zuhörerin in Mrs.",
-                    "native": "Collins seemed to sink into insignificance; to the young ladies he certainly was nothing; but he had still at intervals a kind listener in Mrs. Phillips, and was by her watchfulness, most abundantly supplied with coffee and muffin."
-                },
-                {
-                    "target": "Philips, und er wurde durch ihre Wachsamkeit überreichlich mit Kaffee und Muffins versorgt. Als der Kartentisch aufgestellt war, gab ihm das eine Gelegenheit, ihre Freundlichkeit zu erwidern, indem er mit ihr Whist spielte. \"Ich kenne das Spiel bis jetzt nur wenig\", sagte er, \"aber ich bin froh, wenn ich mich verbessern kann, denn bei meiner Stellung im Leben ... \" Mrs.",
-                    "native": "When the card-tables were placed, he had the opportunity of obliging her in turn, by sitting down to whist. \"I know little of the game at present,\" said he, \"but I shall be glad to improve myself, for in my situation in life—\" Mrs. Phillips was very glad for his compliance, but could not wait for his reason."
-                },
-                {
-                    "target": "Philips war sehr dankbar für sein Entgegenkommen, konnte aber auf seine Begründung nicht warten. Mr.",
-                    "native": "Mr. Wickham did not play at whist, and with ready delight was he received at the other table between Elizabeth and Lydia."
+                    "target": "Philips, und er wurde durch ihre Wachsamkeit überreichlich mit Kaffee und Muffins versorgt. Als der Kartentisch aufgestellt war, gab ihm das eine Gelegenheit, ihre Freundlichkeit zu erwidern, indem er mit ihr Whist spielte. \"Ich kenne das Spiel bis jetzt nur wenig\", sagte er, \"aber ich bin froh, wenn ich mich verbessern kann, denn bei meiner Stellung im Leben ... \" Mrs. Philips war sehr dankbar für sein Entgegenkommen, konnte aber auf seine Begründung nicht warten. Mr. Wickham spielte nicht mit beim Whist und wurde am anderen Tisch von Elizabeth und Lydia sogleich freudig empfangen.",
+                    "native": "When the card-tables were placed, he had the opportunity of obliging her in turn, by sitting down to whist. \"I know little of the game at present,\" said he, \"but I shall be glad to improve myself, for in my situation in life—\" Mrs. Phillips was very glad for his compliance, but could not wait for his reason. Mr. Wickham did not play at whist, and with ready delight was he received at the other table between Elizabeth and Lydia. At first there seemed danger of Lydia's engrossing him entirely, for she was a most determined talker; but being likewise extremely fond of lottery tickets, she soon grew too much interested in the game, too eager in making bets and exclaiming after prizes to have attention for anyone in particular."
                 }
             ]
         },
@@ -75,16 +51,8 @@
             "pageNumber": 4,
             "sentences": [
                 {
-                    "target": "Wickham spielte nicht mit beim Whist und wurde am anderen Tisch von Elizabeth und Lydia sogleich freudig empfangen.",
-                    "native": "At first there seemed danger of Lydia's engrossing him entirely, for she was a most determined talker; but being likewise extremely fond of lottery tickets, she soon grew too much interested in the game, too eager in making bets and exclaiming after prizes to have attention for anyone in particular."
-                },
-                {
-                    "target": "Zuerst schien die Gefahr zu bestehen, daß ihn Lydia völlig für sich in Anspruch nehmen würde, denn sie riß das Gespräch leicht an sich; da sie aber auch außerordentlich gern bei der Lotterie mitmachte, interessierte sie sich bald zu sehr für dieses Spiel und war zu eifrig dabei, Wetten abzuschließen und Preise einzufordern, um für irgend jemand im besonderen Aufmerksamkeit aufzubringen. Da das Spiel Lydia somit voll beanspruchte, war Mr.",
-                    "native": "Allowing for the common demands of the game, Mr. Wickham was therefore at leisure to talk to Elizabeth, and she was very willing to hear him, though what she chiefly wished to hear she could not hope to be told—the history of his acquaintance with Mr."
-                },
-                {
-                    "target": "Wickham frei, mit Elizabeth zu sprechen; und sie hörte ihm nur allzu gern zu, obgleich sie nicht hoffen konnte zu erfahren, was sie vor allem gern wissen wollte – nämlich die Geschichte seiner Bekanntschaft mit Darcy.",
-                    "native": "Darcy."
+                    "target": "Zuerst schien die Gefahr zu bestehen, daß ihn Lydia völlig für sich in Anspruch nehmen würde, denn sie riß das Gespräch leicht an sich; da sie aber auch außerordentlich gern bei der Lotterie mitmachte, interessierte sie sich bald zu sehr für dieses Spiel und war zu eifrig dabei, Wetten abzuschließen und Preise einzufordern, um für irgend jemand im besonderen Aufmerksamkeit aufzubringen. Da das Spiel Lydia somit voll beanspruchte, war Mr. Wickham frei, mit Elizabeth zu sprechen; und sie hörte ihm nur allzu gern zu, obgleich sie nicht hoffen konnte zu erfahren, was sie vor allem gern wissen wollte – nämlich die Geschichte seiner Bekanntschaft mit Darcy.",
+                    "native": "Allowing for the common demands of the game, Mr. Wickham was therefore at leisure to talk to Elizabeth, and she was very willing to hear him, though what she chiefly wished to hear she could not hope to be told—the history of his acquaintance with Mr. Darcy."
                 },
                 {
                     "target": "Sie wagte nicht einmal, ihn zu erwähnen.",
@@ -104,12 +72,8 @@
             "pageNumber": 5,
             "sentences": [
                 {
-                    "target": "Er erkundigte sich, wie weit Netherfield von Meryton entfernt sei; und nachdem er ihre Antwort erhalten hatte, fragte er zögernd, wie lange Mr. Darcy sich schon dort aufhalte. \"Etwa einen Monat\", sagte Elizabeth, und da sie das Thema nicht gern fallenlassen wollte, fügte sie noch hinzu: \"Wie ich gehört habe, hat er ein großes Besitztum in Derbyshire.\" \"Ja\", erwiderte Wickham, \"es ist ein prächtiger Landsitz, den er dort hat.",
-                    "native": "He inquired how far Netherfield was from Meryton; and, after receiving her answer, asked in a hesitating manner how long Mr. Darcy had been staying there. \"About a month,\" said Elizabeth; and then, unwilling to let the subject drop, added, \"He is a man of very large property in Derbyshire, I understand.\" \"Yes,\" replied Mr."
-                },
-                {
-                    "target": "Er bringt glatte zehntausend im Jahr.",
-                    "native": "Wickham; \"his estate there is a noble one."
+                    "target": "Er erkundigte sich, wie weit Netherfield von Meryton entfernt sei; und nachdem er ihre Antwort erhalten hatte, fragte er zögernd, wie lange Mr. Darcy sich schon dort aufhalte. \"Etwa einen Monat\", sagte Elizabeth, und da sie das Thema nicht gern fallenlassen wollte, fügte sie noch hinzu: \"Wie ich gehört habe, hat er ein großes Besitztum in Derbyshire.\" \"Ja\", erwiderte Wickham, \"es ist ein prächtiger Landsitz, den er dort hat. Er bringt glatte zehntausend im Jahr.",
+                    "native": "He inquired how far Netherfield was from Meryton; and, after receiving her answer, asked in a hesitating manner how long Mr. Darcy had been staying there. \"About a month,\" said Elizabeth; and then, unwilling to let the subject drop, added, \"He is a man of very large property in Derbyshire, I understand.\" \"Yes,\" replied Mr. Wickham; \"his estate there is a noble one."
                 },
                 {
                     "target": "Sie hätten niemand treffen können, der besser in der Lage gewesen wäre, Ihnen bestimmte Informationen darüber zu geben, als mich selbst – denn ich war seit meiner Kindheit auf besondere Weise mit seiner Familie verbunden.\" Elizabeth blickte unwillkürlich überrascht auf. \"Sie mögen sehr wohl überrascht sein über eine solche Erklärung, Miss Bennet, nachdem Sie, wie es wahrscheinlich der Fall war, gesehen haben, wie kalt wir uns gestern begegnet sind. – Kennen Sie Mr. Darcy näher?\" \"Jedenfalls gut genug, um es dabei bewenden zu lassen\", rief Elizabeth heftig, \"ich habe vier Tage im gleichen Haus mit ihm zugebracht, und ich halte ihn für sehr unliebenswürdig.\" \"Ich habe kein Recht, meine Meinung dazu zu sagen, ob er liebenswürdig ist oder nicht.",
@@ -170,12 +134,8 @@
                     "native": "If he wishes to avoid seeing me, he must go. We are not on friendly terms, and it always gives me pain to meet him, but I have no reason for avoiding him but what I might proclaim before all the world, a sense of very great ill-usage, and most painful regrets at his being what he is."
                 },
                 {
-                    "target": "Und ich kann niemals mit diesem Mr. Darcy zusammensein, ohne durch tausend liebevolle Erinnerungen bis ins Innerste bekümmert zu sein.",
-                    "native": "His father, Miss Bennet, the late Mr. Darcy, was one of the best men that ever breathed, and the truest friend I ever had; and I can never be in company with this Mr."
-                },
-                {
-                    "target": "Sein Betragen mir gegenüber war schändlich; aber ich glaube wahrhaftig, ich könnte ihm eher alles andere verzeihen als die Tatsache, daß er die Hoffnungen seines Vaters enttäuscht und die Erinnerung an ihn beschmutzt hat.\" Elizabeth fand, daß dieses Thema immer interessanter wurde, sie war ganz bei der Sache, doch der heikle Charakter der Angelegenheit verhinderte weitere Nachfragen.",
-                    "native": "Darcy without being grieved to the soul by a thousand tender recollections."
+                    "target": "Und ich kann niemals mit diesem Mr. Darcy zusammensein, ohne durch tausend liebevolle Erinnerungen bis ins Innerste bekümmert zu sein. Sein Betragen mir gegenüber war schändlich; aber ich glaube wahrhaftig, ich könnte ihm eher alles andere verzeihen als die Tatsache, daß er die Hoffnungen seines Vaters enttäuscht und die Erinnerung an ihn beschmutzt hat.\" Elizabeth fand, daß dieses Thema immer interessanter wurde, sie war ganz bei der Sache, doch der heikle Charakter der Angelegenheit verhinderte weitere Nachfragen.",
+                    "native": "His father, Miss Bennet, the late Mr. Darcy, was one of the best men that ever breathed, and the truest friend I ever had; and I can never be in company with this Mr. Darcy without being grieved to the soul by a thousand tender recollections."
                 }
             ]
         },
@@ -183,12 +143,8 @@
             "pageNumber": 8,
             "sentences": [
                 {
-                    "target": "Mr.",
-                    "native": "His behaviour to myself has been scandalous; but I verily believe I could forgive him anything and everything, rather than his disappointing the hopes and disgracing the memory of his father.\" Elizabeth found the interest of the subject increase, and listened with all her heart; but the delicacy of it prevented further inquiry."
-                },
-                {
-                    "target": "Wickham begann dann über allgemeinere Dinge zu sprechen – Meryton, die Nachbarschaft, die Gesellschaft –, wobei er sich höchst erfreut zeigte von allem, was er bis dahin gesehen hatte, und er sprach besonders über die letztere mit zarter, doch sehr wohl verständlicher Galanterie. \"Es war die Aussicht auf eine beständige – und eine gute Gesellschaft\", fügte er hinzu, \"die mich in der Hauptsache bewogen hat, in das ... shire einzutreten. Ich wußte, es war ein achtbares, angenehmes Korps, und mein Freund Denny verleitete mich noch weiter dazu durch seinen Bericht über ihr gegenwärtiges Quartier und die große Aufmerksamkeit und ausgezeichneten Bekanntschaften, die ihnen Meryton geboten hatte.",
-                    "native": "Mr. Wickham began to speak on more general topics, Meryton, the neighbourhood, the society, appearing highly pleased with all that he had yet seen, and speaking of the latter with gentle but very intelligible gallantry. \"It was the prospect of constant society, and good society,\" he added, \"which was my chief inducement to enter the ——shire."
+                    "target": "Mr. Wickham begann dann über allgemeinere Dinge zu sprechen – Meryton, die Nachbarschaft, die Gesellschaft –, wobei er sich höchst erfreut zeigte von allem, was er bis dahin gesehen hatte, und er sprach besonders über die letztere mit zarter, doch sehr wohl verständlicher Galanterie. \"Es war die Aussicht auf eine beständige – und eine gute Gesellschaft\", fügte er hinzu, \"die mich in der Hauptsache bewogen hat, in das ... shire einzutreten. Ich wußte, es war ein achtbares, angenehmes Korps, und mein Freund Denny verleitete mich noch weiter dazu durch seinen Bericht über ihr gegenwärtiges Quartier und die große Aufmerksamkeit und ausgezeichneten Bekanntschaften, die ihnen Meryton geboten hatte.",
+                    "native": "His behaviour to myself has been scandalous; but I verily believe I could forgive him anything and everything, rather than his disappointing the hopes and disgracing the memory of his father.\" Elizabeth found the interest of the subject increase, and listened with all her heart; but the delicacy of it prevented further inquiry. Mr. Wickham began to speak on more general topics, Meryton, the neighbourhood, the society, appearing highly pleased with all that he had yet seen, and speaking of the latter with gentle but very intelligible gallantry. \"It was the prospect of constant society, and good society,\" he added, \"which was my chief inducement to enter the ——shire."
                 },
                 {
                     "target": "Gesellschaftlicher Umgang ist, wie ich zugebe, notwendig für mich.",
@@ -282,12 +238,8 @@
                     "native": "I had not thought so very ill of him."
                 },
                 {
-                    "target": "Mein Vater begann seine Karriere in dem Beruf, dem Ihr Onkel, Mr. Philips, offensichtlich soviel Ansehen verschafft, doch er gab alles auf, um dem verstorbenen Mr.",
-                    "native": "I had supposed him to be despising his fellow-creatures in general, but did not suspect him of descending to such malicious revenge, such injustice, such inhumanity as this.\" After a few minutes' reflection, however, she continued, \"I do remember his boasting one day, at Netherfield, of the implacability of his resentments, of his having an unforgiving temper. His disposition must be dreadful.\" \"I will not trust myself on the subject,\" replied Wickham; \"I can hardly be just to him.\" Elizabeth was again deep in thought, and after a time exclaimed, \"To treat in such a manner the godson, the friend, the favourite of his father!\" She could have added, \"A young man, too, like you, whose very countenance may vouch for your being amiable\"—but she contented herself with, \"and one, too, who had probably been his companion from childhood, connected together, as I think you said, in the closest manner!\" \"We were born in the same parish, within the same park; the greatest part of our youth was passed together; inmates of the same house, sharing the same amusements, objects of the same parental care."
-                },
-                {
-                    "target": "Darcy nützlich zu sein, und widmete seine ganze Zeit der Betreuung des Pemberleyschen Eigentums. Er wurde von Mr. Darcy außerordentlich geschätzt und war ein sehr enger, vertrauter Freund von ihm.",
-                    "native": "My father began life in the profession which your uncle, Mr. Phillips, appears to do so much credit to—but he gave up everything to be of use to the late Mr. Darcy and devoted all his time to the care of the Pemberley property."
+                    "target": "Mein Vater begann seine Karriere in dem Beruf, dem Ihr Onkel, Mr. Philips, offensichtlich soviel Ansehen verschafft, doch er gab alles auf, um dem verstorbenen Mr. Darcy nützlich zu sein, und widmete seine ganze Zeit der Betreuung des Pemberleyschen Eigentums. Er wurde von Mr. Darcy außerordentlich geschätzt und war ein sehr enger, vertrauter Freund von ihm.",
+                    "native": "I had supposed him to be despising his fellow-creatures in general, but did not suspect him of descending to such malicious revenge, such injustice, such inhumanity as this.\" After a few minutes' reflection, however, she continued, \"I do remember his boasting one day, at Netherfield, of the implacability of his resentments, of his having an unforgiving temper. His disposition must be dreadful.\" \"I will not trust myself on the subject,\" replied Wickham; \"I can hardly be just to him.\" Elizabeth was again deep in thought, and after a time exclaimed, \"To treat in such a manner the godson, the friend, the favourite of his father!\" She could have added, \"A young man, too, like you, whose very countenance may vouch for your being amiable\"—but she contented herself with, \"and one, too, who had probably been his companion from childhood, connected together, as I think you said, in the closest manner!\" \"We were born in the same parish, within the same park; the greatest part of our youth was passed together; inmates of the same house, sharing the same amusements, objects of the same parental care. My father began life in the profession which your uncle, Mr. Phillips, appears to do so much credit to—but he gave up everything to be of use to the late Mr. Darcy and devoted all his time to the care of the Pemberley property."
                 }
             ]
         },
@@ -299,12 +251,8 @@
                     "native": "He was most highly esteemed by Mr. Darcy, a most intimate, confidential friend."
                 },
                 {
-                    "target": "Ich wundere mich, daß nicht gerade sein Stolz diesen Mr. Darcy veranlaßt hat, Ihnen gegenüber gerecht zu sein!",
-                    "native": "Mr. Darcy often acknowledged himself to be under the greatest obligations to my father's active superintendence, and when, immediately before my father's death, Mr."
-                },
-                {
-                    "target": "Und sei es nur aus dem Grunde, daß er zu stolz gewesen wäre, unehrlich zu sein – denn Unehrlichkeit muß ich es nennen.\" \"Es ist wirklich erstaunlich\", erwiderte Wickham, \"denn fast alle seine Handlungen können auf Stolz zurückgeführt werden; Stolz ist oft sein bester Freund gewesen.",
-                    "native": "Darcy gave him a voluntary promise of providing for me, I am convinced that he felt it to be as much a debt of gratitude to him, as of his affection to myself.\" \"How strange!\" cried Elizabeth. \"How abominable!"
+                    "target": "Ich wundere mich, daß nicht gerade sein Stolz diesen Mr. Darcy veranlaßt hat, Ihnen gegenüber gerecht zu sein! Und sei es nur aus dem Grunde, daß er zu stolz gewesen wäre, unehrlich zu sein – denn Unehrlichkeit muß ich es nennen.\" \"Es ist wirklich erstaunlich\", erwiderte Wickham, \"denn fast alle seine Handlungen können auf Stolz zurückgeführt werden; Stolz ist oft sein bester Freund gewesen.",
+                    "native": "Mr. Darcy often acknowledged himself to be under the greatest obligations to my father's active superintendence, and when, immediately before my father's death, Mr. Darcy gave him a voluntary promise of providing for me, I am convinced that he felt it to be as much a debt of gratitude to him, as of his affection to myself.\" \"How strange!\" cried Elizabeth. \"How abominable!"
                 },
                 {
                     "target": "Er hat ihn sogar der Tugend näher gebracht als irgendein anderes Gefühl. Aber keiner von uns ist widerspruchsfrei, und in seinem Verhalten mir gegenüber gab es auch noch stärkere Triebkräfte als nur Stolz.\" \"Kann denn ein so abscheulicher Stolz wie der seine ihm jemals etwas Gutes getan haben?\" \"Ja, doch.",
@@ -361,12 +309,8 @@
                     "native": "As a child, she was affectionate and pleasing, and extremely fond of me; and I have devoted hours and hours to her amusement. But she is nothing to me now."
                 },
                 {
-                    "target": "Wie kann Mr. Bingley, der die Gutmütigkeit selbst zu sein scheint, und der, wie ich in der Tat glaube, ein wirklich liebenswürdiger Mensch ist, mit einem solchen Mann befreundet sein?",
-                    "native": "She is a handsome girl, about fifteen or sixteen, and, I understand, highly accomplished. Since her father's death, her home has been London, where a lady lives with her, and superintends her education.\" After many pauses and many trials of other subjects, Elizabeth could not help reverting once more to the first, and saying: \"I am astonished at his intimacy with Mr."
-                },
-                {
-                    "target": "Wie können sie zueinander passen? – Kennen Sie Mr. Bingley?\" \"Nein, gar nicht.\" \"Er ist ein sanftmütiger, liebenswerter, charmanter Mann. Er kann Mr. Darcy nicht wirklich kennen.\" \"Wahrscheinlich nicht.",
-                    "native": "Bingley! How can Mr. Bingley, who seems good humour itself, and is, I really believe, truly amiable, be in friendship with such a man? How can they suit each other?"
+                    "target": "Wie kann Mr. Bingley, der die Gutmütigkeit selbst zu sein scheint, und der, wie ich in der Tat glaube, ein wirklich liebenswürdiger Mensch ist, mit einem solchen Mann befreundet sein? Wie können sie zueinander passen? – Kennen Sie Mr. Bingley?\" \"Nein, gar nicht.\" \"Er ist ein sanftmütiger, liebenswerter, charmanter Mann. Er kann Mr. Darcy nicht wirklich kennen.\" \"Wahrscheinlich nicht.",
+                    "native": "She is a handsome girl, about fifteen or sixteen, and, I understand, highly accomplished. Since her father's death, her home has been London, where a lady lives with her, and superintends her education.\" After many pauses and many trials of other subjects, Elizabeth could not help reverting once more to the first, and saying: \"I am astonished at his intimacy with Mr. Bingley! How can Mr. Bingley, who seems good humour itself, and is, I really believe, truly amiable, be in friendship with such a man? How can they suit each other?"
                 }
             ]
         },
@@ -378,12 +322,8 @@
                     "native": "Do you know Mr. Bingley?\" \"Not at all.\" \"He is a sweet-tempered, amiable, charming man."
                 },
                 {
-                    "target": "Er kann ein unterhaltsamer Partner sein, wenn er es der Mühe für wert hält. Unter Gleichgestellten ist er ein ganz anderer Mensch als bei den weniger Wohlhabenden.",
-                    "native": "He cannot know what Mr. Darcy is.\" \"Probably not; but Mr."
-                },
-                {
-                    "target": "Sein Stolz verläßt ihn nie; aber mit den Reichen ist er freisinnig, gerecht, aufrichtig, verständig, ehrenhaft und vielleicht sogar liebenswürdig – je nach Vermögensstand und Bedeutung.\" Da die Whistpartie bald darauf beendet wurde, sammelten sich die Spieler um den anderen Tisch, und Mr. Collins ließ sich zwischen seiner Cousine Elizabeth und Mrs. Philips nieder.",
-                    "native": "Darcy can please where he chooses. He does not want abilities. He can be a conversible companion if he thinks it worth his while."
+                    "target": "Er kann ein unterhaltsamer Partner sein, wenn er es der Mühe für wert hält. Unter Gleichgestellten ist er ein ganz anderer Mensch als bei den weniger Wohlhabenden. Sein Stolz verläßt ihn nie; aber mit den Reichen ist er freisinnig, gerecht, aufrichtig, verständig, ehrenhaft und vielleicht sogar liebenswürdig – je nach Vermögensstand und Bedeutung.\" Da die Whistpartie bald darauf beendet wurde, sammelten sich die Spieler um den anderen Tisch, und Mr. Collins ließ sich zwischen seiner Cousine Elizabeth und Mrs. Philips nieder.",
+                    "native": "He cannot know what Mr. Darcy is.\" \"Probably not; but Mr. Darcy can please where he chooses. He does not want abilities. He can be a conversible companion if he thinks it worth his while."
                 }
             ]
         },
@@ -395,16 +335,12 @@
                     "native": "Among those who are at all his equals in consequence, he is a very different man from what he is to the less prosperous."
                 },
                 {
-                    "target": "Sie waren nicht sehr groß gewesen, er hatte sogar jeden Stich verloren; doch als Mrs. Philips ihre Besorgnis darüber aussprach, versicherte er ihr mit sehr ernster Feierlichkeit, daß dies nicht die geringste Bedeutung für ihn habe und er das Geld als ganz unwesentlich ansehe, und er bat sie, sich darüber nicht zu beunruhigen. \"Ich weiß sehr wohl, Madam\", sagte er, \"daß die Leute, wenn sie sich an den Kartentisch setzen, ihr Glück versuchen müssen, doch ich bin glücklicherweise nicht in einer solchen Lage, daß ich über fünf Shilling nachdenken muß.",
-                    "native": "His pride never deserts him; but with the rich he is liberal-minded, just, sincere, rational, honourable, and perhaps agreeable—allowing something for fortune and figure.\" The whist party soon afterwards breaking up, the players gathered round the other table and Mr. Collins took his station between his cousin Elizabeth and Mrs."
+                    "target": "Sie waren nicht sehr groß gewesen, er hatte sogar jeden Stich verloren; doch als Mrs. Philips ihre Besorgnis darüber aussprach, versicherte er ihr mit sehr ernster Feierlichkeit, daß dies nicht die geringste Bedeutung für ihn habe und er das Geld als ganz unwesentlich ansehe, und er bat sie, sich darüber nicht zu beunruhigen. \"Ich weiß sehr wohl, Madam\", sagte er, \"daß die Leute, wenn sie sich an den Kartentisch setzen, ihr Glück versuchen müssen, doch ich bin glücklicherweise nicht in einer solchen Lage, daß ich über fünf Shilling nachdenken muß. Es gibt zweifellos viele, die das nicht sagen können, doch dank Lady Catherine de Bourgh bin ich vollkommen der Notwendigkeit enthoben, solchen Kleinigkeiten Beachtung zu schenken.\" Mr. Wickham war aufmerksam geworden, und nachdem er Mr.",
+                    "native": "His pride never deserts him; but with the rich he is liberal-minded, just, sincere, rational, honourable, and perhaps agreeable—allowing something for fortune and figure.\" The whist party soon afterwards breaking up, the players gathered round the other table and Mr. Collins took his station between his cousin Elizabeth and Mrs. Phillips. The usual inquiries as to his success was made by the latter."
                 },
                 {
-                    "target": "Es gibt zweifellos viele, die das nicht sagen können, doch dank Lady Catherine de Bourgh bin ich vollkommen der Notwendigkeit enthoben, solchen Kleinigkeiten Beachtung zu schenken.\" Mr. Wickham war aufmerksam geworden, und nachdem er Mr.",
-                    "native": "Phillips. The usual inquiries as to his success was made by the latter."
-                },
-                {
-                    "target": "Collins ein paar Augenblicke beobachtet hatte, fragte er Elizabeth mit leiser Stimme, ob ihr Verwandter mit der Familie de Bourgh sehr gut bekannt sei. \"Lady Catherine de Bourgh\", erwiderte sie, \"hat ihm vor ganz kurzer Zeit eine Pfründe verschafft. Ich weiß kaum, wie es dazu kam, daß Mr. Collins bei ihr eingeführt wurde, aber bestimmt kennt er sie noch nicht lange.\" \"Sie wissen sicherlich, daß Lady Catherine de Bourgh und Lady Anne Darcy Schwestern waren und daß die erstere folglich die Tante des gegenwärtigen Mr. Darcy ist.\" \"Aber nein, das wußte ich nicht.",
-                    "native": "It had not been very great; he had lost every point; but when Mrs. Phillips began to express her concern thereupon, he assured her with much earnest gravity that it was not of the least importance, that he considered the money as a mere trifle, and begged that she would not make herself uneasy. \"I know very well, madam,\" said he, \"that when persons sit down to a card-table, they must take their chances of these things, and happily I am not in such circumstances as to make five shillings any object. There are undoubtedly many who could not say the same, but thanks to Lady Catherine de Bourgh, I am removed far beyond the necessity of regarding little matters.\" Mr. Wickham's attention was caught; and after observing Mr."
+                    "target": "Collins ein paar Augenblicke beobachtet hatte, fragte er Elizabeth mit leiser Stimme, ob ihr Verwandter mit der Familie de Bourgh sehr gut bekannt sei. \"Lady Catherine de Bourgh\", erwiderte sie, \"hat ihm vor ganz kurzer Zeit eine Pfründe verschafft. Ich weiß kaum, wie es dazu kam, daß Mr. Collins bei ihr eingeführt wurde, aber bestimmt kennt er sie noch nicht lange.\" \"Sie wissen sicherlich, daß Lady Catherine de Bourgh und Lady Anne Darcy Schwestern waren und daß die erstere folglich die Tante des gegenwärtigen Mr. Darcy ist.\" \"Aber nein, das wußte ich nicht. Ich wußte überhaupt nichts von Lady Catherines Verwandtschaft.",
+                    "native": "It had not been very great; he had lost every point; but when Mrs. Phillips began to express her concern thereupon, he assured her with much earnest gravity that it was not of the least importance, that he considered the money as a mere trifle, and begged that she would not make herself uneasy. \"I know very well, madam,\" said he, \"that when persons sit down to a card-table, they must take their chances of these things, and happily I am not in such circumstances as to make five shillings any object. There are undoubtedly many who could not say the same, but thanks to Lady Catherine de Bourgh, I am removed far beyond the necessity of regarding little matters.\" Mr. Wickham's attention was caught; and after observing Mr. Collins for a few moments, he asked Elizabeth in a low voice whether her relation was very intimately acquainted with the family of de Bourgh. \"Lady Catherine de Bourgh,\" she replied, \"has very lately given him a living."
                 }
             ]
         },
@@ -412,16 +348,8 @@
             "pageNumber": 17,
             "sentences": [
                 {
-                    "target": "Ich wußte überhaupt nichts von Lady Catherines Verwandtschaft.",
-                    "native": "Collins for a few moments, he asked Elizabeth in a low voice whether her relation was very intimately acquainted with the family of de Bourgh. \"Lady Catherine de Bourgh,\" she replied, \"has very lately given him a living."
-                },
-                {
-                    "target": "Bis vorgestern hatte ich noch nicht einmal von ihrer Existenz gehört.\" \"Ihre Tochter, Miss de Bourgh, wird ein sehr großes Vermögen erben, und man nimmt an, daß sie und ihr Cousin die beiden Besitztümer vereinigen werden.\" Diese Mitteilung rief bei Elizabeth ein Lächeln hervor, da sie an die arme Miss Bingley dachte. Fruchtlos in der Tat mußten alle ihre Aufmerksamkeiten für Darcy sein, fruchtlos und unnütz ihre Zuneigung zu seiner Schwester und all ihr Lob für ihn, falls er bereits für eine andere bestimmt war. \"Mr.",
-                    "native": "I hardly know how Mr. Collins was first introduced to her notice, but he certainly has not known her long.\" \"You know of course that Lady Catherine de Bourgh and Lady Anne Darcy were sisters; consequently that she is aunt to the present Mr."
-                },
-                {
-                    "target": "Collins\", sagte sie, \"hat von Lady Catherine wie auch von ihrer Tochter eine hohe Meinung; aber nach einigen Dingen, die er von ihrer Ladyschaft erzählt hat, vermute ich, daß ihn seine Dankbarkeit irreführt und daß sie, obwohl seine Gönnerin, eine arrogante, eingebildete Frau ist.\" \"Ich glaube, daß sie beides in hohem Maße ist\", erwiderte Wickham, \"ich habe sie viele Jahre nicht gesehen, aber ich erinnere mich sehr wohl, daß ich sie nie leiden konnte und daß ihr ganzes Verhalten herrisch und anmaßend war.",
-                    "native": "Darcy.\" \"No, indeed, I did not."
+                    "target": "Bis vorgestern hatte ich noch nicht einmal von ihrer Existenz gehört.\" \"Ihre Tochter, Miss de Bourgh, wird ein sehr großes Vermögen erben, und man nimmt an, daß sie und ihr Cousin die beiden Besitztümer vereinigen werden.\" Diese Mitteilung rief bei Elizabeth ein Lächeln hervor, da sie an die arme Miss Bingley dachte. Fruchtlos in der Tat mußten alle ihre Aufmerksamkeiten für Darcy sein, fruchtlos und unnütz ihre Zuneigung zu seiner Schwester und all ihr Lob für ihn, falls er bereits für eine andere bestimmt war. \"Mr. Collins\", sagte sie, \"hat von Lady Catherine wie auch von ihrer Tochter eine hohe Meinung; aber nach einigen Dingen, die er von ihrer Ladyschaft erzählt hat, vermute ich, daß ihn seine Dankbarkeit irreführt und daß sie, obwohl seine Gönnerin, eine arrogante, eingebildete Frau ist.\" \"Ich glaube, daß sie beides in hohem Maße ist\", erwiderte Wickham, \"ich habe sie viele Jahre nicht gesehen, aber ich erinnere mich sehr wohl, daß ich sie nie leiden konnte und daß ihr ganzes Verhalten herrisch und anmaßend war.",
+                    "native": "I hardly know how Mr. Collins was first introduced to her notice, but he certainly has not known her long.\" \"You know of course that Lady Catherine de Bourgh and Lady Anne Darcy were sisters; consequently that she is aunt to the present Mr. Darcy.\" \"No, indeed, I did not."
                 },
                 {
                     "target": "Sie steht in dem Ruf, ungewöhnlich verständig und klug zu sein, aber ich glaube eher, daß sich dies zum Teil von ihrem Rang und ihrem großen Reichtum, zum Teil von ihrer autoritären Art und im übrigen vom Stolz ihres Neffen herleiten läßt, dem es beliebt, jedem, der mit ihm verwandt ist, einen erstklassigen Verstand zuzuschreiben.\" Elizabeth gab zu, daß er ihr eine sehr verständige Beschreibung der Dinge gegeben hatte, und sie unterhielten sich weiter zu ihrer gegenseitigen Genugtuung, bis das Abendessen dem Kartenspiel ein Ende machte und Elizabeth den übrigen Damen ihren Anteil an Mr. Wickhams Aufmerksamkeiten nicht weiter vorenthielt.",
@@ -441,12 +369,8 @@
                     "native": "She has the reputation of being remarkably sensible and clever; but I rather believe she derives part of her abilities from her rank and fortune, part from her authoritative manner, and the rest from the pride for her nephew, who chooses that everyone connected with him should have an understanding of the first class.\" Elizabeth allowed that he had given a very rational account of it, and they continued talking together, with mutual satisfaction till supper put an end to cards, and gave the rest of the ladies their share of Mr. Wickham's attentions."
                 },
                 {
-                    "target": "Während der ganzen Heimfahrt konnte sie an nichts anderes denken als an Mr. Wickham und das, was er ihr erzählt hatte; aber es fand sich keine Gelegenheit für sie, auch nur seinen Namen zu erwähnen, denn weder Lydia noch Mr.",
-                    "native": "There could be no conversation in the noise of Mrs. Phillips's supper party, but his manners recommended him to everybody."
-                },
-                {
-                    "target": "Collins waren einen Augenblick still.",
-                    "native": "Whatever he said, was said well; and whatever he did, done gracefully."
+                    "target": "Während der ganzen Heimfahrt konnte sie an nichts anderes denken als an Mr. Wickham und das, was er ihr erzählt hatte; aber es fand sich keine Gelegenheit für sie, auch nur seinen Namen zu erwähnen, denn weder Lydia noch Mr. Collins waren einen Augenblick still.",
+                    "native": "There could be no conversation in the noise of Mrs. Phillips's supper party, but his manners recommended him to everybody. Whatever he said, was said well; and whatever he did, done gracefully."
                 },
                 {
                     "target": "Lydia redete ohne Pause von den Lotterielosen, von der Spielmarke, die sie verloren, und der Spielmarke, die sie gewonnen hatte; und Mr. Collins schilderte die Zuvorkommenheit von Mr. und Mrs. Philips und beteuerte, daß ihn die Verluste beim Whist nicht im mindesten kümmerten, zählte dann alle Gerichte des Abendessens auf – wobei er immer wieder seiner Befürchtung Ausdruck gab, seine Cousinen auf ihrem Platz zu beengen – und hatte immer noch mehr zu sagen, als ihm vorzubringen gelang, bis der Wagen vor Longbourn House anhielt.",
