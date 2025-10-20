@@ -24,6 +24,7 @@ export class BookReaderComponent implements OnInit {
     showSetProgressModal: boolean = false;
     isChapterContext: boolean = false;
     nextChapterId: string | null = null;
+    furthestReadPage: number | null = null;
 
     constructor(
         private bookService: BookService,
@@ -105,7 +106,11 @@ export class BookReaderComponent implements OnInit {
                     }
                 },
                 error: (err) => {
-                    console.error('Error loading chapters for book:', book.id, err);
+                    console.error(
+                        'Error loading chapters for book:',
+                        book.id,
+                        err
+                    );
                     searchIndex++;
                     searchNextBook();
                 },
@@ -122,14 +127,17 @@ export class BookReaderComponent implements OnInit {
                 this.sliderValue = this.bookService.getSliderValue(book.id);
                 this.maintainTranslationLevel =
                     this.bookService.getMaintainTranslationLevel(book.id);
-                
+
                 // Load furthest read page
-                const furthestPage = this.progressService.getFurthestPage(book.id);
+                const furthestPage = this.progressService.getFurthestPage(
+                    book.id
+                );
+                this.furthestReadPage = furthestPage;
                 this.currentPageIndex = furthestPage;
-                
+
                 // Check if this is a chapter context (to determine if we should show "Next Chapter" button)
                 this.checkChapterContext(book.id);
-                
+
                 this.loading = false;
             },
             error: (err) => {
@@ -156,26 +164,35 @@ export class BookReaderComponent implements OnInit {
                     }
 
                     const bookMetadata = booksWithChapters[searchIndex];
-                    this.bookService.loadChapters(bookMetadata.chaptersPath!).subscribe({
-                        next: (chapters) => {
-                            const chapterIndex = chapters.findIndex((c) => c.id === bookId);
-                            if (chapterIndex !== -1) {
-                                this.isChapterContext = true;
-                                // Find next chapter if it exists
-                                if (chapterIndex < chapters.length - 1) {
-                                    this.nextChapterId = chapters[chapterIndex + 1].id;
+                    this.bookService
+                        .loadChapters(bookMetadata.chaptersPath!)
+                        .subscribe({
+                            next: (chapters) => {
+                                const chapterIndex = chapters.findIndex(
+                                    (c) => c.id === bookId
+                                );
+                                if (chapterIndex !== -1) {
+                                    this.isChapterContext = true;
+                                    // Find next chapter if it exists
+                                    if (chapterIndex < chapters.length - 1) {
+                                        this.nextChapterId =
+                                            chapters[chapterIndex + 1].id;
+                                    }
+                                } else {
+                                    searchIndex++;
+                                    searchNextBook();
                                 }
-                            } else {
+                            },
+                            error: (err) => {
+                                console.error(
+                                    'Error loading chapters for book:',
+                                    bookMetadata.id,
+                                    err
+                                );
                                 searchIndex++;
                                 searchNextBook();
-                            }
-                        },
-                        error: (err) => {
-                            console.error('Error loading chapters for book:', bookMetadata.id, err);
-                            searchIndex++;
-                            searchNextBook();
-                        },
-                    });
+                            },
+                        });
                 };
 
                 searchNextBook();
@@ -208,14 +225,18 @@ export class BookReaderComponent implements OnInit {
 
     updateProgress(): void {
         if (this.book) {
-            const currentProgress = this.progressService.getProgress(this.book.id);
-            // Only update if this is further than the previous progress
-            if (!currentProgress || this.currentPageIndex > currentProgress.currentPage) {
+            // Only update if this is further than the previous furthest read page
+            if (
+                this.furthestReadPage === null ||
+                this.currentPageIndex > this.furthestReadPage
+            ) {
                 this.progressService.setProgressPoint(
                     this.book.id,
                     this.currentPageIndex,
                     this.totalPages
                 );
+                // Update the local furthest read page
+                this.furthestReadPage = this.currentPageIndex;
             }
         }
     }
@@ -271,6 +292,8 @@ export class BookReaderComponent implements OnInit {
         return this.currentPageIndex === this.totalPages - 1;
     }
 
+
+
     openSetProgressModal(): void {
         this.showSetProgressModal = true;
     }
@@ -286,6 +309,8 @@ export class BookReaderComponent implements OnInit {
                 this.currentPageIndex,
                 this.totalPages
             );
+            // Update the local furthest read page to match the reset
+            this.furthestReadPage = this.currentPageIndex;
         }
         this.closeSetProgressModal();
     }
