@@ -16,6 +16,12 @@ export interface Book {
     pages: Page[];
 }
 
+export interface ChapterMetadata {
+    id: string;
+    title: string;
+    path: string;
+}
+
 export interface BookMetadata {
     id: string;
     title: string;
@@ -24,4 +30,6 @@ export interface BookMetadata {
     path: string;
     coverImage: string;
     description: string;
+    hasChapters?: boolean;
+    chaptersPath?: string;
 }
