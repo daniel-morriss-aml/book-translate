@@ -6,11 +6,12 @@ import { Book, Page, Sentence } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
 import { ProgressService } from '../../services/progress.service';
 import { ThemeService } from '../../services/theme.service';
+import { HeaderComponent } from '../header/header.component';
 import { SliderComponent } from '../slider/slider.component';
 
 @Component({
     selector: 'app-book-reader',
-    imports: [CommonModule, FormsModule, SliderComponent],
+    imports: [CommonModule, FormsModule, SliderComponent, HeaderComponent],
     templateUrl: './book-reader.component.html',
     styleUrl: './book-reader.component.css',
 })
@@ -24,6 +25,7 @@ export class BookReaderComponent implements OnInit {
     isDarkMode: boolean = false;
     showSetProgressModal: boolean = false;
     isChapterContext: boolean = false;
+    parentBookId: string | null = null;
     nextChapterId: string | null = null;
     furthestReadPage: number | null = null;
 
@@ -174,6 +176,7 @@ export class BookReaderComponent implements OnInit {
                                 );
                                 if (chapterIndex !== -1) {
                                     this.isChapterContext = true;
+                                    this.parentBookId = bookMetadata.id;
                                     // Find next chapter if it exists
                                     if (chapterIndex < chapters.length - 1) {
                                         this.nextChapterId =
@@ -284,10 +287,6 @@ export class BookReaderComponent implements OnInit {
         const totalSentences = this.currentPage.sentences.length;
         const threshold = (this.sliderValue / 100) * totalSentences;
         return index < threshold;
-    }
-
-    backToLibrary(): void {
-        this.router.navigate(['/']);
     }
 
     isLastPage(): boolean {
