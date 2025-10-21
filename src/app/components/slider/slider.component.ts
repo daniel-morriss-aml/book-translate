@@ -8,11 +8,12 @@ import {
     signal,
 } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import { LucideAngularModule, LucideGripHorizontal } from 'lucide-angular';
 import { Book } from '../../models/book.model';
 
 @Component({
     selector: 'app-slider',
-    imports: [CommonModule, FormsModule],
+    imports: [CommonModule, FormsModule, LucideAngularModule],
     templateUrl: './slider.component.html',
     styleUrl: './slider.component.css',
 })
@@ -20,6 +21,7 @@ export class SliderComponent {
     sliderValue = input<number>(0);
     maintainTranslationLevel = input<boolean>(false);
     book = input<Book | null>(null);
+    readonly moveIcon = LucideGripHorizontal;
 
     // Local signal for two-way binding with the range input
     localSliderValue = signal<number>(0);
