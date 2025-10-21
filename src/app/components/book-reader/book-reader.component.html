@@ -1,4 +1,8 @@
-<div class="h-screen bg-gray-100 dark:bg-gray-900 flex flex-col">
+<div
+    class="h-screen bg-gray-100 dark:bg-gray-900 flex flex-col"
+    (swipeleft)="nextPage()"
+    (swiperight)="previousPage()"
+>
     <!-- Loading State -->
     @if (loading) {
     <div class="flex-1 flex items-center justify-center">

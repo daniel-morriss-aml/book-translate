@@ -1,6 +1,7 @@
 import { CommonModule } from '@angular/common';
 import { Component, HostListener, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import { HammerModule } from '@angular/platform-browser';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Book, Page, Sentence } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
@@ -11,7 +12,13 @@ import { SliderComponent } from '../slider/slider.component';
 
 @Component({
     selector: 'app-book-reader',
-    imports: [CommonModule, FormsModule, SliderComponent, HeaderComponent],
+    imports: [
+        CommonModule,
+        FormsModule,
+        SliderComponent,
+        HeaderComponent,
+        HammerModule,
+    ],
     templateUrl: './book-reader.component.html',
     styleUrl: './book-reader.component.css',
 })
