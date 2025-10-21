@@ -4,10 +4,11 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { BookMetadata, ChapterMetadata } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
 import { ProgressService } from '../../services/progress.service';
+import { HeaderComponent } from '../header/header.component';
 
 @Component({
     selector: 'app-chapters',
-    imports: [CommonModule],
+    imports: [CommonModule, HeaderComponent],
     templateUrl: './chapters.component.html',
     styleUrl: './chapters.component.css',
 })
@@ -42,20 +43,26 @@ export class ChaptersComponent implements OnInit {
         this.bookService.loadBookList().subscribe({
             next: (books) => {
                 const bookMetadata = books.find((b) => b.id === bookId);
-                if (bookMetadata && bookMetadata.hasChapters && bookMetadata.chaptersPath) {
+                if (
+                    bookMetadata &&
+                    bookMetadata.hasChapters &&
+                    bookMetadata.chaptersPath
+                ) {
                     this.book = bookMetadata;
                     // Load chapters
-                    this.bookService.loadChapters(bookMetadata.chaptersPath).subscribe({
-                        next: (chapters) => {
-                            this.chapters = chapters;
-                            this.loading = false;
-                        },
-                        error: (err) => {
-                            this.error = 'Failed to load chapters';
-                            this.loading = false;
-                            console.error('Error loading chapters:', err);
-                        },
-                    });
+                    this.bookService
+                        .loadChapters(bookMetadata.chaptersPath)
+                        .subscribe({
+                            next: (chapters) => {
+                                this.chapters = chapters;
+                                this.loading = false;
+                            },
+                            error: (err) => {
+                                this.error = 'Failed to load chapters';
+                                this.loading = false;
+                                console.error('Error loading chapters:', err);
+                            },
+                        });
                 } else {
                     this.error = 'Book not found or does not have chapters';
                     this.loading = false;
@@ -71,10 +78,6 @@ export class ChaptersComponent implements OnInit {
 
     openChapter(chapter: ChapterMetadata): void {
         this.router.navigate(['/reader', chapter.id]);
-    }
-
-    backToLibrary(): void {
-        this.router.navigate(['/']);
     }
 
     getChapterProgress(chapterId: string): number {
