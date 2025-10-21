@@ -103,7 +103,8 @@
                     </button>
 
                     <!-- Reset Progress Button (only show when on a page before furthest read) -->
-                    @if (furthestReadPage !== null && currentPageIndex < furthestReadPage) {
+                    @if (furthestReadPage !== null && currentPageIndex <
+                    furthestReadPage) {
                     <button
                         (click)="openSetProgressModal()"
                         class="px-4 py-2 bg-orange-600 dark:bg-orange-500 text-white rounded-md hover:bg-orange-700 dark:hover:bg-orange-600 transition"
@@ -134,68 +135,13 @@
         </main>
 
         <!-- Bottom Slider - Now Sticky -->
-        <footer
-            class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 p-4 shadow-lg flex-shrink-0"
-        >
-            <div class="max-w-4xl mx-auto">
-                <div class="flex justify-between items-center mb-2">
-                    <label class="block">
-                        <span
-                            class="text-sm font-medium text-gray-700 dark:text-gray-300"
-                        >
-                            Translation Level: {{ sliderValue }}%
-                            <span
-                                class="text-xs text-gray-500 dark:text-gray-400 ml-2"
-                            >
-                                (Use ↑↓ arrow keys to adjust by 5, ←→ to change
-                                pages)
-                            </span>
-                        </span>
-                    </label>
-                    <button
-                        (click)="toggleMaintainTranslationLevel()"
-                        class="px-3 py-1 text-xs rounded-md border transition"
-                        [class.bg-blue-600]="maintainTranslationLevel"
-                        [class.dark:bg-blue-500]="maintainTranslationLevel"
-                        [class.text-white]="maintainTranslationLevel"
-                        [class.border-blue-600]="maintainTranslationLevel"
-                        [class.dark:border-blue-500]="maintainTranslationLevel"
-                        [class.bg-white]="!maintainTranslationLevel"
-                        [class.dark:bg-gray-700]="!maintainTranslationLevel"
-                        [class.text-gray-700]="!maintainTranslationLevel"
-                        [class.dark:text-gray-300]="!maintainTranslationLevel"
-                        [class.border-gray-300]="!maintainTranslationLevel"
-                        [class.dark:border-gray-600]="!maintainTranslationLevel"
-                        [class.hover:bg-blue-700]="maintainTranslationLevel"
-                        [class.dark:hover:bg-blue-600]="
-                            maintainTranslationLevel
-                        "
-                        [class.hover:bg-gray-50]="!maintainTranslationLevel"
-                        [class.dark:hover:bg-gray-600]="
-                            !maintainTranslationLevel
-                        "
-                        title="When enabled, translation level persists across pages. When disabled, it resets to 0% on each page change."
-                    >
-                        {{ maintainTranslationLevel ? "✓" : "" }} Maintain Level
-                    </button>
-                </div>
-                <input
-                    type="range"
-                    min="0"
-                    max="100"
-                    step="1"
-                    [(ngModel)]="sliderValue"
-                    (input)="onSliderChange()"
-                    class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-600 dark:accent-blue-500"
-                />
-                <div
-                    class="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1"
-                >
-                    <span>Target ({{ book.targetLanguage }})</span>
-                    <span>Native ({{ book.nativeLanguage }})</span>
-                </div>
-            </div>
-        </footer>
+        <app-slider
+            [sliderValue]="sliderValue"
+            [maintainTranslationLevel]="maintainTranslationLevel"
+            [book]="book"
+            (sliderChange)="onSliderChange($event)"
+            (maintainLevelToggle)="toggleMaintainTranslationLevel()"
+        ></app-slider>
     </div>
 
     <!-- Set Progress Modal -->

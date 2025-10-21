@@ -1,0 +1,41 @@
+<footer
+    class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 p-4 shadow-lg flex-shrink-0"
+>
+    <div class="max-w-4xl mx-auto">
+        <!-- <div class="flex justify-between items-center mb-2">
+            <label class="block">
+                <span
+                    class="text-sm font-medium text-gray-700 dark:text-gray-300"
+                >
+                    Translation Level: {{ localSliderValue() }}%
+                </span>
+            </label>
+        </div> -->
+        <input
+            type="range"
+            min="0"
+            max="100"
+            step="1"
+            title="Use ↑↓ arrow keys to adjust by 5, ←→ to change pages"
+            [(ngModel)]="localSliderValue"
+            (input)="onSliderChange()"
+            class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-600 dark:accent-blue-500"
+        />
+        <div
+            class="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1"
+        >
+            <span class="my-2">{{ book()?.targetLanguage }}</span>
+            @if (sliderValue() > 0) {
+            <button
+                (click)="toggleMaintainTranslationLevel()"
+                [ngClass]="maintainButtonClasses()"
+                title="When enabled, translation level persists across pages. When disabled, it resets to 0% on each page change."
+            >
+                {{ maintainTranslationLevel() ? "✓" : "" }} Maintain Translation
+                Level
+            </button>
+            }
+            <span class="my-2">{{ book()?.nativeLanguage }}</span>
+        </div>
+    </div>
+</footer>
