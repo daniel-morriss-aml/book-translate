@@ -6,17 +6,18 @@ import { Book, Page, Sentence } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
 import { ProgressService } from '../../services/progress.service';
 import { ThemeService } from '../../services/theme.service';
+import { SliderComponent } from '../slider/slider.component';
 
 @Component({
     selector: 'app-book-reader',
-    imports: [CommonModule, FormsModule],
+    imports: [CommonModule, FormsModule, SliderComponent],
     templateUrl: './book-reader.component.html',
     styleUrl: './book-reader.component.css',
 })
 export class BookReaderComponent implements OnInit {
     book: Book | null = null;
     currentPageIndex: number = 0;
-    sliderValue: number = 0;
+    sliderValue: number = 0; // remove
     loading: boolean = true;
     error: string | null = null;
     maintainTranslationLevel: boolean = false;
@@ -216,7 +217,7 @@ export class BookReaderComponent implements OnInit {
             this.currentPageIndex++;
             if (!this.maintainTranslationLevel) {
                 this.sliderValue = 0;
-                this.onSliderChange();
+                this.onSliderChange(this.sliderValue);
             }
             // Update progress when navigating
             this.updateProgress();
@@ -246,12 +247,13 @@ export class BookReaderComponent implements OnInit {
             this.currentPageIndex--;
             if (!this.maintainTranslationLevel) {
                 this.sliderValue = 0;
-                this.onSliderChange();
+                this.onSliderChange(this.sliderValue);
             }
         }
     }
 
-    onSliderChange(): void {
+    onSliderChange(value: number): void {
+        this.sliderValue = value;
         if (this.book) {
             this.bookService.saveSliderValue(this.book.id, this.sliderValue);
         }
@@ -291,8 +293,6 @@ export class BookReaderComponent implements OnInit {
     isLastPage(): boolean {
         return this.currentPageIndex === this.totalPages - 1;
     }
-
-
 
     openSetProgressModal(): void {
         this.showSetProgressModal = true;
@@ -338,12 +338,12 @@ export class BookReaderComponent implements OnInit {
             case 'ArrowUp':
                 event.preventDefault();
                 this.sliderValue = Math.min(100, this.sliderValue + 5);
-                this.onSliderChange();
+                this.onSliderChange(this.sliderValue);
                 break;
             case 'ArrowDown':
                 event.preventDefault();
                 this.sliderValue = Math.max(0, this.sliderValue - 5);
-                this.onSliderChange();
+                this.onSliderChange(this.sliderValue);
                 break;
         }
     }
