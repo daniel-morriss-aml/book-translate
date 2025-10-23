@@ -211,5 +211,51 @@ describe('BookReaderComponent', () => {
         expect(component.maintainTranslationLevel).toBe(false);
     });
 
+    it('should scroll to top when navigating to next page', () => {
+        const fixture = TestBed.createComponent(BookReaderComponent);
+        const component = fixture.componentInstance;
+        component.book = {
+            id: 'test-book',
+            title: 'Test Book',
+            targetLanguage: 'English',
+            nativeLanguage: 'Spanish',
+            pages: [
+                { pageNumber: 1, sentences: [] },
+                { pageNumber: 2, sentences: [] },
+            ],
+        };
+        component.currentPageIndex = 0;
+        
+        // Mock the scrollToTop method
+        spyOn(component, 'scrollToTop');
+        
+        component.nextPage();
+        
+        expect(component.scrollToTop).toHaveBeenCalled();
+    });
+
+    it('should scroll to top when navigating to previous page', () => {
+        const fixture = TestBed.createComponent(BookReaderComponent);
+        const component = fixture.componentInstance;
+        component.book = {
+            id: 'test-book',
+            title: 'Test Book',
+            targetLanguage: 'English',
+            nativeLanguage: 'Spanish',
+            pages: [
+                { pageNumber: 1, sentences: [] },
+                { pageNumber: 2, sentences: [] },
+            ],
+        };
+        component.currentPageIndex = 1;
+        
+        // Mock the scrollToTop method
+        spyOn(component, 'scrollToTop');
+        
+        component.previousPage();
+        
+        expect(component.scrollToTop).toHaveBeenCalled();
+    });
+
     // Removed: backToLibrary method no longer exists - functionality moved to header component
 });
