@@ -211,13 +211,5 @@ describe('BookReaderComponent', () => {
         expect(component.maintainTranslationLevel).toBe(false);
     });
 
-    it('should navigate back to library', () => {
-        const fixture = TestBed.createComponent(BookReaderComponent);
-        const component = fixture.componentInstance;
-        const navigateSpy = spyOn(router, 'navigate');
-
-        component.backToLibrary();
-
-        expect(navigateSpy).toHaveBeenCalledWith(['/']);
-    });
+    // Removed: backToLibrary method no longer exists - functionality moved to header component
 });
