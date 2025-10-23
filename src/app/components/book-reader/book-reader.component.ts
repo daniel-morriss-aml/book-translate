@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, HostListener, OnInit } from '@angular/core';
+import { Component, ElementRef, HostListener, OnInit, ViewChild } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HammerModule } from '@angular/platform-browser';
 import { ActivatedRoute, Router } from '@angular/router';
@@ -23,6 +23,8 @@ import { SliderComponent } from '../slider/slider.component';
     styleUrl: './book-reader.component.css',
 })
 export class BookReaderComponent implements OnInit {
+    @ViewChild('pageContent') pageContent?: ElementRef;
+
     book: Book | null = null;
     currentPageIndex: number = 0;
     sliderValue: number = 0; // remove
@@ -231,6 +233,8 @@ export class BookReaderComponent implements OnInit {
             }
             // Update progress when navigating
             this.updateProgress();
+            // Scroll to top of page content
+            this.scrollToTop();
         }
     }
 
@@ -259,6 +263,8 @@ export class BookReaderComponent implements OnInit {
                 this.sliderValue = 0;
                 this.onSliderChange(this.sliderValue);
             }
+            // Scroll to top of page content
+            this.scrollToTop();
         }
     }
 
@@ -327,6 +333,16 @@ export class BookReaderComponent implements OnInit {
             this.progressService.completeChapter(this.book.id, this.totalPages);
             // Navigate to next chapter
             this.router.navigate(['/reader', this.nextChapterId]);
+            // Scroll to top will happen when new chapter loads
+        }
+    }
+
+    scrollToTop(): void {
+        if (this.pageContent) {
+            this.pageContent.nativeElement.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
         }
     }
 
