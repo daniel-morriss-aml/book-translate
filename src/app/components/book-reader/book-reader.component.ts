@@ -1,29 +1,39 @@
-import { CommonModule } from '@angular/common';
-import { Component, ElementRef, HostListener, OnInit, ViewChild } from '@angular/core';
-import { FormsModule } from '@angular/forms';
-import { HammerModule } from '@angular/platform-browser';
-import { ActivatedRoute, Router } from '@angular/router';
-import { Book, Page, Sentence } from '../../models/book.model';
-import { BookService } from '../../services/book.service';
-import { ProgressService } from '../../services/progress.service';
-import { ThemeService } from '../../services/theme.service';
-import { HeaderComponent } from '../header/header.component';
-import { SliderComponent } from '../slider/slider.component';
+import { CommonModule } from "@angular/common";
+import {
+    Component,
+    ElementRef,
+    HostListener,
+    OnInit,
+    ViewChild,
+    signal,
+} from "@angular/core";
+import { FormsModule } from "@angular/forms";
+import { HammerModule } from "@angular/platform-browser";
+import { ActivatedRoute, Router } from "@angular/router";
+import { Book, Page, Sentence } from "../../models/book.model";
+import { BookService } from "../../services/book.service";
+import { ProgressService } from "../../services/progress.service";
+import { SettingsService, UserSettings } from "../../services/settings.service";
+import { ThemeService } from "../../services/theme.service";
+import { HeaderComponent } from "../header/header.component";
+import { ProgressIndicatorComponent } from "../progress-indicator/progress-indicator.component";
+import { SliderComponent } from "../slider/slider.component";
 
 @Component({
-    selector: 'app-book-reader',
+    selector: "app-book-reader",
     imports: [
         CommonModule,
         FormsModule,
         SliderComponent,
         HeaderComponent,
+        ProgressIndicatorComponent,
         HammerModule,
     ],
-    templateUrl: './book-reader.component.html',
-    styleUrl: './book-reader.component.css',
+    templateUrl: "./book-reader.component.html",
+    styleUrl: "./book-reader.component.css",
 })
 export class BookReaderComponent implements OnInit {
-    @ViewChild('pageContent') pageContent?: ElementRef;
+    @ViewChild("pageContent") pageContent?: ElementRef;
 
     book: Book | null = null;
     currentPageIndex: number = 0;
@@ -38,12 +48,19 @@ export class BookReaderComponent implements OnInit {
     nextChapterId: string | null = null;
     furthestReadPage: number | null = null;
 
+    settings = signal<UserSettings>({
+        showProgressIndicator: true,
+        showTranslationSlider: true,
+        darkMode: false,
+    });
+
     constructor(
         private bookService: BookService,
         private progressService: ProgressService,
         private route: ActivatedRoute,
         private router: Router,
-        private themeService: ThemeService
+        private themeService: ThemeService,
+        private settingsService: SettingsService,
     ) {}
 
     ngOnInit(): void {
@@ -52,12 +69,17 @@ export class BookReaderComponent implements OnInit {
             this.isDarkMode = isDark;
         });
 
+        // Subscribe to settings changes
+        this.settingsService.getSettings().subscribe((settings) => {
+            this.settings.set(settings);
+        });
+
         this.route.params.subscribe((params) => {
-            const bookId = params['id'];
+            const bookId = params["id"];
             if (bookId) {
                 this.loadBookById(bookId);
             } else {
-                this.error = 'No book ID provided';
+                this.error = "No book ID provided";
                 this.loading = false;
             }
         });
@@ -77,9 +99,9 @@ export class BookReaderComponent implements OnInit {
                 }
             },
             error: (err) => {
-                this.error = 'Failed to load book';
+                this.error = "Failed to load book";
                 this.loading = false;
-                console.error('Error loading book:', err);
+                console.error("Error loading book:", err);
             },
         });
     }
@@ -87,11 +109,11 @@ export class BookReaderComponent implements OnInit {
     loadChapterById(chapterId: string, books: any[]): void {
         // Find books with chapters and search through their chapters
         const booksWithChapters = books.filter(
-            (b) => b.hasChapters && b.chaptersPath
+            (b) => b.hasChapters && b.chaptersPath,
         );
 
         if (booksWithChapters.length === 0) {
-            this.error = 'Book not found';
+            this.error = "Book not found";
             this.loading = false;
             return;
         }
@@ -101,7 +123,7 @@ export class BookReaderComponent implements OnInit {
 
         const searchNextBook = () => {
             if (searchIndex >= booksWithChapters.length) {
-                this.error = 'Book not found';
+                this.error = "Book not found";
                 this.loading = false;
                 return;
             }
@@ -119,9 +141,9 @@ export class BookReaderComponent implements OnInit {
                 },
                 error: (err) => {
                     console.error(
-                        'Error loading chapters for book:',
+                        "Error loading chapters for book:",
                         book.id,
-                        err
+                        err,
                     );
                     searchIndex++;
                     searchNextBook();
@@ -142,7 +164,7 @@ export class BookReaderComponent implements OnInit {
 
                 // Load furthest read page
                 const furthestPage = this.progressService.getFurthestPage(
-                    book.id
+                    book.id,
                 );
                 this.furthestReadPage = furthestPage;
                 this.currentPageIndex = furthestPage;
@@ -153,9 +175,9 @@ export class BookReaderComponent implements OnInit {
                 this.loading = false;
             },
             error: (err) => {
-                this.error = 'Failed to load book';
+                this.error = "Failed to load book";
                 this.loading = false;
-                console.error('Error loading book:', err);
+                console.error("Error loading book:", err);
             },
         });
     }
@@ -165,7 +187,7 @@ export class BookReaderComponent implements OnInit {
         this.bookService.loadBookList().subscribe({
             next: (books) => {
                 const booksWithChapters = books.filter(
-                    (b) => b.hasChapters && b.chaptersPath
+                    (b) => b.hasChapters && b.chaptersPath,
                 );
 
                 let searchIndex = 0;
@@ -181,7 +203,7 @@ export class BookReaderComponent implements OnInit {
                         .subscribe({
                             next: (chapters) => {
                                 const chapterIndex = chapters.findIndex(
-                                    (c) => c.id === bookId
+                                    (c) => c.id === bookId,
                                 );
                                 if (chapterIndex !== -1) {
                                     this.isChapterContext = true;
@@ -198,9 +220,9 @@ export class BookReaderComponent implements OnInit {
                             },
                             error: (err) => {
                                 console.error(
-                                    'Error loading chapters for book:',
+                                    "Error loading chapters for book:",
                                     bookMetadata.id,
-                                    err
+                                    err,
                                 );
                                 searchIndex++;
                                 searchNextBook();
@@ -211,7 +233,7 @@ export class BookReaderComponent implements OnInit {
                 searchNextBook();
             },
             error: (err) => {
-                console.error('Error checking chapter context:', err);
+                console.error("Error checking chapter context:", err);
             },
         });
     }
@@ -248,7 +270,7 @@ export class BookReaderComponent implements OnInit {
                 this.progressService.setProgressPoint(
                     this.book.id,
                     this.currentPageIndex,
-                    this.totalPages
+                    this.totalPages,
                 );
                 // Update the local furthest read page
                 this.furthestReadPage = this.currentPageIndex;
@@ -280,7 +302,7 @@ export class BookReaderComponent implements OnInit {
         if (this.book) {
             this.bookService.saveMaintainTranslationLevel(
                 this.book.id,
-                this.maintainTranslationLevel
+                this.maintainTranslationLevel,
             );
         }
     }
@@ -319,7 +341,7 @@ export class BookReaderComponent implements OnInit {
             this.progressService.setProgressPoint(
                 this.book.id,
                 this.currentPageIndex,
-                this.totalPages
+                this.totalPages,
             );
             // Update the local furthest read page to match the reset
             this.furthestReadPage = this.currentPageIndex;
@@ -332,7 +354,7 @@ export class BookReaderComponent implements OnInit {
             // Mark current chapter as complete
             this.progressService.completeChapter(this.book.id, this.totalPages);
             // Navigate to next chapter
-            this.router.navigate(['/reader', this.nextChapterId]);
+            this.router.navigate(["/reader", this.nextChapterId]);
             // Scroll to top will happen when new chapter loads
         }
     }
@@ -341,28 +363,28 @@ export class BookReaderComponent implements OnInit {
         if (this.pageContent) {
             this.pageContent.nativeElement.scrollTo({
                 top: 0,
-                behavior: 'smooth'
+                behavior: "smooth",
             });
         }
     }
 
-    @HostListener('window:keydown', ['$event'])
+    @HostListener("window:keydown", ["$event"])
     handleKeyboardEvent(event: KeyboardEvent): void {
         switch (event.key) {
-            case 'ArrowLeft':
+            case "ArrowLeft":
                 event.preventDefault();
                 this.previousPage();
                 break;
-            case 'ArrowRight':
+            case "ArrowRight":
                 event.preventDefault();
                 this.nextPage();
                 break;
-            case 'ArrowUp':
+            case "ArrowUp":
                 event.preventDefault();
                 this.sliderValue = Math.min(100, this.sliderValue + 5);
                 this.onSliderChange(this.sliderValue);
                 break;
-            case 'ArrowDown':
+            case "ArrowDown":
                 event.preventDefault();
                 this.sliderValue = Math.max(0, this.sliderValue - 5);
                 this.onSliderChange(this.sliderValue);
