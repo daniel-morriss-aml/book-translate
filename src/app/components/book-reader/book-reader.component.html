@@ -23,12 +23,19 @@
     @if (book && !loading && !error) {
     <div class="flex-1 flex flex-col overflow-hidden">
         <!-- Header -->
-        <!-- Header -->
         <app-header
             [book]="book"
             [isChapterContext]="isChapterContext"
             [parentBookId]="parentBookId"
         ></app-header>
+
+        <!-- Progress Indicator -->
+        @if (settings().showProgressIndicator) {
+        <app-progress-indicator
+            [currentPage]="currentPageIndex"
+            [totalPages]="totalPages"
+        ></app-progress-indicator>
+        }
 
         <!-- Page Content -->
         <main class="flex-1 overflow-y-auto lg:pt-8" #pageContent>
@@ -108,6 +115,7 @@
         </main>
 
         <!-- Bottom Slider - Now Sticky -->
+        @if (settings().showTranslationSlider) {
         <app-slider
             [sliderValue]="sliderValue"
             [maintainTranslationLevel]="maintainTranslationLevel"
@@ -115,6 +123,7 @@
             (sliderChange)="onSliderChange($event)"
             (maintainLevelToggle)="toggleMaintainTranslationLevel()"
         ></app-slider>
+        }
     </div>
 
     <!-- Set Progress Modal -->

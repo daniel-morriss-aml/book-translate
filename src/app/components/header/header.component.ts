@@ -1,13 +1,14 @@
-import { Component, input } from '@angular/core';
-import { Router } from '@angular/router';
-import { ArrowBigLeft, LucideAngularModule } from 'lucide-angular';
-import { Book, BookMetadata } from '../../models/book.model';
+import { Component, input } from "@angular/core";
+import { Router } from "@angular/router";
+import { ArrowBigLeft, LucideAngularModule } from "lucide-angular";
+import { Book, BookMetadata } from "../../models/book.model";
+import { HamburgerMenuComponent } from "../hamburger-menu/hamburger-menu.component";
 
 @Component({
-    selector: 'app-header',
-    imports: [LucideAngularModule],
-    templateUrl: './header.component.html',
-    styleUrl: './header.component.css',
+    selector: "app-header",
+    imports: [LucideAngularModule, HamburgerMenuComponent],
+    templateUrl: "./header.component.html",
+    styleUrl: "./header.component.css",
 })
 export class HeaderComponent {
     readonly fileIcon = ArrowBigLeft;
@@ -21,14 +22,14 @@ export class HeaderComponent {
     onBack(): void {
         if (this.isChapterContext() && this.parentBookId()) {
             // Navigate back to chapters page
-            this.router.navigate(['/chapters', this.parentBookId()]);
+            this.router.navigate(["/chapters", this.parentBookId()]);
         } else {
             // Navigate back to library
-            this.router.navigate(['/']);
+            this.router.navigate(["/"]);
         }
     }
 
     get backButtonText(): string {
-        return this.isChapterContext() ? 'Back to Chapters' : 'Back to Library';
+        return this.isChapterContext() ? "Back to Chapters" : "Back to Library";
     }
 }
