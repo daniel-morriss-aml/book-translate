@@ -23,14 +23,31 @@
     </div>
     }
 
-    <!-- Chapters Grid -->
+    <!-- Chapters List -->
     @if (!loading && !error) {
     <main class="max-w-6xl mx-auto p-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            @for (chapter of chapters; track chapter.id) {
+        <!-- Toggle Button -->
+        <div class="mb-6 flex justify-between items-center">
+            <h1 class="text-2xl font-bold text-gray-800 dark:text-gray-100">
+                Chapters
+            </h1>
+            <button
+                (click)="toggleCompletedChapters()"
+                class="px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-md hover:bg-gray-300 dark:hover:bg-gray-600 transition flex items-center gap-2"
+            >
+                @if (showCompletedChapters()) {
+                    <span>👁️ Hide Completed</span>
+                } @else {
+                    <span>👁️‍🗨️ Show Completed</span>
+                }
+            </button>
+        </div>
+
+        <div class="space-y-4">
+            @for (chapter of filteredChapters(); track chapter.id) {
             <div
                 (click)="openChapter(chapter)"
-                class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition transform hover:-translate-y-1 relative"
+                class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition transform hover:-translate-y-1 relative flex items-center gap-6"
             >
                 <!-- Completion Badge -->
                 @if (isChapterComplete(chapter.id)) {
@@ -41,27 +58,18 @@
                 </div>
                 }
 
-                <div class="flex flex-col h-full">
-                    <!-- Chapter Icon -->
-                    <div
-                        class="text-6xl mb-4 text-center text-blue-600 dark:text-blue-400"
-                        [title]="chapter.title"
-                        role="img"
-                        [attr.aria-label]="'Chapter icon for ' + chapter.title"
-                    >
-                        📄
-                    </div>
-
+                <!-- Chapter Content -->
+                <div class="flex-1 min-w-0">
                     <!-- Chapter Title -->
                     <h2
-                        class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-4 text-center"
+                        class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-2"
                     >
                         {{ chapter.title }}
                     </h2>
 
                     <!-- Progress Bar -->
                     @if (getChapterProgress(chapter.id) > 0) {
-                    <div class="mb-4">
+                    <div class="mb-2">
                         <div class="flex justify-between items-center mb-1">
                             <span
                                 class="text-xs text-gray-600 dark:text-gray-400"
@@ -83,20 +91,17 @@
                         </div>
                     </div>
                     }
-
-                    <!-- Read Button -->
-                    <button
-                        class="w-full px-4 py-2 bg-blue-600 dark:bg-blue-500 text-white rounded-md hover:bg-blue-700 dark:hover:bg-blue-600 transition"
-                    >
-                        Read Chapter →
-                    </button>
                 </div>
             </div>
             }
         </div>
 
         <!-- Empty State -->
-        @if (chapters.length === 0) {
+        @if (filteredChapters().length === 0 && chapters.length > 0) {
+        <div class="text-center text-gray-500 dark:text-gray-400 py-12">
+            All chapters completed! Toggle "Show Completed" to see them.
+        </div>
+        } @else if (chapters.length === 0) {
         <div class="text-center text-gray-500 dark:text-gray-400 py-12">
             No chapters available for this book.
         </div>

@@ -1,37 +1,47 @@
-import { CommonModule } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
-import { BookMetadata, ChapterMetadata } from '../../models/book.model';
-import { BookService } from '../../services/book.service';
-import { ProgressService } from '../../services/progress.service';
-import { HeaderComponent } from '../header/header.component';
+import { CommonModule } from "@angular/common";
+import { Component, OnInit, computed, signal } from "@angular/core";
+import { ActivatedRoute, Router } from "@angular/router";
+import { BookMetadata, ChapterMetadata } from "../../models/book.model";
+import { BookService } from "../../services/book.service";
+import { ProgressService } from "../../services/progress.service";
+import { HeaderComponent } from "../header/header.component";
 
 @Component({
-    selector: 'app-chapters',
+    selector: "app-chapters",
     imports: [CommonModule, HeaderComponent],
-    templateUrl: './chapters.component.html',
-    styleUrl: './chapters.component.css',
+    templateUrl: "./chapters.component.html",
+    styleUrl: "./chapters.component.css",
 })
 export class ChaptersComponent implements OnInit {
     book: BookMetadata | null = null;
     chapters: ChapterMetadata[] = [];
     loading: boolean = true;
     error: string | null = null;
+    showCompletedChapters = signal(true);
+
+    filteredChapters = computed(() => {
+        if (this.showCompletedChapters()) {
+            return this.chapters;
+        }
+        return this.chapters.filter(
+            (chapter) => !this.isChapterComplete(chapter.id),
+        );
+    });
 
     constructor(
         private bookService: BookService,
         private progressService: ProgressService,
         private route: ActivatedRoute,
-        private router: Router
+        private router: Router,
     ) {}
 
     ngOnInit(): void {
         this.route.params.subscribe((params) => {
-            const bookId = params['id'];
+            const bookId = params["id"];
             if (bookId) {
                 this.loadChapters(bookId);
             } else {
-                this.error = 'No book ID provided';
+                this.error = "No book ID provided";
                 this.loading = false;
             }
         });
@@ -58,26 +68,26 @@ export class ChaptersComponent implements OnInit {
                                 this.loading = false;
                             },
                             error: (err) => {
-                                this.error = 'Failed to load chapters';
+                                this.error = "Failed to load chapters";
                                 this.loading = false;
-                                console.error('Error loading chapters:', err);
+                                console.error("Error loading chapters:", err);
                             },
                         });
                 } else {
-                    this.error = 'Book not found or does not have chapters';
+                    this.error = "Book not found or does not have chapters";
                     this.loading = false;
                 }
             },
             error: (err) => {
-                this.error = 'Failed to load book';
+                this.error = "Failed to load book";
                 this.loading = false;
-                console.error('Error loading book:', err);
+                console.error("Error loading book:", err);
             },
         });
     }
 
     openChapter(chapter: ChapterMetadata): void {
-        this.router.navigate(['/reader', chapter.id]);
+        this.router.navigate(["/reader", chapter.id]);
     }
 
     getChapterProgress(chapterId: string): number {
@@ -86,5 +96,9 @@ export class ChaptersComponent implements OnInit {
 
     isChapterComplete(chapterId: string): boolean {
         return this.getChapterProgress(chapterId) === 100;
+    }
+
+    toggleCompletedChapters(): void {
+        this.showCompletedChapters.update((value) => !value);
     }
 }
