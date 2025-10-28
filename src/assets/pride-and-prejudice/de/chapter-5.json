@@ -1,0 +1,212 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "sentence": "Nur eine kurze Wegstrecke von Longbourn entfernt wohnte eine Familie, mit der die Bennets besonders befreundet waren."
+    },
+    {
+      "index": 1,
+      "sentence": "Sir William Lucas hatte früher in Meryton einen Handel betrieben, bei dem er ein ziemliches Vermögen erworben hatte, und war durch eine Ansprache an den König während seiner Amtszeit als Bürgermeister in den Ritterstand erhoben worden."
+    },
+    {
+      "index": 2,
+      "sentence": "Diese Auszeichnung hatte ihn vielleicht allzu stark beeindruckt."
+    },
+    {
+      "index": 3,
+      "sentence": "Sie hatte ihn mit Abscheu vor seinem Handel und seinem Wohnsitz in einem kleinen Marktflecken erfüllt."
+    },
+    {
+      "index": 4,
+      "sentence": "So hatte er beides aufgegeben und war mit seiner Familie in ein Haus gezogen, das etwa eine Meile von Meryton entfernt lag und seit der Zeit den Namen Lucas Lodge trug;"
+    },
+    {
+      "index": 5,
+      "sentence": "dort konnte er mit Vergnügen über seine eigene Bedeutung nachdenken und sich, unbehindert durch ein Gewerbe, einzig und allein damit beschäftigen, zu aller Welt zuvorkommend zu sein."
+    },
+    {
+      "index": 6,
+      "sentence": "Denn obgleich ihn sein Rang mit Stolz erfüllte, machte er ihn nicht hochmütig; im Gegenteil, er war für jedermann ganz Aufmerksamkeit."
+    },
+    {
+      "index": 7,
+      "sentence": "Von Natur aus friedfertig, freundlich und gefällig, hatte ihn seine Vorstellung bei Hofe in St. James geradezu liebenswürdig gemacht."
+    },
+    {
+      "index": 8,
+      "sentence": "Lady Lucas war eine sehr gute Frau und nicht zu klug, um eine geschätzte Nachbarin für Mrs. Bennet zu sein."
+    },
+    {
+      "index": 9,
+      "sentence": "– Sie hatten mehrere Kinder."
+    },
+    {
+      "index": 10,
+      "sentence": "Die älteste von ihnen, eine verständige, intelligente junge Frau von etwa siebenundzwanzig Jahren, war Elizabeths vertraute Freundin."
+    },
+    {
+      "index": 11,
+      "sentence": "Daß die Miss Lucas’ und die Miss Bennets zusammenkamen, um einen Ball durchzusprechen, war eine absolute Notwendigkeit;"
+    },
+    {
+      "index": 12,
+      "sentence": "und am Morgen nach der Gesellschaft kamen die ersteren nach Longbourn, um ihre Erlebnisse mit den Bennets auszutauschen."
+    },
+    {
+      "index": 13,
+      "sentence": "\"Sie haben einen guten Anfang gehabt gestern abend, Charlotte\", sagte Mrs. Bennet mit höflicher Selbstbeherrschung zu Miss Lucas."
+    },
+    {
+      "index": 14,
+      "sentence": "\"Sie waren Mr. Bingleys erste Wahl.\""
+    },
+    {
+      "index": 15,
+      "sentence": "\"Ja – aber ihm schien seine zweite besser zu gefallen.\""
+    },
+    {
+      "index": 16,
+      "sentence": "\"Oh – Sie meinen wohl Jane, weil er zweimal mit ihr tanzte."
+    },
+    {
+      "index": 17,
+      "sentence": "Es schien tatsächlich, als gefiele sie ihm – wirklich, ich glaube es schon."
+    },
+    {
+      "index": 18,
+      "sentence": "Ich hörte etwas darüber, aber ich weiß kaum noch, was es war – etwas über Mr. Robinson.\""
+    },
+    {
+      "index": 19,
+      "sentence": "\"Sie meinen vielleicht, was ich zwischen Mr. Bingley und Mr. Robinson mitangehört habe; habe ich Ihnen nichts davon erzählt?"
+    },
+    {
+      "index": 20,
+      "sentence": "Daß Mr. Robinson ihn fragte, wie ihm unsere Gesellschaften in Meryton denn gefielen und ob er nicht meine, daß es sehr viele hübsche Damen im Saal gebe, und wer für ihn die hübscheste sei?"
+    },
+    {
+      "index": 21,
+      "sentence": "Und wie er augenblicklich auf die letzte Frage antwortete – Oh, die älteste Miss Bennet ohne jeden Zweifel, darüber kann es nur eine Meinung geben.\""
+    },
+    {
+      "index": 22,
+      "sentence": "\"Auf mein Wort! – Na, das war tatsächlich eine sehr entschiedene Äußerung – das scheint ja, als ob ..., aber, wissen Sie, das mag alles zu nichts weiter führen.\""
+    },
+    {
+      "index": 23,
+      "sentence": "\"Was ich mitangehört habe, war besser, als was du gehört hattest, Eliza\", sagte Charlotte."
+    },
+    {
+      "index": 24,
+      "sentence": "\"Mr. Darcy zuzuhören macht nicht so viel Freude, wie es bei seinem Freund der Fall ist, nicht wahr? – Arme Eliza! – Nur gerade passabel zu sein.\""
+    },
+    {
+      "index": 25,
+      "sentence": "\"Sie sollten es Lizzy lieber nicht einreden, durch seine unfreundliche Behandlung verärgert zu sein."
+    },
+    {
+      "index": 26,
+      "sentence": "Er ist ja ein so unangenehmer Mensch, daß es schon ein ziemliches Unglück wäre, ihm zu gefallen."
+    },
+    {
+      "index": 27,
+      "sentence": "Mrs. Long erzählte mir gestern abend, daß er eine halbe Stunde lang dicht neben ihr gesessen hat, ohne auch nur einmal den Mund aufzutun.\""
+    },
+    {
+      "index": 28,
+      "sentence": "\"Bist du da ganz sicher, Mama? – Beruht das nicht auf einem kleinen Irrtum?\" fragte Jane."
+    },
+    {
+      "index": 29,
+      "sentence": "\"Ich habe ganz bestimmt gesehen, wie Mr. Darcy mit ihr sprach.\""
+    },
+    {
+      "index": 30,
+      "sentence": "\"Ja, weil sie ihn schließlich fragte, wie ihm Netherfield gefiele, und er nicht umhin konnte, ihr eine Antwort zu geben; aber sie sagte, er schien sehr ärgerlich darüber zu sein, daß er angesprochen wurde.\""
+    },
+    {
+      "index": 31,
+      "sentence": "\"Mr. Bingley erzählte mir\", sagte Jane, \"daß er niemals viel spricht, außer mit seinen vetrauten Freunden."
+    },
+    {
+      "index": 32,
+      "sentence": "Mit ihnen ist er außerordentlich liebenswürdig.\""
+    },
+    {
+      "index": 33,
+      "sentence": "\"Davon glaube ich kein Wort, meine Liebe."
+    },
+    {
+      "index": 34,
+      "sentence": "Wenn er so liebenswürdig wäre, hätte er doch mit Mrs. Long gesprochen."
+    },
+    {
+      "index": 35,
+      "sentence": "Aber ich kann mir schon denken, wie das war; jeder sagt, er würde vom Stolz verzehrt, und ich glaube wohl, ihm war irgendwie zu Ohren gekommen, daß Mrs. Long keine Equipage hält und mit einer Mietkutsche zum Ball gekommen war.\""
+    },
+    {
+      "index": 36,
+      "sentence": "\"Ich würde nichts dabei finden, daß er nicht mit Mrs. Long gesprochen hat\", sagte Miss Lucas, \"aber ich wünschte, er hätte mit Eliza getanzt.\""
+    },
+    {
+      "index": 37,
+      "sentence": "\"Ein andermal würde ich an deiner Stelle auch nicht mit ihm tanzen, Lizzy\", sagte ihre Mutter."
+    },
+    {
+      "index": 38,
+      "sentence": "\"Ich denke, Mama, ich kann dir ohne weiteres versprechen, daß ich nie mit ihm tanzen werde.\""
+    },
+    {
+      "index": 39,
+      "sentence": "\"Sein Stolz\", sagte Miss Lucas, \"beleidigt mich nicht so sehr, wie es Stolz sonst oft tut, denn es gibt eine Entschuldigung dafür."
+    },
+    {
+      "index": 40,
+      "sentence": "Es ist doch nicht verwunderlich, daß ein so glänzender junger Mann mit Familie, Vermögen – und in jeder Hinsicht begünstigt – eine hohe Meinung von sich hat."
+    },
+    {
+      "index": 41,
+      "sentence": "Er hat – wenn ich das so sagen darf – ein Recht darauf, stolz zu sein.\""
+    },
+    {
+      "index": 42,
+      "sentence": "\"Das ist ganz richtig\", erwiderte Elizabeth, \"und ich könnte ihm leicht seinen Stolz verzeihen, wenn er den meinen nicht verletzt hätte.\""
+    },
+    {
+      "index": 43,
+      "sentence": "\"Stolz\", bemerkte Mary, die sich etwas auf die Gültigkeit ihrer Überlegungen einbildete, \"ist, glaube ich, eine sehr verbreitete Schwäche."
+    },
+    {
+      "index": 44,
+      "sentence": "Nach allem, was ich jemals gelesen habe, bin ich überzeugt, daß er tatsächlich sehr verbreitet ist, daß die menschliche Natur besonders dazu neigt und daß es sehr wenige unter uns gibt, die nicht aufgrund der einen oder andern Eigenschaft, ob sie nun wirklich oder eingebildet ist, ein Gefühl der Selbstgefälligkeit nähren."
+    },
+    {
+      "index": 45,
+      "sentence": "Eitelkeit und Stolz sind verschiedene Dinge, obgleich die Worte oftmals als bedeutungsgleich verwendet werden."
+    },
+    {
+      "index": 46,
+      "sentence": "Ein Mensch kann stolz sein, ohne eitel zu sein."
+    },
+    {
+      "index": 47,
+      "sentence": "Stolz bezieht sich mehr auf unsere Meinung von uns selbst, Eitelkeit auf das, was andere von uns denken sollen.\""
+    },
+    {
+      "index": 48,
+      "sentence": "\"Wenn ich so reich wäre wie Mr. Darcy\", rief einer der Lucas-Jungen, der mit seinen Schwestern mitgekommen war, \"wäre mir egal, wie stolz ich bin."
+    },
+    {
+      "index": 49,
+      "sentence": "Ich würde mir eine Meute Fuchshunde halten und jeden Tag eine Flasche Wein trinken.\""
+    },
+    {
+      "index": 50,
+      "sentence": "\"Dann würdest du eine Menge mehr trinken, als du solltest\", erklärte Mrs. Bennet, \"und wenn ich dich damit sehen sollte, würde ich dir die Flasche augenblicklich wegnehmen.\""
+    },
+    {
+      "index": 51,
+      "sentence": "Der Junge protestierte, daß sie das nicht tun dürfe; sie blieb dabei zu erklären, daß sie es doch tun würde, und erst mit dem Aufbruch der Gäste endete der Streit."
+    }
+  ]
+}

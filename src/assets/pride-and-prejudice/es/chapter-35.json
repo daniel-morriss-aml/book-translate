@@ -1,0 +1,400 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "sentence": "Isabel se despertó a la mañana siguiente con los mismos\npensamientos y cavilaciones con que había cerrado los ojos."
+    },
+    {
+      "index": 1,
+      "sentence": "Aun no\npodía reponerse de la sorpresa de lo acaecido; no le era dado\npensar en otra cosa; e inutilizada en absoluto para todo, en cuanto\nse desayunó resolvió dedicarse a tomar el aire y hacer ejercicio."
+    },
+    {
+      "index": 2,
+      "sentence": "Se\nencaminaba en derechura a su paseo favorito cuando, al recordar\nque Darcy iba alguna vez por él, so detuvo, y en lugar de entrar en\nel parque tomó el camino que conducía lejos do la carretera de\nentrada."
+    },
+    {
+      "index": 3,
+      "sentence": "La empalizada del parque era el límite de uno de sus\ncostados, y pronto atravesó una de las puertas que daban acceso a\nla finca."
+    },
+    {
+      "index": 4,
+      "sentence": "Después de pasar dos o tres veces por esa parte del camino entró\nen tentación, por lo delicioso de la mañana, de detenerse a la puerta\ny contemplar el parque."
+    },
+    {
+      "index": 5,
+      "sentence": "Las cinco semanas que llevaba en Kent\nhabían transformado mucho la campiña, y cada día verdeaban más\nlos árboles tempranos."
+    },
+    {
+      "index": 6,
+      "sentence": "A punto estaba de continuar su paseo,\ncuando vislumbró un caballero en la especie de alameda que\nbordeaba el parque; se movía en aquella dirección, y temiendo que\nfuera Darcy se retiró al punto."
+    },
+    {
+      "index": 7,
+      "sentence": "Mas la persona que se adelantaba se\nhallaba ya lo suficiente cerca para verla, y siguiendo andando con\nvelocidad pronunció su nombre."
+    },
+    {
+      "index": 8,
+      "sentence": "Ella se había vuelto; pero al oírse\nllamar, aunque por voz que denotaba ser de Darcy, se dirigió a la\npuerta de nuevo."
+    },
+    {
+      "index": 9,
+      "sentence": "Por entonces él había llegado a la misma también,\ny mostrando una carta que ella instintivamente tomó, dijo, con\nmirada que mostraba altanero comedimiento:\n—He estado paseando por la alameda bastante rato en espera de\nver a usted."
+    },
+    {
+      "index": 10,
+      "sentence": "¿Quiere usted hacerme el honor de leer esta carta?"
+    },
+    {
+      "index": 11,
+      "sentence": "Y al momento, con una ligera inclinación, se dirigió de nuevo hacia\nlos plantíos y pronto se perdió de vista."
+    },
+    {
+      "index": 12,
+      "sentence": "No con esperanzas de placer, pero sí con la mayor curiosidad,\nabrió Isabel la carta, y con sorpresa siempre creciente vió que el\nsobre contenía dos pliegos de papel de escribir y llenos en su\ntotalidad con letra muy apretada."
+    },
+    {
+      "index": 13,
+      "sentence": "Hasta el sobre estaba escrito\ntambién."
+    },
+    {
+      "index": 14,
+      "sentence": "Prosiguiendo su paseo por el camino la comenzó a leer."
+    },
+    {
+      "index": 15,
+      "sentence": "Estaba fechada en Rosings a las ocho de la mañana y era como\nsigue:\n«No se alarme usted, señorita, al recibir esta carta creyendo que\ncontiene una repetición de los sentimientos, una renovación de los\nofrecimientos que tanto disgustaron a usted la última noche."
+    },
+    {
+      "index": 16,
+      "sentence": "Escribo\nsin deseo ninguno de apenar a usted ni de humillarme yo mismo\ninsistiendo en deseos que, por dicha de ambos, no pueden olvidarse\ntan pronto; y el esfuerzo que la redacción y la lectura de esta carta\ntienen que causar podrían haberse ahorrado si mi modo de ser no\nrequiriese que se escriba y se lea."
+    },
+    {
+      "index": 17,
+      "sentence": "Por lo tanto, ha de perdonarme\nusted la libertad con que solicito su atención; sé que sus\nsentimientos de usted sólo pueden otorgarla de mala gana, pero yo\nla exijo de su justicia."
+    },
+    {
+      "index": 18,
+      "sentence": "»Dos delitos de naturaleza muy diversa y de ningún modo de igual\nmagnitud ha cargado usted sobre mí la pasada noche."
+    },
+    {
+      "index": 19,
+      "sentence": "El\nmencionado en primer término era que había separado al señor\nBingley de su hermana de usted sin consideración a los sentimientos\nde ninguno de ellos, y el otro, que yo, a pesar de determinados\nderechos, a despecho del honor y de la humanidad, había arruinado\nla prosperidad inmediata y marchitado las esperanzas al señor\nWickham."
+    },
+    {
+      "index": 20,
+      "sentence": "Haber arrojado cruel e impúdicamente al compañero de\nmi juventud, al favorito de mi padre, joven que apenas tenía otro\narrimo que el de nuestro patrocinio y que había sido educado en la\nexpectativa de que ése se ejerciese, sería depravación con que no\npodría compararse la separación de dos jóvenes cuyo afecto podría\nser sólo producto de algunas semanas."
+    },
+    {
+      "index": 21,
+      "sentence": "Pero de la severidad de la\ncensura que la última noche me dirigió usted tan abiertamente\nespero verme libre en lo futuro si lee usted la siguiente relación de\nmis actos y de sus motivos."
+    },
+    {
+      "index": 22,
+      "sentence": "Si al explanarlos, cosa a mí debida, me\nveo en la precisión de revelar sentimientos que pudieran ofender los\nsuyos, sólo puedo decir que lo lamento."
+    },
+    {
+      "index": 23,
+      "sentence": "Hay que obedecer a la\nnecesidad, y toda excusa sería absurda."
+    },
+    {
+      "index": 24,
+      "sentence": "»No hacía mucho que estaba en el condado de Hertford cuando\nobservé, como los demás, que el señor Bingley distinguía a su\nhermana mayor de usted sobre todas las muchachas del país; pero\nno fué hasta la noche del baile de Netherfield cuando me pareció\nque sentía afecto formal."
+    },
+    {
+      "index": 25,
+      "sentence": "Varias veces le había visto antes\nenamorado."
+    },
+    {
+      "index": 26,
+      "sentence": "En aquel baile, mientras tenía yo el honor de bailar con\nusted, supe por primera vez, por información casual de sir Guillermo\nLucas, que las atenciones de Bingley hacia su hermana de usted\nhabían hecho concebir en general esperanzas de matrimonio; él me\nhabló de ello como de suceso seguro, del que sólo quedaba por\ndecidir la fecha."
+    },
+    {
+      "index": 27,
+      "sentence": "Desde aquel momento observé con cuidado la\nconducta de mi amigo y pude notar que su parcialidad por la\nseñorita de Bennet era mayor de cuanto había visto en él."
+    },
+    {
+      "index": 28,
+      "sentence": "También\nvigilé a su hermana de usted."
+    },
+    {
+      "index": 29,
+      "sentence": "Su aspecto y sus modales eran\nfrancos, alegres y atrayentes como siempre, pero sin síntomas de\nestimación particular; y del examen de la velada quedé convencido\nde que, aun recibiendo con gusto las atenciones de él, no\ncorrespondía ella a las mismas con participación de idénticos\nsentimientos."
+    },
+    {
+      "index": 30,
+      "sentence": "Si usted no se ha equivocado en cuanto a esto, será\nque yo he estado en un error."
+    },
+    {
+      "index": 31,
+      "sentence": "El superior conocimiento que usted\nposee de su hermana habrá de hacer más probable lo último; y si es\nasí, si inducido por ese error he infligido a usted pesadumbre por\nello, su resentimiento de usted no ha sido inmotivado."
+    },
+    {
+      "index": 32,
+      "sentence": "Mas no\ntendría escrúpulo en asegurar que la tranquilidad del aspecto y aire\nde su hermana eran tales que podrían haber proporcionado al más\nfino observador la convicción de que, aun siendo amistoso su\ntemple, su corazón no parecía fácil de herir."
+    },
+    {
+      "index": 33,
+      "sentence": "Que yo deseaba creer\nen su indiferencia es cierto; pero me atrevo a afirmar que mis\ninvestigaciones y mis decisiones no se dejan influir de ordinario por\nesperanzas o temores."
+    },
+    {
+      "index": 34,
+      "sentence": "No la creía indiferente porque yo la deseara;\njuzgábala así con convicción imparcial, como tan cierto cual si lo\ndesease razonablemente."
+    },
+    {
+      "index": 35,
+      "sentence": "Mis objeciones al matrimonio ese no eran\nexactamente las que la última noche reconocí que requerían en mi\npropio caso la mayor fuerza pasional para dejarlas a un lado; la\ndesproporción no sería tan grave mal para mi amigo como para mí;\nmas había otras causas de repugnancia, causas que, aun existiendo,\ny existiendo en igual grado en ambos casos, yo había tratado de\nolvidar porque no estarían inmediatamente ante mí."
+    },
+    {
+      "index": 36,
+      "sentence": "He de\nmencionarlas aunque sea con brevedad."
+    },
+    {
+      "index": 37,
+      "sentence": "La situación de la familia de\nsu madre de usted, aunque objecionable, no era nada en\ncomparación con la absoluta falta de conveniencia tan a menudo,\ncasi constantemente, mostrada por ella misma, por las tres\nhermanas menores y a veces por su padre."
+    },
+    {
+      "index": 38,
+      "sentence": "Perdóneme usted; me\naflige ofenderla; pero en medio de su inquietud por los defectos de\nsus más próximos parientes y de su disgusto por la mención de los\nmismos, consuélese usted considerando que el haberse conducido\nustedes de tal modo que haya evitado la menor sombra de tales\ncensuras es elogio no menos reconocido a usted que a su hermana\nmayor para la opinión y crédito de ambas."
+    },
+    {
+      "index": 39,
+      "sentence": "Diré sólo que con lo que\npasó aquella noche se confirmó en todas sus partes mi sospecha y\ncrecieron los motivos que antes ya habían podido impulsarme a\npreservar a mi amigo de la que tenía por desdichada unión."
+    },
+    {
+      "index": 40,
+      "sentence": "El se\nmarchó de Netherfield a Londres al día siguiente, como usted\nrecordará, con deseos de regresar pronto."
+    },
+    {
+      "index": 41,
+      "sentence": "»Falta ahora explicar la parte que tomé en el asunto."
+    },
+    {
+      "index": 42,
+      "sentence": "El disgusto\nde sus hermanas se había excitado con el mío; pronto descubrimos\nnuestra coincidencia de sentimientos, y conocedores por igual de\nque no había tiempo que perder en separar a Bingley, resolvimos\npronto unirnos con él en Londres."
+    },
+    {
+      "index": 43,
+      "sentence": "En vista de ello, fuimos allí, y al\npunto me dediqué a la empresa de hacer ver a mi amigo los peligros\nde semejante elección."
+    },
+    {
+      "index": 44,
+      "sentence": "Se los enumeré y reforcé con seriedad."
+    },
+    {
+      "index": 45,
+      "sentence": "Mas\naunque una exposición así pudiera lograr que vacilara o se dilatara\nsu determinación, no creo que habría impedido a la postre el\nmatrimonio si no hubiera sido secundada por la seguridad, que no\ndudé en darle, de la indiferencia de su hermana de usted."
+    },
+    {
+      "index": 46,
+      "sentence": "Hasta\nentonces había creído que ella correspondía a su afecto con sincera\naunque no igual estimación."
+    },
+    {
+      "index": 47,
+      "sentence": "Pero Bingley posee gran modestia\nnatural junto con mayor deferencia a mi juicio que al suyo propio."
+    },
+    {
+      "index": 48,
+      "sentence": "Con todo, convencerle de que se había engañado no fué cosa fácil;\npersuadirle de no volver al condado una vez convencido de aquello\nfué obra de un instante."
+    },
+    {
+      "index": 49,
+      "sentence": "No puedo censurarme por haber hecho todo\neso."
+    },
+    {
+      "index": 50,
+      "sentence": "No hay sino una parte de mi conducta en la totalidad del asunto\nen que no pienso con satisfacción: consiste en que accedí a adoptar\nmedidas tales que ocultaran a Bingley la presencia de su hermana\nde usted en la capital."
+    },
+    {
+      "index": 51,
+      "sentence": "Conocíala yo, como la conocía la señorita de\nBingley; pero el hermano de ésta aun lo ignora."
+    },
+    {
+      "index": 52,
+      "sentence": "Es quizá probable\nque se hubieran encontrado sin malas consecuencias; mas su afecto\nno me parecía extinguido lo suficiente para que la viese sin peligro."
+    },
+    {
+      "index": 53,
+      "sentence": "Acaso esa ocultación fuera indigna de mí, pero la tuve por lo mejor."
+    },
+    {
+      "index": 54,
+      "sentence": "En ese asunto no tengo más que decir ni otra excusa que ofrecer."
+    },
+    {
+      "index": 55,
+      "sentence": "Si\nhe herido los sentimientos de su hermana de usted ha sido\ninvoluntariamente, y aunque los motivos que me guiaron es natural\nque puedan parecer a usted insuficientes, aun no he podido\ncondenarlos."
+    },
+    {
+      "index": 56,
+      "sentence": "»Con respecto a la otra acusación, de más peso, de haber\nperjudicado al señor Wickham, sólo la puedo refutar presentando\nante usted la totalidad de su relación con mi familia."
+    },
+    {
+      "index": 57,
+      "sentence": "Ignoro de qué\nme ha acusado él en particular; pero de la verdad de cuanto voy a\ncontar a usted puedo citar más de un testigo de incontrastable\nveracidad."
+    },
+    {
+      "index": 58,
+      "sentence": "»El señor Wickham es hijo de un hombre respetabilísimo que tuvo\nencomendada durante muchos años la administración de todos los\nestados de Pemberley, y cuya buena conducta en el desempeño de\nsu cargo inclinó, como era natural, a mi padre a favorecerle; y el\ncariño de éste se manifestó, por lo tanto, de modo liberal para con\nJorge Wickham, que era su ahijado."
+    },
+    {
+      "index": 59,
+      "sentence": "Sostúvole en la escuela y\ndespués en Cambridge con importantes auxilios, ya que su padre,\nsiempre pobre por las extravagancias de su mujer, había sido\nimpotente para darle educación de caballero."
+    },
+    {
+      "index": 60,
+      "sentence": "El mío, no sólo gustaba\nde la compañía del muchacho, cuyas maneras eran siempre\natrayentes; tuvo también la más alta opinión de él, y esperando que\nla Iglesia fuera su profesión, trató de proveerle en ella."
+    },
+    {
+      "index": 61,
+      "sentence": "En cuanto a\nmí, hace muchos, muchos años que principié a pensar de él de muy\ndiferente manera."
+    },
+    {
+      "index": 62,
+      "sentence": "Las propensiones viciosas; la falta de principios,\nque cuidaba de ocultar al conocimiento de su mejor amigo, no\npudieron escapar a la atención de un joven de casi su misma edad y\nque tenía que observarle en momentos de espontaneidad que el\nseñor Darcy no tenía."
+    },
+    {
+      "index": 63,
+      "sentence": "De aquí en adelante habré de apenar a usted,\naunque sólo usted pueda decir hasta qué grado; pero cualesquiera\nque sean los sentimientos que el señor Wickham haya despertado,\nsospecha de tal naturaleza no me ha de impedir desenmascarar su\nverdadero carácter: eso será justamente otro motivo."
+    },
+    {
+      "index": 64,
+      "sentence": "»Mi excelente padre murió hace cinco años, y su afecto hacia el\nseñor Wickham siguió tan constante hasta el fin que en su\ntestamento lo recomendó en particular a mí para que procurase su\nadelanto del mejor modo que su profesión consintiera; y, si recibía\nórdenes, deseaba que fuese suyo un beneficio capaz de satisfacer a\nuna familia en cuanto quedase vacante."
+    },
+    {
+      "index": 65,
+      "sentence": "También había allí un legado\nde mil libras."
+    },
+    {
+      "index": 66,
+      "sentence": "Su propio padre no sobrevivió mucho al mío, y antes\nde medio año tras ambos sucesos el señor Wickham me escribió\ninformándome de que, habiendo resuelto por fin no ordenarse,\nsuponía que yo no tendría por indebido que esperase él alguna\nventaja pecuniaria más inmediata a cambio del beneficio que no\nhabía de disfrutar."
+    },
+    {
+      "index": 67,
+      "sentence": "Añadía que abrigaba intención de seguir los\nestudios de derecho y que yo debía comprender que los intereses de\nmil libras era forzoso que fuesen insuficiente apoyo para lograrlo."
+    },
+    {
+      "index": 68,
+      "sentence": "En\ncuanto a mí, más bien deseaba que creía que él fuera sincero; mas,\nde todos modos, estuve dispuesto a acceder a su proposición."
+    },
+    {
+      "index": 69,
+      "sentence": "Conocía que el señor Wickham no debía ser clérigo; el asunto se\narregló por consiguiente; él renunció a toda pretensión a ser asistido\nen la Iglesia, aun siendo posible que alguna vez se viera en situación\nde poderlo ser, y aceptó en cambio tres mil libras."
+    },
+    {
+      "index": 70,
+      "sentence": "Toda cuestión\nentre ambos parecía así zanjada."
+    },
+    {
+      "index": 71,
+      "sentence": "Pensaba de él sobrado mal para\ninvitarle a Pemberley o para admitir su compañía en la capital."
+    },
+    {
+      "index": 72,
+      "sentence": "Creo\nque vivió sobre todo en ésta; mas sus estudios de derecho fueron\nsólo un pretexto, y viéndose entonces libre de todo yugo, su vida fué\nde ocio y disipación."
+    },
+    {
+      "index": 73,
+      "sentence": "Durante tres años oí poco de él; pero a la\nmuerte del poseedor del beneficio que había sido designado para él\ndirigióse de nuevo a mí por carta para que le presentase."
+    },
+    {
+      "index": 74,
+      "sentence": "Asegurábame, y no tenía yo dificultad en creerlo, que sus\ncircunstancias eran en extremo malas, hallándose ahora decidido en\nabsoluto a entrar en orden si yo le presentaba para el beneficio en\ncuestión; en lo cual él confiaba que no habría duda, por saber de\ncierto que carecía yo de otra persona a quien proponer y por no\npoder yo olvidar las intenciones de mi venerable padre."
+    },
+    {
+      "index": 75,
+      "sentence": "Con\ndificultad me censurará usted por haberme negado a satisfacer esa\npetición."
+    },
+    {
+      "index": 76,
+      "sentence": "Su resentimiento fué proporcional a lo calamitoso de sus\ncircunstancias, y sin duda fué tan violento en ultrajarme ante los\notros como en sus reproches directos a mí."
+    },
+    {
+      "index": 77,
+      "sentence": "Tras del suceso acabóse\ntoda apariencia de relación entre los dos."
+    },
+    {
+      "index": 78,
+      "sentence": "Ignoro cómo vivió."
+    },
+    {
+      "index": 79,
+      "sentence": "Pero el\núltimo verano llegó él muy penosamente a mi noticia."
+    },
+    {
+      "index": 80,
+      "sentence": "»Tengo que mencionar a usted ahora una circunstancia que yo\nmismo querría olvidar y que no menor obligación que la actual\npodría inducirme a descubrir a ningún humano viviente."
+    },
+    {
+      "index": 81,
+      "sentence": "Habiendo\nhablado tanto no dudo de su secreto de usted."
+    },
+    {
+      "index": 82,
+      "sentence": "Mi hermana, que\ntiene más de diez años menos que yo, quedó bajo la custodia de mi\nmadre, el coronel Fitzwilliam y yo."
+    },
+    {
+      "index": 83,
+      "sentence": "Hace cerca de un año salió del\ncolegio y se instaló en Londres, y el verano último fué, con la señora\nque la dirigía, a Ramsgate, y allí fué también el señor Wickham, a no\ndudarlo de propósito, porque se probó que había mediado relación\nanterior entre él y la señora Younge, sobre cuyo carácter habíamos\nsido por desgracia engañados; y con la complicidad de ésta y su\nayuda dedicóse aquél a Georgiana, cuyo tierno corazón, como de\nniña, se impresionó con fuerza por la amabilidad que él le\ndemostraba; tanto, que se creyó enamorada y consintió en fugarse."
+    },
+    {
+      "index": 84,
+      "sentence": "No tenía entonces sino quince años, lo cual habrá de servirle de\nexcusa; y tras de declarar su intención, me complazco en añadir que\ndebí a ella misma el conocimiento del plan."
+    },
+    {
+      "index": 85,
+      "sentence": "Me reuní con ellos\ninesperadamente un día o dos antes de la proyectada fuga, y\nentonces Georgiana, incapaz de soportar la idea de afligir y ofender\na un hermano a quien casi consideraba como padre, me comunicó\ntodo."
+    },
+    {
+      "index": 86,
+      "sentence": "El velar por el crédito y los sentimientos de mi hermana me\nvedaron dar un escándalo público; pero escribí al señor Wickham,\nquien abandonó al punto aquel sitio, y la señora Younge fué, como\nes natural, destituída de su cargo."
+    },
+    {
+      "index": 87,
+      "sentence": "La principal mira del señor\nWickham era sin duda la fortuna de mi hermana, consistente en\ntreinta mil libras; mas no puedo dejar de sospechar que la esperanza\nde vengarse de mí fuese otro poderoso estímulo."
+    },
+    {
+      "index": 88,
+      "sentence": "En verdad que\nhabría sido venganza completa."
+    },
+    {
+      "index": 89,
+      "sentence": "»Esta es, señorita, la fiel narración de cuantos hechos se han\nreferido a ambos; y si no la rechaza usted en absoluto, espero que\nme descargue en adelante del pecado de crueldad contra el señor\nWickham."
+    },
+    {
+      "index": 90,
+      "sentence": "No sé ahora de qué modo, bajo qué forma de falsedad se\nha impuesto a usted; pero no hay que maravillarse de su buen éxito,\nya que ignoraba usted todo lo concerniente a los dos."
+    },
+    {
+      "index": 91,
+      "sentence": "El averiguarlo\nno estaba al alcance de usted y a sospecharlo no se sentía usted\ninclinada."
+    },
+    {
+      "index": 92,
+      "sentence": "»Es posible que extrañe usted no haberle yo revelado todo esto la\nnoche pasada; mas entonces no era lo suficiente dueño de mí\nmismo para discernir lo que podía y debía revelar."
+    },
+    {
+      "index": 93,
+      "sentence": "De la verdad de\ncuanto aquí he contado puedo apelar en particular al testimonio del\ncoronel Fitzwilliam, quien por nuestro próximo parentesco y\nconstante intimidad, y aun más como uno de los ejecutores\ntestamentarios de mi padre, ha sido inevitablemente enterado de\ntodos los detalles de estas transacciones."
+    },
+    {
+      "index": 94,
+      "sentence": "Si el odio de usted hacia\nmí dejara sin valor mis aseveraciones, no puede verse usted\nimpedida por idéntica causa de confiar en mi primo, y ahora puede\ndarse ocasión de consultarle."
+    },
+    {
+      "index": 95,
+      "sentence": "Trataré de encontrar oportunidad para\nponer esta carta en ma."
+    },
+    {
+      "index": 96,
+      "sentence": "nos de usted en el curso de esta mañana."
+    },
+    {
+      "index": 97,
+      "sentence": "Sólo quiero añadir que Dios la bendiga a usted."
+    },
+    {
+      "index": 98,
+      "sentence": "»Fitzwilliam Darcy.»"
+    }
+  ]
+}

@@ -106,6 +106,8 @@ describe('HamburgerMenuComponent', () => {
             showTranslationSlider: false,
             darkMode: true,
             showTranslation: true,
+            sentencesPerPage: 8,
+            nativeLanguage: 'en',
         };
 
         settingsSubject.next(newSettings);
@@ -120,6 +122,8 @@ describe('HamburgerMenuComponent', () => {
             showTranslationSlider: true,
             darkMode: false,
             showTranslation: true,
+            sentencesPerPage: 8,
+            nativeLanguage: 'en',
         };
 
         settingsSubject.next(newSettings);

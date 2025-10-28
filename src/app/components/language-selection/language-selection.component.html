@@ -1,0 +1,73 @@
+<div class="min-h-screen bg-gray-100 dark:bg-gray-900">
+    <!-- Header -->
+    <app-header [title]="book()?.title || 'Select Language'" />
+
+    <!-- Loading State -->
+    @if (loading()) {
+    <div class="flex items-center justify-center p-12">
+        <div class="text-xl text-gray-600 dark:text-gray-400">
+            Loading...
+        </div>
+    </div>
+    }
+
+    <!-- Error State -->
+    @if (error() && !loading()) {
+    <div class="flex items-center justify-center p-12">
+        <div class="text-xl text-red-600 dark:text-red-400">{{ error() }}</div>
+    </div>
+    }
+
+    <!-- Language Selection -->
+    @if (!loading() && !error()) {
+    <main class="max-w-4xl mx-auto p-8">
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-8">
+            <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-4">
+                Choose Translation Language
+            </h2>
+            
+            <p class="text-gray-600 dark:text-gray-400 mb-6">
+                Your native language is <strong>{{ getNativeLanguageName() }}</strong>. 
+                Select which language you'd like to learn:
+            </p>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                @for (translation of availableTranslations(); track translation.code) {
+                <div
+                    (click)="selectLanguage(translation)"
+                    class="bg-gray-50 dark:bg-gray-700 rounded-lg p-6 cursor-pointer hover:bg-blue-50 dark:hover:bg-blue-900 transition border-2 border-transparent hover:border-blue-500"
+                >
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold text-gray-800 dark:text-gray-100">
+                                {{ translation.name }}
+                            </h3>
+                            <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">
+                                {{ translation.title }}
+                            </p>
+                        </div>
+                        <div class="text-3xl">
+                            @if (translation.code === 'de') {
+                                🇩🇪
+                            }
+                            @if (translation.code === 'es') {
+                                🇪🇸
+                            }
+                            @if (translation.code === 'en') {
+                                🇬🇧
+                            }
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+
+            @if (availableTranslations().length === 0) {
+            <div class="text-center text-gray-500 dark:text-gray-400 py-8">
+                No translations available for your native language.
+            </div>
+            }
+        </div>
+    </main>
+    }
+</div>

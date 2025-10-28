@@ -251,6 +251,8 @@ export class HamburgerMenuComponent implements OnInit {
         showTranslationSlider: true,
         darkMode: false,
         showTranslation: true,
+        sentencesPerPage: 8,
+        nativeLanguage: 'en',
     });
 
     constructor(

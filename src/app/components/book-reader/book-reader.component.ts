@@ -53,6 +53,8 @@ export class BookReaderComponent implements OnInit {
         showTranslationSlider: true,
         darkMode: false,
         showTranslation: true,
+        sentencesPerPage: 8,
+        nativeLanguage: 'en',
     });
 
     constructor(

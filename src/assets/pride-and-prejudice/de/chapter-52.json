@@ -1,0 +1,436 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "sentence": "Elizabeth hatte die Genugtuung, sobald es möglich war, eine Antwort auf ihren Brief zu bekommen."
+    },
+    {
+      "index": 1,
+      "sentence": "Kaum hatte sie diese in Händen, als sie auch schon damit in das kleine Wäldchen lief, wo es am unwahrscheinlichsten war, daß sie gestört würde."
+    },
+    {
+      "index": 2,
+      "sentence": "Sie setzte sich dort auf eine Bank und bereitete sich auf eine glückliche Stunde vor, denn die Länge des Briefes überzeugte sie, daß er keine abschlägige Antwort enthielt."
+    },
+    {
+      "index": 3,
+      "sentence": "Gracechurch Street, 6."
+    },
+    {
+      "index": 4,
+      "sentence": "Sept. \"Meine liebe Nichte, ich habe gerade Deinen Brief erhalten und werde diesen ganzen Vormittag seiner Beantwortung widmen, da ich vorhersehe, daß ein kurzes Schreiben nicht ausreicht für das, was ich Dir zu berichten habe."
+    },
+    {
+      "index": 5,
+      "sentence": "Ich muß gestehen, daß mich Deine Bitte überrascht hat; ich hatte sie nicht von Dir erwartet."
+    },
+    {
+      "index": 6,
+      "sentence": "Denke nicht, daß ich ärgerlich bin, ich wollte Dich nur wissen lassen, daß ich nicht angenommen hatte, solche Erkundigungen würden von Deiner Seite notwendig sein."
+    },
+    {
+      "index": 7,
+      "sentence": "Wenn Du mich nicht verstehen willst, verzeih meine Zudringlichkeit. Dein Onkel ist ebenso überrascht, wie ich es bin – denn nichts als der Glaube, daß Du dabei eine Rolle spieltest, hätte es ihm gestattet, so zu handeln, wie er es getan hat."
+    },
+    {
+      "index": 8,
+      "sentence": "Aber wenn Du wirklich arglos bist und nichts davon weißt, muß ich ausführlicher werden."
+    },
+    {
+      "index": 9,
+      "sentence": "Am gleichen Tag, an dem ich von Longbourn nach Hause kam, hatte Dein Onkel einen völlig unerwarteten Besucher. Es war Mr. Darcy, und die beiden zogen sich mehrere Stunden miteinander zurück."
+    },
+    {
+      "index": 10,
+      "sentence": "Als ich ankam, war alles schon besprochen, und so war ich nicht so schrecklich auf die Folter gespannt, wie Du es zu sein scheinst."
+    },
+    {
+      "index": 11,
+      "sentence": "Er war gekommen, um Mr. Gardiner zu sagen, daß er herausgefunden habe, wo sich Deine Schwester und Mr. Wickham aufhielten, und daß er sie gesehen und mit beiden gesprochen habe – mit Wickham mehrmals, mit Lydia nur einmal."
+    },
+    {
+      "index": 12,
+      "sentence": "Wie ich entnehmen konnte, verließ er Derbyshire nur einen Tag nach uns und kam in die Stadt mit dem Entschluß, sie aufzuspüren."
+    },
+    {
+      "index": 13,
+      "sentence": "Als Beweggrund nannte er seine Überzeugung, daß er die Schuld daran trage, daß Wickhams Nichtswürdigkeit nicht genügend bekannt war, um es für eine junge Frau von Charakter unmöglich zu machen, ihn zu lieben und ihm zu vertrauen."
+    },
+    {
+      "index": 14,
+      "sentence": "Er schrieb großmütig alles seinem falschen Stolz zu und gestand, daß er bisher geglaubt habe, es sei unter seiner Würde, seine privaten Handlungen vor der Welt offenzulegen. Wickhams Charakter sollte für sich selbst sprechen."
+    },
+    {
+      "index": 15,
+      "sentence": "Er bezeichnete es deshalb als seine Pflicht, etwas zu unternehmen und zu versuchen, ein Unglück wiedergutzumachen, das von ihm selbst herbeigeführt worden sei."
+    },
+    {
+      "index": 16,
+      "sentence": "Falls er ein anderes Motiv hatte, würde es ihm gewiß niemals zur Schande gereichen. Er hatte sich mehrere Tage in der Stadt aufgehalten, bis er sie fand; aber er hatte etwas, das seiner Suche eine Richtung gab, und das hatten wir nicht; und das Wissen darum war ein weiterer Grund für seinen Entschluß, uns zu folgen."
+    },
+    {
+      "index": 17,
+      "sentence": "Wie es scheint, gibt es da eine Dame, eine Mrs. Younge, die vor einiger Zeit Miss Darcys Gouvernante gewesen und wegen einer mißliebigen Angelegenheit entlassen worden ist; er sagte aber nicht, was es gewesen war."
+    },
+    {
+      "index": 18,
+      "sentence": "Sie hatte dann ein großes Haus in der Edward Street gepachtet und sich seitdem mit dem Vermieten von möblierten Zimmern ihren Unterhalt verdient."
+    },
+    {
+      "index": 19,
+      "sentence": "Er wußte, daß diese Mrs. Younge mit Wickham eng befreundet war; und sobald er in die Stadt kam, ging er zu ihr, um etwas über ihn zu erfahren; doch erst nach zwei oder drei Tagen gelang es ihm, ihr zu entlocken, was er wissen wollte."
+    },
+    {
+      "index": 20,
+      "sentence": "Ich nehme an, sie wollte ihr Wissen nicht verraten ohne Bestechung, denn sie wußte tatsächlich, wo ihr Freund zu finden war."
+    },
+    {
+      "index": 21,
+      "sentence": "Wickham war wirklich zu ihr gegangen, als sie in London ankamen, und sie wären auch bei ihr untergekommen, wenn sie in ihrem Haus Platz gehabt hätte."
+    },
+    {
+      "index": 22,
+      "sentence": "Schließlich bekam unser gütiger Freund die gewünschte Adresse."
+    },
+    {
+      "index": 23,
+      "sentence": "Sie hielten sich in der ..."
+    },
+    {
+      "index": 24,
+      "sentence": "Street auf."
+    },
+    {
+      "index": 25,
+      "sentence": "Er traf Wickham und bestand darauf, auch Lydia zu sehen."
+    },
+    {
+      "index": 26,
+      "sentence": "Sein erstes Ziel bei ihr war, wie er erklärte, sie dazu zu bewegen, sich aus ihrer gegenwärtigen schimpflichen Lage zu befreien und, sobald ihre Angehörigen bewogen werden konnten, sie aufzunehmen, zu ihnen zurückzukehren; und er bot ihr seine Hilfe an, soweit dies möglich war."
+    },
+    {
+      "index": 27,
+      "sentence": "Aber er fand Lydia absolut entschlossen zu bleiben, wo sie war."
+    },
+    {
+      "index": 28,
+      "sentence": "Ihre Angehörigen waren ihr alle gleichgültig, sie wollte keine Hilfe von ihm, und sie wollte nichts davon hören, Wickham zu verlassen."
+    },
+    {
+      "index": 29,
+      "sentence": "Sie war sicher, sie würden irgendwann einmal heiraten, und es sei nicht so wichtig, wann das sei."
+    },
+    {
+      "index": 30,
+      "sentence": "Da sie so dachte, blieb, wie er meinte, nur übrig, ihre Heirat sicherzustellen und zu beschleunigen; denn zu heiraten hatte Wickham, wie Mr. Darcy schon bei seiner allerersten Unterredung mit ihm leicht erfahren konnte, niemals beabsichtigt."
+    },
+    {
+      "index": 31,
+      "sentence": "Er gab zu, daß er genötigt gewesen sei, wegen sehr drückender Spielschulden das Regiment zu verlassen; und er hatte keine Skrupel, alle schlimmen Folgen von Lydias Flucht allein ihrer Torheit zuzuschreiben."
+    },
+    {
+      "index": 32,
+      "sentence": "Er wollte sofort seinen Abschied nehmen, und was seine zukünftige Stellung anging, konnte er sehr wenig dazu sagen."
+    },
+    {
+      "index": 33,
+      "sentence": "Er müsse zwar irgendwohin gehen, doch er wisse noch nicht, wohin das sein würde, er wisse aber, daß er nichts habe, wovon er leben könne. Mr. Darcy fragte ihn, warum er Deine Schwester nicht gleich geheiratet habe. Obwohl Mr."
+    },
+    {
+      "index": 34,
+      "sentence": "Bennet vermutlich nicht sehr reich sei, so hätte er doch etwas für ihn tun können, und seine Lage wäre durch die Heirat gewiß verbessert worden."
+    },
+    {
+      "index": 35,
+      "sentence": "Doch aus der Antwort auf diese Frage entnahm er, daß Wickham noch immer die Hoffnung hegte, sein Glück durch eine vorteilhaftere Heirat in einer anderen Gegend zu machen."
+    },
+    {
+      "index": 36,
+      "sentence": "Unter solchen Umständen war es jedoch unwahrscheinlich, daß er gefeit war gegen die Versuchung augenblicklicher Abhilfe."
+    },
+    {
+      "index": 37,
+      "sentence": "Sie trafen sich mehrmals, denn es gab viel zu besprechen."
+    },
+    {
+      "index": 38,
+      "sentence": "Wickham wollte natürlich mehr, als er bekommen konnte; aber schließlich war er einsichtig."
+    },
+    {
+      "index": 39,
+      "sentence": "Als alles zwischen ihnen abgemacht war, unterrichtete Mr. Darcy als nächsten Schritt Deinen Onkel davon; das erstemal kam er am Abend vor meiner Heimkehr nach Gracechurch Street."
+    },
+    {
+      "index": 40,
+      "sentence": "Aber er traf Mr. Gardiner nicht an, und Mr. Darcy erfuhr nach weiteren Erkundigungen, daß Dein Vater noch bei ihm war, doch am nächsten Morgen die Stadt verlassen würde."
+    },
+    {
+      "index": 41,
+      "sentence": "Er schätzte Deinen Vater nicht als einen Menschen ein, mit dem er sich so gut beraten konnte wie mit Deinem Onkel, und verschob seinen Besuch bei ihm sogleich bis nach der Abreise Deines Vaters."
+    },
+    {
+      "index": 42,
+      "sentence": "Er hatte seinen Namen nicht genannt, und bis zum nächsten Tag war nur bekannt, daß ein Herr wegen einer geschäftlichen Angelegenheit vorgesprochen habe."
+    },
+    {
+      "index": 43,
+      "sentence": "Am Samstag kam er wieder."
+    },
+    {
+      "index": 44,
+      "sentence": "Dein Vater war fort, Dein Onkel war zu Hause, und, wie ich schon erwähnte, hatten sie eine Menge zu besprechen."
+    },
+    {
+      "index": 45,
+      "sentence": "Am Sonntag kamen sie wieder zusammen, und dann sah auch ich ihn."
+    },
+    {
+      "index": 46,
+      "sentence": "Erst am Montag war alles geregelt, und der Eilbote wurde sofort nach Longbourn geschickt."
+    },
+    {
+      "index": 47,
+      "sentence": "Aber unser Besucher war sehr hartnäckig."
+    },
+    {
+      "index": 48,
+      "sentence": "Ich glaube, Lizzy, diese Hartnäckigkeit ist schließlich ein wirklicher Charakterfehler von ihm."
+    },
+    {
+      "index": 49,
+      "sentence": "Er ist zu verschiedenen Zeiten vieler Fehler bezichtigt worden, aber diesen hat er tatsächlich."
+    },
+    {
+      "index": 50,
+      "sentence": "Er mußte alles selbst in die Hand nehmen, obgleich ich sicher bin (und ich sage das nicht, weil ich Dank erwarte, erwähne es deshalb bitte nicht), daß Dein Onkel die ganze Sache ebenfalls sehr gern geregelt hätte."
+    },
+    {
+      "index": 51,
+      "sentence": "Sie stritten eine lange Zeit darum, und das war mehr, als die beiden, die es anging, verdienten."
+    },
+    {
+      "index": 52,
+      "sentence": "Aber schließlich mußte Dein Onkel nachgeben, und statt daß er für seine Nichte von Nutzen sein durfte, mußte er sich damit zufriedengeben, daß es nur scheinbar sein Verdienst war, was ihm sehr gegen den Strich ging; und ich glaube wirklich, Dein Brief hat ihn heute morgen sehr erfreut, weil er eine Erklärung erforderlich machte, die ihm seine fremden Federn nehmen und das Lob dem zukommen lassen würde, dem es gebührt."
+    },
+    {
+      "index": 53,
+      "sentence": "Aber Lizzy, das darf niemand sonst wissen, außer höchstens noch Jane."
+    },
+    {
+      "index": 54,
+      "sentence": "Ich nehme an, Du weißt sehr gut, was für die jungen Leute getan worden ist."
+    },
+    {
+      "index": 55,
+      "sentence": "Seine Schulden, die sich, glaube ich, auf wesentlich mehr als eintausend Pfund belaufen, müssen bezahlt werden, außerdem sind weitere tausend auf Lydia ausgesetzt worden, und es mußte eine Offiziersstelle gekauft werden."
+    },
+    {
+      "index": 56,
+      "sentence": "Der Grund, warum er all dies allein tun wollte, war der schon am Anfang erwähnte."
+    },
+    {
+      "index": 57,
+      "sentence": "Es sei ihm, seiner Zurückhaltung und fehlenden Einsicht zuzuschreiben, daß Wickhams Charakter so falsch eingeschätzt und er folglich so aufgenommen und mit Achtung behandelt wurde, wie es geschehen ist."
+    },
+    {
+      "index": 58,
+      "sentence": "Vielleicht ist daran etwas Wahres, obgleich ich bezweifle, daß seine Zurückhaltung oder die von irgend jemand anders für diesen Fall verantwortlich gemacht werden kann."
+    },
+    {
+      "index": 59,
+      "sentence": "Aber trotz dieser ganzen schönen Rede, meine liebe Lizzy, kannst Du Dich darauf verlassen, daß Dein Onkel niemals nachgegeben hätte, wenn wir ihm nicht noch ein anderes Interesse an dieser Sache zugeschrieben hätten."
+    },
+    {
+      "index": 60,
+      "sentence": "Als nun alles beschlossen war, kehrte er wieder zu seinen Freunden zurück, die noch in Pemberley weilten; aber es war vereinbart worden, daß er noch einmal am Tag der Hochzeit nach London kommen würde und daß dann alle Geldangelegenheiten endgültig zum Abschluß gebracht werden sollten."
+    },
+    {
+      "index": 61,
+      "sentence": "Ich glaube, ich habe Dir nun alles erzählt."
+    },
+    {
+      "index": 62,
+      "sentence": "Es ist ein Bericht, der Dich, wie Du selbst sagst, sehr überraschen wird; ich hoffe zumindest, daß er Dir kein Mißvergnügen bereitet."
+    },
+    {
+      "index": 63,
+      "sentence": "Lydia kam zu uns, und auch Wickham hatte ständig Zutritt in unserem Haus."
+    },
+    {
+      "index": 64,
+      "sentence": "Er war noch ganz derselbe, wie ich ihn von Hertfordshire her kannte; aber wie wenig zufrieden ich mit Lydias Betragen war, während sie bei uns blieb, würde ich Dir nicht schreiben, wenn ich nicht Janes Brief letzten Mittwoch entnommen hätte, daß ihr Verhalten, als sie heimkam, genau das gleiche war; und deshalb kann Dir das, was ich nun erzähle, keinen neuen Kummer bereiten. Ich habe wiederholt sehr ernsthaft mit ihr geredet, ihr die ganze Schlechtigkeit dessen, was sie getan hatte, und das ganze Unglück, das sie über ihre Familie gebracht hatte, vor Augen geführt."
+    },
+    {
+      "index": 65,
+      "sentence": "Ich bin sicher, daß sie mir überhaupt nicht zuhörte, es war reine Glückssache, wenn sie es einmal tat."
+    },
+    {
+      "index": 66,
+      "sentence": "Ich war manchmal ziemlich aufgebracht, doch dann dachte ich an meine liebe Elizabeth und meine liebe Jane, und um Euretwillen hatte ich Geduld mit ihr."
+    },
+    {
+      "index": 67,
+      "sentence": "Mr. Darcy kam pünktlich zurück, und wie Lydia Dir sagte, war er bei der Trauung anwesend."
+    },
+    {
+      "index": 68,
+      "sentence": "Er war am nächsten Tag zum Dinner bei uns und mußte die Stadt am Mittwoch oder Donnerstag wieder verlassen."
+    },
+    {
+      "index": 69,
+      "sentence": "Bist Du sehr ärgerlich mit mir, meine liebe Lizzy, wenn ich diese Gelegenheit ergreife, um Dir zu sagen (wozu ich vorher nie genug Mut hatte), wie sehr ich ihn mag?"
+    },
+    {
+      "index": 70,
+      "sentence": "Sein Verhalten uns gegenüber war in jeder Hinsicht ebenso einnehmend wie damals in Derbyshire."
+    },
+    {
+      "index": 71,
+      "sentence": "Sein Verständnis und seine Ansichten – alles gefällt mir."
+    },
+    {
+      "index": 72,
+      "sentence": "Ihm fehlt nur ein wenig mehr Lebhaftigkeit, und die mag ihm seine Frau beibringen, wenn er eine kluge Wahl trifft."
+    },
+    {
+      "index": 73,
+      "sentence": "Ich fand ihn ganz schön durchtrieben – er erwähnte kaum jemals Deinen Namen."
+    },
+    {
+      "index": 74,
+      "sentence": "Aber das scheint in Mode zu sein."
+    },
+    {
+      "index": 75,
+      "sentence": "Bitte verzeih mir, wenn ich sehr anmaßend gewesen bin, oder zumindest bestrafe mich nicht so weit, daß Du mich von P. ausschließt."
+    },
+    {
+      "index": 76,
+      "sentence": "Ich werde niemals ganz glücklich sein, ehe ich nicht den ganzen Park gesehen habe."
+    },
+    {
+      "index": 77,
+      "sentence": "Ein niedriger Phaeton mit einem hübschen kleinen Paar Ponys wäre dafür genau das richtige."
+    },
+    {
+      "index": 78,
+      "sentence": "Aber ich muß schließen."
+    },
+    {
+      "index": 79,
+      "sentence": "Die Kinder fragen schon seit einer halben Stunde nach mir."
+    },
+    {
+      "index": 80,
+      "sentence": "Mit ganz lieben Grüßen Deine M."
+    },
+    {
+      "index": 81,
+      "sentence": "Gardiner\" Der Inhalt dieses Briefes versetzte Elizabeth in eine so große Aufregung, daß es schwer war zu bestimmen, ob Freude oder ob Kummer den größten Anteil daran hatte. Der unbestimmte Verdacht, den sie hinsichtlich Darcys vermutlicher Unterstützung bei der Heirat ihrer Schwester gehegt hatte – sie hatte es als eine Güte betrachtet, die zu wunderbar war, um glaubhaft zu sein, und die sie gleichzeitig wegen der Pein der Verpflichtung fürchtete –, hatte sich nun über jegliches Maß hinaus als richtig erwiesen!"
+    },
+    {
+      "index": 82,
+      "sentence": "Er war ihnen in voller Absicht in die Stadt gefolgt, hatte all die Mühe und Demütigungen auf sich genommen, die mit einer solchen Nachforschung verbunden sind und bei der erniedrigende Bitten an eine Frau notwendig waren, die er verabscheuen und verachten mußte; – er war gezwungen gewesen, sich mit dem Mann zu treffen, und sogar häufig, dem er am meisten aus dem Wege zu gehen wünschte und schon dessen Namen auszusprechen eine Strafe für ihn war – und ihn zu überzeugen, zu überreden und schließlich zu bestechen."
+    },
+    {
+      "index": 83,
+      "sentence": "Er hatte dies alles für ein Mädchen getan, das er weder respektieren noch schätzen konnte."
+    },
+    {
+      "index": 84,
+      "sentence": "Ihr Herz flüsterte ihr zu, daß er es für sie getan hatte."
+    },
+    {
+      "index": 85,
+      "sentence": "Doch war dies eine Hoffnung, die bald von anderen Überlegungen in Schach gehalten wurde; sie fühlte, daß selbst ihre Eitelkeit nicht ausreichte zu glauben, daß seine Liebe zu ihr – einer Frau, die ihn bereits zurückgewiesen hatte – groß genug sein würde, um ein so natürliches Gefühl wie den Abscheu gegen eine Verwandtschaft mit Wickham zu überwinden. Schwager von Wickham!"
+    },
+    {
+      "index": 86,
+      "sentence": "Gegen eine solche Verbindung mußte sich jegliche Art von Stolz auflehnen."
+    },
+    {
+      "index": 87,
+      "sentence": "Ganz gewiß hatte er viel getan."
+    },
+    {
+      "index": 88,
+      "sentence": "Sie war beschämt, wenn sie daran dachte, wieviel es war."
+    },
+    {
+      "index": 89,
+      "sentence": "Doch hatte er einen Grund für sein Eingreifen genannt, der nicht völlig unglaubwürdig war."
+    },
+    {
+      "index": 90,
+      "sentence": "Es war vernünftig von ihm zu erkennen, daß er unrecht gehandelt hatte."
+    },
+    {
+      "index": 91,
+      "sentence": "Er war freigebig, und er hatte die Mittel, diese Freigebigkeit unter Beweis zu stellen; und obgleich sie sich nicht selbst als Hauptbeweggrund für seine Handlungen sehen wollte, hielt sie es für möglich, daß eine noch verbliebene Eingenommenheit für sie seine Bemühungen in einem Fall gefördert haben könnten, bei dem ihr Seelenfrieden erheblich betroffen sein mußte."
+    },
+    {
+      "index": 92,
+      "sentence": "Es war peinlich, außerordentlich peinlich zu wissen, daß sie jemand verpflichtet waren, dem dies niemals rückerstattet werden konnte."
+    },
+    {
+      "index": 93,
+      "sentence": "Die Rettung Lydias, ihr Ansehen – alles verdankten sie ihm."
+    },
+    {
+      "index": 94,
+      "sentence": "Ach, wie aufrichtig bekümmert sie war über all die unfreundlichen Gefühle, die sie jemals gegen ihn gehegt hatte, über alle unverschämten Worte, die sie je an ihn gerichtet hatte."
+    },
+    {
+      "index": 95,
+      "sentence": "Sie selbst fühlte sich gedemütigt, doch sie war stolz auf ihn."
+    },
+    {
+      "index": 96,
+      "sentence": "Stolz, daß er in einem Fall von Mitgefühl und Ehre imstande gewesen war, sich selbst zu überwinden."
+    },
+    {
+      "index": 97,
+      "sentence": "Sie las das Lob ihrer Tante über ihn immer wieder."
+    },
+    {
+      "index": 98,
+      "sentence": "Es war kaum genug Lob, aber es freute sie."
+    },
+    {
+      "index": 99,
+      "sentence": "Sie empfand sogar ein gewisses Vergnügen, wenngleich vermischt mit Bedauern, als sie sah, wie unerschütterlich sie und ihr Onkel überzeugt waren, daß zwischen Mr. Darcy und ihr Zuneigung und Vertrauen bestanden."
+    },
+    {
+      "index": 100,
+      "sentence": "Sie sprang, aus ihren Überlegungen gerissen, auf, als sich jemand näherte; und ehe sie in einen anderen Weg einbiegen konnte, wurde sie von Wickham eingeholt. \"Ich fürchte, ich störe Sie in Ihrem einsamen Umherstreifen, meine liebe Schwägerin\", sagte er, während er sich ihr anschloß. \"Ja, das tun Sie\", erwiderte sie mit einem Lächeln, \"aber daraus folgt nicht, daß die Störung unwillkommen sein muß.\" \"Es würde mir in der Tat leidtun, wenn es so wäre."
+    },
+    {
+      "index": 101,
+      "sentence": "Wir waren doch immer gute Freunde; und nun sind wir uns noch näher.\" \"Stimmt."
+    },
+    {
+      "index": 102,
+      "sentence": "Kommen die anderen auch heraus?\" \"Ich weiß es nicht."
+    },
+    {
+      "index": 103,
+      "sentence": "Mrs. Bennet und Lydia fahren mit der Kutsche nach Meryton."
+    },
+    {
+      "index": 104,
+      "sentence": "Meine liebe Schwägerin, ich habe von unserem Onkel und unserer Tante erfahren, daß Sie tatsächlich in Pemberley gewesen sind.\" Sie bejahte es. \"Ich beneide Sie fast um dieses Vergnügen, und doch glaube ich, es wäre zuviel für mich – andernfalls könnte ich vielleicht auf meinem Weg nach Newcastle vorbeifahren."
+    },
+    {
+      "index": 105,
+      "sentence": "Ich nehme an, Sie haben auch die alte Haushälterin gesehen? Arme Reynolds, sie hat mich immer so gern gehabt."
+    },
+    {
+      "index": 106,
+      "sentence": "Aber natürlich wird sie meinen Namen Ihnen gegenüber nicht erwähnt haben?\" \"Doch, das hat sie.\" \"Und was hat sie gesagt?\" \"Daß Sie in die Armee gegangen seien, und sie fürchte, Sie hätten sich – nicht zum Guten entwickelt."
+    },
+    {
+      "index": 107,
+      "sentence": "Wissen Sie, bei solchen Entfernungen werden die Dinge manchmal seltsam entstellt.\" \"Gewiß\", erwiderte er, während er sich auf die Lippen biß."
+    }
+  ]
+}

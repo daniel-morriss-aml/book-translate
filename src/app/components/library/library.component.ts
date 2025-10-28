@@ -42,7 +42,10 @@ export class LibraryComponent implements OnInit {
     }
 
     openBook(book: BookMetadata): void {
-        if (book.hasChapters) {
+        if (book.translations && book.translations.length > 0) {
+            // Navigate to language selection for multi-language books
+            this.router.navigate(['/language', book.id]);
+        } else if (book.hasChapters) {
             this.router.navigate(['/chapters', book.id]);
         } else {
             this.router.navigate(['/reader', book.id]);
