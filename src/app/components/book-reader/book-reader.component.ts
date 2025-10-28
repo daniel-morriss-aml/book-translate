@@ -422,7 +422,9 @@ export class BookReaderComponent implements OnInit {
     }
 
     checkNewFormatChapterContext(bookId: string, match: RegExpMatchArray): void {
+        const bookPrefix = match[1];  // e.g., 'pap'
         const targetLang = match[2];   // e.g., 'de', 'en', 'es'
+        const chapterNum = parseInt(match[3], 10);   // e.g., 1, 2, 3
 
         // Load book list to find the parent book and check for next chapter
         this.bookService.loadBookList().subscribe({
