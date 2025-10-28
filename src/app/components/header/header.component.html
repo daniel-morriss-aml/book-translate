@@ -1,27 +1,30 @@
 <!-- Header -->
 <header class="bg-white dark:bg-gray-800 shadow-sm p-4 flex-shrink-0">
-    <div class="max-w-4xl mx-auto flex items-center justify-between">
-        <button
-            (click)="onBack()"
-            class="flex items-center gap-2 px-3 py-1 text-sm text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 hover:bg-blue-50 dark:hover:bg-gray-700 rounded-md transition"
-        >
-            <lucide-angular [img]="fileIcon"></lucide-angular>
-            <span class="md:inline hidden">{{ backButtonText }}</span>
-        </button>
-        <div class="flex-1 text-center min-w-0">
-            <h1
-                class="md:text-2xl whitespace-nowrap font-bold text-gray-800 dark:text-gray-100 truncate"
+    <div class="flex items-center">
+        <div class="max-w-4xl mx-auto flex items-center justify-between flex-1">
+            <button
+                (click)="onBack()"
+                class="flex items-center gap-2 px-3 py-1 text-sm text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 hover:bg-blue-50 dark:hover:bg-gray-700 rounded-md transition"
             >
-                {{ book()?.title }}
-            </h1>
-            <p
-                class="hidden md:block text-sm text-gray-600 dark:text-gray-400 mt-2"
-            >
-                {{ subHeading() }}
-            </p>
+                <lucide-angular [img]="fileIcon"></lucide-angular>
+                <span class="md:inline hidden">{{ backButtonText }}</span>
+            </button>
+            <div class="flex-1 text-center min-w-0">
+                <h1
+                    class="md:text-2xl whitespace-nowrap font-bold text-gray-800 dark:text-gray-100 truncate"
+                >
+                    {{ book()?.title }}
+                </h1>
+                <p
+                    class="hidden md:block text-sm text-gray-600 dark:text-gray-400 mt-2"
+                >
+                    {{ subHeading() }}
+                </p>
+            </div>
+            <div class="w-20"></div>
         </div>
-        <!-- Hamburger Menu -->
-        <div class="w-20 flex justify-end">
+        <!-- Hamburger Menu at far right -->
+        <div class="ml-auto">
             <app-hamburger-menu></app-hamburger-menu>
         </div>
     </div>
