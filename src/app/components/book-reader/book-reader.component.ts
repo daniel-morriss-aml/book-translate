@@ -422,17 +422,15 @@ export class BookReaderComponent implements OnInit {
     }
 
     checkNewFormatChapterContext(bookId: string, match: RegExpMatchArray): void {
-        const bookPrefix = match[1];  // e.g., 'pap'
         const targetLang = match[2];   // e.g., 'de', 'en', 'es'
-        const chapterNum = parseInt(match[3], 10);   // e.g., 1, 2, 3
 
         // Load book list to find the parent book and check for next chapter
         this.bookService.loadBookList().subscribe({
             next: (books) => {
                 // Find the book that has translations with this language
-                const book = books.find((b: any) => {
+                const book = books.find((b) => {
                     if (!b.translations || b.translations.length === 0) return false;
-                    return b.translations.some((t: any) => t.code === targetLang);
+                    return b.translations.some((t) => t.code === targetLang);
                 });
 
                 if (!book || !book.translations) {
@@ -440,7 +438,7 @@ export class BookReaderComponent implements OnInit {
                 }
 
                 // Find the translation for the target language
-                const translation = book.translations.find((t: any) => t.code === targetLang);
+                const translation = book.translations.find((t) => t.code === targetLang);
                 
                 if (!translation || !translation.chaptersPath) {
                     return;
