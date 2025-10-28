@@ -1,0 +1,307 @@
+[
+    {
+        "id": "pap-en-001",
+        "title": "Chapter 1",
+        "path": "assets/pride-and-prejudice/en/chapter-1.json"
+    },
+    {
+        "id": "pap-en-002",
+        "title": "Chapter 2",
+        "path": "assets/pride-and-prejudice/en/chapter-2.json"
+    },
+    {
+        "id": "pap-en-003",
+        "title": "Chapter 3",
+        "path": "assets/pride-and-prejudice/en/chapter-3.json"
+    },
+    {
+        "id": "pap-en-004",
+        "title": "Chapter 4",
+        "path": "assets/pride-and-prejudice/en/chapter-4.json"
+    },
+    {
+        "id": "pap-en-005",
+        "title": "Chapter 5",
+        "path": "assets/pride-and-prejudice/en/chapter-5.json"
+    },
+    {
+        "id": "pap-en-006",
+        "title": "Chapter 6",
+        "path": "assets/pride-and-prejudice/en/chapter-6.json"
+    },
+    {
+        "id": "pap-en-007",
+        "title": "Chapter 7",
+        "path": "assets/pride-and-prejudice/en/chapter-7.json"
+    },
+    {
+        "id": "pap-en-008",
+        "title": "Chapter 8",
+        "path": "assets/pride-and-prejudice/en/chapter-8.json"
+    },
+    {
+        "id": "pap-en-009",
+        "title": "Chapter 9",
+        "path": "assets/pride-and-prejudice/en/chapter-9.json"
+    },
+    {
+        "id": "pap-en-010",
+        "title": "Chapter 10",
+        "path": "assets/pride-and-prejudice/en/chapter-10.json"
+    },
+    {
+        "id": "pap-en-011",
+        "title": "Chapter 11",
+        "path": "assets/pride-and-prejudice/en/chapter-11.json"
+    },
+    {
+        "id": "pap-en-012",
+        "title": "Chapter 12",
+        "path": "assets/pride-and-prejudice/en/chapter-12.json"
+    },
+    {
+        "id": "pap-en-013",
+        "title": "Chapter 13",
+        "path": "assets/pride-and-prejudice/en/chapter-13.json"
+    },
+    {
+        "id": "pap-en-014",
+        "title": "Chapter 14",
+        "path": "assets/pride-and-prejudice/en/chapter-14.json"
+    },
+    {
+        "id": "pap-en-015",
+        "title": "Chapter 15",
+        "path": "assets/pride-and-prejudice/en/chapter-15.json"
+    },
+    {
+        "id": "pap-en-016",
+        "title": "Chapter 16",
+        "path": "assets/pride-and-prejudice/en/chapter-16.json"
+    },
+    {
+        "id": "pap-en-017",
+        "title": "Chapter 17",
+        "path": "assets/pride-and-prejudice/en/chapter-17.json"
+    },
+    {
+        "id": "pap-en-018",
+        "title": "Chapter 18",
+        "path": "assets/pride-and-prejudice/en/chapter-18.json"
+    },
+    {
+        "id": "pap-en-019",
+        "title": "Chapter 19",
+        "path": "assets/pride-and-prejudice/en/chapter-19.json"
+    },
+    {
+        "id": "pap-en-020",
+        "title": "Chapter 20",
+        "path": "assets/pride-and-prejudice/en/chapter-20.json"
+    },
+    {
+        "id": "pap-en-021",
+        "title": "Chapter 21",
+        "path": "assets/pride-and-prejudice/en/chapter-21.json"
+    },
+    {
+        "id": "pap-en-022",
+        "title": "Chapter 22",
+        "path": "assets/pride-and-prejudice/en/chapter-22.json"
+    },
+    {
+        "id": "pap-en-023",
+        "title": "Chapter 23",
+        "path": "assets/pride-and-prejudice/en/chapter-23.json"
+    },
+    {
+        "id": "pap-en-024",
+        "title": "Chapter 24",
+        "path": "assets/pride-and-prejudice/en/chapter-24.json"
+    },
+    {
+        "id": "pap-en-025",
+        "title": "Chapter 25",
+        "path": "assets/pride-and-prejudice/en/chapter-25.json"
+    },
+    {
+        "id": "pap-en-026",
+        "title": "Chapter 26",
+        "path": "assets/pride-and-prejudice/en/chapter-26.json"
+    },
+    {
+        "id": "pap-en-027",
+        "title": "Chapter 27",
+        "path": "assets/pride-and-prejudice/en/chapter-27.json"
+    },
+    {
+        "id": "pap-en-028",
+        "title": "Chapter 28",
+        "path": "assets/pride-and-prejudice/en/chapter-28.json"
+    },
+    {
+        "id": "pap-en-029",
+        "title": "Chapter 29",
+        "path": "assets/pride-and-prejudice/en/chapter-29.json"
+    },
+    {
+        "id": "pap-en-030",
+        "title": "Chapter 30",
+        "path": "assets/pride-and-prejudice/en/chapter-30.json"
+    },
+    {
+        "id": "pap-en-031",
+        "title": "Chapter 31",
+        "path": "assets/pride-and-prejudice/en/chapter-31.json"
+    },
+    {
+        "id": "pap-en-032",
+        "title": "Chapter 32",
+        "path": "assets/pride-and-prejudice/en/chapter-32.json"
+    },
+    {
+        "id": "pap-en-033",
+        "title": "Chapter 33",
+        "path": "assets/pride-and-prejudice/en/chapter-33.json"
+    },
+    {
+        "id": "pap-en-034",
+        "title": "Chapter 34",
+        "path": "assets/pride-and-prejudice/en/chapter-34.json"
+    },
+    {
+        "id": "pap-en-035",
+        "title": "Chapter 35",
+        "path": "assets/pride-and-prejudice/en/chapter-35.json"
+    },
+    {
+        "id": "pap-en-036",
+        "title": "Chapter 36",
+        "path": "assets/pride-and-prejudice/en/chapter-36.json"
+    },
+    {
+        "id": "pap-en-037",
+        "title": "Chapter 37",
+        "path": "assets/pride-and-prejudice/en/chapter-37.json"
+    },
+    {
+        "id": "pap-en-038",
+        "title": "Chapter 38",
+        "path": "assets/pride-and-prejudice/en/chapter-38.json"
+    },
+    {
+        "id": "pap-en-039",
+        "title": "Chapter 39",
+        "path": "assets/pride-and-prejudice/en/chapter-39.json"
+    },
+    {
+        "id": "pap-en-040",
+        "title": "Chapter 40",
+        "path": "assets/pride-and-prejudice/en/chapter-40.json"
+    },
+    {
+        "id": "pap-en-041",
+        "title": "Chapter 41",
+        "path": "assets/pride-and-prejudice/en/chapter-41.json"
+    },
+    {
+        "id": "pap-en-042",
+        "title": "Chapter 42",
+        "path": "assets/pride-and-prejudice/en/chapter-42.json"
+    },
+    {
+        "id": "pap-en-043",
+        "title": "Chapter 43",
+        "path": "assets/pride-and-prejudice/en/chapter-43.json"
+    },
+    {
+        "id": "pap-en-044",
+        "title": "Chapter 44",
+        "path": "assets/pride-and-prejudice/en/chapter-44.json"
+    },
+    {
+        "id": "pap-en-045",
+        "title": "Chapter 45",
+        "path": "assets/pride-and-prejudice/en/chapter-45.json"
+    },
+    {
+        "id": "pap-en-046",
+        "title": "Chapter 46",
+        "path": "assets/pride-and-prejudice/en/chapter-46.json"
+    },
+    {
+        "id": "pap-en-047",
+        "title": "Chapter 47",
+        "path": "assets/pride-and-prejudice/en/chapter-47.json"
+    },
+    {
+        "id": "pap-en-048",
+        "title": "Chapter 48",
+        "path": "assets/pride-and-prejudice/en/chapter-48.json"
+    },
+    {
+        "id": "pap-en-049",
+        "title": "Chapter 49",
+        "path": "assets/pride-and-prejudice/en/chapter-49.json"
+    },
+    {
+        "id": "pap-en-050",
+        "title": "Chapter 50",
+        "path": "assets/pride-and-prejudice/en/chapter-50.json"
+    },
+    {
+        "id": "pap-en-051",
+        "title": "Chapter 51",
+        "path": "assets/pride-and-prejudice/en/chapter-51.json"
+    },
+    {
+        "id": "pap-en-052",
+        "title": "Chapter 52",
+        "path": "assets/pride-and-prejudice/en/chapter-52.json"
+    },
+    {
+        "id": "pap-en-053",
+        "title": "Chapter 53",
+        "path": "assets/pride-and-prejudice/en/chapter-53.json"
+    },
+    {
+        "id": "pap-en-054",
+        "title": "Chapter 54",
+        "path": "assets/pride-and-prejudice/en/chapter-54.json"
+    },
+    {
+        "id": "pap-en-055",
+        "title": "Chapter 55",
+        "path": "assets/pride-and-prejudice/en/chapter-55.json"
+    },
+    {
+        "id": "pap-en-056",
+        "title": "Chapter 56",
+        "path": "assets/pride-and-prejudice/en/chapter-56.json"
+    },
+    {
+        "id": "pap-en-057",
+        "title": "Chapter 57",
+        "path": "assets/pride-and-prejudice/en/chapter-57.json"
+    },
+    {
+        "id": "pap-en-058",
+        "title": "Chapter 58",
+        "path": "assets/pride-and-prejudice/en/chapter-58.json"
+    },
+    {
+        "id": "pap-en-059",
+        "title": "Chapter 59",
+        "path": "assets/pride-and-prejudice/en/chapter-59.json"
+    },
+    {
+        "id": "pap-en-060",
+        "title": "Chapter 60",
+        "path": "assets/pride-and-prejudice/en/chapter-60.json"
+    },
+    {
+        "id": "pap-en-061",
+        "title": "Chapter 61",
+        "path": "assets/pride-and-prejudice/en/chapter-61.json"
+    }
+]

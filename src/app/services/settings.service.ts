@@ -6,6 +6,8 @@ export interface UserSettings {
     showTranslationSlider: boolean;
     darkMode: boolean;
     showTranslation: boolean;
+    sentencesPerPage: number;
+    nativeLanguage: string; // 'en', 'de', 'es'
 }
 
 @Injectable({
@@ -19,6 +21,8 @@ export class SettingsService {
         showTranslationSlider: true,
         darkMode: false,
         showTranslation: true,
+        sentencesPerPage: 8,
+        nativeLanguage: 'en',
     };
 
     private settingsSubject = new BehaviorSubject<UserSettings>(this.loadSettings());
@@ -80,6 +84,14 @@ export class SettingsService {
     toggleShowTranslation(): void {
         const current = this.getCurrentSettings();
         this.updateSetting('showTranslation', !current.showTranslation);
+    }
+
+    updateSentencesPerPage(value: number): void {
+        this.updateSetting('sentencesPerPage', value);
+    }
+
+    updateNativeLanguage(language: string): void {
+        this.updateSetting('nativeLanguage', language);
     }
 
     resetToDefaults(): void {

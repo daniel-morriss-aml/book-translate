@@ -1,0 +1,612 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "sentence": "Isabel había quedado muy disgustada por no hallar carta de Juana a\nsu primera llegada a Lambton, y ese disgusto habíase renovado cada\nuna de las mañanas que hasta entonces había pasado allí; pero a la\ntercera de éstas su pena desapareció y su hermana quedó a la par\njustificada por recibir aquélla dos cartas de ésta a la par, en una de\nlas cuales se indicaba haberse extraviado en determinado punto, lo\nque no sorprendió a Isabel, pues Juana había escrito en la misma la\ndirección notablemente mal."
+    },
+    {
+      "index": 1,
+      "sentence": "Disponíase a ir a paseo en el preciso momento en que arribaron\nambas cartas; y para dejarla disfrutarlas con tranquilidad, sus tíos se\nmarcharon solos."
+    },
+    {
+      "index": 2,
+      "sentence": "Era lógico atender primero a la extraviada, la cual\nestaba escrita hacía cinco días."
+    },
+    {
+      "index": 3,
+      "sentence": "El comienzo contenía una relación de\nsus pequeñas tertulias e invitaciones, con las noticias que el campo\npermitía; pero la última mitad, fechada un día después y escrita con\nevidente agitación, daba más importantes noticias."
+    },
+    {
+      "index": 4,
+      "sentence": "Era de esta\nsuerte:\n«Después de escrito lo anterior, carísima Isabel, ha ocurrido algo\nde lo más serio e inesperado; pero tengo miedo de alarmarte; ten\npor entendido que todos estamos bien."
+    },
+    {
+      "index": 5,
+      "sentence": "Lo que he de decirte se\nrefiere a la pobre Lydia."
+    },
+    {
+      "index": 6,
+      "sentence": "La última noche, a las once, precisamente\ncuando nos íbamos a acostar, llegó un propio enviado por el coronel\nForster para informamos de que aquélla se había escapado a Escocia\ncon uno de los oficiales del mismo; ¡para decir la verdad, con\nWickham!"
+    },
+    {
+      "index": 7,
+      "sentence": "Imagina nuestra sorpresa."
+    },
+    {
+      "index": 8,
+      "sentence": "Con todo, a Catalina no pareció\nla cosa del todo inesperada."
+    },
+    {
+      "index": 9,
+      "sentence": "Estoy muy triste."
+    },
+    {
+      "index": 10,
+      "sentence": "¡Imprudencia tal por\nparte de ambos!"
+    },
+    {
+      "index": 11,
+      "sentence": "Pero quiero esperar lo mejor, y que su carácter no\nhaya sido bien comprendido."
+    },
+    {
+      "index": 12,
+      "sentence": "Por ligero e indiscreto puédolo tener\ncon facilidad; pero este paso—y alegrémonos de ello—no le pinta\ncomo de mal corazón."
+    },
+    {
+      "index": 13,
+      "sentence": "Su elección, al fin y al cabo, es desinteresada,\npues has de saber que nuestro padre nada puede dar a ella."
+    },
+    {
+      "index": 14,
+      "sentence": "Nuestra\npobre madre está tristemente apenada; nuestro padre lo soporta\nmejor."
+    },
+    {
+      "index": 15,
+      "sentence": "¡Cuántas gracias doy de no haberle hecho conocer a ella lo\nque se ha dicho contra él!"
+    },
+    {
+      "index": 16,
+      "sentence": "Nosotras mismas debémoslo olvidar."
+    },
+    {
+      "index": 17,
+      "sentence": "Se\nsupone que se marcharon el sábado a las doce próximamente, pero\nno se les echó en falta hasta ayer a las ocho de la mañana."
+    },
+    {
+      "index": 18,
+      "sentence": "Entonces\nvino en derechura el propio."
+    },
+    {
+      "index": 19,
+      "sentence": "Querida Isabel, han tenido que pasar a\nmenos de diez millas de vosotros."
+    },
+    {
+      "index": 20,
+      "sentence": "El coronel Forster dice que le\nesperemos en breve aquí."
+    },
+    {
+      "index": 21,
+      "sentence": "Lydia dejó escritas algunas líneas para su\nmujer informándole de sus intenciones."
+    },
+    {
+      "index": 22,
+      "sentence": "Tengo que acabar, pues no\npuedo alargarme por causa de mi pobre madre."
+    },
+    {
+      "index": 23,
+      "sentence": "Temo que no\nentiendas lo escrito, y apenas sé lo que he puesto.»\nSin darse tiempo a meditar, y sabiendo escasa- mente lo que\nsentía al acabar esta carta, cogió Isabel la otra, y abriéndola con la\nmayor impaciencia leyó lo que sigue, escrito un día después de\nconcluída la primera:\n«A estas horas, queridísima hermana, habrás recibido mi\napresurada carta."
+    },
+    {
+      "index": 24,
+      "sentence": "Deseo que la presente sea más inteligible; pero,\naun disponiendo de tiempo, mi cabeza está tan extraviada que no\npuedo ser coherente."
+    },
+    {
+      "index": 25,
+      "sentence": "Queridísima Isabel, apenas sé si escribir; pero\ntengo malas noticias para ti y no puedo dilatarlas."
+    },
+    {
+      "index": 26,
+      "sentence": "Por más\nimprudente que pueda ser el casamiento de Wickham y nuestra\npobre Lydia, estamos ansiosos de que se nos asegure haberse\nverificado, pues hay sobradas razones para temer que no se hayan\nido a Escocia."
+    },
+    {
+      "index": 27,
+      "sentence": "El coronel Forster vino ayer, habiendo dejado Brighton\nel día anterior no muchas horas después que el propio."
+    },
+    {
+      "index": 28,
+      "sentence": "Aunque la\nbreve carta de Lydia a la señora F."
+    },
+    {
+      "index": 29,
+      "sentence": "daba a entender que iban a\nGretna Green, Denny dijo saber algo sobre eso, y expresó su\ncreencia de que W."
+    },
+    {
+      "index": 30,
+      "sentence": "jamás pensó en ir allí ni en casarse con Lydia de\nningún modo, y habiéndoselo contado al coronel Forster, alarmóse y\nsalió al punto de B."
+    },
+    {
+      "index": 31,
+      "sentence": "con idea de seguir el camino de aquéllos."
+    },
+    {
+      "index": 32,
+      "sentence": "Siguió\nen efecto su rastro con facilidad hasta Clapham; pero no más\nadelante, porque al llegar ellos a dicho punto se habían mudado a\nun coche ordinario despidiendo la silla de postas que los llevara\ndesde Epson."
+    },
+    {
+      "index": 33,
+      "sentence": "Todo lo posterior que se sabe es que se les vió seguir\nel camino de Londres."
+    },
+    {
+      "index": 34,
+      "sentence": "No sé qué pensar."
+    },
+    {
+      "index": 35,
+      "sentence": "Tras de hacer todas las\ninvestigaciones posibles por allí, el coronel F."
+    },
+    {
+      "index": 36,
+      "sentence": "vino al condado de\nHertford, renovándolas ansioso en todos los portazgos y hosterías de\nBonnet y Hatfield, pero sin ningún éxito; no se había visto por allí a\ntales personas."
+    },
+    {
+      "index": 37,
+      "sentence": "Con el mayor pesar llegó a Longbourn y manifestó\nsus recelos del modo que más puede enaltecer su corazón."
+    },
+    {
+      "index": 38,
+      "sentence": "Estoy\napenada de veras por él y por la señora de F., y nadie los podrá\ncensurar."
+    },
+    {
+      "index": 39,
+      "sentence": "Nuestra aflicción, querida Isabel, es muy grande."
+    },
+    {
+      "index": 40,
+      "sentence": "Mi padre\ny mi madre esperan lo peor; pero yo no puedo pensar tan mal de él."
+    },
+    {
+      "index": 41,
+      "sentence": "Muchas circunstancias pueden haber hecho más elegible para ellos\nel casarse privadamente en la capital que seguir su plan primitivo; y\naun si él pudiera haber formado semejante designio contra una\njoven con familia, como Lydia, ¿he de suponer a ésta tan perdida\ncomo todo eso?"
+    },
+    {
+      "index": 42,
+      "sentence": "¡Imposible!"
+    },
+    {
+      "index": 43,
+      "sentence": "Me apena, con todo, ver que el coronel\nF."
+    },
+    {
+      "index": 44,
+      "sentence": "no se ve dispuesto a confiar en el matrimonio: sacudió la cabeza\ncuando yo manifesté mis esperanzas, diciendo que temía que W."
+    },
+    {
+      "index": 45,
+      "sentence": "no\nfuese de fiar."
+    },
+    {
+      "index": 46,
+      "sentence": "Mi pobre madre está enferma de veras y no sale de su\ncuarto."
+    },
+    {
+      "index": 47,
+      "sentence": "Si pudiera esforzarse sería mejor; mas no hay que esperarlo."
+    },
+    {
+      "index": 48,
+      "sentence": "En cuanto a mi padre, jamás lo he visto tan afectado."
+    },
+    {
+      "index": 49,
+      "sentence": "La pobre\nCatalina está pesarosa de haber ocultado el afecto de aquéllos; pero\nhay que maravillarse de que una cosa así fuera objeto de\nconfidencias."
+    },
+    {
+      "index": 50,
+      "sentence": "De veras me alegro, queridísima Isabel, de que te\nhayas ahorrado algo de estas dolorosas escenas; pero ahora que el\nprimer golpe ha pasado, ¿confesaré que anhelo tu regreso?"
+    },
+    {
+      "index": 51,
+      "sentence": "No soy\negoísta, sin embargo, hasta el extremo de instarte si hay\ninconvenientes."
+    },
+    {
+      "index": 52,
+      "sentence": "Adiós."
+    },
+    {
+      "index": 53,
+      "sentence": "Tomo de nuevo la pluma para hacer lo que\nacabo de decirte que no haría; pero las circunstancias son tales que\nno puedo evitar el suplicarte vivamente que vengas aquí lo antes\nposible."
+    },
+    {
+      "index": 54,
+      "sentence": "Conozco tan bien a mis queridos tío y tía que no temo\npedírselo, y aun tengo algo más que pedir al primero."
+    },
+    {
+      "index": 55,
+      "sentence": "Mi padre se ha\nido al punto a Londres con el coronel Forster para ver de hallar a los\nprófugos."
+    },
+    {
+      "index": 56,
+      "sentence": "Desconozco en absoluto lo que piensa hacer; pero su\nexcesiva pena no le permitirá tomar las medidas que sean mejores y\nmás expeditas, y el coronel Forster está obligado a encontrarse en\nBrighton mañana por la noche."
+    },
+    {
+      "index": 57,
+      "sentence": "En tal situación, los consejos y la\nasistencia de mi tío serian lo mejor del mundo."
+    },
+    {
+      "index": 58,
+      "sentence": "El comprenderá al\ninstante que tengo que sentir, y cuento con su bondad.»\n—¡Oh!"
+    },
+    {
+      "index": 59,
+      "sentence": "¿Dónde está mi tío?—exclamó Isabel lanzándose de la silla\nen cuanto acabó la carta, ansiosa de seguirle sin perder un\nmomento de tiempo tan precioso; pero cuando llegó a la puerta\nabría ésta un criado y entraba Darcy."
+    },
+    {
+      "index": 60,
+      "sentence": "El semblante pálido y los\nmodales impetuosos de ella hiciéronle detenerse, y antes de poderse\nreportar lo suficiente para hablar, ella, en cuya mente todo\npensamiento estaba ocupado en la situación de Lydia, exclamó\nansiosa:\n—Perdone usted, pero tengo que dejarle; necesito hablar al punto\ncon el señor Gardiner por un asunto que no puede dilatarse; no\npuedo perder un instante."
+    },
+    {
+      "index": 61,
+      "sentence": "—¡Dios mío!, ¿de qué se trata?—exclamó él con más sentimiento\nque cortesía; y después, reponiéndose, dijo: —No quiero detenerla a\nusted un minuto; pero permítame usted a mí, o mande un criado,\nque vaya tras los señores de Gardiner."
+    },
+    {
+      "index": 62,
+      "sentence": "Usted no está lo suficiente\nbien; usted misma no puede ir."
+    },
+    {
+      "index": 63,
+      "sentence": "Isabel dudó; pero sus rodillas temblaron, y conoció cuán poco\nganaría con que tratase de alcanzarlos."
+    },
+    {
+      "index": 64,
+      "sentence": "Por consiguiente, llamando\nal criado, encargóle que trajera sin dilación a sus amos, aunque\ndando la orden con voz tan sin aliento que resultaba ininteligible."
+    },
+    {
+      "index": 65,
+      "sentence": "Al abandonar el criado la estancia sentóse ella, incapaz de\nsostenerse, y pareciendo hallarse tan mala que fué imposible a\nDarcy dejarla sin contenerse de decir en tono amigable y compasivo:\n—Permítame usted llamar a su doncella."
+    },
+    {
+      "index": 66,
+      "sentence": "¿No hay nada que pueda\nusted tomar para aliviarse?"
+    },
+    {
+      "index": 67,
+      "sentence": "¿Un vaso de vino?"
+    },
+    {
+      "index": 68,
+      "sentence": "Voy a traerlo."
+    },
+    {
+      "index": 69,
+      "sentence": "Usted\nestá mala de veras."
+    },
+    {
+      "index": 70,
+      "sentence": "—No, gracias—replicó ella tratando de serenarse—."
+    },
+    {
+      "index": 71,
+      "sentence": "No se trata de\nnada mío."
+    },
+    {
+      "index": 72,
+      "sentence": "Estoy por completo bien."
+    },
+    {
+      "index": 73,
+      "sentence": "Estoy sólo desconsolada por una\nhorrible noticia que acabo de recibir de Longbourn."
+    },
+    {
+      "index": 74,
+      "sentence": "Estalló en lágrimas al decir esto, y durante algunos minutos no\npudo hablar más."
+    },
+    {
+      "index": 75,
+      "sentence": "Darcy, tristemente suspenso, pudo sólo decir\nalgunas vaguedades sobre su interés y observarla en compasivo\nsilencio."
+    },
+    {
+      "index": 76,
+      "sentence": "Al fin habló ella de nuevo."
+    },
+    {
+      "index": 77,
+      "sentence": "—Acabo de tener carta de Juana con noticias horribles, que no\npueden ocultarse a nadie."
+    },
+    {
+      "index": 78,
+      "sentence": "Mi hermana menor ha abandonado a\ntodos los suyos, se ha fugado, se ha entregado a..."
+    },
+    {
+      "index": 79,
+      "sentence": "Wickham."
+    },
+    {
+      "index": 80,
+      "sentence": "Juntos\nse han marchado de Brighton."
+    },
+    {
+      "index": 81,
+      "sentence": "Usted conoce a él sobrado bien para\ndudar de lo demás."
+    },
+    {
+      "index": 82,
+      "sentence": "Ella no tiene dinero, no tiene relaciones, nada\nque pueda tentar a él..."
+    },
+    {
+      "index": 83,
+      "sentence": "Está perdida para siempre."
+    },
+    {
+      "index": 84,
+      "sentence": "Darcy se quedó quieto de estupor."
+    },
+    {
+      "index": 85,
+      "sentence": "—¡Cuando pienso—añadió ella con voz muy agitada—que yo podía\nhaber evitado eso!; ¡yo, que sabía lo que era él!"
+    },
+    {
+      "index": 86,
+      "sentence": "¡Si hubiera\nexplicado sólo parte de ello, algo de lo que aprendí, a mi familia!"
+    },
+    {
+      "index": 87,
+      "sentence": "Si\nsu modo de ser hubiera sido conocido no habría ocurrido lo que ha\nocurrido."
+    },
+    {
+      "index": 88,
+      "sentence": "Pero ahora, para todo, para todo es tarde."
+    },
+    {
+      "index": 89,
+      "sentence": "—Estoy de veras apenado—exclamó Darcy—; apenado y\nespantado."
+    },
+    {
+      "index": 90,
+      "sentence": "Pero ¿es seguro?, ¿es por completo seguro?"
+    },
+    {
+      "index": 91,
+      "sentence": "—¡Oh!, sí."
+    },
+    {
+      "index": 92,
+      "sentence": "Se fueron de Brighton el domingo por la noche y se les\nhan seguido las huellas hasta cerca de Londres, pero no más allá;\nseguro que no han ido a Escocia."
+    },
+    {
+      "index": 93,
+      "sentence": "—Y ¿qué se ha hecho, qué se ha hecho para encontrarlos?"
+    },
+    {
+      "index": 94,
+      "sentence": "—Mi padre se ha ido a Londres, y Juana escribe solicitando la\ninmediata ayuda de mi tío; espero que nos marcharemos dentro de\nmedia hora."
+    },
+    {
+      "index": 95,
+      "sentence": "Mas no cabe hacer nada."
+    },
+    {
+      "index": 96,
+      "sentence": "¿Es él hombre para dejarse\nmanejar?"
+    },
+    {
+      "index": 97,
+      "sentence": "¿Cómo siquiera descubrirlos?"
+    },
+    {
+      "index": 98,
+      "sentence": "No abrigo la menor\nesperanza."
+    },
+    {
+      "index": 99,
+      "sentence": "Es horrible por todos lados."
+    },
+    {
+      "index": 100,
+      "sentence": "Darcy movió su cabeza en silencio."
+    },
+    {
+      "index": 101,
+      "sentence": "—¡Oh!"
+    },
+    {
+      "index": 102,
+      "sentence": "¡Si cuando se me abrieron los ojos y vi su verdadero\ncarácter hubiera conocido lo que debía, lo que me habría atrevido a\nhacer!"
+    },
+    {
+      "index": 103,
+      "sentence": "Pero no lo supe; temí cometer un exceso."
+    },
+    {
+      "index": 104,
+      "sentence": "¡Desdichado,\ndesdichado error!"
+    },
+    {
+      "index": 105,
+      "sentence": "Darcy no contestó."
+    },
+    {
+      "index": 106,
+      "sentence": "Apenas parecía escucharla, paseando de un\nlado a otro de la habitación en la meditación más absorta, con las\ncejas contraídas y el aire sombrío."
+    },
+    {
+      "index": 107,
+      "sentence": "Observólo Isabel y al instante\ninterpretó todo eso."
+    },
+    {
+      "index": 108,
+      "sentence": "Su poder para con él se hundía, todo tenía que\nhundirse ante prueba tal de la debilidad de su familia, ante certeza\ntal de la más profunda desgracia."
+    },
+    {
+      "index": 109,
+      "sentence": "No podía ni admirarse de eso ni\ncondenarlo; mas la creencia de haber sido conquistada por él no\naportó ningún consuelo a su pecho ni ningún paliativo a su pesar."
+    },
+    {
+      "index": 110,
+      "sentence": "Al\ncontrario, aquello parecía calculado exactamente para que ella\ncomprendiese sus propios deseos, y jamás había sentido tan\ncastamente que podía haberle amado como ahora, cuando todo\namor tenía que ser en vano."
+    },
+    {
+      "index": 111,
+      "sentence": "Pero aun esa misma consideración, aunque pudo darse, no pudo\nabsorberla."
+    },
+    {
+      "index": 112,
+      "sentence": "Lydia, la humillación, la desgracia que a todos había\nacarreado, reclamaron al punto su atención, y cubriendo su rostro\ncon un pañuelo, desapareció Isabel pronto para todo lo demás; y\ndespués de un silencio de varios minutos sólo recobró la conciencia\nde su situación por la voz de su compañero, quien, de manera que,\naun descubriendo compasión, delataba a la par reserva, le dijo:\n—Temo que hace tiempo desee usted mi ausencia, y nada me es\ndado alegar como excusa de mi permanencia aquí, fuera de un\nverdadero aunque inútil interés."
+    },
+    {
+      "index": 113,
+      "sentence": "¡Quiera el Cielo que pueda yo decir\no hacer por mi parte algo que proporcione consuelo en semejante\ndesgracia!"
+    },
+    {
+      "index": 114,
+      "sentence": "Mas no quiero atormentar a usted con deseos que\nparecerían pretender de propósito el agradecimiento de usted."
+    },
+    {
+      "index": 115,
+      "sentence": "Temo\nque este infortunado asunto haya de privar a mi hermana del gusto\nde ver a usted hoy en Pemberley."
+    },
+    {
+      "index": 116,
+      "sentence": "—¡Oh, sí!; tenga usted la bondad de excusarnos con la señorita de\nDarcy."
+    },
+    {
+      "index": 117,
+      "sentence": "Dígale usted que asuntos urgentes nos llaman a casa sin\ndemora."
+    },
+    {
+      "index": 118,
+      "sentence": "Oculte usted la triste verdad cuanto sea posible."
+    },
+    {
+      "index": 119,
+      "sentence": "Sé que no\npodrá ser mucho."
+    },
+    {
+      "index": 120,
+      "sentence": "El le ofreció al punto seguridades de su secreto, expresó de nuevo\nsu pena por la desgracia, deseóle más feliz remate del asunto del\nque razonablemente podía esperarse entonces, y encargándole que\nsaludara a sus parientes, con sólo una seria mirada de despedida se\nmarchó."
+    },
+    {
+      "index": 121,
+      "sentence": "Cuando abandonó la habitación, Isabel comprendió cuán poco\nprobable era que se viesen de nuevo de aquel modo cordial que\nhabía caracterizado sus encuentros en el condado de Derby; y al\nlanzar una ojeada retrospectiva sobre la totalidad de su relación con\nél, tan llena de contradicciones y variaciones, conoció lo perverso de\nunos sentimientos que ahora habrían promovido la continuación de\nla misma y antes le habrían regocijado con su terminación."
+    },
+    {
+      "index": 122,
+      "sentence": "Si la gratitud y la estimación son buenas bases del afecto, el\ncambio de sentimientos de Isabel no parecerá ni improbable ni\nequivocado."
+    },
+    {
+      "index": 123,
+      "sentence": "Mas si es de otra suerte, si el interés que brota de\nfuentes tales no es razonable o natural en cotejo con el tantas veces\ndescrito como nacido de un primer coloquio con su objeto y aun\nantes de haber cambiado con él dos palabras, nada podrá decirse en\nabono de aquélla sino que había ensayado el antiguo procedimiento\nen su parcialidad con Wickham, y que su mal éxito podría acaso\nautorizarla a buscar el otro camino del afecto, aunque menos\ninteresante."
+    },
+    {
+      "index": 124,
+      "sentence": "Mas, de cualquier modo que fuera, vió marchar a Darcy\ncon gran pesar; y en esa primera muestra de lo que podía acarrear\nla infamia de Lydia halló mayor angustia al reflexionar sobre tan\ndesdichado asunto."
+    },
+    {
+      "index": 125,
+      "sentence": "Desde que leyera la segunda carta de Juana nunca había\nalimentado la esperanza de que Wickham tratara de casarse con\nLydia."
+    },
+    {
+      "index": 126,
+      "sentence": "Pensaba que nadie sino Juana podía lisonjearse con\nsemejante esperanza."
+    },
+    {
+      "index": 127,
+      "sentence": "La sorpresa era el último de los sentimientos\nen la serie de los suyos."
+    },
+    {
+      "index": 128,
+      "sentence": "Mientras permaneció en su mente el\ncontenido de la carta primera, Isabel fué todo sorpresa, todo\nasombro por que Wickham fuese a casarse con una muchacha con\nquien era imposible hacerlo por el dinero, pareciéndole\nincomprensible que Lydia hubiera podido atraerle así."
+    },
+    {
+      "index": 129,
+      "sentence": "Mas ahora\ntodo resultaba sobradamente natural."
+    },
+    {
+      "index": 130,
+      "sentence": "Para atracción semejante\ncontaba ella con suficientes encantos; y aun sin suponer que Lydia\nse hubiese comprometido deliberadamente para la fuga sin intención\nde casarse, no veía dificultad en creer que ni su virtud ni su cabeza\nla hubieran preservado de caer como presa fácil."
+    },
+    {
+      "index": 131,
+      "sentence": "Mientras el regimiento estuvo en el condado de Hertford jamás\nnotó que Lydia albergase parcialidad ninguna por Wickham; pero\nestaba convencida de que Lydia sólo habría necesitado algún\nincentivo para aficionarse a cualquiera."
+    },
+    {
+      "index": 132,
+      "sentence": "Unas veces un oficial, otras\notro, había sido su favorito, según las atenciones de los tales los\nelevaba en su opinión."
+    },
+    {
+      "index": 133,
+      "sentence": "Sus afectos siempre habían permanecido\nfluctuantes, mas jamás sin un objeto."
+    },
+    {
+      "index": 134,
+      "sentence": "¡Ah!"
+    },
+    {
+      "index": 135,
+      "sentence": "¡Con qué agudeza sentía\nahora los daños del descuido y de la errada indulgencia con\nsemejante muchacha!"
+    },
+    {
+      "index": 136,
+      "sentence": "Ansiaba vivamente estar en su casa para oír, para ver, para\nencontrarse en situación de compartir con Juana los cuidados que en\nla actualidad tenían que pesar sólo sobre ella, con una familia tan\nloca, un padre ausente y una madre incapaz de esfuerzo y\nrequiriendo constante atención; y aun casi persuadida de que nada\ncabría hacer por Lydia, la ayuda de su tío parecíale de importancia\nmáxima, y así, hasta que él entró en el cuarto fué grande el suplicio\nen que le puso su impaciencia."
+    },
+    {
+      "index": 137,
+      "sentence": "Los señores de Gardiner habían\nregresado aprisa y alarmados, suponiendo por el recado que su\nsobrina se había puesto enferma; y tras de tranquilizarlos ella al\ninstante sobre ese extremo, comunicóles con gran ansiedad la causa\nde su llamada, leyéndoles en voz alta las dos cartas e insistiendo en\nla posdata de la última con trémula energía."
+    },
+    {
+      "index": 138,
+      "sentence": "Aun no habiendo sido\nLydia nunca su favorita, los señores de Gardiner no pudieron menos\nde afectarse profundamente."
+    },
+    {
+      "index": 139,
+      "sentence": "No sólo a Lydia, sino a todos alcanzaba\neso; y así, pasadas las primeras exclamaciones de sorpresa y horror,\nel señor Gardiner prometió cuanta asistencia estuviese en sus\nmanos."
+    },
+    {
+      "index": 140,
+      "sentence": "Isabel, aun no esperando menos, agradecióselo con lágrimas\nde gratitud, y animados todos tres de un mismo pensamiento\ndeterminaron al punto todo lo referente a su viaje."
+    },
+    {
+      "index": 141,
+      "sentence": "Iban a partir lo\nantes posible."
+    },
+    {
+      "index": 142,
+      "sentence": "—Pero ¿qué haremos en lo relativo a Pemberley?"
+    },
+    {
+      "index": 143,
+      "sentence": "—exclamó la\nseñora de Gardiner—."
+    },
+    {
+      "index": 144,
+      "sentence": "John nos ha comunicado que el señor Darcy\nestaba aquí cuando enviaste por nosotros; ¿es cierto?"
+    },
+    {
+      "index": 145,
+      "sentence": "—Sí; y le dijo que no estábamos en disposición de cumplir nuestro\ncompromiso."
+    },
+    {
+      "index": 146,
+      "sentence": "Todo eso queda arreglado."
+    },
+    {
+      "index": 147,
+      "sentence": "—Todo arreglado—repitió la otra, mientras corría a prepararse—; y\n¿son ésos términos para descifrar la verdad?"
+    },
+    {
+      "index": 148,
+      "sentence": "¡Ojalá me fuera dado\nsaber lo que hay ahí!"
+    },
+    {
+      "index": 149,
+      "sentence": "Mas esos deseos eran en balde, o a lo sumo podían servirle para\nentretenerla en su apresuramiento y confusión en la hora que siguió."
+    },
+    {
+      "index": 150,
+      "sentence": "Si Isabel hubiera tenido posibilidad de estar ociosa habría supuesto\nque todo trabajo era irrealizable para una desgraciada como ella;\nmas tenía tantas ocupaciones como su tía, y entre otras, poner\ntarjetas a todos los amigos de Lambton con mentidas excusas por su\nrepentina marcha."
+    },
+    {
+      "index": 151,
+      "sentence": "Pero en una hora todo se despachó; y habiendo\nel señor Gardiner arreglado mientras tanto su cuenta en la fonda, no\nrestó sino partir; e Isabel, tras la pesadumbre de la mañana, hallóse,\nen menos tiempo del que habría supuesto, sentada en el carruaje y\ncamino de Longbourn."
+    }
+  ]
+}

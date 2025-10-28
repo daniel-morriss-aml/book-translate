@@ -25,6 +25,9 @@ describe('SettingsService', () => {
             showProgressIndicator: true,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
+            sentencesPerPage: 8,
+            nativeLanguage: 'en',
         });
     });
 
@@ -33,6 +36,9 @@ describe('SettingsService', () => {
             showProgressIndicator: false,
             showTranslationSlider: true,
             darkMode: true,
+            showTranslation: true,
+            sentencesPerPage: 8,
+            nativeLanguage: 'en',
         };
         localStorage.setItem('book-reader-settings', JSON.stringify(testSettings));
 
@@ -101,6 +107,9 @@ describe('SettingsService', () => {
             showProgressIndicator: true,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
+            sentencesPerPage: 8,
+            nativeLanguage: 'en',
         });
     });
 
@@ -116,6 +125,9 @@ describe('SettingsService', () => {
             showProgressIndicator: true,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
+            sentencesPerPage: 8,
+            nativeLanguage: 'en',
         });
     });
 
@@ -131,6 +143,9 @@ describe('SettingsService', () => {
             showProgressIndicator: true, // default
             showTranslationSlider: true, // default
             darkMode: true, // from storage
+            showTranslation: true, // default
+            sentencesPerPage: 8, // default
+            nativeLanguage: 'en', // default
         });
     });
 });

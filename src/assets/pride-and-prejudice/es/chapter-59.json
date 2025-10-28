@@ -1,0 +1,580 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "sentence": "«Querida Isabel, ¿por dónde has estado paseando?», tal fué la\npregunta que Isabel oyó a Juana en cuanto se vieron en el cuarto, y\na todos los demás al sentarse a la mesa."
+    },
+    {
+      "index": 1,
+      "sentence": "Como respuesta, sólo pudo\ndecir que habían andado errantes hasta donde acababa el terreno\npor ella conocido."
+    },
+    {
+      "index": 2,
+      "sentence": "Al decirlo se sonrojó; mas ni aquello ni nada\ndespertó sospecha."
+    },
+    {
+      "index": 3,
+      "sentence": "La velada pasó con tranquilidad, sin nada extraordinario."
+    },
+    {
+      "index": 4,
+      "sentence": "Los\namantes reconocidos charlaron y rieron; los desconocidos\npermanecieron callados."
+    },
+    {
+      "index": 5,
+      "sentence": "Darcy no era propenso a mostrar la dicha\ncon la alegría, e Isabel, agitada y confusa, más bien sabía que era\nfeliz que se sentía como tal; porque además del aturdimiento por lo\nque va explicado, presentábanse otros temores ante ella."
+    },
+    {
+      "index": 6,
+      "sentence": "Preveía lo\nque había de suceder en la familia al conocerse su situación; érale\nnotorio que a ninguno gustaba Darcy fuera de Juana, y hasta creía\nque a los demás les causaba tanto disgusto que ni su fortuna ni su\nsignificación lo podrían borrar."
+    },
+    {
+      "index": 7,
+      "sentence": "Por la noche abrió a Juana su corazón, y aunque hasta la duda\nestaba muy lejos de los hábitos ordinarios de ésta, en el caso actual\nresultó incrédula por completo."
+    },
+    {
+      "index": 8,
+      "sentence": "—¡Te estás burlando, Isabel; eso no puede ser!"
+    },
+    {
+      "index": 9,
+      "sentence": "¡Arreglada con el\nseñor Darcy!"
+    },
+    {
+      "index": 10,
+      "sentence": "No, no; no me engañarás; sé que eso es imposible."
+    },
+    {
+      "index": 11,
+      "sentence": "—¡Mal comienzo es ése en verdad!"
+    },
+    {
+      "index": 12,
+      "sentence": "Mi única confianza estaba en\nti, pues estoy segura de que nadie más me creerá si tú no me crees."
+    },
+    {
+      "index": 13,
+      "sentence": "No digo sino la verdad."
+    },
+    {
+      "index": 14,
+      "sentence": "El me ama todavía y estamos arreglados."
+    },
+    {
+      "index": 15,
+      "sentence": "Juana la miró con duda."
+    },
+    {
+      "index": 16,
+      "sentence": "—Isabel, no puede ser; sé lo mucho que te desagrada."
+    },
+    {
+      "index": 17,
+      "sentence": "—Tú no sabes nada de este asunto."
+    },
+    {
+      "index": 18,
+      "sentence": "Todo eso que dices es para\nolvidarse."
+    },
+    {
+      "index": 19,
+      "sentence": "Acaso no le haya amado siempre tanto como ahora; pero\nen casos así es imperdonable una buena memoria."
+    },
+    {
+      "index": 20,
+      "sentence": "Esta es la última\nvez que yo misma lo recordaré."
+    },
+    {
+      "index": 21,
+      "sentence": "Juana mirábala todavía como asombrada."
+    },
+    {
+      "index": 22,
+      "sentence": "Isabel, de nuevo y más\nen serio, le aseguró de su verdad."
+    },
+    {
+      "index": 23,
+      "sentence": "—¡Dios mío!"
+    },
+    {
+      "index": 24,
+      "sentence": "¿Es de veras posible?"
+    },
+    {
+      "index": 25,
+      "sentence": "Mas ahora habré de creerlo—\nexclamó Juana—."
+    },
+    {
+      "index": 26,
+      "sentence": "¡Mi querida, mi querida Isabel, te felicitaría; te\nfelicito ya!; pero ¡estás segura—perdona la pregunta—, estás por\ncompleto segura de que serás dichosa con él?"
+    },
+    {
+      "index": 27,
+      "sentence": "—No hay que dudarlo."
+    },
+    {
+      "index": 28,
+      "sentence": "Ya hemos convenido en que seremos la\npareja más dichosa del mundo."
+    },
+    {
+      "index": 29,
+      "sentence": "Pero ¿estás contenta, Juana?"
+    },
+    {
+      "index": 30,
+      "sentence": "¿Te\ngustará tener ese hermano?"
+    },
+    {
+      "index": 31,
+      "sentence": "—Mucho, muchísimo; nada puede proporcionar mayor placer ni a\nBingley ni a mí."
+    },
+    {
+      "index": 32,
+      "sentence": "Mas nosotros hablábamos de eso considerándolo un\nimposible."
+    },
+    {
+      "index": 33,
+      "sentence": "Y tú ¿le amas de veras lo suficiente?"
+    },
+    {
+      "index": 34,
+      "sentence": "¡Oh Isabel, haz\ncualquier cosa antes que casarte sin amor!"
+    },
+    {
+      "index": 35,
+      "sentence": "¿Estás en absoluto\npersuadida de que sientes lo que se debe sentir?"
+    },
+    {
+      "index": 36,
+      "sentence": "—¡Oh, sí!"
+    },
+    {
+      "index": 37,
+      "sentence": "Has de creer que siento más de lo que debo cuando te\nlo digo todo."
+    },
+    {
+      "index": 38,
+      "sentence": "—¿Qué quieres decir?"
+    },
+    {
+      "index": 39,
+      "sentence": "—Que he de confesarte que le amo más que a Bingley, aunque\ntemo que esto te incomode."
+    },
+    {
+      "index": 40,
+      "sentence": "—Hermana querida, sé ahora seria; necesito hablar con mucha\nseriedad."
+    },
+    {
+      "index": 41,
+      "sentence": "Hazme sabedora sin dilación de cuanto haya de saber."
+    },
+    {
+      "index": 42,
+      "sentence": "Díme, ¿desde cuándo le amas?"
+    },
+    {
+      "index": 43,
+      "sentence": "—Eso ha ido viniendo tan gradualmente que con dificultad sabría\nyo misma cuándo empezó; pero creo que habría que ponerle como\nfecha la primera vez que vi sus hermosas posesiones de Pemberley."
+    },
+    {
+      "index": 44,
+      "sentence": "Mas otro ruego de que fuese formal produjo el ansiado efecto, y\npronto satisfizo a Juana con sus solemnes afirmaciones de afecto."
+    },
+    {
+      "index": 45,
+      "sentence": "Una vez con- vencida de este punto, Juana no tenía más que desear."
+    },
+    {
+      "index": 46,
+      "sentence": "—Ahora soy por completo feliz—dijo—, porque lo serás tanto como\nyo."
+    },
+    {
+      "index": 47,
+      "sentence": "Siempre le estimé."
+    },
+    {
+      "index": 48,
+      "sentence": "Aunque no fuera sino por su amor a ti,\nsiempre tendría que haberle estimado; pero ahora, como amigo de\nBingley y marido tuyo, no puede haber sino Bingley y tú que sean\nmás caros a mi corazón."
+    },
+    {
+      "index": 49,
+      "sentence": "Pero, Isabel, has sido muy callada, muy\nreservada conmigo."
+    },
+    {
+      "index": 50,
+      "sentence": "¡Qué poco me hablaste de lo que ocurrió en\nPemberley y en Lambton!"
+    },
+    {
+      "index": 51,
+      "sentence": "Cuanto sé lo debo a otro, no a ti."
+    },
+    {
+      "index": 52,
+      "sentence": "Isabel expuso los motivos de su secreto."
+    },
+    {
+      "index": 53,
+      "sentence": "No había querido mentar\na Bingley, y el indeciso estado de sus sentimientos habíale hecho\nevitar a la par el nombre de su amigo."
+    },
+    {
+      "index": 54,
+      "sentence": "Mas ahora no quería ocultarle\nla participación de éste en el asunto de Lydia."
+    },
+    {
+      "index": 55,
+      "sentence": "Todo, pues, quedó\nexpuesto, y se pasó media noche en el coloquio."
+    },
+    {
+      "index": 56,
+      "sentence": "—¡Dios mío!—exclamó la señora de Bennet al ponerse a la\nventana a la mañana siguiente—, ¡si ese desagradable señor Darcy\nno viniera otra vez con nuestro querido Bingley!"
+    },
+    {
+      "index": 57,
+      "sentence": "¿Qué significará que\nsea tan pesado y que venga de continuo aquí?"
+    },
+    {
+      "index": 58,
+      "sentence": "Ya podría irse a cazar\no a hacer otra cosa, en lugar de molestarnos con su compañía."
+    },
+    {
+      "index": 59,
+      "sentence": "¿Qué\nharemos con él?"
+    },
+    {
+      "index": 60,
+      "sentence": "Isabel, tienes que salir otra vez de paseo con él\npara no estorbar a Bingley."
+    },
+    {
+      "index": 61,
+      "sentence": "Isabel apenas pudo evitar el reírse al escuchar proposición tan\nconveniente, por más que lamentara que su madre estuviese\ndándole siempre a él aquel epíteto."
+    },
+    {
+      "index": 62,
+      "sentence": "En cuanto ambos entraron, Bingley miró a Isabel expresivamente,\ndándole la mano con tal ardor que no le dejó dudas sobre su buena\ninformación, y pronto dijo en voz alta:\n—Señor Bennet, no tiene usted por ahí otros caminos en que\nIsabel pueda extraviarse otra vez?"
+    },
+    {
+      "index": 63,
+      "sentence": "—Recomiendo al señor Darcy, a Isabel y a Catalina—dijo la señora\nde Bennet—que vayan esta mañana a la montaña de Oakham."
+    },
+    {
+      "index": 64,
+      "sentence": "Es un\nprecioso paseo largo, y el señor Darcy nunca ha contemplado ese\npanorama."
+    },
+    {
+      "index": 65,
+      "sentence": "—Eso puede ser muy bueno para los otros dos—replicó Bingley—;\npero estoy convencido de que resultará excesivo para Catalina."
+    },
+    {
+      "index": 66,
+      "sentence": "¿No\nes así, Catalina?"
+    },
+    {
+      "index": 67,
+      "sentence": "Esta confesó que prefería quedarse en casa; Darcy manifestó gran\ncuriosidad por disfrutar de la vista que ofrecía esa montaña, e Isabel\naccedió en silencio."
+    },
+    {
+      "index": 68,
+      "sentence": "Cuando ésta subió para arreglarse, la señora de\nBennet siguióla diciendo:\n—Isabel, siento muchísimo que te veas constreñida a quedarte\ncon persona tan desagradable; mas espero que no repararás en ello;\ntodo es por Juana, ya lo sabes; y además, no hay por qué hablarle\nsino de vez en cuando."
+    },
+    {
+      "index": 69,
+      "sentence": "No te molestes."
+    },
+    {
+      "index": 70,
+      "sentence": "Durante el paseo quedó resuelto que el consentimiento del padre\nquedaría pedido en el curso de la velada, Isabel se reservó la\nnotificación a su madre."
+    },
+    {
+      "index": 71,
+      "sentence": "No podía adivinar cómo lo tomaría ésta; a\nveces dudaba de si toda la riqueza y rango de Darcy serían\nsuficientes para contrarrestar el odio que le profesaba; mas\nestuviera violentamente dispuesta contra su matrimonio o satisfecha\ntambién con violencia, era seguro que sus arrebatos no habrían de\nacreditar su buen sentido; y por eso no podía sufrir que Darcy\nescuchase ni los primeros raptos de su gozo ni la primera\nvehemencia de su desaprobación."
+    },
+    {
+      "index": 72,
+      "sentence": "Por la tarde, poco después de haberse retirado a su biblioteca el\nseñor Bennet, vió ella que Darcy se levantaba también y le seguía, y\nsu agitación al percibir eso fué extrema."
+    },
+    {
+      "index": 73,
+      "sentence": "No temía la oposición de su\npadre; mas iba a verse por ello desgraciado, y el que fuese ella, su\nhija favorita, quien le apenaba con su elección, quien iba a oprimirle\ncon temores y pesadumbres al colocarla, era consideración triste; y\npor eso lo estuvo ella hasta que Darcy volvió a aparecer y hasta que,\nal mirarle, quedó aliviada con su sonrisa."
+    },
+    {
+      "index": 74,
+      "sentence": "A los pocos minutos\naproximóse él a la mesa donde estaba ella sentada con Catalina, y\nhaciendo como que miraba su labor, díjole al oído:\n—Vaya usted a donde está su padre; la necesita a usted en su\nbiblioteca."
+    },
+    {
+      "index": 75,
+      "sentence": "Ella marchó directamente."
+    },
+    {
+      "index": 76,
+      "sentence": "Su padre se paseaba por la estancia, pareciendo grave y ansioso."
+    },
+    {
+      "index": 77,
+      "sentence": "—Isabel—le dijo—, ¿qué haces?"
+    },
+    {
+      "index": 78,
+      "sentence": "¿Estás fuera de juicio para\naceptar a ese hombre?"
+    },
+    {
+      "index": 79,
+      "sentence": "¿No le has odiado siempre?"
+    },
+    {
+      "index": 80,
+      "sentence": "¡Cuán vivamente habría deseado Isabel que sus primeros juicios\nsobre Darcy hubieran estado más puestos en razón y sus\nexpresiones hubieran sido más moderadas!"
+    },
+    {
+      "index": 81,
+      "sentence": "Habríale eso ahorrado\nciertas explicaciones y confesiones que temía muchísimo hacer; mas\nahora eran precisas; y así, le aseguró a su padre con alguna\nconfusión su afecto hacia Darcy."
+    },
+    {
+      "index": 82,
+      "sentence": "—Es decir, que estás decidida a poseerlo."
+    },
+    {
+      "index": 83,
+      "sentence": "Es rico, ciertamente;\npodrás disfrutar de más bonitos vestidos y de elegantes coches."
+    },
+    {
+      "index": 84,
+      "sentence": "Pero\n¿te hará feliz?"
+    },
+    {
+      "index": 85,
+      "sentence": "—¿No tienes otra objeción que hacer—contestó Isabel—sino el\ncreerme indiferente?"
+    },
+    {
+      "index": 86,
+      "sentence": "—Ninguna más."
+    },
+    {
+      "index": 87,
+      "sentence": "Todos sabemos que es hombre orgulloso y\ndesagradable; pero eso nada importa si te gusta."
+    },
+    {
+      "index": 88,
+      "sentence": "—Pues me gusta, me gusta—replicó ella con lágrimas en los ojos\n—; le amo."
+    },
+    {
+      "index": 89,
+      "sentence": "Buena verdad es que no tiene orgullo; es de todo punto\namable."
+    },
+    {
+      "index": 90,
+      "sentence": "No sabes lo que es en realidad; por eso te suplico que no\nme apenes hablándome de él en esos términos."
+    },
+    {
+      "index": 91,
+      "sentence": "—Isabel—añadió su padre—, le he dado mi consentimiento."
+    },
+    {
+      "index": 92,
+      "sentence": "Cierto\nque es hombre a quien no rehusaría jamás nada que quisiera\npedirme."
+    },
+    {
+      "index": 93,
+      "sentence": "Ahora te lo entrego si estás resuelta a tomarlo."
+    },
+    {
+      "index": 94,
+      "sentence": "Mas\ndéjame que te advierta que lo pienses mejor."
+    },
+    {
+      "index": 95,
+      "sentence": "Sé que no podrás ser\ndichosa ni respetable si no amas a tu marido, si no le consideras\ncomo un superior."
+    },
+    {
+      "index": 96,
+      "sentence": "Tu viveza te colocaría en los mayores peligros con\nun matrimonio desigual; con dificultad evitarías el descrédito y la\ndesgracia."
+    },
+    {
+      "index": 97,
+      "sentence": "Hija mía, no me des el sinsabor de verte incapaz de\nrespetar a tu pareja en la vida."
+    },
+    {
+      "index": 98,
+      "sentence": "No sabes lo que eso es."
+    },
+    {
+      "index": 99,
+      "sentence": "Isabel, todavía más afectada, estuvo vehemente y solemne en su\ncontestación; y al fin, con repetidas aseveraciones de que Darcy era\nde veras el objeto de su elección; con exponer el cambio gradual\nque había experimentado en cuanto a su estimación; con hacer\nconstar su seguridad absoluta de que el afecto de él no era cosa de\nun día, sino que había resistido la prueba de muchos meses, y\nenumerar con energía todas sus buenas cualidades, venció la\nincredulidad de su padre, logrando reconciliarle con ese casamiento."
+    },
+    {
+      "index": 100,
+      "sentence": "—Bien, querida mía—díjole él cuando terminó de hablar—, no\ntengo más que decirte: si es así, te merece."
+    },
+    {
+      "index": 101,
+      "sentence": "No te habría entregado,\nIsabel mía, a otro que valiera menos."
+    },
+    {
+      "index": 102,
+      "sentence": "Para completar la impresión favorable refirió entonces ella a su\npadre lo que Darcy había hecho espontáneamente por Lydia."
+    },
+    {
+      "index": 103,
+      "sentence": "—¡Esta es noche de asombros en verdad!"
+    },
+    {
+      "index": 104,
+      "sentence": "¿De modo que Darcy\nhizo todo: llevó a cabo el casamiento, dió el dinero, pagó las deudas\ndel pollo y le obtuvo el destino?"
+    },
+    {
+      "index": 105,
+      "sentence": "Tanto mejor: me libraré de un\nmundo de confusiones y de economía."
+    },
+    {
+      "index": 106,
+      "sentence": "Si hubiera sido cosa de tu tío\nhabría tenido que pagarle, y lo habría hecho; pero estos enamorados\nviolentos cargan con todo."
+    },
+    {
+      "index": 107,
+      "sentence": "Mañana le ofreceré pagarle; él protestará\ny se enfadará por amor a ti, y así concluirá la cuestión."
+    },
+    {
+      "index": 108,
+      "sentence": "Recordó entonces su padre el embarazo que mostraba ella cuando\nle leía la carta de Collins, y tras de bromear con ella algún tiempo, al\ncabo permi- tióle marcharse, diciéndole cuando abandonaba el\ncuarto:\n—Si algún muchacho viene por María o Catalina, envíamelo, que\nme encuentro por completo desocupado."
+    },
+    {
+      "index": 109,
+      "sentence": "El espíritu de Isabel quedó así libre de un enorme peso, y después\nde media hora de tranquila reflexión en su aposento hallóse en\ndisposición de unirse a los demás con pasadera calma."
+    },
+    {
+      "index": 110,
+      "sentence": "Era todo\nsobrado reciente para la alegría, pero la velada transcurrió con\ntranquilidad; nada más tenía que temer, y el bienestar del reposo y\nde la familiaridad vendría a su tiempo."
+    },
+    {
+      "index": 111,
+      "sentence": "Cuando su madre volvió a su cuarto por la noche siguióla e hízole\nla importante comunicación."
+    },
+    {
+      "index": 112,
+      "sentence": "Su efecto fué muy extraordinario,\nporque al principio."
+    },
+    {
+      "index": 113,
+      "sentence": "la señcra de Bennet se quedó en absoluto\nparada al escucharla, incapaz de articular una palabra; y no fué sino\ntras muchcs, tras muchos minutos cuando pudo comprender lo oído,\naun no siendo por lo común reacia a creer lo que se refiriese a\nventajas de su familia o significase noviazgo para una de sus hijas."
+    },
+    {
+      "index": 114,
+      "sentence": "A\nla postre comenzó a recobrarse, a agitarse, levantándose y\nvolviéndose a sentar; a admirarse y congratularse:\n—¡Dios mío!"
+    },
+    {
+      "index": 115,
+      "sentence": "¡Dios me bendiga!"
+    },
+    {
+      "index": 116,
+      "sentence": "¡Oh qué cosa, querida mía!"
+    },
+    {
+      "index": 117,
+      "sentence": "¡El\nseñor Darcy!"
+    },
+    {
+      "index": 118,
+      "sentence": "¡Quién lo habría pensado!"
+    },
+    {
+      "index": 119,
+      "sentence": "¡Oh mi queridísima Isabel,\nqué rica y qué grande vas a ser!"
+    },
+    {
+      "index": 120,
+      "sentence": "¡Qué bolsillo, qué joyas, qué\ncarruajes tendrás!"
+    },
+    {
+      "index": 121,
+      "sentence": "¡Lo de Juana no vale nada, nada en absoluto!"
+    },
+    {
+      "index": 122,
+      "sentence": "¡Estoy tan contenta, soy tan feliz!"
+    },
+    {
+      "index": 123,
+      "sentence": "¡Qué hombre tan encantador, tan\nguapo, tan buen mozo!"
+    },
+    {
+      "index": 124,
+      "sentence": "¡Oh mi querida Isabel, dispénsame porque\nme haya disgustado tanto antes!; supongo que él me dispensará."
+    },
+    {
+      "index": 125,
+      "sentence": "¡Querida, querida Isabel!"
+    },
+    {
+      "index": 126,
+      "sentence": "¡Una casa en la capital!"
+    },
+    {
+      "index": 127,
+      "sentence": "¡Todo lo\napetecible!"
+    },
+    {
+      "index": 128,
+      "sentence": "¡Tres hijas casadas!"
+    },
+    {
+      "index": 129,
+      "sentence": "¡Diez mil libras anuales!"
+    },
+    {
+      "index": 130,
+      "sentence": "¡Oh Dios\nmío!, ¿qué va a ser de mí?"
+    },
+    {
+      "index": 131,
+      "sentence": "Voy a enloquecer."
+    },
+    {
+      "index": 132,
+      "sentence": "Eso era suficiente para demostrar que su aprobación no había de\nponerse en duda; e Isabel, satisfecha de que tales efusiones no\nhubieran sido oídas sino por ella, marchóse pronto."
+    },
+    {
+      "index": 133,
+      "sentence": "Mas antes de\nque llevase tres minutos en su cuarto entró su madre."
+    },
+    {
+      "index": 134,
+      "sentence": "—¡Queridísima hija—exclamó—, no puedo pensar en otra cosa!"
+    },
+    {
+      "index": 135,
+      "sentence": "Diez mil libras anuales, y acaso más!"
+    },
+    {
+      "index": 136,
+      "sentence": "¡Eso es tan bueno como un\nlord!"
+    },
+    {
+      "index": 137,
+      "sentence": "¡Y especial licencia!: ¡habrás de casarte con licencia especial!"
+    },
+    {
+      "index": 138,
+      "sentence": "Pero, queridísimo amor mío, ¿a qué plato que yo pueda tener\nmañana es especialmente aficionado el señor Darcy?"
+    },
+    {
+      "index": 139,
+      "sentence": "Mal presagio era esto de lo que prometía ser la conducta de su\nmadre para con ese caballero, e Isabel conoció que, aun viéndose en\nposesión de su más caluroso afecto y segura del consentimiento de\nsu propia familia, todavía tenía algo que desear."
+    },
+    {
+      "index": 140,
+      "sentence": "Pero la mañana\ntranscurrió mejor que se esperaba, porque, felizmente, infundíale a\nla señora de Bennet tal temor su futuro yerno que no osaba hablarle\nsino cuando podía dedicarle alguna atención o hacer notar que\nasentía a sus opiniones."
+    },
+    {
+      "index": 141,
+      "sentence": "Isabel tuvo la satisfacción de ver que su padre se afanaba por\nintimar con él, y aun le aseguró que cada día crecía en su\nestimación."
+    },
+    {
+      "index": 142,
+      "sentence": "—Admiro a todes mis tres yernos—decía—."
+    },
+    {
+      "index": 143,
+      "sentence": "Wickham acaso sea mi\nfavorito; pero creo que tu marido me gustará tanto como el de\nJuana."
+    }
+  ]
+}

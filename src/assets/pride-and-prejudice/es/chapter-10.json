@@ -1,0 +1,500 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "sentence": "El día transcurrió lo mismo que el anterior."
+    },
+    {
+      "index": 1,
+      "sentence": "La señora de Hurst y la\nseñorita de Bingley pasaron algunas horas de la mañana con la\nenferma, que continuaba mejorando, aunque con lentitud, y por la\ntarde Isabel se reunió con ellas en el salón."
+    },
+    {
+      "index": 2,
+      "sentence": "Pero la ordinaria mesa\nde juego no se puso."
+    },
+    {
+      "index": 3,
+      "sentence": "Darcy estuvo escribiendo, y la Bingley soltera,\nsentada junto a él, observaba los progresos de su escritura,\nllamándole repetidas veces la atención con encargos para su\nhermana."
+    },
+    {
+      "index": 4,
+      "sentence": "El señor Hurst y Bingley jugaban al piquet, y la esposa del\nprimero contemplaba la partida."
+    },
+    {
+      "index": 5,
+      "sentence": "Isabel se entretuvo con cierta labor de aguja, divirtiéndose\nsuficientemente con lo que pasaba entre Darcy y su compañera."
+    },
+    {
+      "index": 6,
+      "sentence": "Los\nperpetuos elogios de ésta, ya sobre la letra, ya sobre la igualdad de\nlos renglones o sobre la extensión de la carta, con la absoluta falta\nde interés con que eran recibidas tales alabanzas, constituían un\ncurioso diálogo y se armonizaban de modo exacto con la opinión que\naquélla tenía de cada cual."
+    },
+    {
+      "index": 7,
+      "sentence": "—¡Con qué placer recibirá su hermana de usted esa carta!"
+    },
+    {
+      "index": 8,
+      "sentence": "El no contestó."
+    },
+    {
+      "index": 9,
+      "sentence": "—Escribe usted extraordinariamente aprisa."
+    },
+    {
+      "index": 10,
+      "sentence": "—Se equivoca usted."
+    },
+    {
+      "index": 11,
+      "sentence": "Escribo bastante despacio."
+    },
+    {
+      "index": 12,
+      "sentence": "—¡Cuántas cartas tendrá usted que escribir du- rante el año!"
+    },
+    {
+      "index": 13,
+      "sentence": "¡Además, las cartas de negocios!"
+    },
+    {
+      "index": 14,
+      "sentence": "¡Qué insoportable debe ser!"
+    },
+    {
+      "index": 15,
+      "sentence": "—Entonces es una suerte que eso me ataña a mí y no a usted."
+    },
+    {
+      "index": 16,
+      "sentence": "—Haga usted el favor de decirle a su hermana que deseo verla."
+    },
+    {
+      "index": 17,
+      "sentence": "—Ya se lo he dicho una vez por deseo de usted."
+    },
+    {
+      "index": 18,
+      "sentence": "—Temo que no le guste a usted su pluma."
+    },
+    {
+      "index": 19,
+      "sentence": "Déjemela usted cortar."
+    },
+    {
+      "index": 20,
+      "sentence": "Corto las plumas admirablemente."
+    },
+    {
+      "index": 21,
+      "sentence": "—¡Gracias, pero yo siempre corto la mía!"
+    },
+    {
+      "index": 22,
+      "sentence": "—¿Cómo puede usted escribir tan igual?"
+    },
+    {
+      "index": 23,
+      "sentence": "El siguió callado."
+    },
+    {
+      "index": 24,
+      "sentence": "—Diga usted a su hermana que me complace mucho oír lo que\nprogresa en el arpa, y haga usted el favor de hacerle saber que\nestoy admirada de su precioso dibujito para una mesa y que lo\ntengo por infinitamente superior al de la señorita de Grantley."
+    },
+    {
+      "index": 25,
+      "sentence": "—¿Me permite usted diferir sus entusiasmos para cuando escriba\notra vez?"
+    },
+    {
+      "index": 26,
+      "sentence": "Ahora no tengo espacio para hacerles justicia."
+    },
+    {
+      "index": 27,
+      "sentence": "—¡Oh, no me importa!"
+    },
+    {
+      "index": 28,
+      "sentence": "La veré en enero."
+    },
+    {
+      "index": 29,
+      "sentence": "Pero ¿siempre le escribe\nusted cartas tan deliciosamente largas, señor Darcy?"
+    },
+    {
+      "index": 30,
+      "sentence": "—Por lo general son largas; mas si son siempre deliciosas no es\ncosa que yo pueda determinar."
+    },
+    {
+      "index": 31,
+      "sentence": "—Es para mí regla invariable que quien sabe escribir con facilidad\nuna carta larga no puede escribir mal."
+    },
+    {
+      "index": 32,
+      "sentence": "—Eso no es un cumplido para Darcy, Carolina —interrumpió su\nhermano—, porque no escribe con facilidad."
+    },
+    {
+      "index": 33,
+      "sentence": "Se fija demasiado en las\npalabras de cuatro sílabas."
+    },
+    {
+      "index": 34,
+      "sentence": "¿No es verdad, Darcy?"
+    },
+    {
+      "index": 35,
+      "sentence": "—Mi estilo para escribir es muy diverso del tuyo."
+    },
+    {
+      "index": 36,
+      "sentence": "—¡Oh!"
+    },
+    {
+      "index": 37,
+      "sentence": "—exclamó la señorita Bingley—."
+    },
+    {
+      "index": 38,
+      "sentence": "Carlos escribe con el\ncuidado menor que se puede imaginar."
+    },
+    {
+      "index": 39,
+      "sentence": "Deja a medias las palabras y\nemborrona todo."
+    },
+    {
+      "index": 40,
+      "sentence": "—Mis ideas fluyen con tal rapidez que no me queda tiempo para\nexpresarlas, por lo que a veces mis cartas no comunican ideas a mis\nlectores."
+    },
+    {
+      "index": 41,
+      "sentence": "—La humildad de usted, señor Bingley —dijo Isabel—, tiene que\ndesarmar a sus reprensores."
+    },
+    {
+      "index": 42,
+      "sentence": "—No hay nada más engañoso —dijo Darcy— que la apariencia de\nhumildad."
+    },
+    {
+      "index": 43,
+      "sentence": "A menudo es sólo una carencia de opinión, y a veces una\nostentación indirecta."
+    },
+    {
+      "index": 44,
+      "sentence": "—¿De cuál de ambas cosas tildas mi débil rasgo de modestia?"
+    },
+    {
+      "index": 45,
+      "sentence": "—De ostentación indirecta; porque tú, en realidad, estás orgulloso\nde tus defectos al escribir, ya que los consideras como debidos a la\nrapidez del pensamiento y al descuido en la ejecución, lo cual, si no\npor estimable, lo tienes por muy interesante."
+    },
+    {
+      "index": 46,
+      "sentence": "La capacidad de hacer\nalgo con presteza es siempre muy elogiada por su poseedor, y con\nfrecuencia sin fijarse en la imperfección que la acompaña."
+    },
+    {
+      "index": 47,
+      "sentence": "Cuando\ndijiste esta mañana a la señora de Bennet que si alguna vez\nresolvías dejar Netherfield te irías en cinco minutos tuviste eso por\nuna especie de panegirico, como un cumplido a ti mismo; y sin\nembargo, ¿qué hay de laudable en una precipitación que por\nnecesidad ha de dejar asuntos sin concluir y no puede reportar ni a\nti ni a nadie ninguna utilidad real?"
+    },
+    {
+      "index": 48,
+      "sentence": "—¡Hombre!, es demasiado eso de recordar por la noche todas las\nlocuras que se han hecho por la mañana."
+    },
+    {
+      "index": 49,
+      "sentence": "Y a fe mía que cuanto dije\nde mí creía que era verdad, y aun lo creo en este instante."
+    },
+    {
+      "index": 50,
+      "sentence": "Por lo\nmenos, no iba a asumir el carácter de precipitado superficial para\nmostrarlo a las señoras."
+    },
+    {
+      "index": 51,
+      "sentence": "—Me atrevo a asegurar que lo creías; pero no me convenzo de\nningún modo de que te marchases tan aprisa."
+    },
+    {
+      "index": 52,
+      "sentence": "Tu conducta sería tan\ndependiente del azar como la de cualquier otro de los que conozco;\ny si cuando estuvieras montado a caballo te dijera un amigo:\nBingley, mejor harás en quedarte hasta la semana que viene,\nprobablemente lo harías, probablemente no te marcharías, y a otra\nfrase por el estilo seguirías aquí durante un mes."
+    },
+    {
+      "index": 53,
+      "sentence": "—Con eso sólo ha probado usted —exclamó Isabel— que el señor\nBingley no hizo justicia a su propio modo de ser."
+    },
+    {
+      "index": 54,
+      "sentence": "Usted lo ha\nretratado ahora mejor de lo que él mismo lo ha hecho."
+    },
+    {
+      "index": 55,
+      "sentence": "—Me complace mucho —dijo Bingley— que convierta usted en un\ncumplido a mi carácter cuanto mi amigo dice."
+    },
+    {
+      "index": 56,
+      "sentence": "Pero temo que le dé\nusted un aspecto que aquel caballero no entenderá de ningún modo;\nporque es bien cierto que él pensaría mejor de mí si en la\ncircunstancia expresada yo le diera una negativa rotunda y me\nmarchara tan pronto como pudiera."
+    },
+    {
+      "index": 57,
+      "sentence": "—¿Consideraría entonces el señor Darcy compensada la presteza\nde su primitiva intención con su obstinación en seguirla?"
+    },
+    {
+      "index": 58,
+      "sentence": "—Doy mi palabra de que no sé explicarlo; Darcy tendrá que hablar\npor mí."
+    },
+    {
+      "index": 59,
+      "sentence": "—Tú esperas que yo explique opiniones que tú das en llamar mías,\npero que nunca he compartido."
+    },
+    {
+      "index": 60,
+      "sentence": "Con todo, admitiendo el caso para\nestar de acuerdo con lo que se alega, debe usted recordar, señorita\nde Bennet, que el amigo que suponíamos que deseaba que siguiese\nen su casa Bringley lo deseaba sin más ni más, se lo proponía sin\nofrecerle argumento alguno en favor de esa decisión."
+    },
+    {
+      "index": 61,
+      "sentence": "—El ceder pronto y fácilmente a la persuasión de un amigo ¿no es\nmérito para usted?"
+    },
+    {
+      "index": 62,
+      "sentence": "—El ceder sin convicción no habla en favor del entendimiento de\nninguno de los dos."
+    },
+    {
+      "index": 63,
+      "sentence": "—Paréceme, señor Darcy, que no concede usted nada a la\ninfluencia de la amistad y del afecto."
+    },
+    {
+      "index": 64,
+      "sentence": "La consideración hacia el\nsuplicante hace a menudo acceder a una súplica sin esperar\nargumentos que la abonen."
+    },
+    {
+      "index": 65,
+      "sentence": "No me refiero en particular a este caso,\ntal como lo ha supuesto usted relacionándolo con el señor Bingley;\nacaso hayamos de esperar mucho hasta que se ofrezcan las\ncircunstancias supuestas las cuales juzgamos la oportunidad de su\nconducta."
+    },
+    {
+      "index": 66,
+      "sentence": "Pero en general, y en los casos ordinarios entre amigos,\ncuando uno desea que el otro cambie de resolución, ¿pensaría usted\nmal de quien complaciera ese deseo sin esperar razones?"
+    },
+    {
+      "index": 67,
+      "sentence": "—¿No sería conveniente antes de proseguir con este tema\nponernos de acuerdo con alguna mayor\nOrgullo y prejuicio.—T."
+    },
+    {
+      "index": 68,
+      "sentence": "I."
+    },
+    {
+      "index": 69,
+      "sentence": "precisión sobre el grado de importancia\nque habría de tener la súplica, así como sobre la intimidad\nsubsistente entre las partes?"
+    },
+    {
+      "index": 70,
+      "sentence": "—Desde luego —exclamó Bingley—; oigamos las particularidades\nsin olvidar ni el respectivo tamaño de ambos amigos, señorita de\nBennet, porque eso hará en el asunto más peso del que usted\npiensa."
+    },
+    {
+      "index": 71,
+      "sentence": "Aseguro a usted que si Darcy no fuera tan alto, comparado\nconmigo, no le habría tenido ni la mitad de consideración."
+    },
+    {
+      "index": 72,
+      "sentence": "Declaro\nque en ciertas ocasiones y en ciertos sitios no conozco nada tan\nterrible como Darcy, y en especial en esta casa y en un domingo la\ntarde, cuando no tiene nada que hacer."
+    },
+    {
+      "index": 73,
+      "sentence": "Darcy se sonrió; pero Isabel creyó percibir que más bien estaba\nofendido, y por eso contuvo su risa."
+    },
+    {
+      "index": 74,
+      "sentence": "La señorita de Bingley se\nmolestó mucho por el modo como había sido tratado y censuró a su\nhermano por decir tales tonterías."
+    },
+    {
+      "index": 75,
+      "sentence": "—Conozco tu sistema, Bingley —dijo su amigo—."
+    },
+    {
+      "index": 76,
+      "sentence": "Cuando no te\ngusta un tema, te es preciso que se termine."
+    },
+    {
+      "index": 77,
+      "sentence": "—Tal vez."
+    },
+    {
+      "index": 78,
+      "sentence": "Esas son discusiones que se parecen mucho a disputas."
+    },
+    {
+      "index": 79,
+      "sentence": "Si la señorita de Bennet y tú diferís los argumentos hasta que yo\nesté ausente del salón, lo estimaré mucho, y entonces podrás decir\nde mí lo que quieras."
+    },
+    {
+      "index": 80,
+      "sentence": "—Lo que usted nos pide —dijo Isabel— no es sacrificio por mi\nparte, y así el señor Darcy terminará mejor su carta."
+    },
+    {
+      "index": 81,
+      "sentence": "Darcy siguió su advertencia y acabó la carta que escribía."
+    },
+    {
+      "index": 82,
+      "sentence": "Cuando terminó su ocupación solicitó de la señorita de Bingley y\nde Isabel algo de música."
+    },
+    {
+      "index": 83,
+      "sentence": "La primera se dirigió veloz al piano, y tras\nuna cortés invitación a Isabel para que comenzara, a la cual ésta se\nnegó con igual cortesía y más seriedad, se sentó."
+    },
+    {
+      "index": 84,
+      "sentence": "La señora de Hurst cantó acompañada de su hermana, y mientras\nambas se ocupaban en eso, Isabel no pudo prescindir de observar, al\nhojear unos libros de música que había al lado del piano, cuán\nfrecuentemente se fijaban en ella los ojos de Darcy."
+    },
+    {
+      "index": 85,
+      "sentence": "Con dificultad\npodía ella suponer que fuera objeto de admiración para tan elevado\npersonaje, y aun era más extraño que la mirara por el hecho de no\ngustarle."
+    },
+    {
+      "index": 86,
+      "sentence": "Sólo, pues, pudo imaginar al fin que despertaba su\natención por ofrecerle en su persona algo más reprensible, en orden\na sus ideas, que otra cualquiera de las presentes."
+    },
+    {
+      "index": 87,
+      "sentence": "La suposición no la\napenó."
+    },
+    {
+      "index": 88,
+      "sentence": "Gustaba de él demasiado poco para cuidarse de su\naprobación."
+    },
+    {
+      "index": 89,
+      "sentence": "Tras de ejecutar algunas canciones italianas, la señorita de\nBringley varió de atracción con un movido aire escocés, y poco\ndespués de comenzado, Darcy, acercándose a Isabel, le dijo:\n—¿No siente usted tentaciones, señorita de Bennet, de aprovechar\nsemejante ocasión de bailar?"
+    },
+    {
+      "index": 90,
+      "sentence": "Ella sonrió, sin contestar."
+    },
+    {
+      "index": 91,
+      "sentence": "Entonces él repitió la pregunta, como\nsorprendido de su silencio."
+    },
+    {
+      "index": 92,
+      "sentence": "—¡Oh!"
+    },
+    {
+      "index": 93,
+      "sentence": "—respondió ella—."
+    },
+    {
+      "index": 94,
+      "sentence": "Ya le he oído a usted antes; pero no\npuedo determinar al instante qué debo decirle como contestación."
+    },
+    {
+      "index": 95,
+      "sentence": "Conozco que usted quiere que diga que sí para gozar del placer de\ndespreciar mi gusto; mas a mí me agrada siempre impedir tales\nbochornos y defraudar los desprecios premeditados de una persona."
+    },
+    {
+      "index": 96,
+      "sentence": "Por eso termino diciendo a usted que no necesito bailar de ningún\nmodo; y ahora, desprécieme usted si se atreve."
+    },
+    {
+      "index": 97,
+      "sentence": "—Cierto que no me atrevo."
+    },
+    {
+      "index": 98,
+      "sentence": "Como Isabel había pensado encararse con él, quedó confusa con\nsu galantería; pero había en el modo de ser de ella tal mezcla de\ndelicadeza y malicia que se le hacía difícil afrentar a nadie, y por otro\nlado, Darcy jamás había quedado tan encantado de una mujer como\nlo estaba de ésta."
+    },
+    {
+      "index": 99,
+      "sentence": "Creia de veras que, a no ser por la inferioridad de\nla parentela de ella, corría él algún riesgo."
+    },
+    {
+      "index": 100,
+      "sentence": "La de Bingley vió o sospechó lo bastante para ponerse celosa, y su\ngran ansiedad por el restablecimiento de su cara amiga Juana subió\nde pronto con el deseo de desembarazarse de Isabel."
+    },
+    {
+      "index": 101,
+      "sentence": "Trataba de hacer que a Darcy le desagradase la huéspeda\nhablándole del supuesto matrimonio y forjando planes sobre la\nespecie de felicidad de semejante unión."
+    },
+    {
+      "index": 102,
+      "sentence": "—Espero —le dijo al día siguiente cuando paseaban juntos en el\nplantío de arbustos— que cuando ese apetecible acontecimiento se\nrealice hará usted a su suegra unas cuantas advertencias relativas a\nrefrenar la lengua, y si también lo puede lograr, evite usted que las\nhijas menores vayan tras los oficiales."
+    },
+    {
+      "index": 103,
+      "sentence": "Y, si me es lícito mentar tan\ndelicado asunto, trate usted de reprimir ese algo, lindante con la\nvanidad o con la impertinencia, que su dama de usted posee."
+    },
+    {
+      "index": 104,
+      "sentence": "—¿Tiene usted más que proponerme para mi felicidad doméstica?"
+    },
+    {
+      "index": 105,
+      "sentence": "—¡Oh!, sí; deje usted que los retratos de sus tíos Philips se\ncoloquen en la galería de Pemberley."
+    },
+    {
+      "index": 106,
+      "sentence": "Póngalos junto a su tío abuelo\nde usted el juez."
+    },
+    {
+      "index": 107,
+      "sentence": "Tienen la misma profesión, como usted sabe, sino\nque en diferente categoría."
+    },
+    {
+      "index": 108,
+      "sentence": "En cuanto a retrato de su Isabel, no\ndebe usted permitir que se lo hagan, porque ¿qué pintor podrá\nhacer justicia a sus hermosos ojos?"
+    },
+    {
+      "index": 109,
+      "sentence": "—Cierto que no sería fácil acertar con su expresión; pero su color,\nsu forma y sus pestañas, tan extraordinariamente finas, podrían\ncopiarse."
+    },
+    {
+      "index": 110,
+      "sentence": "En aquel momento se encontraron con la señora de Hurst y con la\npropia Isabel, que venían de otro paseo."
+    },
+    {
+      "index": 111,
+      "sentence": "—Ignoraba que ustedes pretendieran pasear —dijo la señorita de\nBingley algo confusa por si habían sido oídos."
+    },
+    {
+      "index": 112,
+      "sentence": "—Nos tratan ustedes abominablemente mal —contestó la señora\nde Hurst— márchándose sin decirnos que salían."
+    },
+    {
+      "index": 113,
+      "sentence": "Después, tornando al brazo de Darcy, abandonó el de Isabel."
+    },
+    {
+      "index": 114,
+      "sentence": "El\nsendero permitía caminar justamente a tres."
+    },
+    {
+      "index": 115,
+      "sentence": "Darcy conoció lo poco a\npropósito que era y dijo al punto:\n—Este paseo no es bastante amplio para nuestra partida."
+    },
+    {
+      "index": 116,
+      "sentence": "Haremos\nmejor en irnos a la avenida."
+    },
+    {
+      "index": 117,
+      "sentence": "Pero Isabel, que no tenía el menor deseo de permanecer con\nellos, contestó riendo."
+    },
+    {
+      "index": 118,
+      "sentence": "—No, no; sigan ustedes ahí."
+    },
+    {
+      "index": 119,
+      "sentence": "Resultan ustedes deliciosamente\nagrupados."
+    },
+    {
+      "index": 120,
+      "sentence": "Lo pintoresco del grupo se perdería con admitir un\ncuarto."
+    },
+    {
+      "index": 121,
+      "sentence": "Adiós."
+    },
+    {
+      "index": 122,
+      "sentence": "Entonces se marchó contenta, regocijándose, mientras vagaba,\ncon la esperanza de estar en su casa dentro de uno o dos días."
+    },
+    {
+      "index": 123,
+      "sentence": "Juana se hallaba tan repuesta que se proponía salir de su habitación\ndurante un par de horas por la tarde."
+    }
+  ]
+}

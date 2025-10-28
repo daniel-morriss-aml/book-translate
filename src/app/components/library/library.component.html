@@ -62,9 +62,21 @@
                     </h2>
 
                     <!-- Languages -->
+                    @if (book.translations && book.translations.length > 0) {
+                    <p class="text-sm text-gray-600 dark:text-gray-400 mb-3">
+                        Available in: 
+                        @for (translation of book.translations; track translation.code; let isLast = $last) {
+                            <span>{{ translation.name }}</span>
+                            @if (!isLast) {
+                                <span>, </span>
+                            }
+                        }
+                    </p>
+                    } @else {
                     <p class="text-sm text-gray-600 dark:text-gray-400 mb-3">
                         {{ book.targetLanguage }} → {{ book.nativeLanguage }}
                     </p>
+                    }
 
                     <!-- Description -->
                     <p

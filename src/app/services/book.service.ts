@@ -1,7 +1,7 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import { Observable } from "rxjs";
-import { Book, BookMetadata, ChapterMetadata } from "../models/book.model";
+import { Book, BookMetadata, ChapterContent, ChapterMetadata } from "../models/book.model";
 
 @Injectable({
     providedIn: "root",
@@ -19,6 +19,10 @@ export class BookService {
 
     loadBook(bookPath: string): Observable<Book> {
         return this.http.get<Book>(bookPath);
+    }
+
+    loadChapterContent(chapterPath: string): Observable<ChapterContent> {
+        return this.http.get<ChapterContent>(chapterPath);
     }
 
     getSliderValue(bookId: string): number {

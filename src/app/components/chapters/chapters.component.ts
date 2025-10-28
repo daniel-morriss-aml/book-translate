@@ -15,6 +15,7 @@ import { HeaderComponent } from "../header/header.component";
 export class ChaptersComponent implements OnInit {
     book: BookMetadata | null = null;
     chapters: ChapterMetadata[] = [];
+    language: string = '';
     loading: boolean = true;
     error: string | null = null;
     showCompletedChapters = signal(true);
@@ -38,8 +39,10 @@ export class ChaptersComponent implements OnInit {
     ngOnInit(): void {
         this.route.params.subscribe((params) => {
             const bookId = params["id"];
+            const language = params["language"];
             if (bookId) {
-                this.loadChapters(bookId);
+                this.language = language || '';
+                this.loadChapters(bookId, language);
             } else {
                 this.error = "No book ID provided";
                 this.loading = false;
@@ -47,21 +50,41 @@ export class ChaptersComponent implements OnInit {
         });
     }
 
-    loadChapters(bookId: string): void {
+    loadChapters(bookId: string, language?: string): void {
         this.loading = true;
         // Load book list to find the book metadata
         this.bookService.loadBookList().subscribe({
             next: (books) => {
                 const bookMetadata = books.find((b) => b.id === bookId);
-                if (
-                    bookMetadata &&
-                    bookMetadata.hasChapters &&
-                    bookMetadata.chaptersPath
-                ) {
+                if (bookMetadata) {
                     this.book = bookMetadata;
+                    
+                    let chaptersPath = '';
+                    
+                    // Check if book has translations
+                    if (bookMetadata.translations && language) {
+                        const translation = bookMetadata.translations.find(
+                            (t) => t.code === language
+                        );
+                        if (translation && translation.chaptersPath) {
+                            chaptersPath = translation.chaptersPath;
+                        } else {
+                            this.error = "Translation not found";
+                            this.loading = false;
+                            return;
+                        }
+                    } else if (bookMetadata.hasChapters && bookMetadata.chaptersPath) {
+                        // Legacy path for books without translations
+                        chaptersPath = bookMetadata.chaptersPath;
+                    } else {
+                        this.error = "Book not found or does not have chapters";
+                        this.loading = false;
+                        return;
+                    }
+                    
                     // Load chapters
                     this.bookService
-                        .loadChapters(bookMetadata.chaptersPath)
+                        .loadChapters(chaptersPath)
                         .subscribe({
                             next: (chapters) => {
                                 this.chapters = chapters;
@@ -74,7 +97,7 @@ export class ChaptersComponent implements OnInit {
                             },
                         });
                 } else {
-                    this.error = "Book not found or does not have chapters";
+                    this.error = "Book not found";
                     this.loading = false;
                 }
             },
