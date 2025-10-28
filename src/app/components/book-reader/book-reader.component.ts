@@ -227,9 +227,19 @@ export class BookReaderComponent implements OnInit {
         const targetLang = match[2];   // e.g., 'de', 'en', 'es'
         const chapterNum = match[3];   // e.g., '001'
 
-        // Find the book - for Pride and Prejudice, the prefix is 'pap' and book ID is 'pride-and-prejudice'
-        // We'll look for a book that has translations
-        const book = books.find((b: any) => b.translations && b.translations.length > 0);
+        // Find the book by checking if any translation's chapter ID pattern matches
+        // For example, chapter ID 'pap-es-001' should match a book with translations
+        const book = books.find((b: any) => {
+            if (!b.translations || b.translations.length === 0) return false;
+            
+            // Check if any translation has chapters with IDs that start with the same prefix
+            return b.translations.some((t: any) => {
+                if (!t.chaptersPath) return false;
+                // The chapter ID pattern should match: bookPrefix-languageCode-number
+                // We can check if this translation's language code matches
+                return t.code === targetLang;
+            });
+        });
         
         if (!book || !book.translations) {
             this.error = "Book not found";
