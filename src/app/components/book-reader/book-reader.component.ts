@@ -37,7 +37,7 @@ export class BookReaderComponent implements OnInit {
 
     book: Book | null = null;
     currentPageIndex: number = 0;
-    sliderValue: number = 0; // remove
+    sliderValue: number = 100; // remove
     loading: boolean = true;
     error: string | null = null;
     maintainTranslationLevel: boolean = false;
@@ -251,7 +251,7 @@ export class BookReaderComponent implements OnInit {
         if (this.currentPageIndex < this.totalPages - 1) {
             this.currentPageIndex++;
             if (!this.maintainTranslationLevel) {
-                this.sliderValue = 0;
+                this.sliderValue = 100;
                 this.onSliderChange(this.sliderValue);
             }
             // Update progress when navigating
@@ -283,7 +283,7 @@ export class BookReaderComponent implements OnInit {
         if (this.currentPageIndex > 0) {
             this.currentPageIndex--;
             if (!this.maintainTranslationLevel) {
-                this.sliderValue = 0;
+                this.sliderValue = 100;
                 this.onSliderChange(this.sliderValue);
             }
             // Scroll to top of page content
@@ -320,12 +320,12 @@ export class BookReaderComponent implements OnInit {
 
     shouldShowNative(index: number): boolean {
         if (!this.currentPage) return false;
-        
+
         // If showTranslation is off, never show native text
         if (!this.settings().showTranslation) {
             return false;
         }
-        
+
         const totalSentences = this.currentPage.sentences.length;
         const threshold = (this.sliderValue / 100) * totalSentences;
         return index < threshold;
