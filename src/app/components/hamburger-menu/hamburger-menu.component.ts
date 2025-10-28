@@ -219,6 +219,45 @@ import { ThemeService } from "../../services/theme.service";
                                 </div>
                             </div>
                         </button>
+
+                        <!-- Divider -->
+                        <div class="border-t border-gray-200 dark:border-gray-700 my-2"></div>
+
+                        <!-- Native Language Selector -->
+                        <div class="px-4 py-2">
+                            <label class="text-xs font-medium text-gray-500 dark:text-gray-400 block mb-2">
+                                Native Language
+                            </label>
+                            <select
+                                [value]="settings().nativeLanguage"
+                                (change)="onNativeLanguageChange($event)"
+                                class="w-full px-3 py-2 text-sm bg-gray-50 dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-md text-gray-700 dark:text-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                            >
+                                <option value="en">English</option>
+                                <option value="de">German</option>
+                                <option value="es">Spanish</option>
+                            </select>
+                        </div>
+
+                        <!-- Sentences Per Page -->
+                        <div class="px-4 py-2">
+                            <label class="text-xs font-medium text-gray-500 dark:text-gray-400 block mb-2">
+                                Sentences Per Page: {{ settings().sentencesPerPage }}
+                            </label>
+                            <input
+                                type="range"
+                                min="4"
+                                max="16"
+                                step="2"
+                                [value]="settings().sentencesPerPage"
+                                (input)="onSentencesPerPageChange($event)"
+                                class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-600"
+                            />
+                            <div class="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
+                                <span>4</span>
+                                <span>16</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -290,5 +329,15 @@ export class HamburgerMenuComponent implements OnInit {
 
     toggleShowTranslation(): void {
         this.settingsService.toggleShowTranslation();
+    }
+
+    onNativeLanguageChange(event: Event): void {
+        const target = event.target as HTMLSelectElement;
+        this.settingsService.updateNativeLanguage(target.value);
+    }
+
+    onSentencesPerPageChange(event: Event): void {
+        const target = event.target as HTMLInputElement;
+        this.settingsService.updateSentencesPerPage(parseInt(target.value, 10));
     }
 }
