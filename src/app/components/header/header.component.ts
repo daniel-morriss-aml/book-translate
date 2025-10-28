@@ -14,15 +14,24 @@ export class HeaderComponent {
     readonly fileIcon = ArrowBigLeft;
     book = input<Book | BookMetadata | null>(null);
     isChapterContext = input<boolean>(false);
+    isLanguageSelectionContext = input<boolean>(false);
     parentBookId = input<string | null>(null);
+    parentLanguage = input<string | null>(null);
     subHeading = input<string | null>(null);
 
     constructor(private router: Router) {}
 
     onBack(): void {
         if (this.isChapterContext() && this.parentBookId()) {
-            // Navigate back to chapters page
-            this.router.navigate(["/chapters", this.parentBookId()]);
+            // Navigate back to chapters page with language preserved
+            if (this.parentLanguage()) {
+                this.router.navigate(["/chapters", this.parentBookId(), this.parentLanguage()]);
+            } else {
+                this.router.navigate(["/chapters", this.parentBookId()]);
+            }
+        } else if (this.isLanguageSelectionContext() && this.parentBookId()) {
+            // Navigate back to language selection page
+            this.router.navigate(["/language", this.parentBookId()]);
         } else {
             // Navigate back to library
             this.router.navigate(["/"]);
@@ -30,6 +39,12 @@ export class HeaderComponent {
     }
 
     get backButtonText(): string {
-        return this.isChapterContext() ? "Back to Chapters" : "Back to Library";
+        if (this.isChapterContext()) {
+            return "Back to Chapters";
+        } else if (this.isLanguageSelectionContext()) {
+            return "Back to Languages";
+        } else {
+            return "Back to Library";
+        }
     }
 }

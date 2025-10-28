@@ -45,6 +45,7 @@ export class BookReaderComponent implements OnInit {
     showSetProgressModal: boolean = false;
     isChapterContext: boolean = false;
     parentBookId: string | null = null;
+    parentLanguage: string | null = null;
     nextChapterId: string | null = null;
     furthestReadPage: number | null = null;
 
@@ -356,7 +357,16 @@ export class BookReaderComponent implements OnInit {
     }
 
     checkChapterContext(bookId: string): void {
-        // Load book list to check if this is a chapter
+        // Check if this is a new format chapter ID (pattern: bookPrefix-LANG-NNN)
+        const newFormatMatch = bookId.match(/^([a-z-]+)-([a-z]{2})-(\d+)$/);
+        
+        if (newFormatMatch) {
+            // New format chapter
+            this.checkNewFormatChapterContext(bookId, newFormatMatch);
+            return;
+        }
+
+        // Legacy format - Load book list to check if this is a chapter
         this.bookService.loadBookList().subscribe({
             next: (books) => {
                 const booksWithChapters = books.filter(
@@ -404,6 +414,62 @@ export class BookReaderComponent implements OnInit {
                 };
 
                 searchNextBook();
+            },
+            error: (err) => {
+                console.error("Error checking chapter context:", err);
+            },
+        });
+    }
+
+    checkNewFormatChapterContext(bookId: string, match: RegExpMatchArray): void {
+        const bookPrefix = match[1];  // e.g., 'pap'
+        const targetLang = match[2];   // e.g., 'de', 'en', 'es'
+        const chapterNum = parseInt(match[3], 10);   // e.g., 1, 2, 3
+
+        // Load book list to find the parent book and check for next chapter
+        this.bookService.loadBookList().subscribe({
+            next: (books) => {
+                // Find the book that has translations with this language
+                const book = books.find((b: any) => {
+                    if (!b.translations || b.translations.length === 0) return false;
+                    return b.translations.some((t: any) => t.code === targetLang);
+                });
+
+                if (!book || !book.translations) {
+                    return;
+                }
+
+                // Find the translation for the target language
+                const translation = book.translations.find((t: any) => t.code === targetLang);
+                
+                if (!translation || !translation.chaptersPath) {
+                    return;
+                }
+
+                // Load chapters to find the next chapter
+                this.bookService.loadChapters(translation.chaptersPath).subscribe({
+                    next: (chapters) => {
+                        // Find current chapter index
+                        const chapterIndex = chapters.findIndex(
+                            (c) => c.id === bookId
+                        );
+
+                        if (chapterIndex !== -1) {
+                            this.isChapterContext = true;
+                            this.parentBookId = book.id;
+                            this.parentLanguage = targetLang;
+                            
+                            // Calculate next chapter ID if it exists
+                            if (chapterIndex < chapters.length - 1) {
+                                const nextChapter = chapters[chapterIndex + 1];
+                                this.nextChapterId = nextChapter.id;
+                            }
+                        }
+                    },
+                    error: (err) => {
+                        console.error("Error loading chapters:", err);
+                    },
+                });
             },
             error: (err) => {
                 console.error("Error checking chapter context:", err);
