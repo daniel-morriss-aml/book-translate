@@ -25,6 +25,7 @@ describe('SettingsService', () => {
             showProgressIndicator: true,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
         });
     });
 
@@ -33,6 +34,7 @@ describe('SettingsService', () => {
             showProgressIndicator: false,
             showTranslationSlider: true,
             darkMode: true,
+            showTranslation: true,
         };
         localStorage.setItem('book-reader-settings', JSON.stringify(testSettings));
 
@@ -101,6 +103,7 @@ describe('SettingsService', () => {
             showProgressIndicator: true,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
         });
     });
 
@@ -116,6 +119,7 @@ describe('SettingsService', () => {
             showProgressIndicator: true,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
         });
     });
 
@@ -131,6 +135,7 @@ describe('SettingsService', () => {
             showProgressIndicator: true, // default
             showTranslationSlider: true, // default
             darkMode: true, // from storage
+            showTranslation: true, // default
         });
     });
 });

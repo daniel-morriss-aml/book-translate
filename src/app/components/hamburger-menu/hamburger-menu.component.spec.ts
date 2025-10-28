@@ -105,6 +105,7 @@ describe('HamburgerMenuComponent', () => {
             showProgressIndicator: false,
             showTranslationSlider: false,
             darkMode: true,
+            showTranslation: true,
         };
 
         settingsSubject.next(newSettings);
@@ -118,6 +119,7 @@ describe('HamburgerMenuComponent', () => {
             showProgressIndicator: false,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
         };
 
         settingsSubject.next(newSettings);
