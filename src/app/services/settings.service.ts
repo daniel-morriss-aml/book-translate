@@ -5,6 +5,7 @@ export interface UserSettings {
     showProgressIndicator: boolean;
     showTranslationSlider: boolean;
     darkMode: boolean;
+    showTranslation: boolean;
 }
 
 @Injectable({
@@ -17,6 +18,7 @@ export class SettingsService {
         showProgressIndicator: true,
         showTranslationSlider: true,
         darkMode: false,
+        showTranslation: true,
     };
 
     private settingsSubject = new BehaviorSubject<UserSettings>(this.loadSettings());
@@ -73,6 +75,11 @@ export class SettingsService {
     toggleDarkMode(): void {
         const current = this.getCurrentSettings();
         this.updateSetting('darkMode', !current.darkMode);
+    }
+
+    toggleShowTranslation(): void {
+        const current = this.getCurrentSettings();
+        this.updateSetting('showTranslation', !current.showTranslation);
     }
 
     resetToDefaults(): void {

@@ -8,6 +8,7 @@ import {
     BarChart3,
     Sliders,
     Settings,
+    Languages,
     LucideAngularModule,
 } from "lucide-angular";
 import { SettingsService, UserSettings } from "../../services/settings.service";
@@ -178,6 +179,46 @@ import { ThemeService } from "../../services/theme.service";
                                 </div>
                             </div>
                         </button>
+
+                        <!-- Show Translation Toggle -->
+                        <button
+                            (click)="toggleShowTranslation()"
+                            class="w-full px-4 py-2 flex items-center justify-between hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+                        >
+                            <div class="flex items-center gap-3">
+                                <lucide-angular
+                                    [img]="languagesIcon"
+                                    [size]="16"
+                                    class="text-gray-500 dark:text-gray-400"
+                                ></lucide-angular>
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-300"
+                                >
+                                    Show Translation
+                                </span>
+                            </div>
+                            <div class="relative">
+                                <input
+                                    type="checkbox"
+                                    [checked]="settings().showTranslation"
+                                    readonly
+                                    class="sr-only"
+                                />
+                                <div
+                                    class="w-10 h-6 bg-gray-200 dark:bg-gray-600 rounded-full relative transition-colors"
+                                    [class.bg-blue-600]="
+                                        settings().showTranslation
+                                    "
+                                >
+                                    <div
+                                        class="absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform"
+                                        [class.translate-x-4]="
+                                            settings().showTranslation
+                                        "
+                                    ></div>
+                                </div>
+                            </div>
+                        </button>
                     </div>
                 </div>
 
@@ -202,12 +243,14 @@ export class HamburgerMenuComponent implements OnInit {
     readonly chartIcon = BarChart3;
     readonly slidersIcon = Sliders;
     readonly settingsIcon = Settings;
+    readonly languagesIcon = Languages;
 
     isMenuOpen = signal(false);
     settings = signal<UserSettings>({
         showProgressIndicator: true,
         showTranslationSlider: true,
         darkMode: false,
+        showTranslation: true,
     });
 
     constructor(
@@ -241,5 +284,9 @@ export class HamburgerMenuComponent implements OnInit {
 
     toggleTranslationSlider(): void {
         this.settingsService.toggleTranslationSlider();
+    }
+
+    toggleShowTranslation(): void {
+        this.settingsService.toggleShowTranslation();
     }
 }

@@ -52,6 +52,7 @@ export class BookReaderComponent implements OnInit {
         showProgressIndicator: true,
         showTranslationSlider: true,
         darkMode: false,
+        showTranslation: true,
     });
 
     constructor(
@@ -319,6 +320,12 @@ export class BookReaderComponent implements OnInit {
 
     shouldShowNative(index: number): boolean {
         if (!this.currentPage) return false;
+        
+        // If showTranslation is off, never show native text
+        if (!this.settings().showTranslation) {
+            return false;
+        }
+        
         const totalSentences = this.currentPage.sentences.length;
         const threshold = (this.sliderValue / 100) * totalSentences;
         return index < threshold;
