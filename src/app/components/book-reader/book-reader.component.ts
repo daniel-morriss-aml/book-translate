@@ -227,8 +227,9 @@ export class BookReaderComponent implements OnInit {
         const targetLang = match[2];   // e.g., 'de', 'en', 'es'
         const chapterNum = match[3];   // e.g., '001'
 
-        // Find the book by checking if the chapter ID starts with a known book ID
-        const book = books.find((b: any) => chapterId.startsWith(b.id + '-'));
+        // Find the book - for Pride and Prejudice, the prefix is 'pap' and book ID is 'pride-and-prejudice'
+        // We'll look for a book that has translations
+        const book = books.find((b: any) => b.translations && b.translations.length > 0);
         
         if (!book || !book.translations) {
             this.error = "Book not found";
@@ -246,9 +247,10 @@ export class BookReaderComponent implements OnInit {
             return;
         }
 
-        // Build paths to chapter files
-        const targetPath = `assets/${bookPrefix}/${targetLang}/chapter-${parseInt(chapterNum, 10)}.json`;
-        const nativePath = `assets/${bookPrefix}/${nativeLanguage}/chapter-${parseInt(chapterNum, 10)}.json`;
+        // Build paths to chapter files - use the actual folder name from book ID
+        const basePath = `assets/${book.id}`;
+        const targetPath = `${basePath}/${targetLang}/chapter-${parseInt(chapterNum, 10)}.json`;
+        const nativePath = `${basePath}/${nativeLanguage}/chapter-${parseInt(chapterNum, 10)}.json`;
 
         // Load both chapters
         Promise.all([
