@@ -8,13 +8,6 @@ This project uses ESLint with Angular-specific rules to maintain code quality an
 
 This rule is enforced by ESLint and will cause the build to fail if violated.
 
-### Current Violations
-
-As of the last check, these component files exceed the 200-line limit and need refactoring:
-
-- `book-reader.component.ts` - 518 lines
-- `hamburger-menu.component.ts` - 321 lines
-
 ### Refactoring Strategies
 
 When a component exceeds 200 lines, consider these approaches:
