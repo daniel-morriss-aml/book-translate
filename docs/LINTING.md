@@ -4,13 +4,13 @@ This project uses ESLint with Angular-specific rules to maintain code quality an
 
 ## Component File Length Rule
 
-**IMPORTANT**: Component files (`.component.ts`) must not exceed 200 lines (excluding blank lines and comments).
+**IMPORTANT**: Component files (`.component.ts`) must not exceed 250 lines (excluding blank lines and comments).
 
 This rule is enforced by ESLint and will cause the build to fail if violated.
 
 ### Refactoring Strategies
 
-When a component exceeds 200 lines, consider these approaches:
+When a component exceeds 250 lines, consider these approaches:
 
 1. **Extract Child Components**: Break down complex UI into smaller, focused components
 2. **Move Logic to Services**: Extract business logic into injectable services
@@ -39,13 +39,13 @@ This project uses Husky and lint-staged to automatically run linting on staged f
 
 - Automatically fixes TypeScript files where possible
 - Ensures component files pass all linting rules
-- Prevents commits that would violate the 200-line rule
+- Prevents commits that would violate the 250-line rule
 
 ## ESLint Configuration
 
 The project uses these key ESLint rules:
 
-- `max-lines`: 200 lines maximum for `.component.ts` files
+- `max-lines`: 250 lines maximum for `.component.ts` files
 - `@angular-eslint/prefer-standalone`: Enforces standalone components
 - `@angular-eslint/prefer-inject`: Encourages using `inject()` over constructor injection
 - `@typescript-eslint/no-explicit-any`: Prevents use of `any` type
@@ -63,7 +63,7 @@ Linting is integrated into the development workflow:
 
 1. **Run linting before committing**: Always run `npm run lint` before pushing code
 2. **Fix violations immediately**: Don't let linting errors accumulate
-3. **Refactor large components**: When approaching 150 lines, start planning refactoring
+3. **Refactor large components**: When approaching 200 lines, start planning refactoring
 4. **Use the auto-fix**: Many linting issues can be automatically resolved with `npm run lint:fix`
 
 ## Troubleshooting
