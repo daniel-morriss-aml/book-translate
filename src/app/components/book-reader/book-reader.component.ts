@@ -37,7 +37,7 @@ export class BookReaderComponent implements OnInit {
 
     book: Book | null = null;
     currentPageIndex: number = 0;
-    sliderValue: number = 0; // remove
+    sliderValue: number = 0;
     loading: boolean = true;
     error: string | null = null;
     maintainTranslationLevel: boolean = true;
