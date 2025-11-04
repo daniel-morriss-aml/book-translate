@@ -139,7 +139,7 @@ describe("BookReaderComponent", () => {
         expect(component.maintainTranslationLevel).toBe(true);
     });
 
-    it("should reset slider to 0 when navigating pages with maintainTranslationLevel off", () => {
+    it("should reset slider to 100 when navigating pages with maintainTranslationLevel off", () => {
         const fixture = TestBed.createComponent(BookReaderComponent);
         const component = fixture.componentInstance;
         component.book = {
@@ -158,12 +158,12 @@ describe("BookReaderComponent", () => {
 
         component.nextPage();
         expect(component.currentPageIndex).toBe(1);
-        expect(component.sliderValue).toBe(0);
+        expect(component.sliderValue).toBe(100);
 
         component.sliderValue = 75;
         component.previousPage();
         expect(component.currentPageIndex).toBe(0);
-        expect(component.sliderValue).toBe(0);
+        expect(component.sliderValue).toBe(100);
     });
 
     it("should maintain slider value when navigating pages with maintainTranslationLevel on", () => {

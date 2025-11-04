@@ -64,9 +64,9 @@ describe("BookService", () => {
         expect(value).toBe(75);
     });
 
-    it("should return 0 if no slider value stored", () => {
+    it("should return 100 if no slider value stored", () => {
         const value = service.getSliderValue("non-existent-book");
-        expect(value).toBe(0);
+        expect(value).toBe(100);
     });
 
     it("should save slider value to localStorage", () => {

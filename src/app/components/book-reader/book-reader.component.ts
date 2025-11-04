@@ -562,7 +562,7 @@ export class BookReaderComponent implements OnInit {
         if (this.currentPageIndex > 0) {
             this.currentPageIndex--;
             if (!this.maintainTranslationLevel) {
-                this.sliderValue = 0;
+                this.sliderValue = 100;
                 this.onSliderChange(this.sliderValue);
             }
             // Scroll to top of page content

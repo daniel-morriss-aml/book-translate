@@ -1,7 +1,12 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import { Observable } from "rxjs";
-import { Book, BookMetadata, ChapterContent, ChapterMetadata } from "../models/book.model";
+import {
+    Book,
+    BookMetadata,
+    ChapterContent,
+    ChapterMetadata,
+} from "../models/book.model";
 
 @Injectable({
     providedIn: "root",
@@ -27,7 +32,7 @@ export class BookService {
 
     getSliderValue(bookId: string): number {
         const stored = localStorage.getItem(`slider-${bookId}`);
-        return stored ? parseInt(stored, 10) : 0;
+        return stored ? parseInt(stored, 10) : 100;
     }
 
     saveSliderValue(bookId: string, value: number): void {
