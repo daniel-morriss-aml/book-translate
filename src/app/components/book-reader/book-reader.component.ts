@@ -1,35 +1,35 @@
-import { CommonModule } from "@angular/common";
+import { CommonModule } from '@angular/common';
 import {
     Component,
     ElementRef,
     HostListener,
     OnInit,
     ViewChild,
-    signal,
     inject,
-} from "@angular/core";
-import { FormsModule } from "@angular/forms";
-import { HammerModule } from "@angular/platform-browser";
-import { ActivatedRoute, Router } from "@angular/router";
-import { Book, Page, Sentence } from "../../models/book.model";
-import { ChapterLoaderService } from "../../services/chapter-loader.service";
+    signal,
+} from '@angular/core';
+import { FormsModule } from '@angular/forms';
+import { HammerModule } from '@angular/platform-browser';
+import { ActivatedRoute, Router } from '@angular/router';
+import { Book, Page, Sentence } from '../../models/book.model';
 import {
     BookContextService,
     ChapterContext,
-} from "../../services/book-context.service";
+} from '../../services/book-context.service';
+import { ChapterLoaderService } from '../../services/chapter-loader.service';
 import {
     ReaderNavigationService,
     ReaderState,
-} from "../../services/reader-navigation.service";
-import { ReaderUIService } from "../../services/reader-ui.service";
-import { SettingsService, UserSettings } from "../../services/settings.service";
-import { ThemeService } from "../../services/theme.service";
-import { HeaderComponent } from "../header/header.component";
-import { ProgressIndicatorComponent } from "../progress-indicator/progress-indicator.component";
-import { SliderComponent } from "../slider/slider.component";
+} from '../../services/reader-navigation.service';
+import { ReaderUIService } from '../../services/reader-ui.service';
+import { SettingsService, UserSettings } from '../../services/settings.service';
+import { ThemeService } from '../../services/theme.service';
+import { HeaderComponent } from '../header/header.component';
+import { ProgressIndicatorComponent } from '../progress-indicator/progress-indicator.component';
+import { SliderComponent } from '../slider/slider.component';
 
 @Component({
-    selector: "app-book-reader",
+    selector: 'app-book-reader',
     imports: [
         CommonModule,
         FormsModule,
@@ -38,11 +38,11 @@ import { SliderComponent } from "../slider/slider.component";
         ProgressIndicatorComponent,
         HammerModule,
     ],
-    templateUrl: "./book-reader.component.html",
-    styleUrl: "./book-reader.component.css",
+    templateUrl: './book-reader.component.html',
+    styleUrl: './book-reader.component.css',
 })
 export class BookReaderComponent implements OnInit {
-    @ViewChild("pageContent") pageContent?: ElementRef;
+    @ViewChild('pageContent') pageContent?: ElementRef;
     private chapterLoaderService = inject(ChapterLoaderService);
     private bookContextService = inject(BookContextService);
     private navigationService = inject(ReaderNavigationService);
@@ -69,12 +69,12 @@ export class BookReaderComponent implements OnInit {
         furthestReadPage: null,
     };
     settings = signal<UserSettings>({
-        showProgressIndicator: true,
-        showTranslationSlider: true,
+        showProgressIndicator: false,
+        showTranslationSlider: false,
         darkMode: false,
         showTranslation: true,
         sentencesPerPage: 8,
-        nativeLanguage: "en",
+        nativeLanguage: 'en',
     });
 
     ngOnInit(): void {
@@ -88,10 +88,10 @@ export class BookReaderComponent implements OnInit {
             .getReaderState()
             .subscribe((state) => (this.readerState = state));
         this.route.params.subscribe((params) => {
-            const bookId = params["id"];
+            const bookId = params['id'];
             if (bookId) this.loadBook(bookId);
             else {
-                this.error = "No book ID provided";
+                this.error = 'No book ID provided';
                 this.loading = false;
             }
         });
@@ -110,9 +110,9 @@ export class BookReaderComponent implements OnInit {
                 this.loading = false;
             },
             error: (err) => {
-                this.error = "Failed to load book";
+                this.error = 'Failed to load book';
                 this.loading = false;
-                console.error("Error loading book:", err);
+                console.error('Error loading book:', err);
             },
         });
     }
@@ -171,7 +171,7 @@ export class BookReaderComponent implements OnInit {
     getSentenceDisplay(sentence: Sentence): string {
         return this.navigationService.getSentenceDisplay(
             sentence,
-            this.readerState.sliderValue,
+            this.readerState.sliderValue
         );
     }
 
@@ -180,7 +180,7 @@ export class BookReaderComponent implements OnInit {
             ? this.navigationService.shouldShowNative(
                   this.currentPage,
                   index,
-                  this.readerState.sliderValue,
+                  this.readerState.sliderValue
               )
             : false;
     }
@@ -204,7 +204,7 @@ export class BookReaderComponent implements OnInit {
             this.navigationService.setProgress(
                 this.book.id,
                 this.readerState.currentPageIndex,
-                this.book.pages.length,
+                this.book.pages.length
             );
         this.closeSetProgressModal();
     }
@@ -213,16 +213,16 @@ export class BookReaderComponent implements OnInit {
         if (this.book && this.chapterContext.nextChapterId) {
             this.navigationService.completeChapter(
                 this.book.id,
-                this.book.pages.length,
+                this.book.pages.length
             );
             this.router.navigate([
-                "/reader",
+                '/reader',
                 this.chapterContext.nextChapterId,
             ]);
         }
     }
 
-    @HostListener("window:keydown", ["$event"])
+    @HostListener('window:keydown', ['$event'])
     handleKeyboardEvent(event: KeyboardEvent): void {
         if (!this.book) return;
         const handled = this.uiService.handleKeyboardNavigation(
@@ -232,10 +232,7 @@ export class BookReaderComponent implements OnInit {
             () =>
                 this.navigationService.adjustSliderByKeyboard(this.book!.id, 5),
             () =>
-                this.navigationService.adjustSliderByKeyboard(
-                    this.book!.id,
-                    -5,
-                ),
+                this.navigationService.adjustSliderByKeyboard(this.book!.id, -5)
         );
         if (handled) event.preventDefault();
     }

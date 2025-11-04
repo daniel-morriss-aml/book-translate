@@ -1,16 +1,15 @@
-import { ComponentFixture, TestBed } from "@angular/core/testing";
-import { provideHttpClient } from "@angular/common/http";
+import { provideHttpClient } from '@angular/common/http';
 import {
     HttpTestingController,
     provideHttpClientTesting,
-} from "@angular/common/http/testing";
-import { provideRouter } from "@angular/router";
-import { ActivatedRoute } from "@angular/router";
-import { of } from "rxjs";
+} from '@angular/common/http/testing';
+import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { ActivatedRoute, provideRouter } from '@angular/router';
+import { of } from 'rxjs';
 
-import { BookReaderComponent } from "./book-reader.component";
+import { BookReaderComponent } from './book-reader.component';
 
-describe("BookReaderComponent", () => {
+describe('BookReaderComponent', () => {
     let component: BookReaderComponent;
     let fixture: ComponentFixture<BookReaderComponent>;
     let httpTestingController: HttpTestingController;
@@ -25,7 +24,7 @@ describe("BookReaderComponent", () => {
                 {
                     provide: ActivatedRoute,
                     useValue: {
-                        params: of({ id: "demo-book-001" }),
+                        params: of({ id: 'demo-book-001' }),
                     },
                 },
             ],
@@ -40,11 +39,11 @@ describe("BookReaderComponent", () => {
         httpTestingController.verify();
     });
 
-    it("should create", () => {
+    it('should create', () => {
         expect(component).toBeTruthy();
     });
 
-    it("should initialize with default values", () => {
+    it('should initialize with default values', () => {
         expect(component.loading).toBe(true);
         expect(component.error).toBe(null);
         expect(component.book).toBe(null);

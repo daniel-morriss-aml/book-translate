@@ -1,8 +1,8 @@
 import { ComponentFixture, TestBed } from "@angular/core/testing";
-import { HamburgerMenuComponent } from "./hamburger-menu.component";
+import { BehaviorSubject } from "rxjs";
 import { SettingsService, UserSettings } from "../../services/settings.service";
 import { ThemeService } from "../../services/theme.service";
-import { BehaviorSubject } from "rxjs";
+import { HamburgerMenuComponent } from "./hamburger-menu.component";
 
 describe("HamburgerMenuComponent", () => {
     let component: HamburgerMenuComponent;
@@ -19,7 +19,7 @@ describe("HamburgerMenuComponent", () => {
             showTranslation: true,
             sentencesPerPage: 8,
             nativeLanguage: "en",
-        });
+        } as UserSettings);
 
         mockSettingsService = jasmine.createSpyObj("SettingsService", [
             "toggleProgressIndicator",

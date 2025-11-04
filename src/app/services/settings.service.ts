@@ -17,8 +17,8 @@ export class SettingsService {
     private readonly SETTINGS_KEY = "book-reader-settings";
 
     private defaultSettings: UserSettings = {
-        showProgressIndicator: true,
-        showTranslationSlider: true,
+        showProgressIndicator: false,
+        showTranslationSlider: false,
         darkMode: false,
         showTranslation: true,
         sentencesPerPage: 8,
