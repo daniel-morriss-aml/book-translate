@@ -1,10 +1,10 @@
-import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { HamburgerMenuComponent } from './hamburger-menu.component';
-import { SettingsService } from '../../services/settings.service';
-import { ThemeService } from '../../services/theme.service';
-import { BehaviorSubject } from 'rxjs';
+import { ComponentFixture, TestBed } from "@angular/core/testing";
+import { HamburgerMenuComponent } from "./hamburger-menu.component";
+import { SettingsService } from "../../services/settings.service";
+import { ThemeService } from "../../services/theme.service";
+import { BehaviorSubject } from "rxjs";
 
-describe('HamburgerMenuComponent', () => {
+describe("HamburgerMenuComponent", () => {
     let component: HamburgerMenuComponent;
     let fixture: ComponentFixture<HamburgerMenuComponent>;
     let mockSettingsService: jasmine.SpyObj<SettingsService>;
@@ -18,22 +18,26 @@ describe('HamburgerMenuComponent', () => {
             darkMode: false,
         });
 
-        mockSettingsService = jasmine.createSpyObj('SettingsService', [
-            'toggleProgressIndicator',
-            'toggleTranslationSlider',
-            'toggleDarkMode',
-            'getSettings'
+        mockSettingsService = jasmine.createSpyObj("SettingsService", [
+            "toggleProgressIndicator",
+            "toggleTranslationSlider",
+            "toggleDarkMode",
+            "getSettings",
         ]);
-        mockSettingsService.getSettings.and.returnValue(settingsSubject.asObservable());
+        mockSettingsService.getSettings.and.returnValue(
+            settingsSubject.asObservable(),
+        );
 
-        mockThemeService = jasmine.createSpyObj('ThemeService', ['toggleTheme']);
+        mockThemeService = jasmine.createSpyObj("ThemeService", [
+            "toggleTheme",
+        ]);
 
         await TestBed.configureTestingModule({
             imports: [HamburgerMenuComponent],
             providers: [
                 { provide: SettingsService, useValue: mockSettingsService },
-                { provide: ThemeService, useValue: mockThemeService }
-            ]
+                { provide: ThemeService, useValue: mockThemeService },
+            ],
         }).compileComponents();
 
         fixture = TestBed.createComponent(HamburgerMenuComponent);
@@ -41,15 +45,15 @@ describe('HamburgerMenuComponent', () => {
         fixture.detectChanges();
     });
 
-    it('should create', () => {
+    it("should create", () => {
         expect(component).toBeTruthy();
     });
 
-    it('should initialize with closed menu', () => {
+    it("should initialize with closed menu", () => {
         expect(component.isMenuOpen()).toBe(false);
     });
 
-    it('should toggle menu open and closed', () => {
+    it("should toggle menu open and closed", () => {
         expect(component.isMenuOpen()).toBe(false);
 
         component.toggleMenu();
@@ -59,55 +63,55 @@ describe('HamburgerMenuComponent', () => {
         expect(component.isMenuOpen()).toBe(false);
     });
 
-    it('should close menu when closeMenu is called', () => {
+    it("should close menu when closeMenu is called", () => {
         component.isMenuOpen.set(true);
         component.closeMenu();
         expect(component.isMenuOpen()).toBe(false);
     });
 
-    it('should display menu when isMenuOpen is true', () => {
+    it("should display menu when isMenuOpen is true", () => {
         component.isMenuOpen.set(true);
         fixture.detectChanges();
 
-        const menu = fixture.nativeElement.querySelector('.absolute.right-0');
+        const menu = fixture.nativeElement.querySelector(".absolute.right-0");
         expect(menu).toBeTruthy();
     });
 
-    it('should not display menu when isMenuOpen is false', () => {
+    it("should not display menu when isMenuOpen is false", () => {
         component.isMenuOpen.set(false);
         fixture.detectChanges();
 
-        const menu = fixture.nativeElement.querySelector('.absolute.right-0');
+        const menu = fixture.nativeElement.querySelector(".absolute.right-0");
         expect(menu).toBeFalsy();
     });
 
-    it('should call toggleDarkMode on both services when dark mode toggle is clicked', () => {
+    it("should call toggleDarkMode on both services when dark mode toggle is clicked", () => {
         component.toggleDarkMode();
 
         expect(mockThemeService.toggleTheme).toHaveBeenCalled();
         expect(mockSettingsService.toggleDarkMode).toHaveBeenCalled();
     });
 
-    it('should call settingsService.toggleProgressIndicator when progress indicator toggle is clicked', () => {
+    it("should call settingsService.toggleProgressIndicator when progress indicator toggle is clicked", () => {
         component.toggleProgressIndicator();
 
         expect(mockSettingsService.toggleProgressIndicator).toHaveBeenCalled();
     });
 
-    it('should call settingsService.toggleTranslationSlider when translation slider toggle is clicked', () => {
+    it("should call settingsService.toggleTranslationSlider when translation slider toggle is clicked", () => {
         component.toggleTranslationSlider();
 
         expect(mockSettingsService.toggleTranslationSlider).toHaveBeenCalled();
     });
 
-    it('should update settings when settings service emits new values', () => {
+    it("should update settings when settings service emits new values", () => {
         const newSettings = {
             showProgressIndicator: false,
             showTranslationSlider: false,
             darkMode: true,
             showTranslation: true,
             sentencesPerPage: 8,
-            nativeLanguage: 'en',
+            nativeLanguage: "en",
         };
 
         settingsSubject.next(newSettings);
@@ -116,14 +120,14 @@ describe('HamburgerMenuComponent', () => {
         expect(component.settings()).toEqual(newSettings);
     });
 
-    it('should show correct toggle states in UI', () => {
+    it("should show correct toggle states in UI", () => {
         const newSettings = {
             showProgressIndicator: false,
             showTranslationSlider: true,
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
-            nativeLanguage: 'en',
+            nativeLanguage: "en",
         };
 
         settingsSubject.next(newSettings);
@@ -145,37 +149,37 @@ describe('HamburgerMenuComponent', () => {
         expect(showTranslationToggle.classList.contains('bg-blue-600')).toBe(true);
     });
 
-    it('should close menu when backdrop is clicked', () => {
+    it("should close menu when backdrop is clicked", () => {
         component.isMenuOpen.set(true);
         fixture.detectChanges();
 
-        const backdrop = fixture.nativeElement.querySelector('.fixed.inset-0');
+        const backdrop = fixture.nativeElement.querySelector(".fixed.inset-0");
         expect(backdrop).toBeTruthy();
 
         backdrop.click();
         expect(component.isMenuOpen()).toBe(false);
     });
 
-    it('should show correct icon based on menu state', () => {
+    it("should show correct icon based on menu state", () => {
         // Menu closed - should show menu icon
         component.isMenuOpen.set(false);
         fixture.detectChanges();
 
-        let button = fixture.nativeElement.querySelector('button');
-        expect(button.getAttribute('aria-expanded')).toBe('false');
+        let button = fixture.nativeElement.querySelector("button");
+        expect(button.getAttribute("aria-expanded")).toBe("false");
 
         // Menu open - should show close icon
         component.isMenuOpen.set(true);
         fixture.detectChanges();
 
-        button = fixture.nativeElement.querySelector('button');
-        expect(button.getAttribute('aria-expanded')).toBe('true');
+        button = fixture.nativeElement.querySelector("button");
+        expect(button.getAttribute("aria-expanded")).toBe("true");
     });
 
-    it('should have proper accessibility attributes', () => {
-        const button = fixture.nativeElement.querySelector('button');
+    it("should have proper accessibility attributes", () => {
+        const button = fixture.nativeElement.querySelector("button");
 
-        expect(button.hasAttribute('aria-label')).toBe(true);
-        expect(button.hasAttribute('aria-expanded')).toBe(true);
+        expect(button.hasAttribute("aria-label")).toBe(true);
+        expect(button.hasAttribute("aria-expanded")).toBe(true);
     });
 });
