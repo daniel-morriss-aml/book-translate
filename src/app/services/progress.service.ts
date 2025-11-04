@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable } from "@angular/core";
 
 export interface ReadingProgress {
     currentPage: number; // Current page index (0-based)
@@ -7,9 +7,7 @@ export interface ReadingProgress {
     lastRead: Date; // Timestamp of last read
 }
 
-export interface ChapterProgress {
-    [chapterId: string]: ReadingProgress;
-}
+export type ChapterProgress = Record<string, ReadingProgress>;
 
 export interface BookProgress {
     chapters: ChapterProgress; // Progress for each chapter
@@ -17,12 +15,10 @@ export interface BookProgress {
 }
 
 @Injectable({
-    providedIn: 'root',
+    providedIn: "root",
 })
 export class ProgressService {
-    private readonly PROGRESS_KEY_PREFIX = 'book-progress-';
-
-    constructor() {}
+    private readonly PROGRESS_KEY_PREFIX = "book-progress-";
 
     /**
      * Get reading progress for a specific chapter/book
@@ -37,7 +33,7 @@ export class ProgressService {
             progress.lastRead = new Date(progress.lastRead);
             return progress;
         } catch (e) {
-            console.error('Error parsing progress:', e);
+            console.error("Error parsing progress:", e);
             return null;
         }
     }
@@ -48,14 +44,18 @@ export class ProgressService {
     saveProgress(id: string, progress: ReadingProgress): void {
         localStorage.setItem(
             `${this.PROGRESS_KEY_PREFIX}${id}`,
-            JSON.stringify(progress)
+            JSON.stringify(progress),
         );
     }
 
     /**
      * Set the current page as the furthest read page
      */
-    setProgressPoint(id: string, currentPage: number, totalPages: number): void {
+    setProgressPoint(
+        id: string,
+        currentPage: number,
+        totalPages: number,
+    ): void {
         const percentage = Math.round(((currentPage + 1) / totalPages) * 100);
         const progress: ReadingProgress = {
             currentPage,
@@ -98,7 +98,8 @@ export class ProgressService {
 
         return {
             chapters,
-            isComplete: completedCount === chapterIds.length && chapterIds.length > 0,
+            isComplete:
+                completedCount === chapterIds.length && chapterIds.length > 0,
         };
     }
 

@@ -1,5 +1,5 @@
 import { HttpClient } from "@angular/common/http";
-import { Injectable } from "@angular/core";
+import { Injectable, inject } from "@angular/core";
 import { Observable } from "rxjs";
 import {
     Book,
@@ -12,7 +12,7 @@ import {
     providedIn: "root",
 })
 export class BookService {
-    constructor(private http: HttpClient) {}
+    private http = inject(HttpClient);
 
     loadBookList(): Observable<BookMetadata[]> {
         return this.http.get<BookMetadata[]>("assets/books.json");

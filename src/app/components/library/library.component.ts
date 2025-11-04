@@ -1,42 +1,27 @@
-import { CommonModule } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
-import { Moon, Sun, LucideAngularModule } from 'lucide-angular';
-import { BookMetadata } from '../../models/book.model';
-import { BookService } from '../../services/book.service';
-import { ProgressService } from '../../services/progress.service';
-import { ThemeService } from '../../services/theme.service';
-import { SettingsService } from '../../services/settings.service';
+import { CommonModule } from "@angular/common";
+import { Component, OnInit, inject } from "@angular/core";
+import { Router } from "@angular/router";
+import { BookMetadata } from "../../models/book.model";
+import { BookService } from "../../services/book.service";
+import { ProgressService } from "../../services/progress.service";
 
 @Component({
-    selector: 'app-library',
-    imports: [CommonModule, LucideAngularModule],
-    templateUrl: './library.component.html',
-    styleUrl: './library.component.css',
+    selector: "app-library",
+    imports: [CommonModule],
+    templateUrl: "./library.component.html",
+    styleUrl: "./library.component.css",
 })
 export class LibraryComponent implements OnInit {
-    readonly moonIcon = Moon;
-    readonly sunIcon = Sun;
     books: BookMetadata[] = [];
-    loading: boolean = true;
+    loading = false;
     error: string | null = null;
-    isDarkMode: boolean = false;
 
-    constructor(
-        private bookService: BookService,
-        private progressService: ProgressService,
-        private router: Router,
-        private themeService: ThemeService,
-        private settingsService: SettingsService,
-    ) {}
+    private bookService = inject(BookService);
+    private progressService = inject(ProgressService);
+    private router = inject(Router);
 
     ngOnInit(): void {
         this.loadBooks();
-        
-        // Subscribe to theme changes
-        this.themeService.isDarkMode().subscribe((isDark) => {
-            this.isDarkMode = isDark;
-        });
     }
 
     loadBooks(): void {
@@ -47,9 +32,9 @@ export class LibraryComponent implements OnInit {
                 this.loading = false;
             },
             error: (err) => {
-                this.error = 'Failed to load book library';
+                this.error = "Failed to load book library";
                 this.loading = false;
-                console.error('Error loading books:', err);
+                console.error("Error loading books:", err);
             },
         });
     }
@@ -57,11 +42,11 @@ export class LibraryComponent implements OnInit {
     openBook(book: BookMetadata): void {
         if (book.translations && book.translations.length > 0) {
             // Navigate to language selection for multi-language books
-            this.router.navigate(['/language', book.id]);
+            this.router.navigate(["/language", book.id]);
         } else if (book.hasChapters) {
-            this.router.navigate(['/chapters', book.id]);
+            this.router.navigate(["/chapters", book.id]);
         } else {
-            this.router.navigate(['/reader', book.id]);
+            this.router.navigate(["/reader", book.id]);
         }
     }
 
@@ -75,10 +60,5 @@ export class LibraryComponent implements OnInit {
             // For books without chapters, check the book itself
             return this.progressService.isBookComplete(book.id);
         }
-    }
-
-    toggleDarkMode(): void {
-        this.themeService.toggleTheme();
-        this.settingsService.toggleDarkMode();
     }
 }
