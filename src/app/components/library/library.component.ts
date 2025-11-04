@@ -1,29 +1,42 @@
 import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { Moon, Sun, LucideAngularModule } from 'lucide-angular';
 import { BookMetadata } from '../../models/book.model';
 import { BookService } from '../../services/book.service';
 import { ProgressService } from '../../services/progress.service';
+import { ThemeService } from '../../services/theme.service';
+import { SettingsService } from '../../services/settings.service';
 
 @Component({
     selector: 'app-library',
-    imports: [CommonModule],
+    imports: [CommonModule, LucideAngularModule],
     templateUrl: './library.component.html',
     styleUrl: './library.component.css',
 })
 export class LibraryComponent implements OnInit {
+    readonly moonIcon = Moon;
+    readonly sunIcon = Sun;
     books: BookMetadata[] = [];
     loading: boolean = true;
     error: string | null = null;
+    isDarkMode: boolean = false;
 
     constructor(
         private bookService: BookService,
         private progressService: ProgressService,
-        private router: Router
+        private router: Router,
+        private themeService: ThemeService,
+        private settingsService: SettingsService,
     ) {}
 
     ngOnInit(): void {
         this.loadBooks();
+        
+        // Subscribe to theme changes
+        this.themeService.isDarkMode().subscribe((isDark) => {
+            this.isDarkMode = isDark;
+        });
     }
 
     loadBooks(): void {
@@ -62,5 +75,10 @@ export class LibraryComponent implements OnInit {
             // For books without chapters, check the book itself
             return this.progressService.isBookComplete(book.id);
         }
+    }
+
+    toggleDarkMode(): void {
+        this.themeService.toggleTheme();
+        this.settingsService.toggleDarkMode();
     }
 }

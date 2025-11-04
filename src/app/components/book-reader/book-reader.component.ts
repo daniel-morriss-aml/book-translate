@@ -37,10 +37,10 @@ export class BookReaderComponent implements OnInit {
 
     book: Book | null = null;
     currentPageIndex: number = 0;
-    sliderValue: number = 100; // remove
+    sliderValue: number = 100;
     loading: boolean = true;
     error: string | null = null;
-    maintainTranslationLevel: boolean = false;
+    maintainTranslationLevel: boolean = true;
     isDarkMode: boolean = false;
     showSetProgressModal: boolean = false;
     isChapterContext: boolean = false;
@@ -50,12 +50,12 @@ export class BookReaderComponent implements OnInit {
     furthestReadPage: number | null = null;
 
     settings = signal<UserSettings>({
-        showProgressIndicator: true,
-        showTranslationSlider: true,
+        showProgressIndicator: false,
+        showTranslationSlider: false,
         darkMode: false,
         showTranslation: true,
         sentencesPerPage: 8,
-        nativeLanguage: 'en',
+        nativeLanguage: "en",
     });
 
     constructor(
@@ -113,7 +113,7 @@ export class BookReaderComponent implements OnInit {
     loadChapterById(chapterId: string, books: any[]): void {
         // Check if this is a new multi-language chapter ID (pattern: pap-LANG-NNN)
         const newFormatMatch = chapterId.match(/^([a-z-]+)-([a-z]{2})-(\d+)$/);
-        
+
         if (newFormatMatch) {
             // New format: load chapter content for target and native languages
             this.loadNewFormatChapter(chapterId, newFormatMatch, books);
@@ -142,7 +142,7 @@ export class BookReaderComponent implements OnInit {
             }
 
             const book = booksWithChapters[searchIndex];
-            
+
             // For multi-language books, search all translation chapter lists
             if (book.translations) {
                 this.searchTranslationChapters(book, chapterId, () => {
@@ -153,7 +153,9 @@ export class BookReaderComponent implements OnInit {
                 // Legacy single chapter list
                 this.bookService.loadChapters(book.chaptersPath).subscribe({
                     next: (chapters) => {
-                        const chapter = chapters.find((c) => c.id === chapterId);
+                        const chapter = chapters.find(
+                            (c) => c.id === chapterId,
+                        );
                         if (chapter) {
                             this.loadBook(chapter.path);
                         } else {
@@ -180,30 +182,42 @@ export class BookReaderComponent implements OnInit {
         searchNextBook();
     }
 
-    searchTranslationChapters(book: any, chapterId: string, onNotFound: () => void): void {
+    searchTranslationChapters(
+        book: any,
+        chapterId: string,
+        onNotFound: () => void,
+    ): void {
         let translationIndex = 0;
-        
+
         const searchNextTranslation = () => {
             if (translationIndex >= book.translations.length) {
                 onNotFound();
                 return;
             }
-            
+
             const translation = book.translations[translationIndex];
             if (!translation.chaptersPath) {
                 translationIndex++;
                 searchNextTranslation();
                 return;
             }
-            
+
             this.bookService.loadChapters(translation.chaptersPath).subscribe({
                 next: (chapters) => {
-                    const chapter = chapters.find((c: any) => c.id === chapterId);
+                    const chapter = chapters.find(
+                        (c: any) => c.id === chapterId,
+                    );
                     if (chapter) {
                         // For new format, we need to detect and handle differently
-                        const newFormatMatch = chapterId.match(/^([a-z-]+)-([a-z]{2})-(\d+)$/);
+                        const newFormatMatch = chapterId.match(
+                            /^([a-z-]+)-([a-z]{2})-(\d+)$/,
+                        );
                         if (newFormatMatch) {
-                            this.loadNewFormatChapter(chapterId, newFormatMatch, [book]);
+                            this.loadNewFormatChapter(
+                                chapterId,
+                                newFormatMatch,
+                                [book],
+                            );
                         } else {
                             this.loadBook(chapter.path);
                         }
@@ -219,20 +233,24 @@ export class BookReaderComponent implements OnInit {
                 },
             });
         };
-        
+
         searchNextTranslation();
     }
 
-    loadNewFormatChapter(chapterId: string, match: RegExpMatchArray, books: any[]): void {
-        const bookPrefix = match[1];  // e.g., 'pap'
-        const targetLang = match[2];   // e.g., 'de', 'en', 'es'
-        const chapterNum = match[3];   // e.g., '001'
+    loadNewFormatChapter(
+        chapterId: string,
+        match: RegExpMatchArray,
+        books: any[],
+    ): void {
+        const bookPrefix = match[1]; // e.g., 'pap'
+        const targetLang = match[2]; // e.g., 'de', 'en', 'es'
+        const chapterNum = match[3]; // e.g., '001'
 
         // Find the book by checking if any translation's chapter ID pattern matches
         // For example, chapter ID 'pap-es-001' should match a book with translations
         const book = books.find((b: any) => {
             if (!b.translations || b.translations.length === 0) return false;
-            
+
             // Check if any translation has chapters with IDs that start with the same prefix
             return b.translations.some((t: any) => {
                 if (!t.chaptersPath) return false;
@@ -241,16 +259,20 @@ export class BookReaderComponent implements OnInit {
                 return t.code === targetLang;
             });
         });
-        
+
         if (!book || !book.translations) {
             this.error = "Book not found";
             this.loading = false;
             return;
         }
 
-        const targetTranslation = book.translations.find((t: any) => t.code === targetLang);
+        const targetTranslation = book.translations.find(
+            (t: any) => t.code === targetLang,
+        );
         const nativeLanguage = this.settings().nativeLanguage;
-        const nativeTranslation = book.translations.find((t: any) => t.code === nativeLanguage);
+        const nativeTranslation = book.translations.find(
+            (t: any) => t.code === nativeLanguage,
+        );
 
         if (!targetTranslation || !nativeTranslation) {
             this.error = "Translation not found";
@@ -266,66 +288,76 @@ export class BookReaderComponent implements OnInit {
         // Load both chapters
         Promise.all([
             this.bookService.loadChapterContent(targetPath).toPromise(),
-            this.bookService.loadChapterContent(nativePath).toPromise()
-        ]).then(([targetContent, nativeContent]) => {
-            if (!targetContent || !nativeContent) {
-                this.error = "Failed to load chapter content";
-                this.loading = false;
-                return;
-            }
+            this.bookService.loadChapterContent(nativePath).toPromise(),
+        ])
+            .then(([targetContent, nativeContent]) => {
+                if (!targetContent || !nativeContent) {
+                    this.error = "Failed to load chapter content";
+                    this.loading = false;
+                    return;
+                }
 
-            // Create a Book object from the chapter content
-            const sentencesPerPage = this.settings().sentencesPerPage;
-            const pages: Page[] = [];
-            const targetSentences = targetContent.sentences;
-            const nativeSentences = nativeContent.sentences;
-            const totalSentences = Math.max(targetSentences.length, nativeSentences.length);
+                // Create a Book object from the chapter content
+                const sentencesPerPage = this.settings().sentencesPerPage;
+                const pages: Page[] = [];
+                const targetSentences = targetContent.sentences;
+                const nativeSentences = nativeContent.sentences;
+                const totalSentences = Math.max(
+                    targetSentences.length,
+                    nativeSentences.length,
+                );
 
-            // Create pages by grouping sentences
-            for (let i = 0; i < totalSentences; i += sentencesPerPage) {
-                const pageSentences: Sentence[] = [];
-                
-                for (let j = 0; j < sentencesPerPage && (i + j) < totalSentences; j++) {
-                    const idx = i + j;
-                    pageSentences.push({
-                        target: targetSentences[idx]?.sentence || '',
-                        native: nativeSentences[idx]?.sentence || ''
+                // Create pages by grouping sentences
+                for (let i = 0; i < totalSentences; i += sentencesPerPage) {
+                    const pageSentences: Sentence[] = [];
+
+                    for (
+                        let j = 0;
+                        j < sentencesPerPage && i + j < totalSentences;
+                        j++
+                    ) {
+                        const idx = i + j;
+                        pageSentences.push({
+                            target: targetSentences[idx]?.sentence || "",
+                            native: nativeSentences[idx]?.sentence || "",
+                        });
+                    }
+
+                    pages.push({
+                        pageNumber: pages.length + 1,
+                        sentences: pageSentences,
                     });
                 }
 
-                pages.push({
-                    pageNumber: pages.length + 1,
-                    sentences: pageSentences
-                });
-            }
+                // Create the book object
+                this.book = {
+                    id: chapterId,
+                    title: `${targetTranslation.title} - Chapter ${parseInt(chapterNum, 10)}`,
+                    targetLanguage: targetTranslation.name,
+                    nativeLanguage: nativeTranslation.name,
+                    pages: pages,
+                };
 
-            // Create the book object
-            this.book = {
-                id: chapterId,
-                title: `${targetTranslation.title} - Chapter ${parseInt(chapterNum, 10)}`,
-                targetLanguage: targetTranslation.name,
-                nativeLanguage: nativeTranslation.name,
-                pages: pages
-            };
+                this.sliderValue = this.bookService.getSliderValue(chapterId);
+                this.maintainTranslationLevel =
+                    this.bookService.getMaintainTranslationLevel(chapterId);
 
-            this.sliderValue = this.bookService.getSliderValue(chapterId);
-            this.maintainTranslationLevel =
-                this.bookService.getMaintainTranslationLevel(chapterId);
+                // Load furthest read page
+                const furthestPage =
+                    this.progressService.getFurthestPage(chapterId);
+                this.furthestReadPage = furthestPage;
+                this.currentPageIndex = furthestPage;
 
-            // Load furthest read page
-            const furthestPage = this.progressService.getFurthestPage(chapterId);
-            this.furthestReadPage = furthestPage;
-            this.currentPageIndex = furthestPage;
+                // Check if this is a chapter context
+                this.checkChapterContext(chapterId);
 
-            // Check if this is a chapter context
-            this.checkChapterContext(chapterId);
-
-            this.loading = false;
-        }).catch((err) => {
-            this.error = "Failed to load chapter";
-            this.loading = false;
-            console.error("Error loading new format chapter:", err);
-        });
+                this.loading = false;
+            })
+            .catch((err) => {
+                this.error = "Failed to load chapter";
+                this.loading = false;
+                console.error("Error loading new format chapter:", err);
+            });
     }
 
     loadBook(bookPath: string): void {
@@ -359,7 +391,7 @@ export class BookReaderComponent implements OnInit {
     checkChapterContext(bookId: string): void {
         // Check if this is a new format chapter ID (pattern: bookPrefix-LANG-NNN)
         const newFormatMatch = bookId.match(/^([a-z-]+)-([a-z]{2})-(\d+)$/);
-        
+
         if (newFormatMatch) {
             // New format chapter
             this.checkNewFormatChapterContext(bookId, newFormatMatch);
@@ -421,17 +453,21 @@ export class BookReaderComponent implements OnInit {
         });
     }
 
-    checkNewFormatChapterContext(bookId: string, match: RegExpMatchArray): void {
-        const bookPrefix = match[1];  // e.g., 'pap'
-        const targetLang = match[2];   // e.g., 'de', 'en', 'es'
-        const chapterNum = parseInt(match[3], 10);   // e.g., 1, 2, 3
+    checkNewFormatChapterContext(
+        bookId: string,
+        match: RegExpMatchArray,
+    ): void {
+        const bookPrefix = match[1]; // e.g., 'pap'
+        const targetLang = match[2]; // e.g., 'de', 'en', 'es'
+        const chapterNum = parseInt(match[3], 10); // e.g., 1, 2, 3
 
         // Load book list to find the parent book and check for next chapter
         this.bookService.loadBookList().subscribe({
             next: (books) => {
                 // Find the book that has translations with this language
                 const book = books.find((b) => {
-                    if (!b.translations || b.translations.length === 0) return false;
+                    if (!b.translations || b.translations.length === 0)
+                        return false;
                     return b.translations.some((t) => t.code === targetLang);
                 });
 
@@ -440,36 +476,41 @@ export class BookReaderComponent implements OnInit {
                 }
 
                 // Find the translation for the target language
-                const translation = book.translations.find((t) => t.code === targetLang);
-                
+                const translation = book.translations.find(
+                    (t) => t.code === targetLang,
+                );
+
                 if (!translation || !translation.chaptersPath) {
                     return;
                 }
 
                 // Load chapters to find the next chapter
-                this.bookService.loadChapters(translation.chaptersPath).subscribe({
-                    next: (chapters) => {
-                        // Find current chapter index
-                        const chapterIndex = chapters.findIndex(
-                            (c) => c.id === bookId
-                        );
+                this.bookService
+                    .loadChapters(translation.chaptersPath)
+                    .subscribe({
+                        next: (chapters) => {
+                            // Find current chapter index
+                            const chapterIndex = chapters.findIndex(
+                                (c) => c.id === bookId,
+                            );
 
-                        if (chapterIndex !== -1) {
-                            this.isChapterContext = true;
-                            this.parentBookId = book.id;
-                            this.parentLanguage = targetLang;
-                            
-                            // Calculate next chapter ID if it exists
-                            if (chapterIndex < chapters.length - 1) {
-                                const nextChapter = chapters[chapterIndex + 1];
-                                this.nextChapterId = nextChapter.id;
+                            if (chapterIndex !== -1) {
+                                this.isChapterContext = true;
+                                this.parentBookId = book.id;
+                                this.parentLanguage = targetLang;
+
+                                // Calculate next chapter ID if it exists
+                                if (chapterIndex < chapters.length - 1) {
+                                    const nextChapter =
+                                        chapters[chapterIndex + 1];
+                                    this.nextChapterId = nextChapter.id;
+                                }
                             }
-                        }
-                    },
-                    error: (err) => {
-                        console.error("Error loading chapters:", err);
-                    },
-                });
+                        },
+                        error: (err) => {
+                            console.error("Error loading chapters:", err);
+                        },
+                    });
             },
             error: (err) => {
                 console.error("Error checking chapter context:", err);

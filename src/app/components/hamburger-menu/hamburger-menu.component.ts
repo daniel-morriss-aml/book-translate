@@ -286,8 +286,8 @@ export class HamburgerMenuComponent implements OnInit {
 
     isMenuOpen = signal(false);
     settings = signal<UserSettings>({
-        showProgressIndicator: true,
-        showTranslationSlider: true,
+        showProgressIndicator: false,
+        showTranslationSlider: false,
         darkMode: false,
         showTranslation: true,
         sentencesPerPage: 8,
