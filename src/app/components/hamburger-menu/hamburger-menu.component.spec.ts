@@ -131,16 +131,18 @@ describe('HamburgerMenuComponent', () => {
         fixture.detectChanges();
 
         const toggles = fixture.nativeElement.querySelectorAll('.w-10.h-6');
-        expect(toggles.length).toBe(3);
+        expect(toggles.length).toBe(4);
 
         // Check if toggles reflect the correct state visually
         const darkModeToggle = toggles[0];
         const progressToggle = toggles[1];
         const sliderToggle = toggles[2];
+        const showTranslationToggle = toggles[3];
 
         expect(darkModeToggle.classList.contains('bg-blue-600')).toBe(false);
         expect(progressToggle.classList.contains('bg-blue-600')).toBe(false);
         expect(sliderToggle.classList.contains('bg-blue-600')).toBe(true);
+        expect(showTranslationToggle.classList.contains('bg-blue-600')).toBe(true);
     });
 
     it('should close menu when backdrop is clicked', () => {

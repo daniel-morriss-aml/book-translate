@@ -37,10 +37,10 @@ export class BookReaderComponent implements OnInit {
 
     book: Book | null = null;
     currentPageIndex: number = 0;
-    sliderValue: number = 100; // remove
+    sliderValue: number = 0; // remove
     loading: boolean = true;
     error: string | null = null;
-    maintainTranslationLevel: boolean = false;
+    maintainTranslationLevel: boolean = true;
     isDarkMode: boolean = false;
     showSetProgressModal: boolean = false;
     isChapterContext: boolean = false;
@@ -50,8 +50,8 @@ export class BookReaderComponent implements OnInit {
     furthestReadPage: number | null = null;
 
     settings = signal<UserSettings>({
-        showProgressIndicator: true,
-        showTranslationSlider: true,
+        showProgressIndicator: false,
+        showTranslationSlider: false,
         darkMode: false,
         showTranslation: true,
         sentencesPerPage: 8,
@@ -489,7 +489,7 @@ export class BookReaderComponent implements OnInit {
         if (this.currentPageIndex < this.totalPages - 1) {
             this.currentPageIndex++;
             if (!this.maintainTranslationLevel) {
-                this.sliderValue = 100;
+                this.sliderValue = 0;
                 this.onSliderChange(this.sliderValue);
             }
             // Update progress when navigating
@@ -521,7 +521,7 @@ export class BookReaderComponent implements OnInit {
         if (this.currentPageIndex > 0) {
             this.currentPageIndex--;
             if (!this.maintainTranslationLevel) {
-                this.sliderValue = 100;
+                this.sliderValue = 0;
                 this.onSliderChange(this.sliderValue);
             }
             // Scroll to top of page content

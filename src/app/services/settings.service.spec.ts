@@ -22,8 +22,8 @@ describe('SettingsService', () => {
     it('should return default settings when no stored settings exist', () => {
         const settings = service.getCurrentSettings();
         expect(settings).toEqual({
-            showProgressIndicator: true,
-            showTranslationSlider: true,
+            showProgressIndicator: false,
+            showTranslationSlider: false,
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
@@ -33,16 +33,18 @@ describe('SettingsService', () => {
 
     it('should load settings from localStorage', () => {
         const testSettings: UserSettings = {
-            showProgressIndicator: false,
-            showTranslationSlider: true,
-            darkMode: true,
+            showProgressIndicator: true,
+            showTranslationSlider: false,
+            darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
             nativeLanguage: 'en',
         };
         localStorage.setItem('book-reader-settings', JSON.stringify(testSettings));
 
-        // Create new service instance to trigger loading
+        // Reset TestBed to create a fresh service instance
+        TestBed.resetTestingModule();
+        TestBed.configureTestingModule({});
         const newService = TestBed.inject(SettingsService);
         const settings = newService.getCurrentSettings();
 
@@ -97,15 +99,15 @@ describe('SettingsService', () => {
     it('should reset to defaults', () => {
         // Change some settings
         service.updateSetting('darkMode', true);
-        service.updateSetting('showProgressIndicator', false);
+        service.updateSetting('showProgressIndicator', true);
 
         // Reset to defaults
         service.resetToDefaults();
 
         const settings = service.getCurrentSettings();
         expect(settings).toEqual({
-            showProgressIndicator: true,
-            showTranslationSlider: true,
+            showProgressIndicator: false,
+            showTranslationSlider: false,
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
@@ -117,13 +119,16 @@ describe('SettingsService', () => {
         // Mock localStorage to throw an error
         spyOn(localStorage, 'getItem').and.throwError('Storage error');
 
+        // Reset TestBed to create a fresh service instance
+        TestBed.resetTestingModule();
+        TestBed.configureTestingModule({});
         // Should not throw and should return defaults
         const newService = TestBed.inject(SettingsService);
         const settings = newService.getCurrentSettings();
 
         expect(settings).toEqual({
-            showProgressIndicator: true,
-            showTranslationSlider: true,
+            showProgressIndicator: false,
+            showTranslationSlider: false,
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
@@ -136,12 +141,15 @@ describe('SettingsService', () => {
         const partialSettings = { darkMode: true };
         localStorage.setItem('book-reader-settings', JSON.stringify(partialSettings));
 
+        // Reset TestBed to create a fresh service instance
+        TestBed.resetTestingModule();
+        TestBed.configureTestingModule({});
         const newService = TestBed.inject(SettingsService);
         const settings = newService.getCurrentSettings();
 
         expect(settings).toEqual({
-            showProgressIndicator: true, // default
-            showTranslationSlider: true, // default
+            showProgressIndicator: false, // default
+            showTranslationSlider: false, // default
             darkMode: true, // from storage
             showTranslation: true, // default
             sentencesPerPage: 8, // default

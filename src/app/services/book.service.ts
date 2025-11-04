@@ -27,7 +27,7 @@ export class BookService {
 
     getSliderValue(bookId: string): number {
         const stored = localStorage.getItem(`slider-${bookId}`);
-        return stored ? parseInt(stored, 10) : 100;
+        return stored ? parseInt(stored, 10) : 0;
     }
 
     saveSliderValue(bookId: string, value: number): void {
@@ -36,7 +36,7 @@ export class BookService {
 
     getMaintainTranslationLevel(bookId: string): boolean {
         const stored = localStorage.getItem(`maintain-translation-${bookId}`);
-        return stored === "true";
+        return stored ? stored === "true" : true;
     }
 
     saveMaintainTranslationLevel(bookId: string, value: boolean): void {

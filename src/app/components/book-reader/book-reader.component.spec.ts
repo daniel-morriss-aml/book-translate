@@ -50,10 +50,10 @@ describe("BookReaderComponent", () => {
         expect(component.book).toBe(null);
     });
 
-    it("should initialize slider value to 100", () => {
+    it("should initialize slider value to 0", () => {
         const fixture = TestBed.createComponent(BookReaderComponent);
         const component = fixture.componentInstance;
-        expect(component.sliderValue).toBe(100);
+        expect(component.sliderValue).toBe(0);
     });
 
     it("should handle keyboard events for page navigation", () => {
@@ -133,13 +133,13 @@ describe("BookReaderComponent", () => {
         expect(component.sliderValue).toBe(100);
     });
 
-    it("should initialize maintainTranslationLevel to false", () => {
+    it("should initialize maintainTranslationLevel to true", () => {
         const fixture = TestBed.createComponent(BookReaderComponent);
         const component = fixture.componentInstance;
-        expect(component.maintainTranslationLevel).toBe(false);
+        expect(component.maintainTranslationLevel).toBe(true);
     });
 
-    it("should reset slider to 100 when navigating pages with maintainTranslationLevel off", () => {
+    it("should reset slider to 0 when navigating pages with maintainTranslationLevel off", () => {
         const fixture = TestBed.createComponent(BookReaderComponent);
         const component = fixture.componentInstance;
         component.book = {
@@ -158,12 +158,12 @@ describe("BookReaderComponent", () => {
 
         component.nextPage();
         expect(component.currentPageIndex).toBe(1);
-        expect(component.sliderValue).toBe(100);
+        expect(component.sliderValue).toBe(0);
 
         component.sliderValue = 75;
         component.previousPage();
         expect(component.currentPageIndex).toBe(0);
-        expect(component.sliderValue).toBe(100);
+        expect(component.sliderValue).toBe(0);
     });
 
     it("should maintain slider value when navigating pages with maintainTranslationLevel on", () => {
@@ -204,11 +204,11 @@ describe("BookReaderComponent", () => {
             pages: [],
         };
 
-        expect(component.maintainTranslationLevel).toBe(false);
-        component.toggleMaintainTranslationLevel();
         expect(component.maintainTranslationLevel).toBe(true);
         component.toggleMaintainTranslationLevel();
         expect(component.maintainTranslationLevel).toBe(false);
+        component.toggleMaintainTranslationLevel();
+        expect(component.maintainTranslationLevel).toBe(true);
     });
 
     it("should scroll to top when navigating to next page", () => {
