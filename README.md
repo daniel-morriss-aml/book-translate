@@ -72,6 +72,23 @@ Build artifacts will be stored in the `dist/` directory.
 npm test -- --browsers=ChromeHeadlessCI --watch=false
 ```
 
+### Code Quality & Linting
+
+This project enforces code quality with ESLint. **Component files must not exceed 200 lines**.
+
+```bash
+# Run all linting rules
+npm run lint
+
+# Run linting with automatic fixes
+npm run lint:fix
+
+# Check only component files for length violations
+npm run lint:components
+```
+
+Pre-commit hooks automatically run linting on staged files. See [`docs/LINTING.md`](docs/LINTING.md) for detailed guidelines.
+
 ## Project Structure
 
 ```

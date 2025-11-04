@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from "@angular/core/testing";
 import { HamburgerMenuComponent } from "./hamburger-menu.component";
-import { SettingsService } from "../../services/settings.service";
+import { SettingsService, UserSettings } from "../../services/settings.service";
 import { ThemeService } from "../../services/theme.service";
 import { BehaviorSubject } from "rxjs";
 
@@ -9,13 +9,16 @@ describe("HamburgerMenuComponent", () => {
     let fixture: ComponentFixture<HamburgerMenuComponent>;
     let mockSettingsService: jasmine.SpyObj<SettingsService>;
     let mockThemeService: jasmine.SpyObj<ThemeService>;
-    let settingsSubject: BehaviorSubject<any>;
+    let settingsSubject: BehaviorSubject<UserSettings>;
 
     beforeEach(async () => {
         settingsSubject = new BehaviorSubject({
             showProgressIndicator: true,
             showTranslationSlider: true,
             darkMode: false,
+            showTranslation: true,
+            sentencesPerPage: 8,
+            nativeLanguage: "en",
         });
 
         mockSettingsService = jasmine.createSpyObj("SettingsService", [
@@ -122,14 +125,13 @@ describe("HamburgerMenuComponent", () => {
 
     it("should show correct toggle states in UI", () => {
         const newSettings = {
-            showProgressIndicator: false,
-            showTranslationSlider: true,
+            showProgressIndicator: true,
+            showTranslationSlider: false,
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
             nativeLanguage: "en",
         };
-
         settingsSubject.next(newSettings);
         component.isMenuOpen.set(true);
         fixture.detectChanges();
@@ -143,8 +145,8 @@ describe("HamburgerMenuComponent", () => {
         const sliderToggle = toggles[2];
 
         expect(darkModeToggle.classList.contains("bg-blue-600")).toBe(false);
-        expect(progressToggle.classList.contains("bg-blue-600")).toBe(false);
-        expect(sliderToggle.classList.contains("bg-blue-600")).toBe(true);
+        expect(progressToggle.classList.contains("bg-blue-600")).toBe(true);
+        expect(sliderToggle.classList.contains("bg-blue-600")).toBe(false);
     });
 
     it("should close menu when backdrop is clicked", () => {

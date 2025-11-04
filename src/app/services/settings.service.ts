@@ -1,5 +1,5 @@
-import { Injectable } from '@angular/core';
-import { BehaviorSubject, Observable } from 'rxjs';
+import { Injectable } from "@angular/core";
+import { BehaviorSubject, Observable } from "rxjs";
 
 export interface UserSettings {
     showProgressIndicator: boolean;
@@ -11,10 +11,10 @@ export interface UserSettings {
 }
 
 @Injectable({
-    providedIn: 'root',
+    providedIn: "root",
 })
 export class SettingsService {
-    private readonly SETTINGS_KEY = 'book-reader-settings';
+    private readonly SETTINGS_KEY = "book-reader-settings";
 
     private defaultSettings: UserSettings = {
         showProgressIndicator: true,
@@ -22,12 +22,12 @@ export class SettingsService {
         darkMode: false,
         showTranslation: true,
         sentencesPerPage: 8,
-        nativeLanguage: 'en',
+        nativeLanguage: "en",
     };
 
-    private settingsSubject = new BehaviorSubject<UserSettings>(this.loadSettings());
-
-    constructor() {}
+    private settingsSubject = new BehaviorSubject<UserSettings>(
+        this.loadSettings(),
+    );
 
     private loadSettings(): UserSettings {
         try {
@@ -38,7 +38,7 @@ export class SettingsService {
                 return { ...this.defaultSettings, ...parsed };
             }
         } catch (error) {
-            console.error('Error loading settings:', error);
+            console.error("Error loading settings:", error);
         }
         return this.defaultSettings;
     }
@@ -48,7 +48,7 @@ export class SettingsService {
             localStorage.setItem(this.SETTINGS_KEY, JSON.stringify(settings));
             this.settingsSubject.next(settings);
         } catch (error) {
-            console.error('Error saving settings:', error);
+            console.error("Error saving settings:", error);
         }
     }
 
@@ -60,7 +60,10 @@ export class SettingsService {
         return this.settingsSubject.value;
     }
 
-    updateSetting<K extends keyof UserSettings>(key: K, value: UserSettings[K]): void {
+    updateSetting<K extends keyof UserSettings>(
+        key: K,
+        value: UserSettings[K],
+    ): void {
         const currentSettings = this.getCurrentSettings();
         const newSettings = { ...currentSettings, [key]: value };
         this.saveSettings(newSettings);
@@ -68,30 +71,36 @@ export class SettingsService {
 
     toggleProgressIndicator(): void {
         const current = this.getCurrentSettings();
-        this.updateSetting('showProgressIndicator', !current.showProgressIndicator);
+        this.updateSetting(
+            "showProgressIndicator",
+            !current.showProgressIndicator,
+        );
     }
 
     toggleTranslationSlider(): void {
         const current = this.getCurrentSettings();
-        this.updateSetting('showTranslationSlider', !current.showTranslationSlider);
+        this.updateSetting(
+            "showTranslationSlider",
+            !current.showTranslationSlider,
+        );
     }
 
     toggleDarkMode(): void {
         const current = this.getCurrentSettings();
-        this.updateSetting('darkMode', !current.darkMode);
+        this.updateSetting("darkMode", !current.darkMode);
     }
 
     toggleShowTranslation(): void {
         const current = this.getCurrentSettings();
-        this.updateSetting('showTranslation', !current.showTranslation);
+        this.updateSetting("showTranslation", !current.showTranslation);
     }
 
     updateSentencesPerPage(value: number): void {
-        this.updateSetting('sentencesPerPage', value);
+        this.updateSetting("sentencesPerPage", value);
     }
 
     updateNativeLanguage(language: string): void {
-        this.updateSetting('nativeLanguage', language);
+        this.updateSetting("nativeLanguage", language);
     }
 
     resetToDefaults(): void {

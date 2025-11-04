@@ -19,6 +19,7 @@ You are an expert in TypeScript, Angular, and scalable web application developme
 ## Components
 
 -   Keep components small and focused on a single responsibility
+-   **Component files MUST NOT exceed 250 lines** (enforced by ESLint)
 -   Use `input()` and `output()` functions instead of decorators
 -   Use `computed()` for derived state
 -   Set `changeDetection: ChangeDetectionStrategy.OnPush` in `@Component` decorator
@@ -45,3 +46,11 @@ You are an expert in TypeScript, Angular, and scalable web application developme
 -   Design services around a single responsibility
 -   Use the `providedIn: 'root'` option for singleton services
 -   Use the `inject()` function instead of constructor injection
+
+## Code Quality & Linting
+
+-   Run `npm run lint` before committing code
+-   Use `npm run lint:fix` to automatically fix linting issues
+-   Use `npm run lint:components` to specifically check component file lengths
+-   All ESLint rules must pass - no warnings or errors allowed
+-   Component files exceeding 250 lines should be refactored into smaller components or extract logic into services

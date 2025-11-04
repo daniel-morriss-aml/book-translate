@@ -1,26 +1,24 @@
-import { CommonModule } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
-import { BookMetadata } from '../../models/book.model';
-import { BookService } from '../../services/book.service';
-import { ProgressService } from '../../services/progress.service';
+import { CommonModule } from "@angular/common";
+import { Component, OnInit, inject } from "@angular/core";
+import { Router } from "@angular/router";
+import { BookMetadata } from "../../models/book.model";
+import { BookService } from "../../services/book.service";
+import { ProgressService } from "../../services/progress.service";
 
 @Component({
-    selector: 'app-library',
+    selector: "app-library",
     imports: [CommonModule],
-    templateUrl: './library.component.html',
-    styleUrl: './library.component.css',
+    templateUrl: "./library.component.html",
+    styleUrl: "./library.component.css",
 })
 export class LibraryComponent implements OnInit {
     books: BookMetadata[] = [];
-    loading: boolean = true;
+    loading = false;
     error: string | null = null;
 
-    constructor(
-        private bookService: BookService,
-        private progressService: ProgressService,
-        private router: Router
-    ) {}
+    private bookService = inject(BookService);
+    private progressService = inject(ProgressService);
+    private router = inject(Router);
 
     ngOnInit(): void {
         this.loadBooks();
@@ -34,9 +32,9 @@ export class LibraryComponent implements OnInit {
                 this.loading = false;
             },
             error: (err) => {
-                this.error = 'Failed to load book library';
+                this.error = "Failed to load book library";
                 this.loading = false;
-                console.error('Error loading books:', err);
+                console.error("Error loading books:", err);
             },
         });
     }
@@ -44,11 +42,11 @@ export class LibraryComponent implements OnInit {
     openBook(book: BookMetadata): void {
         if (book.translations && book.translations.length > 0) {
             // Navigate to language selection for multi-language books
-            this.router.navigate(['/language', book.id]);
+            this.router.navigate(["/language", book.id]);
         } else if (book.hasChapters) {
-            this.router.navigate(['/chapters', book.id]);
+            this.router.navigate(["/chapters", book.id]);
         } else {
-            this.router.navigate(['/reader', book.id]);
+            this.router.navigate(["/reader", book.id]);
         }
     }
 

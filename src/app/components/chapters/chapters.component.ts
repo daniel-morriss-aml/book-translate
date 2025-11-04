@@ -1,5 +1,5 @@
 import { CommonModule } from "@angular/common";
-import { Component, OnInit, computed, signal } from "@angular/core";
+import { Component, OnInit, signal, computed, inject } from "@angular/core";
 import { ActivatedRoute, Router } from "@angular/router";
 import { BookMetadata, ChapterMetadata } from "../../models/book.model";
 import { BookService } from "../../services/book.service";
@@ -15,8 +15,8 @@ import { HeaderComponent } from "../header/header.component";
 export class ChaptersComponent implements OnInit {
     book: BookMetadata | null = null;
     chapters: ChapterMetadata[] = [];
-    language: string = '';
-    loading: boolean = true;
+    language = "";
+    loading = true;
     error: string | null = null;
     showCompletedChapters = signal(true);
 
@@ -29,19 +29,17 @@ export class ChaptersComponent implements OnInit {
         );
     });
 
-    constructor(
-        private bookService: BookService,
-        private progressService: ProgressService,
-        private route: ActivatedRoute,
-        private router: Router,
-    ) {}
+    private bookService = inject(BookService);
+    private progressService = inject(ProgressService);
+    private route = inject(ActivatedRoute);
+    private router = inject(Router);
 
     ngOnInit(): void {
         this.route.params.subscribe((params) => {
             const bookId = params["id"];
             const language = params["language"];
             if (bookId) {
-                this.language = language || '';
+                this.language = language || "";
                 this.loadChapters(bookId, language);
             } else {
                 this.error = "No book ID provided";
@@ -58,13 +56,13 @@ export class ChaptersComponent implements OnInit {
                 const bookMetadata = books.find((b) => b.id === bookId);
                 if (bookMetadata) {
                     this.book = bookMetadata;
-                    
-                    let chaptersPath = '';
-                    
+
+                    let chaptersPath = "";
+
                     // Check if book has translations
                     if (bookMetadata.translations && language) {
                         const translation = bookMetadata.translations.find(
-                            (t) => t.code === language
+                            (t) => t.code === language,
                         );
                         if (translation && translation.chaptersPath) {
                             chaptersPath = translation.chaptersPath;
@@ -73,7 +71,10 @@ export class ChaptersComponent implements OnInit {
                             this.loading = false;
                             return;
                         }
-                    } else if (bookMetadata.hasChapters && bookMetadata.chaptersPath) {
+                    } else if (
+                        bookMetadata.hasChapters &&
+                        bookMetadata.chaptersPath
+                    ) {
                         // Legacy path for books without translations
                         chaptersPath = bookMetadata.chaptersPath;
                     } else {
@@ -81,21 +82,19 @@ export class ChaptersComponent implements OnInit {
                         this.loading = false;
                         return;
                     }
-                    
+
                     // Load chapters
-                    this.bookService
-                        .loadChapters(chaptersPath)
-                        .subscribe({
-                            next: (chapters) => {
-                                this.chapters = chapters;
-                                this.loading = false;
-                            },
-                            error: (err) => {
-                                this.error = "Failed to load chapters";
-                                this.loading = false;
-                                console.error("Error loading chapters:", err);
-                            },
-                        });
+                    this.bookService.loadChapters(chaptersPath).subscribe({
+                        next: (chapters) => {
+                            this.chapters = chapters;
+                            this.loading = false;
+                        },
+                        error: (err) => {
+                            this.error = "Failed to load chapters";
+                            this.loading = false;
+                            console.error("Error loading chapters:", err);
+                        },
+                    });
                 } else {
                     this.error = "Book not found";
                     this.loading = false;

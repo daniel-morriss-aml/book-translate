@@ -1,4 +1,4 @@
-import { Component, input } from "@angular/core";
+import { Component, input, inject } from "@angular/core";
 import { Router } from "@angular/router";
 import { ArrowBigLeft, LucideAngularModule } from "lucide-angular";
 import { Book, BookMetadata } from "../../models/book.model";
@@ -19,13 +19,17 @@ export class HeaderComponent {
     parentLanguage = input<string | null>(null);
     subHeading = input<string | null>(null);
 
-    constructor(private router: Router) {}
+    private router = inject(Router);
 
     onBack(): void {
         if (this.isChapterContext() && this.parentBookId()) {
             // Navigate back to chapters page with language preserved
             if (this.parentLanguage()) {
-                this.router.navigate(["/chapters", this.parentBookId(), this.parentLanguage()]);
+                this.router.navigate([
+                    "/chapters",
+                    this.parentBookId(),
+                    this.parentLanguage(),
+                ]);
             } else {
                 this.router.navigate(["/chapters", this.parentBookId()]);
             }
