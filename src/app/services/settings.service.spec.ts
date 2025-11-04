@@ -1,25 +1,25 @@
-import { TestBed } from '@angular/core/testing';
-import { SettingsService, UserSettings } from './settings.service';
+import { TestBed } from "@angular/core/testing";
+import { SettingsService, UserSettings } from "./settings.service";
 
-describe('SettingsService', () => {
+describe("SettingsService", () => {
     let service: SettingsService;
 
     beforeEach(() => {
-        TestBed.configureTestingModule({});
-        service = TestBed.inject(SettingsService);
         // Clear localStorage before each test
         localStorage.clear();
+        TestBed.configureTestingModule({});
+        service = TestBed.inject(SettingsService);
     });
 
     afterEach(() => {
         localStorage.clear();
     });
 
-    it('should be created', () => {
+    it("should be created", () => {
         expect(service).toBeTruthy();
     });
 
-    it('should return default settings when no stored settings exist', () => {
+    it("should return default settings when no stored settings exist", () => {
         const settings = service.getCurrentSettings();
         expect(settings).toEqual({
             showProgressIndicator: true,
@@ -27,66 +27,73 @@ describe('SettingsService', () => {
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
-            nativeLanguage: 'en',
+            nativeLanguage: "en",
         });
     });
 
-    it('should load settings from localStorage', () => {
+    it("should load settings from localStorage", () => {
         const testSettings: UserSettings = {
             showProgressIndicator: false,
             showTranslationSlider: true,
             darkMode: true,
             showTranslation: true,
             sentencesPerPage: 8,
-            nativeLanguage: 'en',
+            nativeLanguage: "en",
         };
-        localStorage.setItem('book-reader-settings', JSON.stringify(testSettings));
+        localStorage.setItem(
+            "book-reader-settings",
+            JSON.stringify(testSettings),
+        );
 
-        // Create new service instance to trigger loading
+        // Create fresh TestBed and service instance to trigger loading
+        TestBed.resetTestingModule();
+        TestBed.configureTestingModule({});
         const newService = TestBed.inject(SettingsService);
         const settings = newService.getCurrentSettings();
 
         expect(settings).toEqual(testSettings);
     });
 
-    it('should save settings to localStorage', () => {
-        service.updateSetting('darkMode', true);
+    it("should save settings to localStorage", () => {
+        service.updateSetting("darkMode", true);
 
-        const stored = localStorage.getItem('book-reader-settings');
+        const stored = localStorage.getItem("book-reader-settings");
         expect(stored).toBeTruthy();
 
         const parsed = JSON.parse(stored!);
         expect(parsed.darkMode).toBe(true);
     });
 
-    it('should emit settings changes', (done) => {
-        service.getSettings().subscribe(settings => {
+    it("should emit settings changes", (done) => {
+        service.getSettings().subscribe((settings) => {
             if (settings.darkMode === true) {
                 expect(settings.darkMode).toBe(true);
                 done();
             }
         });
 
-        service.updateSetting('darkMode', true);
+        service.updateSetting("darkMode", true);
     });
 
-    it('should toggle progress indicator', () => {
-        const initialSetting = service.getCurrentSettings().showProgressIndicator;
+    it("should toggle progress indicator", () => {
+        const initialSetting =
+            service.getCurrentSettings().showProgressIndicator;
         service.toggleProgressIndicator();
         const newSetting = service.getCurrentSettings().showProgressIndicator;
 
         expect(newSetting).toBe(!initialSetting);
     });
 
-    it('should toggle translation slider', () => {
-        const initialSetting = service.getCurrentSettings().showTranslationSlider;
+    it("should toggle translation slider", () => {
+        const initialSetting =
+            service.getCurrentSettings().showTranslationSlider;
         service.toggleTranslationSlider();
         const newSetting = service.getCurrentSettings().showTranslationSlider;
 
         expect(newSetting).toBe(!initialSetting);
     });
 
-    it('should toggle dark mode', () => {
+    it("should toggle dark mode", () => {
         const initialSetting = service.getCurrentSettings().darkMode;
         service.toggleDarkMode();
         const newSetting = service.getCurrentSettings().darkMode;
@@ -94,10 +101,10 @@ describe('SettingsService', () => {
         expect(newSetting).toBe(!initialSetting);
     });
 
-    it('should reset to defaults', () => {
+    it("should reset to defaults", () => {
         // Change some settings
-        service.updateSetting('darkMode', true);
-        service.updateSetting('showProgressIndicator', false);
+        service.updateSetting("darkMode", true);
+        service.updateSetting("showProgressIndicator", false);
 
         // Reset to defaults
         service.resetToDefaults();
@@ -109,15 +116,17 @@ describe('SettingsService', () => {
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
-            nativeLanguage: 'en',
+            nativeLanguage: "en",
         });
     });
 
-    it('should handle localStorage errors gracefully', () => {
+    it("should handle localStorage errors gracefully", () => {
         // Mock localStorage to throw an error
-        spyOn(localStorage, 'getItem').and.throwError('Storage error');
+        spyOn(localStorage, "getItem").and.throwError("Storage error");
 
-        // Should not throw and should return defaults
+        // Create fresh TestBed and service instance to trigger loading with error
+        TestBed.resetTestingModule();
+        TestBed.configureTestingModule({});
         const newService = TestBed.inject(SettingsService);
         const settings = newService.getCurrentSettings();
 
@@ -127,15 +136,21 @@ describe('SettingsService', () => {
             darkMode: false,
             showTranslation: true,
             sentencesPerPage: 8,
-            nativeLanguage: 'en',
+            nativeLanguage: "en",
         });
     });
 
-    it('should merge stored settings with defaults for backward compatibility', () => {
+    it("should merge stored settings with defaults for backward compatibility", () => {
         // Store partial settings (simulating old version)
         const partialSettings = { darkMode: true };
-        localStorage.setItem('book-reader-settings', JSON.stringify(partialSettings));
+        localStorage.setItem(
+            "book-reader-settings",
+            JSON.stringify(partialSettings),
+        );
 
+        // Create fresh TestBed and service instance to trigger loading
+        TestBed.resetTestingModule();
+        TestBed.configureTestingModule({});
         const newService = TestBed.inject(SettingsService);
         const settings = newService.getCurrentSettings();
 
@@ -145,7 +160,7 @@ describe('SettingsService', () => {
             darkMode: true, // from storage
             showTranslation: true, // default
             sentencesPerPage: 8, // default
-            nativeLanguage: 'en', // default
+            nativeLanguage: "en", // default
         });
     });
 });

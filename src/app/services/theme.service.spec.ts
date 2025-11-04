@@ -1,60 +1,73 @@
-import { TestBed } from '@angular/core/testing';
-import { ThemeService } from './theme.service';
+import { TestBed } from "@angular/core/testing";
+import { ThemeService } from "./theme.service";
 
-describe('ThemeService', () => {
+describe("ThemeService", () => {
     let service: ThemeService;
+    let mockMatchMedia: jasmine.Spy;
 
     beforeEach(() => {
         localStorage.clear();
-        document.documentElement.classList.remove('dark');
+        document.documentElement.classList.remove("dark");
+
+        // Mock matchMedia to return light mode preference
+        mockMatchMedia = jasmine.createSpy("matchMedia").and.returnValue({
+            matches: false,
+        });
+        Object.defineProperty(window, "matchMedia", {
+            writable: true,
+            value: mockMatchMedia,
+        });
+
         TestBed.configureTestingModule({});
         service = TestBed.inject(ThemeService);
     });
 
     afterEach(() => {
         localStorage.clear();
-        document.documentElement.classList.remove('dark');
+        document.documentElement.classList.remove("dark");
     });
 
-    it('should be created', () => {
+    it("should be created", () => {
         expect(service).toBeTruthy();
     });
 
-    it('should initialize with light mode when no preference stored', () => {
+    it("should initialize with light mode when no preference stored", () => {
         service.isDarkMode().subscribe((isDark) => {
             expect(isDark).toBe(false);
         });
     });
 
-    it('should toggle theme from light to dark', () => {
+    it("should toggle theme from light to dark", () => {
         service.toggleTheme();
         service.isDarkMode().subscribe((isDark) => {
             expect(isDark).toBe(true);
         });
-        expect(document.documentElement.classList.contains('dark')).toBe(true);
-        expect(localStorage.getItem('theme')).toBe('dark');
+        expect(document.documentElement.classList.contains("dark")).toBe(true);
+        expect(localStorage.getItem("theme")).toBe("dark");
     });
 
-    it('should toggle theme from dark to light', () => {
+    it("should toggle theme from dark to light", () => {
         service.toggleTheme(); // dark
         service.toggleTheme(); // light
         service.isDarkMode().subscribe((isDark) => {
             expect(isDark).toBe(false);
         });
-        expect(document.documentElement.classList.contains('dark')).toBe(false);
-        expect(localStorage.getItem('theme')).toBe('light');
+        expect(document.documentElement.classList.contains("dark")).toBe(false);
+        expect(localStorage.getItem("theme")).toBe("light");
     });
 
-    it('should persist theme preference to localStorage', () => {
+    it("should persist theme preference to localStorage", () => {
         service.toggleTheme();
-        expect(localStorage.getItem('theme')).toBe('dark');
+        expect(localStorage.getItem("theme")).toBe("dark");
 
         service.toggleTheme();
-        expect(localStorage.getItem('theme')).toBe('light');
+        expect(localStorage.getItem("theme")).toBe("light");
     });
 
-    it('should read theme from localStorage on initialization', () => {
-        localStorage.setItem('theme', 'dark');
+    it("should read theme from localStorage on initialization", () => {
+        localStorage.setItem("theme", "dark");
+        // Mock matchMedia for the new service instance
+        mockMatchMedia.and.returnValue({ matches: false });
         const newService = new ThemeService();
         newService.isDarkMode().subscribe((isDark) => {
             expect(isDark).toBe(true);
