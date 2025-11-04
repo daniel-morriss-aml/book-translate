@@ -50,10 +50,10 @@ describe("BookReaderComponent", () => {
         expect(component.book).toBe(null);
     });
 
-    it("should initialize slider value to 0", () => {
+    it("should initialize slider value to 100", () => {
         const fixture = TestBed.createComponent(BookReaderComponent);
         const component = fixture.componentInstance;
-        expect(component.sliderValue).toBe(0);
+        expect(component.sliderValue).toBe(100);
     });
 
     it("should handle keyboard events for page navigation", () => {
