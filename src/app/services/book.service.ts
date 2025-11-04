@@ -1,7 +1,12 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import { Observable } from "rxjs";
-import { Book, BookMetadata, ChapterContent, ChapterMetadata } from "../models/book.model";
+import {
+    Book,
+    BookMetadata,
+    ChapterContent,
+    ChapterMetadata,
+} from "../models/book.model";
 
 @Injectable({
     providedIn: "root",
@@ -36,7 +41,7 @@ export class BookService {
 
     getMaintainTranslationLevel(bookId: string): boolean {
         const stored = localStorage.getItem(`maintain-translation-${bookId}`);
-        return stored === "true";
+        return stored ? stored === "true" : true;
     }
 
     saveMaintainTranslationLevel(bookId: string, value: boolean): void {

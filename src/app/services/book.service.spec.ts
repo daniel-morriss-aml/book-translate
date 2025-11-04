@@ -89,9 +89,9 @@ describe("BookService", () => {
         expect(value).toBe(true);
     });
 
-    it("should return false if no maintainTranslationLevel stored", () => {
+    it("should return true if no maintainTranslationLevel stored", () => {
         const value = service.getMaintainTranslationLevel("non-existent-book");
-        expect(value).toBe(false);
+        expect(value).toBe(true);
     });
 
     it("should save maintainTranslationLevel to localStorage", () => {
